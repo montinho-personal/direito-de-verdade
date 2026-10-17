@@ -26,7 +26,8 @@ Abra [http://localhost:3000](http://localhost:3000) no navegador.
 
 - `src/app/layout.tsx`: layout raiz, fontes e metadados (título e descrição do site)
 - `src/app/page.tsx`: página inicial
-- `src/app/globals.css`: cores e estilos globais
+- `src/app/globals.css`: cores da marca e estilos globais
+- `src/app/icon.svg`: ícone do site (aba do navegador)
 - `public/`: arquivos estáticos (imagens, ícones)
 
 ## Publicação
