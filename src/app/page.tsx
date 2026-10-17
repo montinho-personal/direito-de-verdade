@@ -1,3 +1,6 @@
+import Image from "next/image";
+import logo from "@/assets/logo.png";
+
 const pilares = [
   {
     titulo: "Informação clara",
@@ -13,58 +16,35 @@ const pilares = [
   },
 ];
 
-function Balanca({ className }: { className?: string }) {
-  return (
-    <svg
-      viewBox="0 0 24 24"
-      fill="none"
-      stroke="currentColor"
-      strokeWidth={2}
-      strokeLinecap="round"
-      strokeLinejoin="round"
-      aria-hidden="true"
-      className={className}
-    >
-      <path d="m16 16 3-8 3 8c-.87.65-1.92 1-3 1s-2.13-.35-3-1Z" />
-      <path d="m2 16 3-8 3 8c-.87.65-1.92 1-3 1s-2.13-.35-3-1Z" />
-      <path d="M7 21h10" />
-      <path d="M12 3v18" />
-      <path d="M3 7h2c2 0 5-1 7-2 2 1 5 2 7 2h2" />
-    </svg>
-  );
-}
-
 export default function Home() {
   return (
     <div className="flex flex-1 flex-col font-sans">
-      <section className="bg-navy text-white">
-        <div className="mx-auto w-full max-w-5xl px-6">
-          <header className="flex items-center gap-4 border-b border-navy-line py-6">
-            <div className="flex size-12 shrink-0 items-center justify-center rounded-xl bg-gold text-navy">
-              <Balanca className="size-7" />
-            </div>
-            <div>
-              <p className="text-lg font-bold leading-tight sm:text-xl">
-                Direito de Verdade
-              </p>
-              <p className="mt-0.5 text-xs font-semibold uppercase tracking-wider text-gold">
-                Seus direitos. Sem complicação.
-              </p>
-            </div>
-          </header>
+      <header className="border-b border-border">
+        <div className="mx-auto w-full max-w-5xl px-6 py-4">
+          <Image
+            src={logo}
+            alt="Direito de Verdade"
+            loading="eager"
+            className="h-12 w-auto sm:h-16"
+          />
+        </div>
+      </header>
 
-          <div className="py-20 sm:py-28">
-            <h1 className="max-w-3xl text-4xl font-bold leading-tight tracking-tight sm:text-6xl">
-              A lei pode ser complicada. Entender seus direitos não precisa ser.
-            </h1>
-            <p className="mt-6 max-w-2xl text-lg leading-8 text-navy-muted">
-              Informação jurídica clara, ferramentas práticas e orientações para
-              situações da vida real.
-            </p>
-            <p className="mt-10 inline-flex rounded-full bg-gold/15 px-4 py-2 text-sm font-medium text-gold">
-              Site em construção. Em breve, novidades.
-            </p>
-          </div>
+      <section className="bg-navy text-white">
+        <div className="mx-auto w-full max-w-5xl px-6 py-20 sm:py-28">
+          <p className="text-xs font-semibold uppercase tracking-[0.2em] text-gold sm:text-sm">
+            Seus direitos. Sem complicação.
+          </p>
+          <h1 className="mt-5 max-w-3xl font-serif text-4xl leading-tight sm:text-6xl">
+            A lei pode ser complicada. Entender seus direitos não precisa ser.
+          </h1>
+          <p className="mt-6 max-w-2xl text-lg leading-8 text-navy-muted">
+            Informação jurídica clara, ferramentas práticas e orientações para
+            situações da vida real.
+          </p>
+          <p className="mt-10 inline-flex rounded-full border border-navy-line px-4 py-2 text-sm font-medium text-gold">
+            Site em construção. Em breve, novidades.
+          </p>
         </div>
       </section>
 
@@ -79,7 +59,7 @@ export default function Home() {
               className="rounded-2xl border border-border bg-surface p-6"
             >
               <div className="h-1 w-10 rounded-full bg-gold" />
-              <h3 className="mt-5 text-lg font-bold">{pilar.titulo}</h3>
+              <h3 className="mt-5 font-serif text-2xl">{pilar.titulo}</h3>
               <p className="mt-2 leading-7 text-muted">{pilar.texto}</p>
             </div>
           ))}

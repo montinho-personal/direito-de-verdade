@@ -27,7 +27,10 @@ Abra [http://localhost:3000](http://localhost:3000) no navegador.
 - `src/app/layout.tsx`: layout raiz, fontes e metadados (título e descrição do site)
 - `src/app/page.tsx`: página inicial
 - `src/app/globals.css`: cores da marca e estilos globais
-- `src/app/icon.svg`: ícone do site (aba do navegador)
+- `src/app/icon.png` e `src/app/apple-icon.png`: ícone do site (aba do navegador e tela inicial do celular)
+- `src/app/opengraph-image.png`: imagem que aparece ao compartilhar o link (WhatsApp, redes sociais)
+- `src/assets/logo.png`: logo usado no topo do site
+- `marca/logo-original.png`: arquivo original do logo, em alta resolução
 - `public/`: arquivos estáticos (imagens, ícones)
 
 ## Publicação
