@@ -14,6 +14,7 @@ O Google leva semanas para mostrar um site novo: publicar antes do pico.
 | artigo | pico de busca | status |
 |---|---|---|
 | 13º salário 2026: datas, quem tem direito e como calcular | novembro e dezembro (1ª parcela 30/11, 2ª até 18/12) | **publicado em 19/10/2026** — [doc](artigos/13-salario.md), `/artigos/13-salario` |
+| Calculadora do 13º salário 2026 | novembro e dezembro | **publicado em 19/10/2026** — [doc](artigos/calculadora-13-salario.md), `/artigos/calculadora-13-salario` |
 | Black Friday (27/11): direitos do consumidor | novembro | na fila |
 | Pensão alimentícia incide sobre o 13º? | novembro e dezembro | na fila |
 | Isenção do IR para quem ganha até R$ 5 mil | agora e março a maio (declaração 2027) | na fila |

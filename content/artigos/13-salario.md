@@ -150,7 +150,7 @@ Em 2026 entrou em vigor a nova isenção para quem ganha até R$ 5 mil (Lei nº 
 - **13º entre R$ 5.000,01 e R$ 7.350:** o imposto tem um desconto que diminui conforme o valor sobe.
 - **13º acima de R$ 7.350:** vale a tabela normal do imposto de renda.
 
-Acima de R$ 5 mil, o valor exato depende dos seus dependentes e de outras deduções. As tabelas estão no [site da Receita Federal](https://www.gov.br/receitafederal/pt-br/assuntos/meu-imposto-de-renda/tabelas/2026).
+Acima de R$ 5 mil, o valor depende também dos seus dependentes: cada um diminui a base do imposto. A [calculadora do 13º salário com imposto de renda](/artigos/calculadora-13-salario) faz essa conta, e as tabelas oficiais estão no [site da Receita Federal](https://www.gov.br/receitafederal/pt-br/assuntos/meu-imposto-de-renda/tabelas/2026).
 
 ## Quem tem direito ao 13º salário?
 

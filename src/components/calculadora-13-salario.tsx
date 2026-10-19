@@ -17,6 +17,7 @@ function lerValor(texto: string) {
 }
 
 const MESES = Array.from({ length: 12 }, (_, i) => 12 - i);
+const DEPENDENTES = Array.from({ length: 7 }, (_, i) => i);
 
 const estiloDoCampo =
   "mt-1.5 w-full rounded-lg border border-border bg-white px-3 py-2.5 text-base text-foreground focus:border-gold focus:outline-none focus:ring-2 focus:ring-gold/40";
@@ -28,13 +29,19 @@ export function Calculadora13Salario({ nivelDoTitulo = 3 }: { nivelDoTitulo?: 2 
   const [salario, setSalario] = useState("");
   const [meses, setMeses] = useState(12);
   const [variaveis, setVariaveis] = useState("");
+  const [dependentes, setDependentes] = useState(0);
 
   const valorDoSalario = lerValor(salario);
   const resultado =
     valorDoSalario > 0
-      ? calcular13({ salario: valorDoSalario, meses, mediaVariaveis: lerValor(variaveis) })
+      ? calcular13({
+          salario: valorDoSalario,
+          meses,
+          mediaVariaveis: lerValor(variaveis),
+          dependentes,
+        })
       : null;
-  const semIr = resultado?.impostoDeRenda === null;
+  const isento = resultado !== null && resultado.bruto <= LIMITE_ISENCAO_IR_2026;
 
   return (
     <section
@@ -79,7 +86,7 @@ export function Calculadora13Salario({ nivelDoTitulo = 3 }: { nivelDoTitulo?: 2 
             Conte cada mês em que trabalhou 15 dias ou mais.
           </span>
         </label>
-        <label className="block text-sm font-medium sm:col-span-2">
+        <label className="block text-sm font-medium">
           Média mensal de horas extras, comissões ou adicionais (opcional)
           <input
             type="text"
@@ -90,6 +97,23 @@ export function Calculadora13Salario({ nivelDoTitulo = 3 }: { nivelDoTitulo?: 2 
             onChange={(evento) => setVariaveis(evento.target.value)}
             className={estiloDoCampo}
           />
+        </label>
+        <label className="block text-sm font-medium">
+          Dependentes no imposto de renda
+          <select
+            value={dependentes}
+            onChange={(evento) => setDependentes(Number(evento.target.value))}
+            className={estiloDoCampo}
+          >
+            {DEPENDENTES.map((quantidade) => (
+              <option key={quantidade} value={quantidade}>
+                {quantidade === 6 ? "6 ou mais" : quantidade}
+              </option>
+            ))}
+          </select>
+          <span className="mt-1 block text-xs font-normal text-muted">
+            Só muda a conta se o 13º passar de R$ 5 mil.
+          </span>
         </label>
       </div>
 
@@ -106,22 +130,25 @@ export function Calculadora13Salario({ nivelDoTitulo = 3 }: { nivelDoTitulo?: 2 
               nome="Desconto do INSS (sai da 2ª parcela)"
               valor={`− ${real.format(resultado.inss)}`}
             />
+            {isento ? (
+              <Linha
+                nome="Imposto de renda"
+                texto
+                valor={`Isento (13º de até ${real.format(LIMITE_ISENCAO_IR_2026).replace(",00", "")})`}
+              />
+            ) : (
+              <Linha
+                nome="Imposto de renda (sai da 2ª parcela)"
+                valor={`− ${real.format(resultado.impostoDeRenda)}`}
+              />
+            )}
             <Linha
-              nome="Imposto de renda (sai da 2ª parcela)"
-              texto
-              valor={
-                semIr
-                  ? "Depende das suas deduções"
-                  : `Isento (13º de até ${real.format(LIMITE_ISENCAO_IR_2026).replace(",00", "")})`
-              }
-            />
-            <Linha
-              nome={semIr ? "2ª parcela, até 18/12 (antes do IR)" : "2ª parcela, até 18/12"}
+              nome="2ª parcela, até 18/12"
               valor={real.format(resultado.segundaParcela)}
               destaque
             />
             <Linha
-              nome={semIr ? "Total que cai na conta (antes do IR)" : "Total que cai na conta"}
+              nome="Total que cai na conta"
               valor={real.format(resultado.primeiraParcela + resultado.segundaParcela)}
             />
           </dl>
@@ -133,12 +160,11 @@ export function Calculadora13Salario({ nivelDoTitulo = 3 }: { nivelDoTitulo?: 2 
       </div>
 
       <p className="mt-4 text-xs leading-5 text-muted">
-        Estimativa com a tabela do INSS e as regras do imposto de renda de 2026,
-        para quem trabalha com carteira assinada. A empresa pode chegar a um
-        valor um pouco diferente, por exemplo se calcular a 1ª parcela sobre o
-        salário de outubro ou descontar pensão alimentícia.
-        {semIr &&
-          " Acima de R$ 5.000 de 13º, o imposto de renda depende de dependentes e de outras deduções, e por isso não entra na conta."}
+        Estimativa com as tabelas do INSS e do imposto de renda de 2026, para
+        quem trabalha com carteira assinada. A empresa pode chegar a um valor
+        um pouco diferente, por exemplo se calcular a 1ª parcela sobre o
+        salário de outubro ou descontar pensão alimentícia, que a calculadora
+        não inclui.
       </p>
     </section>
   );

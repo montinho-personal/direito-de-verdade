@@ -1,5 +1,6 @@
 // Conta do 13º salário de quem trabalha com carteira assinada, com os valores de 2026.
-// Fontes de cada número em docs/artigos/13-salario.md. Revisar todo ano.
+// Fontes de cada número em docs/artigos/13-salario.md e
+// docs/artigos/calculadora-13-salario.md. Revisar todo ano.
 
 // Tabela de contribuição do INSS de 2026 (Portaria Interministerial MPS/MF nº 13/2026).
 // A alíquota de cada faixa vale só para a parte do valor que cai nela.
@@ -10,9 +11,23 @@ const FAIXAS_INSS_2026 = [
   { ate: 8475.55, aliquota: 0.14 },
 ];
 
+// Tabela mensal do imposto de renda de 2026 (Receita Federal), que também vale para o
+// 13º: alíquota e parcela a deduzir de cada faixa
+const FAIXAS_IR_2026 = [
+  { ate: 2428.8, aliquota: 0, deduzir: 0 },
+  { ate: 2826.65, aliquota: 0.075, deduzir: 182.16 },
+  { ate: 3751.05, aliquota: 0.15, deduzir: 394.16 },
+  { ate: 4664.68, aliquota: 0.225, deduzir: 675.49 },
+  { ate: Infinity, aliquota: 0.275, deduzir: 908.73 },
+];
+const DEDUCAO_POR_DEPENDENTE_2026 = 189.59;
+// Usado no lugar das deduções (INSS e dependentes) quando for maior que elas
+const DESCONTO_SIMPLIFICADO_2026 = 607.2;
+
 // Até este valor de 13º não há imposto de renda em 2026 (Lei 15.270/2025, que
-// também vale para o 13º). Acima dele, o imposto depende das deduções de cada um.
+// também vale para o 13º). Até R$ 7.350 o imposto tem uma redução menor.
 export const LIMITE_ISENCAO_IR_2026 = 5000;
+const LIMITE_REDUCAO_IR_2026 = 7350;
 
 export const SALARIO_MINIMO_2026 = 1621;
 
@@ -31,13 +46,27 @@ export function inss2026(valor: number) {
   return centavos(total);
 }
 
+// Imposto de renda do 13º, calculado à parte do salário. A redução da Lei 15.270/2025
+// usa o 13º bruto, e não a base de cálculo (exemplos da Receita Federal).
+export function impostoDeRenda13(bruto: number, inss: number, dependentes = 0) {
+  const deducoes = inss + dependentes * DEDUCAO_POR_DEPENDENTE_2026;
+  const base = bruto - Math.max(deducoes, DESCONTO_SIMPLIFICADO_2026);
+  const faixa = FAIXAS_IR_2026.find((f) => base <= f.ate) ?? FAIXAS_IR_2026[4];
+  const pelaTabela = Math.max(0, base * faixa.aliquota - faixa.deduzir);
+  const reducao =
+    bruto <= LIMITE_ISENCAO_IR_2026
+      ? pelaTabela
+      : bruto <= LIMITE_REDUCAO_IR_2026
+        ? 978.62 - 0.133145 * bruto
+        : 0;
+  return centavos(Math.max(0, pelaTabela - reducao));
+}
+
 export type Resultado13 = {
   bruto: number;
   primeiraParcela: number;
   inss: number;
-  // null: acima do limite de isenção, o imposto depende das deduções de cada um
-  impostoDeRenda: number | null;
-  // Sem o imposto de renda quando ele não pôde ser calculado
+  impostoDeRenda: number;
   segundaParcela: number;
 };
 
@@ -45,19 +74,22 @@ export function calcular13({
   salario,
   meses,
   mediaVariaveis = 0,
+  dependentes = 0,
 }: {
   salario: number;
   // Meses com 15 dias ou mais de trabalho no ano (1 a 12)
   meses: number;
   // Média mensal de horas extras, comissões e adicionais que entram no 13º
   mediaVariaveis?: number;
+  // Dependentes declarados à empresa para o imposto de renda
+  dependentes?: number;
 }): Resultado13 {
   const bruto = centavos(((salario + mediaVariaveis) / 12) * meses);
   // A 1ª parcela é a metade, sem descontos
   const primeiraParcela = centavos(bruto / 2);
   // INSS e imposto de renda saem da 2ª parcela, calculados sobre o 13º inteiro
   const inss = inss2026(bruto);
-  const impostoDeRenda = bruto <= LIMITE_ISENCAO_IR_2026 ? 0 : null;
-  const segundaParcela = centavos(bruto - primeiraParcela - inss - (impostoDeRenda ?? 0));
+  const impostoDeRenda = impostoDeRenda13(bruto, inss, dependentes);
+  const segundaParcela = centavos(bruto - primeiraParcela - inss - impostoDeRenda);
   return { bruto, primeiraParcela, inss, impostoDeRenda, segundaParcela };
 }

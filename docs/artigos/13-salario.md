@@ -108,11 +108,11 @@ ambiente):
 
 ## Pendente
 
-- **Texto oficial dos arts. 76 a 85 do Decreto 10.854/2021** no Planalto
-  (fora do ar neste ambiente). Usado até aqui pela cópia do LegJur.
-- **Salário variável e comissões:** a regra de 1/11 das variáveis até
-  novembro (art. 77) só apareceu na cópia do decreto — confirmar no texto
-  oficial.
+- **Texto oficial dos arts. 76 a 79 do Decreto 10.854/2021:** resolvido em
+  19/10 pelo texto publicado no Diário Oficial da União (in.gov.br), que
+  confirma a regra de 1/11 dos valores variáveis até novembro (art. 77).
+  Alterações posteriores (o LegJur cita o Decreto 12.712/2025) não foram
+  conferidas.
 - **Autônomo, MEI (o próprio) e sócio:** fonte única. Resolvido no texto
   pela própria lei: a Lei 4.090/1962 dá o 13º "a todo empregado", e o texto
   diz que autônomo e MEI não têm direito porque não são empregados. Sócio
@@ -177,8 +177,14 @@ ambiente):
   ambiente).
 - **FAQ**: só PAA que não virou H2 (R$ 1.600, R$ 2.000, como saber se tenho
   direito, tabela do 13º 2026).
-- **Links internos**: nenhum por enquanto, porque é o primeiro artigo. Ao
-  publicar "Pensão alimentícia incide sobre o 13º?", linkar daqui (seção de
+- **Calculadora com imposto de renda acima de R$ 5 mil** (19/10, junto com a
+  [página da calculadora](calculadora-13-salario.md)): regras confirmadas
+  na fonte oficial. O artigo ganhou um link para a página da calculadora na
+  seção do imposto de renda. Edição no mesmo dia da publicação, por isso
+  sem `atualizadoEm`.
+- **Links internos**: para a página da calculadora, na seção do imposto de
+  renda (e ela linka de volta para as seções de horas extras e de
+  aposentados). Ao publicar "Pensão alimentícia incide sobre o 13º?", linkar daqui (seção de
   descontos) e de lá para cá.
 
 ## Para medir
