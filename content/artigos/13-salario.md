@@ -4,6 +4,7 @@ tituloSeo: "13º salário 2026: datas, antecipação e quanto você recebe"
 descricao: "13º salário 2026: a 1ª parcela cai até 30/11 e a 2ª foi antecipada para 18/12, porque o dia 20 é domingo. Veja quanto você recebe e o 13º dos aposentados."
 categoria: trabalho
 publicadoEm: 2026-10-19
+atualizadoEm: 2026-10-19
 faq:
   - pergunta: "Quem ganha R$ 1.600 recebe quanto de décimo terceiro?"
     resposta: "Quem ganha R$ 1.600 por mês e trabalhou o ano todo tem R$ 1.600 de 13º bruto: **R$ 800 na 1ª parcela** e **R$ 680 na 2ª**, depois do desconto de R$ 120 de INSS. No total, caem R$ 1.480 na conta, sem imposto de renda."
@@ -52,7 +53,7 @@ Para quem trabalha com carteira assinada, o calendário de 2026 é este:
 
 O prazo da 2ª parcela na lei é 20 de dezembro ([Lei nº 4.749/1965](https://www.planalto.gov.br/ccivil_03/leis/l4749.htm)). Em 2026, o dia 20 é um domingo, e o pagamento não pode passar do prazo: por isso a empresa precisa depositar até sexta, 18.
 
-A empresa pode pagar antes dessas datas. A 1ª parcela, por exemplo, pode sair a qualquer momento entre fevereiro e novembro. O que ela não pode é atrasar.
+A empresa pode pagar antes dessas datas. A 1ª parcela, por exemplo, pode sair a qualquer momento entre fevereiro e novembro. O que ela não pode é atrasar. Como a Black Friday de 2026 cai em 27 de novembro, quem recebe a 1ª parcela antes disso e pensa em usar o dinheiro nas compras pode conferir [o que a lei garante ao consumidor na Black Friday](/artigos/black-friday-direitos-do-consumidor).
 
 ### O 13º de 2026 vai ser antecipado?
 

@@ -344,13 +344,30 @@ export function categoriasComArtigos() {
 }
 
 // Primeiro os da mesma categoria, depois os mais recentes
+// Endereços para os quais o texto e as perguntas frequentes apontam
+function caminhosLinkados(artigo: Artigo) {
+  const html = [
+    ...artigo.partes.map((parte) => (parte.tipo === "texto" ? parte.html : "")),
+    ...artigo.faq.map((pergunta) => pergunta.respostaHtml),
+  ].join(" ");
+  return new Set([...html.matchAll(/href="(\/[^"#?]+)/g)].map((link) => link[1]));
+}
+
+// Os mais ligados ao assunto primeiro: os que se linkam com a página (em qualquer
+// direção), depois os da mesma categoria, depois os mais recentes
 export function artigosRelacionados(artigo: Artigo, quantidade = 3) {
   // Pelo endereço, e não pelo slug: a calculadora do 13º e o artigo do 13º têm o
   // mesmo slug em seções diferentes
-  const outros = todosOsArtigos().filter((a) => a.caminho !== artigo.caminho);
-  const mesmaCategoria = outros.filter((a) => a.categoria.slug === artigo.categoria.slug);
-  const demais = outros.filter((a) => a.categoria.slug !== artigo.categoria.slug);
-  return [...mesmaCategoria, ...demais].slice(0, quantidade);
+  const linkados = caminhosLinkados(artigo);
+  const pontos = (outro: Artigo) =>
+    (linkados.has(outro.caminho) || caminhosLinkados(outro).has(artigo.caminho) ? 2 : 0) +
+    (outro.categoria.slug === artigo.categoria.slug ? 1 : 0);
+  return todosOsArtigos()
+    .filter((a) => a.caminho !== artigo.caminho)
+    .map((a) => ({ a, pontos: pontos(a) }))
+    .sort((x, y) => y.pontos - x.pontos || dataDeAlteracao(y.a).localeCompare(dataDeAlteracao(x.a)))
+    .slice(0, quantidade)
+    .map(({ a }) => a);
 }
 
 export function dataDeAlteracao(artigo: Artigo) {

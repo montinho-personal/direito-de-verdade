@@ -4,6 +4,7 @@ tituloSeo: "Calculadora rescisão CLT 2026: com FGTS e multa de 40%"
 descricao: "Calculadora de rescisão trabalhista 2026: veja quanto recebe na demissão sem justa causa, no pedido de demissão, no acordo ou na justa causa, com FGTS e multa."
 categoria: trabalho
 publicadoEm: 2026-10-19
+atualizadoEm: 2026-10-19
 faq:
   - pergunta: "Qual o prazo para receber a rescisão?"
     resposta: "A empresa tem **10 dias** depois do fim do contrato para pagar e entregar os documentos, em qualquer tipo de rescisão. Se atrasar, paga ao trabalhador uma multa no valor de um salário (CLT, artigo 477)."
@@ -61,6 +62,8 @@ Escolha o motivo da saída, digite o salário e as datas e veja a **rescisão de
 | Seguro-desemprego | sim | não | não | não |
 
 Base legal: [CLT](https://www2.camara.leg.br/legin/fed/declei/1940-1949/decreto-lei-5452-1-maio-1943-415500-normaatualizada-pe.html) (artigos 146, 147 e 484-A), [Lei do 13º](https://www2.camara.leg.br/legin/fed/lei/1960-1969/lei-4090-13-julho-1962-353863-normaatualizada-pl.html), [Lei do FGTS](https://www2.camara.leg.br/legin/fed/lei/1990/lei-8036-11-maio-1990-365155-normaatualizada-pl.html) e Súmulas [171 e 261](https://juslaboris.tst.jus.br/bitstream/handle/20.500.12178/4220/2003_res0121_rep01.pdf) do TST.
+
+O valor e o número de parcelas do seguro-desemprego saem na [calculadora do seguro-desemprego 2026](/calculadoras/seguro-desemprego).
 
 Exemplo com salário de R$ 3.000, admissão em 1º de fevereiro de 2023, saída em 20 de outubro de 2026, aviso indenizado e R$ 9.000 de saldo no FGTS:
 
