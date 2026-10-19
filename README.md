@@ -55,6 +55,7 @@ Para criar um artigo, copie `content/artigos/_modelo.md`, que explica cada campo
 - `src/lib/site.ts`: configurações gerais (nome, descrição, AdSense, contato)
 - `src/lib/metadados.ts`: título, descrição, link canônico e dados de compartilhamento de cada página
 - `src/lib/artigos.ts` e `src/lib/categorias.ts`: leitura dos artigos e lista de categorias
+- `src/lib/ferramentas.ts`: ferramentas que podem entrar no meio de um artigo (uma por artigo); `src/lib/decimo-terceiro.ts` tem as contas da calculadora do 13º e as tabelas de 2026
 - `content/artigos/`: os artigos, em Markdown
 - `src/app/artigos`, `src/app/categoria`: lista de artigos, página de cada artigo e página de cada categoria
 - `src/app/layout.tsx`: layout raiz, fontes, metadados padrão e código do AdSense
@@ -64,7 +65,7 @@ Para criar um artigo, copie `content/artigos/_modelo.md`, que explica cada campo
 - `src/app/not-found.tsx`: página de erro 404
 - `src/app/globals.css`: cores da marca e estilos globais (inclui o estilo dos textos longos)
 - `src/app/icon.png` e `src/app/apple-icon.png`: ícone do site (aba do navegador e tela inicial do celular)
-- `src/components/`: cabeçalho, rodapé, modelo das páginas de texto, cartões e listas de artigos e trilha de navegação
+- `src/components/`: cabeçalho, rodapé, modelo das páginas de texto, cartões e listas de artigos, trilha de navegação e as ferramentas (calculadora do 13º)
 - `src/assets/logo.png`: logo usado no topo do site
 - `public/imagem-compartilhamento.png`: imagem que aparece ao compartilhar o link (WhatsApp, redes sociais)
 - `marca/logo-original.png`: arquivo original do logo, em alta resolução

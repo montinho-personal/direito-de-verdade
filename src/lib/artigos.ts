@@ -3,6 +3,7 @@ import path from "node:path";
 import matter from "gray-matter";
 import { Marked, Renderer, type Tokens } from "marked";
 import { categoriaPorSlug, categorias, type Categoria } from "@/lib/categorias";
+import { ehFerramenta, FERRAMENTAS, type IdDaFerramenta } from "@/lib/ferramentas";
 
 // Cada artigo é um arquivo .md nesta pasta. Arquivos que começam com "_" são ignorados.
 const PASTA = path.join(process.cwd(), "content", "artigos");
@@ -17,6 +18,11 @@ export type Pergunta = { pergunta: string; respostaHtml: string; respostaTexto: 
 
 export type Fonte = { nome: string; url: string };
 
+// O texto do artigo, com a ferramenta (quando houver) no lugar marcado
+export type ParteDoTexto =
+  | { tipo: "texto"; html: string }
+  | { tipo: "ferramenta"; id: IdDaFerramenta };
+
 export type Artigo = {
   slug: string;
   titulo: string;
@@ -29,7 +35,7 @@ export type Artigo = {
   // Primeiro parágrafo do texto: a resposta direta, exibida em destaque logo abaixo do título
   lead?: string;
   // O resto do texto
-  html: string;
+  partes: ParteDoTexto[];
   secoes: Secao[];
   faq: Pergunta[];
   fontes: Fonte[];
@@ -109,6 +115,25 @@ function converterMarkdown(markdown: string) {
     html: primeiro ? completo.slice(primeiro[0].length) : completo,
     secoes,
   };
+}
+
+const MARCADOR_DE_FERRAMENTA = /<!--\s*ferramenta:\s*([^\s]*?)\s*-->\n?/;
+
+function dividirPartes(html: string, arquivo: string): ParteDoTexto[] {
+  // split com grupo de captura alterna: texto, id, texto, id, texto...
+  const pedacos = html.split(new RegExp(MARCADOR_DE_FERRAMENTA, "g"));
+  if (pedacos.length > 3) {
+    throw new Error(`${arquivo}: o artigo tem mais de uma ferramenta; o limite é uma`);
+  }
+  return pedacos.flatMap((pedaco, indice): ParteDoTexto[] => {
+    if (indice % 2 === 0) return pedaco.trim() ? [{ tipo: "texto", html: pedaco }] : [];
+    if (!ehFerramenta(pedaco)) {
+      throw new Error(
+        `${arquivo}: a ferramenta "${pedaco}" não existe. Use uma destas: ${FERRAMENTAS.join(", ")}`,
+      );
+    }
+    return [{ tipo: "ferramenta", id: pedaco }];
+  });
 }
 
 function lerData(valor: unknown, campo: string, arquivo: string) {
@@ -221,7 +246,7 @@ function lerArtigo(arquivo: string): Artigo | null {
         : lerData(dados.atualizadoEm, "atualizadoEm", arquivo),
     autor: dados.autor === undefined ? undefined : lerTexto(dados.autor, "autor", arquivo),
     lead,
-    html,
+    partes: dividirPartes(html, arquivo),
     secoes,
     faq,
     fontes: lerFontes(dados.fontes, arquivo),

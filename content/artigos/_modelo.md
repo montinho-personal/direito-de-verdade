@@ -75,3 +75,8 @@ Texto normal em parágrafos curtos. Use **negrito** para o que é mais important
 Links internos vão no meio da frase, com o texto que descreve o destino:
 [como funciona o aviso prévio](/artigos/aviso-previo). Para citar a lei, link para a fonte
 oficial: [Consolidação das Leis do Trabalho (CLT)](https://www.planalto.gov.br/ccivil_03/decreto-lei/del5452.htm).
+
+Ferramenta no meio do texto (calculadora etc.): uma linha só com o marcador, por exemplo
+`<!-- ferramenta: calculadora-13-salario -->`, no ponto em que ela responde à dúvida que o
+texto acabou de levantar. No máximo uma por artigo; as disponíveis estão em
+`src/lib/ferramentas.ts`.

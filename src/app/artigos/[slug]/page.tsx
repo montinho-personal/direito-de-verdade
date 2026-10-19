@@ -1,5 +1,6 @@
 import Link from "next/link";
 import { notFound } from "next/navigation";
+import { Calculadora13Salario } from "@/components/calculadora-13-salario";
 import { CartaoArtigo } from "@/components/cartao-artigo";
 import { Migalhas } from "@/components/migalhas";
 import {
@@ -9,8 +10,18 @@ import {
   formatarData,
   todosOsArtigos,
 } from "@/lib/artigos";
+import type { IdDaFerramenta } from "@/lib/ferramentas";
 import { metadadosDaPagina } from "@/lib/metadados";
 import { site } from "@/lib/site";
+
+const COMPONENTES_DAS_FERRAMENTAS: Record<IdDaFerramenta, () => React.ReactNode> = {
+  "calculadora-13-salario": Calculadora13Salario,
+};
+
+function Ferramenta({ id }: { id: IdDaFerramenta }) {
+  const Componente = COMPONENTES_DAS_FERRAMENTAS[id];
+  return <Componente />;
+}
 
 // A página inteira é gerada antes de responder; assim, um endereço que não existe
 // recebe o código 404 de verdade (importante para o Google)
@@ -175,10 +186,17 @@ export default async function PaginaDoArtigo({
             </nav>
           )}
 
-          <div
-            className="texto"
-            dangerouslySetInnerHTML={{ __html: artigo.html }}
-          />
+          {artigo.partes.map((parte, indice) =>
+            parte.tipo === "texto" ? (
+              <div
+                key={indice}
+                className="texto"
+                dangerouslySetInnerHTML={{ __html: parte.html }}
+              />
+            ) : (
+              <Ferramenta key={indice} id={parte.id} />
+            ),
+          )}
 
           {artigo.faq.length > 0 && (
             <section aria-labelledby="perguntas-frequentes" className="texto mt-12">
