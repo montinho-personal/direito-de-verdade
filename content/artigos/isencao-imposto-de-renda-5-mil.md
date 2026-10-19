@@ -91,7 +91,7 @@ Valores de 2026, em reais, sem dependentes, com o INSS de 2026:
 | 7.000 | 801,35 | 46,60 | 754,75 |
 | 8.000 | 1.037,85 | 0 | 1.037,85 |
 
-Quanto mais perto de R$ 5 mil, maior o desconto. Para o seu salário e os seus dependentes, use a calculadora do começo do artigo.
+Quanto mais perto de R$ 5 mil, maior o desconto. Para o seu salário e os seus dependentes, use a calculadora do começo do artigo ou a [calculadora de imposto de renda 2026](/calculadoras/imposto-de-renda), com outros exemplos de salário.
 
 ## E na declaração do imposto de renda de 2027?
 
