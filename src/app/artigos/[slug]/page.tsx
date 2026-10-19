@@ -30,6 +30,7 @@ export async function generateMetadata({
   if (!artigo) return {};
   return metadadosDaPagina({
     titulo: artigo.titulo,
+    tituloCompleto: artigo.tituloSeo,
     descricao: artigo.descricao,
     caminho: `/artigos/${artigo.slug}`,
     artigo: {
@@ -57,18 +58,42 @@ export default async function PaginaDoArtigo({
   };
   const dadosEstruturados = {
     "@context": "https://schema.org",
-    "@type": "Article",
-    headline: artigo.titulo,
-    description: artigo.descricao,
-    datePublished: artigo.publicadoEm,
-    dateModified: dataDeAlteracao(artigo),
-    inLanguage: "pt-BR",
-    articleSection: artigo.categoria.nome,
-    mainEntityOfPage: `${site.url}/artigos/${artigo.slug}`,
-    image: `${site.url}/imagem-compartilhamento.png`,
-    author: artigo.autor ? { "@type": "Person", name: artigo.autor } : organizacao,
-    publisher: organizacao,
+    "@graph": [
+      {
+        "@type": "Article",
+        headline: artigo.titulo,
+        description: artigo.descricao,
+        datePublished: artigo.publicadoEm,
+        dateModified: dataDeAlteracao(artigo),
+        inLanguage: "pt-BR",
+        articleSection: artigo.categoria.nome,
+        mainEntityOfPage: `${site.url}/artigos/${artigo.slug}`,
+        image: `${site.url}/imagem-compartilhamento.png`,
+        author: artigo.autor ? { "@type": "Person", name: artigo.autor } : organizacao,
+        publisher: organizacao,
+      },
+      ...(artigo.faq.length
+        ? [
+            {
+              "@type": "FAQPage",
+              inLanguage: "pt-BR",
+              mainEntity: artigo.faq.map((item) => ({
+                "@type": "Question",
+                name: item.pergunta,
+                acceptedAnswer: { "@type": "Answer", text: item.respostaTexto },
+              })),
+            },
+          ]
+        : []),
+    ],
   };
+
+  const sumario = [
+    ...artigo.secoes,
+    ...(artigo.faq.length
+      ? [{ id: "perguntas-frequentes", titulo: "Perguntas frequentes" }]
+      : []),
+  ];
 
   return (
     <>
@@ -102,10 +127,7 @@ export default async function PaginaDoArtigo({
             <h1 className="mt-3 font-serif text-4xl leading-tight sm:text-5xl">
               {artigo.titulo}
             </h1>
-            <p className="mt-5 text-lg leading-8 text-muted sm:text-xl">
-              {artigo.descricao}
-            </p>
-            <p className="mt-6 text-sm text-muted">
+            <p className="mt-5 text-sm text-muted">
               {artigo.autor && <>Por {artigo.autor} · </>}
               Publicado em{" "}
               <time dateTime={artigo.publicadoEm}>
@@ -122,18 +144,24 @@ export default async function PaginaDoArtigo({
               )}{" "}
               · {artigo.minutosDeLeitura} min de leitura
             </p>
+            {artigo.lead && (
+              <p
+                className="lead mt-6"
+                dangerouslySetInnerHTML={{ __html: artigo.lead }}
+              />
+            )}
           </div>
         </header>
 
         <div className="mx-auto w-full max-w-3xl px-6 py-12">
-          {artigo.secoes.length >= 3 && (
+          {sumario.length >= 3 && (
             <nav
               aria-label="Sumário"
               className="mb-10 rounded-2xl border border-border bg-surface p-6"
             >
               <p className="font-semibold">Neste artigo</p>
               <ol className="mt-3 list-decimal space-y-2 pl-5 marker:text-gold">
-                {artigo.secoes.map((secao) => (
+                {sumario.map((secao) => (
                   <li key={secao.id}>
                     <a
                       href={`#${secao.id}`}
@@ -151,6 +179,40 @@ export default async function PaginaDoArtigo({
             className="texto"
             dangerouslySetInnerHTML={{ __html: artigo.html }}
           />
+
+          {artigo.faq.length > 0 && (
+            <section aria-labelledby="perguntas-frequentes" className="texto mt-12">
+              <h2 id="perguntas-frequentes">Perguntas frequentes</h2>
+              {artigo.faq.map((item) => (
+                <div key={item.pergunta}>
+                  <h3>{item.pergunta}</h3>
+                  <p dangerouslySetInnerHTML={{ __html: item.respostaHtml }} />
+                </div>
+              ))}
+            </section>
+          )}
+
+          {artigo.fontes.length > 0 && (
+            <section aria-labelledby="fontes" className="mt-12 border-t border-border pt-8">
+              <h2 id="fontes" className="font-serif text-2xl">
+                Fontes
+              </h2>
+              <ul className="mt-4 space-y-2 text-sm leading-6">
+                {artigo.fontes.map((fonte) => (
+                  <li key={fonte.url}>
+                    <a
+                      href={fonte.url}
+                      target="_blank"
+                      rel="noopener noreferrer"
+                      className="text-accent underline underline-offset-4 [overflow-wrap:anywhere] hover:no-underline"
+                    >
+                      {fonte.nome}
+                    </a>
+                  </li>
+                ))}
+              </ul>
+            </section>
+          )}
 
           <aside className="mt-12 rounded-2xl border-l-4 border-gold bg-surface p-6 text-sm leading-6 text-muted">
             <strong className="text-foreground">Importante:</strong> este artigo

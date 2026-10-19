@@ -7,18 +7,32 @@ import { categoriaPorSlug, categorias, type Categoria } from "@/lib/categorias";
 // Cada artigo é um arquivo .md nesta pasta. Arquivos que começam com "_" são ignorados.
 const PASTA = path.join(process.cwd(), "content", "artigos");
 
+// Limite do título na aba do navegador e no Google (o Google corta perto de 60)
+const LIMITE_TITULO_SEO = 70;
+
 export type Secao = { id: string; titulo: string };
+
+// Pergunta frequente: a resposta vem em HTML (para a página) e em texto (para o Google)
+export type Pergunta = { pergunta: string; respostaHtml: string; respostaTexto: string };
+
+export type Fonte = { nome: string; url: string };
 
 export type Artigo = {
   slug: string;
   titulo: string;
+  tituloSeo?: string;
   descricao: string;
   categoria: Categoria;
   publicadoEm: string;
   atualizadoEm?: string;
   autor?: string;
+  // Primeiro parágrafo do texto: a resposta direta, exibida em destaque logo abaixo do título
+  lead?: string;
+  // O resto do texto
   html: string;
   secoes: Secao[];
+  faq: Pergunta[];
+  fontes: Fonte[];
   minutosDeLeitura: number;
 };
 
@@ -26,7 +40,7 @@ export type Artigo = {
 export function criarSlug(texto: string) {
   return texto
     .normalize("NFD")
-    .replace(/[̀-ͯ]/g, "")
+    .replace(/\p{M}/gu, "")
     .toLowerCase()
     .replace(/º/g, "o")
     .replace(/ª/g, "a")
@@ -44,9 +58,27 @@ function textoSemHtml(html: string) {
     .replace(/&amp;/g, "&");
 }
 
+// Links para outros sites abrem em nova aba
+function link(this: Renderer, token: Tokens.Link) {
+  const html = Renderer.prototype.link.call(this, token);
+  const externo =
+    /^https?:\/\//.test(token.href) &&
+    !token.href.includes("direitodeverdade.com.br");
+  return externo
+    ? html.replace(/^<a /, '<a target="_blank" rel="noopener noreferrer" ')
+    : html;
+}
+
+// Para textos curtos (respostas do FAQ): só negrito, itálico e links
+const conversorDeTrechos = new Marked({ gfm: true, renderer: { link } });
+
+// Ids das seções "Perguntas frequentes" e "Fontes"; um título do texto com o mesmo
+// nome ganha um sufixo para não repetir o id
+const IDS_RESERVADOS = ["perguntas-frequentes", "fontes"];
+
 function converterMarkdown(markdown: string) {
   const secoes: Secao[] = [];
-  const idsUsados = new Map<string, number>();
+  const idsUsados = new Map<string, number>(IDS_RESERVADOS.map((id) => [id, 1]));
 
   const conversor = new Marked({
     gfm: true,
@@ -64,21 +96,19 @@ function converterMarkdown(markdown: string) {
         if (nivel === 2) secoes.push({ id, titulo });
         return `<h${nivel} id="${id}">${html}</h${nivel}>\n`;
       },
-      // Links para outros sites abrem em nova aba
-      link(token: Tokens.Link) {
-        const html = Renderer.prototype.link.call(this, token);
-        const externo =
-          /^https?:\/\//.test(token.href) &&
-          !token.href.includes("direitodeverdade.com.br");
-        return externo
-          ? html.replace(/^<a /, '<a target="_blank" rel="noopener noreferrer" ')
-          : html;
-      },
+      link,
     },
   });
 
-  const html = conversor.parse(markdown, { async: false });
-  return { html, secoes };
+  const completo = conversor.parse(markdown, { async: false });
+
+  // O primeiro parágrafo vira o lead, exibido em destaque abaixo do título
+  const primeiro = completo.match(/^\s*<p>([\s\S]*?)<\/p>\n?/);
+  return {
+    lead: primeiro?.[1],
+    html: primeiro ? completo.slice(primeiro[0].length) : completo,
+    secoes,
+  };
 }
 
 function lerData(valor: unknown, campo: string, arquivo: string) {
@@ -93,6 +123,59 @@ function lerData(valor: unknown, campo: string, arquivo: string) {
 function lerTexto(valor: unknown, campo: string, arquivo: string) {
   if (typeof valor === "string" && valor.trim()) return valor.trim();
   throw new Error(`${arquivo}: o campo "${campo}" é obrigatório`);
+}
+
+function lerTituloSeo(valor: unknown, arquivo: string) {
+  if (valor === undefined) return undefined;
+  const titulo = lerTexto(valor, "tituloSeo", arquivo);
+  if (titulo.length > LIMITE_TITULO_SEO) {
+    throw new Error(
+      `${arquivo}: o "tituloSeo" tem ${titulo.length} caracteres; o máximo é ${LIMITE_TITULO_SEO} (o ideal é até 60)`,
+    );
+  }
+  return titulo;
+}
+
+function lerFaq(valor: unknown, arquivo: string): Pergunta[] {
+  if (valor === undefined) return [];
+  if (!Array.isArray(valor)) {
+    throw new Error(`${arquivo}: "faq" precisa ser uma lista de itens com "pergunta" e "resposta"`);
+  }
+  return valor.map((item, indice) => {
+    const campo = `faq, item ${indice + 1}`;
+    if (typeof item !== "object" || item === null) {
+      throw new Error(`${arquivo}: ${campo} precisa ter "pergunta" e "resposta"`);
+    }
+    const { pergunta, resposta } = item as Record<string, unknown>;
+    const respostaHtml = conversorDeTrechos.parseInline(
+      lerTexto(resposta, `${campo}: resposta`, arquivo),
+      { async: false },
+    );
+    return {
+      pergunta: lerTexto(pergunta, `${campo}: pergunta`, arquivo),
+      respostaHtml,
+      respostaTexto: textoSemHtml(respostaHtml),
+    };
+  });
+}
+
+function lerFontes(valor: unknown, arquivo: string): Fonte[] {
+  if (valor === undefined) return [];
+  if (!Array.isArray(valor)) {
+    throw new Error(`${arquivo}: "fontes" precisa ser uma lista de itens com "nome" e "url"`);
+  }
+  return valor.map((item, indice) => {
+    const campo = `fontes, item ${indice + 1}`;
+    if (typeof item !== "object" || item === null) {
+      throw new Error(`${arquivo}: ${campo} precisa ter "nome" e "url"`);
+    }
+    const { nome, url } = item as Record<string, unknown>;
+    const endereco = lerTexto(url, `${campo}: url`, arquivo);
+    if (!endereco.startsWith("https://")) {
+      throw new Error(`${arquivo}: ${campo}: a url precisa começar com https://`);
+    }
+    return { nome: lerTexto(nome, `${campo}: nome`, arquivo), url: endereco };
+  });
 }
 
 function lerArtigo(arquivo: string): Artigo | null {
@@ -120,12 +203,15 @@ function lerArtigo(arquivo: string): Artigo | null {
     );
   }
 
-  const { html, secoes } = converterMarkdown(conteudo);
-  const palavras = conteudo.split(/\s+/).filter(Boolean).length;
+  const { lead, html, secoes } = converterMarkdown(conteudo);
+  const faq = lerFaq(dados.faq, arquivo);
+  const textoDoFaq = faq.map((item) => `${item.pergunta} ${item.respostaTexto}`).join(" ");
+  const palavras = `${conteudo} ${textoDoFaq}`.split(/\s+/).filter(Boolean).length;
 
   return {
     slug,
     titulo: lerTexto(dados.titulo, "titulo", arquivo),
+    tituloSeo: lerTituloSeo(dados.tituloSeo, arquivo),
     descricao: lerTexto(dados.descricao, "descricao", arquivo),
     categoria,
     publicadoEm: lerData(dados.publicadoEm, "publicadoEm", arquivo),
@@ -134,8 +220,11 @@ function lerArtigo(arquivo: string): Artigo | null {
         ? undefined
         : lerData(dados.atualizadoEm, "atualizadoEm", arquivo),
     autor: dados.autor === undefined ? undefined : lerTexto(dados.autor, "autor", arquivo),
+    lead,
     html,
     secoes,
+    faq,
+    fontes: lerFontes(dados.fontes, arquivo),
     minutosDeLeitura: Math.max(1, Math.round(palavras / 200)),
   };
 }
