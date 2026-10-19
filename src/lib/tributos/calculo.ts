@@ -9,7 +9,7 @@
 import { PARAMETROS_2026, type ParametrosTributarios } from "./parametros-2026.ts";
 
 // Divisão de inteiros não negativos com arredondamento ao inteiro mais próximo (meio para cima)
-function dividirArredondando(numerador: number, divisor: number) {
+export function dividirArredondando(numerador: number, divisor: number) {
   return Math.floor((2 * numerador + divisor) / (2 * divisor));
 }
 

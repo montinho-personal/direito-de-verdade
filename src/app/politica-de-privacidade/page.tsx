@@ -103,11 +103,32 @@ export default function PoliticaDePrivacidade() {
         diferente.
       </p>
 
+      {site.googleAnalytics && (
+        <>
+          <h2>Medição de audiência</h2>
+          <p>
+            O site usa o Google Analytics para saber quantas pessoas visitam cada
+            página, de onde chegam e por quanto tempo leem, sempre de forma
+            agregada. O Google Analytics usa cookies e não recebe os valores que
+            você digita nas calculadoras: essas contas são feitas no seu
+            navegador. Você pode bloquear a medição com o{" "}
+            <a
+              href="https://tools.google.com/dlpage/gaoptout?hl=pt-BR"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              complemento de desativação do Google Analytics
+            </a>{" "}
+            ou apagando os cookies no navegador.
+          </p>
+        </>
+      )}
+
       <h2>Com quem compartilhamos</h2>
       <p>
         Não vendemos dados pessoais. Os dados podem ser tratados por empresas
         que prestam serviços ao site, como o provedor de hospedagem e o Google
-        (publicidade), e por autoridades públicas quando houver obrigação
+        (publicidade e medição de audiência), e por autoridades públicas quando houver obrigação
         legal. Alguns desses fornecedores guardam dados em servidores fora do
         Brasil, com as garantias previstas na LGPD para transferências
         internacionais.

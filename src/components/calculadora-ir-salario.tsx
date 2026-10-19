@@ -3,7 +3,7 @@
 import { useId, useState } from "react";
 import {
   Campo,
-  estiloDoBotao,
+  Compartilhar,
   Linha,
   NotaDaEstimativa,
 } from "@/components/partes-da-calculadora";
@@ -176,7 +176,7 @@ function Resultado({
         <Composicao resultado={r} />
       </div>
       <MemoriaDeCalculo resultado={r} dependentes={dependentes} />
-      <Compartilhar resultado={r} />
+      <Compartilhar texto={resumoEmTexto(r)} />
     </div>
   );
 }
@@ -324,43 +324,4 @@ function resumoEmTexto(r: ResultadoDoSalario) {
     "Estimativa com as regras de 2026; o holerite pode variar com outras verbas e descontos.",
     "Calculado em https://direitodeverdade.com.br/calculadoras/imposto-de-renda",
   ].join("\n");
-}
-
-// Nada sai da página sem um clique: copiar, abrir o WhatsApp ou imprimir
-function Compartilhar({ resultado }: { resultado: ResultadoDoSalario }) {
-  const [aviso, setAviso] = useState("");
-  const texto = resumoEmTexto(resultado);
-
-  async function copiar() {
-    try {
-      await navigator.clipboard.writeText(texto);
-      setAviso("Resumo copiado.");
-    } catch {
-      setAviso("Não deu para copiar automaticamente. Selecione o resumo e copie.");
-    }
-  }
-
-  return (
-    <div>
-      <div className="flex flex-wrap gap-2 print:hidden">
-        <button type="button" onClick={copiar} className={estiloDoBotao}>
-          Copiar resumo
-        </button>
-        <a
-          href={`https://wa.me/?text=${encodeURIComponent(texto)}`}
-          target="_blank"
-          rel="noopener noreferrer"
-          className={estiloDoBotao}
-        >
-          Enviar pelo WhatsApp
-        </a>
-        <button type="button" onClick={() => window.print()} className={estiloDoBotao}>
-          Imprimir ou salvar em PDF
-        </button>
-      </div>
-      <p aria-live="polite" className="mt-2 text-sm text-muted">
-        {aviso}
-      </p>
-    </div>
-  );
 }

@@ -1,0 +1,595 @@
+[
+ {
+  "nome": "sem justa causa, 3 anos, aviso indenizado",
+  "entrada": {
+   "motivo": "sem-justa-causa",
+   "salario": 300000,
+   "admissao": "2023-02-01",
+   "saida": "2026-10-20",
+   "fgtsParaFinsRescisorios": 900000
+  },
+  "esperado": {
+   "verbas": {
+    "saldo": 200000,
+    "aviso": 390000,
+    "decimo-proporcional": 250000,
+    "decimo-aviso": 25000,
+    "ferias-proporcionais": 225000,
+    "ferias-aviso": 25000,
+    "terco": 83333
+   },
+   "bruto": 1198333,
+   "descontos": {
+    "inss-saldo": 15569,
+    "inss-13": 22319
+   },
+   "liquido": 1160445,
+   "fgts": {
+    "depositos": 69200,
+    "multa": 387680
+   },
+   "diasDeAviso": 39,
+   "fimProjetado": "2026-11-28",
+   "prazo": "2026-10-30"
+  }
+ },
+ {
+  "nome": "acordo, mesmos dados",
+  "entrada": {
+   "motivo": "acordo",
+   "salario": 300000,
+   "admissao": "2023-02-01",
+   "saida": "2026-10-20",
+   "fgtsParaFinsRescisorios": 900000
+  },
+  "esperado": {
+   "verbas": {
+    "saldo": 200000,
+    "aviso": 195000,
+    "decimo-proporcional": 250000,
+    "ferias-proporcionais": 225000,
+    "terco": 75000
+   },
+   "bruto": 945000,
+   "descontos": {
+    "inss-saldo": 15569,
+    "inss-13": 20069
+   },
+   "liquido": 909362,
+   "fgts": {
+    "depositos": 51600,
+    "multa": 190320
+   },
+   "diasDeAviso": 39,
+   "fimProjetado": null,
+   "prazo": "2026-10-30"
+  }
+ },
+ {
+  "nome": "pedido com aviso cumprido",
+  "entrada": {
+   "motivo": "pedido",
+   "salario": 300000,
+   "admissao": "2023-02-01",
+   "saida": "2026-10-20",
+   "fgtsParaFinsRescisorios": 900000
+  },
+  "esperado": {
+   "verbas": {
+    "saldo": 200000,
+    "decimo-proporcional": 250000,
+    "ferias-proporcionais": 225000,
+    "terco": 75000
+   },
+   "bruto": 750000,
+   "descontos": {
+    "inss-saldo": 15569,
+    "inss-13": 20069
+   },
+   "liquido": 714362,
+   "fgts": {
+    "depositos": 36000,
+    "multa": 0
+   },
+   "diasDeAviso": 30,
+   "fimProjetado": null,
+   "prazo": "2026-10-30"
+  }
+ },
+ {
+  "nome": "justa causa",
+  "entrada": {
+   "motivo": "justa-causa",
+   "salario": 300000,
+   "admissao": "2023-02-01",
+   "saida": "2026-10-20",
+   "fgtsParaFinsRescisorios": 900000
+  },
+  "esperado": {
+   "verbas": {
+    "saldo": 200000
+   },
+   "bruto": 200000,
+   "descontos": {
+    "inss-saldo": 15569
+   },
+   "liquido": 184431,
+   "fgts": {
+    "depositos": 16000,
+    "multa": 0
+   },
+   "diasDeAviso": 0,
+   "fimProjetado": null,
+   "prazo": "2026-10-30"
+  }
+ },
+ {
+  "nome": "sem justa causa, aviso trabalhado (sem projeção)",
+  "entrada": {
+   "motivo": "sem-justa-causa",
+   "aviso": "trabalhado",
+   "salario": 300000,
+   "admissao": "2023-02-01",
+   "saida": "2026-10-20",
+   "fgtsParaFinsRescisorios": 900000
+  },
+  "esperado": {
+   "verbas": {
+    "saldo": 200000,
+    "decimo-proporcional": 250000,
+    "ferias-proporcionais": 225000,
+    "terco": 75000
+   },
+   "bruto": 750000,
+   "descontos": {
+    "inss-saldo": 15569,
+    "inss-13": 20069
+   },
+   "liquido": 714362,
+   "fgts": {
+    "depositos": 36000,
+    "multa": 374400
+   },
+   "diasDeAviso": 39,
+   "fimProjetado": null,
+   "prazo": "2026-10-30"
+  }
+ },
+ {
+  "nome": "projeção do aviso completa o período de férias",
+  "entrada": {
+   "motivo": "sem-justa-causa",
+   "salario": 300000,
+   "admissao": "2023-02-01",
+   "saida": "2026-01-20",
+   "fgtsParaFinsRescisorios": 700000
+  },
+  "esperado": {
+   "verbas": {
+    "saldo": 200000,
+    "aviso": 360000,
+    "decimo-proporcional": 25000,
+    "decimo-aviso": 25000,
+    "ferias-proporcionais": 300000,
+    "ferias-aviso": 25000,
+    "terco": 108333
+   },
+   "bruto": 1043333,
+   "descontos": {
+    "inss-saldo": 15569,
+    "inss-13": 3750
+   },
+   "liquido": 1024014,
+   "fgts": {
+    "depositos": 48800,
+    "multa": 299520
+   },
+   "diasDeAviso": 36,
+   "fimProjetado": "2026-02-25",
+   "prazo": "2026-01-30"
+  }
+ },
+ {
+  "nome": "projeção passa para o ano seguinte (13º de dois anos)",
+  "entrada": {
+   "motivo": "sem-justa-causa",
+   "salario": 425037,
+   "admissao": "2021-06-15",
+   "saida": "2026-12-10",
+   "fgtsParaFinsRescisorios": 2100000
+  },
+  "esperado": {
+   "verbas": {
+    "saldo": 141679,
+    "aviso": 637556,
+    "decimo-proporcional": 389617,
+    "decimo-aviso": 70840,
+    "ferias-proporcionais": 212519,
+    "ferias-aviso": 35420,
+    "terco": 82646
+   },
+   "bruto": 1570277,
+   "descontos": {
+    "inss-saldo": 10626,
+    "inss-13": 44615
+   },
+   "liquido": 1515036,
+   "fgts": {
+    "depositos": 99175,
+    "multa": 879670
+   },
+   "diasDeAviso": 45,
+   "fimProjetado": "2027-01-24",
+   "prazo": "2026-12-20"
+  }
+ },
+ {
+  "nome": "admissão em 29/02 (ano bissexto), saída no fim de fevereiro",
+  "entrada": {
+   "motivo": "sem-justa-causa",
+   "salario": 253789,
+   "admissao": "2024-02-29",
+   "saida": "2026-02-28",
+   "fgtsParaFinsRescisorios": 500000
+  },
+  "esperado": {
+   "verbas": {
+    "saldo": 253789,
+    "aviso": 304547,
+    "decimo-proporcional": 42298,
+    "decimo-aviso": 21149,
+    "ferias-aviso": 21149,
+    "terco": 7050
+   },
+   "bruto": 649982,
+   "descontos": {
+    "inss-saldo": 20410,
+    "inss-13": 4759
+   },
+   "liquido": 624813,
+   "fgts": {
+    "depositos": 49743,
+    "multa": 219897
+   },
+   "diasDeAviso": 36,
+   "fimProjetado": "2026-04-05",
+   "prazo": "2026-03-10"
+  }
+ },
+ {
+  "nome": "mês de 31 dias trabalhado inteiro",
+  "entrada": {
+   "motivo": "pedido",
+   "salario": 500000,
+   "admissao": "2025-01-10",
+   "saida": "2026-08-31",
+   "fgtsParaFinsRescisorios": 0
+  },
+  "esperado": {
+   "verbas": {
+    "saldo": 500000,
+    "decimo-proporcional": 333333,
+    "ferias-proporcionais": 333333,
+    "terco": 111111
+   },
+   "bruto": 1277777,
+   "descontos": {
+    "inss-saldo": 50151,
+    "inss-13": 28860
+   },
+   "liquido": 1198766,
+   "fgts": {
+    "depositos": 66667,
+    "multa": 0
+   },
+   "diasDeAviso": 30,
+   "fimProjetado": null,
+   "prazo": "2026-09-10"
+  }
+ },
+ {
+  "nome": "admitido e desligado no mesmo mês, aviso não cumprido",
+  "entrada": {
+   "motivo": "pedido",
+   "aviso": "nao-cumprido",
+   "salario": 300000,
+   "admissao": "2026-10-15",
+   "saida": "2026-10-20",
+   "fgtsParaFinsRescisorios": 0
+  },
+  "esperado": {
+   "verbas": {
+    "saldo": 60000
+   },
+   "bruto": 60000,
+   "descontos": {
+    "inss-saldo": 4500,
+    "aviso-nao-cumprido": 300000
+   },
+   "liquido": 0,
+   "fgts": {
+    "depositos": 4800,
+    "multa": 0
+   },
+   "diasDeAviso": 30,
+   "fimProjetado": null,
+   "prazo": "2026-10-30"
+  }
+ },
+ {
+  "nome": "pedido com 15 dias de aviso cumpridos",
+  "entrada": {
+   "motivo": "pedido",
+   "aviso": "parcial",
+   "diasDeAvisoCumpridos": 15,
+   "salario": 320000,
+   "admissao": "2024-04-01",
+   "saida": "2026-09-15",
+   "fgtsParaFinsRescisorios": 0
+  },
+  "esperado": {
+   "verbas": {
+    "saldo": 160000,
+    "decimo-proporcional": 240000,
+    "ferias-proporcionais": 160000,
+    "terco": 53333
+   },
+   "bruto": 613333,
+   "descontos": {
+    "inss-saldo": 12000,
+    "inss-13": 19169,
+    "aviso-nao-cumprido": 160000
+   },
+   "liquido": 422164,
+   "fgts": {
+    "depositos": 32000,
+    "multa": 0
+   },
+   "diasDeAviso": 30,
+   "fimProjetado": null,
+   "prazo": "2026-09-25"
+  }
+ },
+ {
+  "nome": "pedido, empresa dispensou o aviso",
+  "entrada": {
+   "motivo": "pedido",
+   "aviso": "dispensado",
+   "salario": 320000,
+   "admissao": "2024-04-01",
+   "saida": "2026-09-15",
+   "fgtsParaFinsRescisorios": 0
+  },
+  "esperado": {
+   "verbas": {
+    "saldo": 160000,
+    "decimo-proporcional": 240000,
+    "ferias-proporcionais": 160000,
+    "terco": 53333
+   },
+   "bruto": 613333,
+   "descontos": {
+    "inss-saldo": 12000,
+    "inss-13": 19169
+   },
+   "liquido": 582164,
+   "fgts": {
+    "depositos": 32000,
+    "multa": 0
+   },
+   "diasDeAviso": 30,
+   "fimProjetado": null,
+   "prazo": "2026-09-25"
+  }
+ },
+ {
+  "nome": "pedido com menos de 1 ano (férias proporcionais devidas)",
+  "entrada": {
+   "motivo": "pedido",
+   "salario": 210000,
+   "admissao": "2026-03-02",
+   "saida": "2026-09-25",
+   "fgtsParaFinsRescisorios": 0
+  },
+  "esperado": {
+   "verbas": {
+    "saldo": 175000,
+    "decimo-proporcional": 122500,
+    "ferias-proporcionais": 122500,
+    "terco": 40833
+   },
+   "bruto": 460833,
+   "descontos": {
+    "inss-saldo": 13319,
+    "inss-13": 9188
+   },
+   "liquido": 438326,
+   "fgts": {
+    "depositos": 23800,
+    "multa": 0
+   },
+   "diasDeAviso": 30,
+   "fimProjetado": null,
+   "prazo": "2026-10-05"
+  }
+ },
+ {
+  "nome": "justa causa com 2 férias vencidas (uma em dobro)",
+  "entrada": {
+   "motivo": "justa-causa",
+   "feriasVencidas": 2,
+   "salario": 300000,
+   "admissao": "2020-03-10",
+   "saida": "2026-10-20",
+   "fgtsParaFinsRescisorios": 0
+  },
+  "esperado": {
+   "verbas": {
+    "saldo": 200000,
+    "ferias-vencidas": 900000,
+    "terco": 300000
+   },
+   "bruto": 1400000,
+   "descontos": {
+    "inss-saldo": 15569
+   },
+   "liquido": 1384431,
+   "fgts": {
+    "depositos": 16000,
+    "multa": 0
+   },
+   "diasDeAviso": 0,
+   "fimProjetado": null,
+   "prazo": "2026-10-30"
+  }
+ },
+ {
+  "nome": "sem justa causa com 1 férias vencida, dentro do prazo",
+  "entrada": {
+   "motivo": "sem-justa-causa",
+   "feriasVencidas": 1,
+   "salario": 600000,
+   "admissao": "2022-05-02",
+   "saida": "2026-07-31",
+   "fgtsParaFinsRescisorios": 3000000
+  },
+  "esperado": {
+   "verbas": {
+    "saldo": 600000,
+    "aviso": 840000,
+    "decimo-proporcional": 350000,
+    "decimo-aviso": 50000,
+    "ferias-vencidas": 600000,
+    "ferias-proporcionais": 150000,
+    "ferias-aviso": 50000,
+    "terco": 266667
+   },
+   "bruto": 2906667,
+   "descontos": {
+    "inss-saldo": 64151,
+    "inss-13": 36860,
+    "ir-saldo": 38510
+   },
+   "liquido": 2767146,
+   "fgts": {
+    "depositos": 147200,
+    "multa": 1258880
+   },
+   "diasDeAviso": 42,
+   "fimProjetado": "2026-09-11",
+   "prazo": "2026-08-10"
+  }
+ },
+ {
+  "nome": "25 anos de empresa (aviso máximo de 90 dias), salário acima do teto do INSS",
+  "entrada": {
+   "motivo": "sem-justa-causa",
+   "salario": 1200000,
+   "admissao": "2001-03-05",
+   "saida": "2026-11-18",
+   "dependentes": 2,
+   "fgtsParaFinsRescisorios": 25000000
+  },
+  "esperado": {
+   "verbas": {
+    "saldo": 720000,
+    "aviso": 3600000,
+    "decimo-proporcional": 1100000,
+    "decimo-aviso": 300000,
+    "ferias-proporcionais": 800000,
+    "ferias-aviso": 300000,
+    "terco": 366667
+   },
+   "bruto": 7186667,
+   "descontos": {
+    "inss-saldo": 80951,
+    "inss-13": 98809,
+    "ir-saldo": 72440,
+    "ir-13": 256527
+   },
+   "liquido": 6677940,
+   "fgts": {
+    "depositos": 457600,
+    "multa": 10183040
+   },
+   "diasDeAviso": 90,
+   "fimProjetado": "2027-02-16",
+   "prazo": "2026-11-28"
+  }
+ },
+ {
+  "nome": "modo detalhado: médias, 13º adiantado, outros descontos, dependentes",
+  "entrada": {
+   "motivo": "sem-justa-causa",
+   "salario": 450000,
+   "mediaVariaveis": 82050,
+   "adiantamento13": 260000,
+   "outrosDescontos": 30000,
+   "dependentes": 1,
+   "feriasVencidas": 1,
+   "admissao": "2019-08-19",
+   "saida": "2026-12-04",
+   "fgtsParaFinsRescisorios": 4200000
+  },
+  "esperado": {
+   "verbas": {
+    "saldo": 60000,
+    "aviso": 904485,
+    "decimo-proporcional": 487713,
+    "decimo-aviso": 88675,
+    "ferias-vencidas": 532050,
+    "ferias-proporcionais": 177350,
+    "ferias-aviso": 44338,
+    "terco": 251246
+   },
+   "bruto": 2545857,
+   "descontos": {
+    "inss-saldo": 4500,
+    "inss-13": 60846,
+    "ir-13": 24568,
+    "adiantamento-13": 260000,
+    "outros": 30000
+   },
+   "liquido": 2165943,
+   "fgts": {
+    "depositos": 123270,
+    "multa": 1729308
+   },
+   "diasDeAviso": 51,
+   "fimProjetado": "2027-01-24",
+   "prazo": "2026-12-14"
+  }
+ },
+ {
+  "nome": "acordo com aviso trabalhado",
+  "entrada": {
+   "motivo": "acordo",
+   "aviso": "trabalhado",
+   "salario": 380000,
+   "admissao": "2022-11-07",
+   "saida": "2026-06-12",
+   "fgtsParaFinsRescisorios": 1400000
+  },
+  "esperado": {
+   "verbas": {
+    "saldo": 152000,
+    "decimo-proporcional": 158333,
+    "ferias-proporcionais": 221667,
+    "terco": 73889
+   },
+   "bruto": 605889,
+   "descontos": {
+    "inss-saldo": 11400,
+    "inss-13": 11875
+   },
+   "liquido": 582614,
+   "fgts": {
+    "depositos": 24827,
+    "multa": 284965
+   },
+   "diasDeAviso": 39,
+   "fimProjetado": null,
+   "prazo": "2026-06-22"
+  }
+ }
+]

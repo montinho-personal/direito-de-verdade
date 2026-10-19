@@ -1,7 +1,7 @@
-// Peças de formulário e de resultado usadas pelas calculadoras de salário e imposto
-// de renda (calculadora do IR, comparador de salários e conferência do holerite).
+// Peças de formulário e de resultado usadas pelas calculadoras de imposto de renda,
+// salário e rescisão.
 import Link from "next/link";
-import type { ReactNode } from "react";
+import { type ReactNode, useState } from "react";
 import { PARAMETROS_2026 } from "@/lib/tributos/parametros-2026.ts";
 
 export const estiloDoCampo =
@@ -19,6 +19,7 @@ export function Campo({
   valor,
   aoMudar,
   modo = "decimal",
+  tipo = "text",
   exemplo,
 }: {
   id: string;
@@ -28,6 +29,7 @@ export function Campo({
   valor: string;
   aoMudar: (valor: string) => void;
   modo?: "decimal" | "numeric";
+  tipo?: "text" | "date";
   exemplo?: string;
 }) {
   const descricao = [dica ? `${id}-dica` : null, erro ? `${id}-erro` : null]
@@ -40,8 +42,8 @@ export function Campo({
       </label>
       <input
         id={id}
-        type="text"
-        inputMode={modo}
+        type={tipo}
+        inputMode={tipo === "date" ? undefined : modo}
         autoComplete="off"
         placeholder={exemplo}
         value={valor}
@@ -58,6 +60,49 @@ export function Campo({
       {erro && (
         <p id={`${id}-erro`} className="mt-1 text-sm text-red-700">
           {erro}
+        </p>
+      )}
+    </div>
+  );
+}
+
+// Lista de opções com rótulo e dica ligados ao campo
+export function Escolha<T extends string>({
+  id,
+  rotulo,
+  dica,
+  valor,
+  opcoes,
+  aoMudar,
+}: {
+  id: string;
+  rotulo: string;
+  dica?: ReactNode;
+  valor: T;
+  opcoes: { valor: T; nome: string }[];
+  aoMudar: (valor: T) => void;
+}) {
+  return (
+    <div>
+      <label htmlFor={id} className="block text-sm font-medium">
+        {rotulo}
+      </label>
+      <select
+        id={id}
+        value={valor}
+        onChange={(evento) => aoMudar(evento.target.value as T)}
+        aria-describedby={dica ? `${id}-dica` : undefined}
+        className={estiloDoCampo}
+      >
+        {opcoes.map((opcao) => (
+          <option key={opcao.valor} value={opcao.valor}>
+            {opcao.nome}
+          </option>
+        ))}
+      </select>
+      {dica && (
+        <p id={`${id}-dica`} className="mt-1 text-xs leading-5 text-muted">
+          {dica}
         </p>
       )}
     </div>
@@ -112,6 +157,44 @@ export function NotaDaEstimativa({ children }: { children?: ReactNode }) {
         >
           Como calculamos
         </Link>
+      </p>
+    </div>
+  );
+}
+
+// Copiar, enviar pelo WhatsApp ou imprimir. Nada sai da página sem um clique.
+export function Compartilhar({ texto }: { texto: string }) {
+  const [aviso, setAviso] = useState("");
+
+  async function copiar() {
+    try {
+      await navigator.clipboard.writeText(texto);
+      setAviso("Resumo copiado.");
+    } catch {
+      setAviso("Não deu para copiar automaticamente. Selecione o resumo e copie.");
+    }
+  }
+
+  return (
+    <div>
+      <div className="flex flex-wrap gap-2 print:hidden">
+        <button type="button" onClick={copiar} className={estiloDoBotao}>
+          Copiar resumo
+        </button>
+        <a
+          href={`https://wa.me/?text=${encodeURIComponent(texto)}`}
+          target="_blank"
+          rel="noopener noreferrer"
+          className={estiloDoBotao}
+        >
+          Enviar pelo WhatsApp
+        </a>
+        <button type="button" onClick={() => window.print()} className={estiloDoBotao}>
+          Imprimir ou salvar em PDF
+        </button>
+      </div>
+      <p aria-live="polite" className="mt-2 text-sm text-muted">
+        {aviso}
       </p>
     </div>
   );

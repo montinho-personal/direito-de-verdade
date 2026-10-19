@@ -9,6 +9,8 @@ export const FERRAMENTAS = [
   "calculadora-seguro-desemprego",
   "comparador-de-salario",
   "conferir-holerite",
+  "comparador-de-rescisao",
+  "conferir-trct",
 ] as const;
 
 export type IdDaFerramenta = (typeof FERRAMENTAS)[number];

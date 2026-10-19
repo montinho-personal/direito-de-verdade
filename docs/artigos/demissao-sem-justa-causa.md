@@ -38,7 +38,7 @@ Todas abertas em 19/10/2026 (pesquisa com textos em
 | Sem IR: férias indenizadas e 1/3 (P178); aviso não trabalhado, indenização e FGTS (P275); 13º exclusivo na fonte (P332) | [Receita, P&R IRPF 2026](https://www.gov.br/receitafederal/pt-br/centrais-de-conteudo/publicacoes/perguntas-e-respostas/dirpf/p-r-irpf-2026-v1-00-2026-04-23.pdf) | oficial |
 | Seguro-desemprego: 12/18, 9/12, 6 meses; canais gov.br, Carteira de Trabalho Digital, 158, presencial | [Lei 7.998](https://www2.camara.leg.br/legin/fed/lei/1990/lei-7998-11-janeiro-1990-366029-normaatualizada-pl.pdf); [gov.br](https://www.gov.br/pt-br/servicos/solicitar-o-seguro-desemprego) | oficial |
 
-Exemplo de R$ 1.500 e o de 45 dias: cálculo próprio com `src/lib/rescisao.ts`.
+Exemplo de R$ 1.500 e o de 45 dias: cálculo à mão (art. 479); a calculadora usa `src/lib/trabalhista/rescisao.ts`.
 
 ## Pendente
 

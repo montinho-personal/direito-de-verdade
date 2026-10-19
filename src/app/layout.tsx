@@ -50,6 +50,20 @@ export default function RootLayout({ children }: LayoutProps<"/">) {
             crossOrigin="anonymous"
           />
         )}
+        {site.googleAnalytics && (
+          <>
+            <script
+              async
+              src={`https://www.googletagmanager.com/gtag/js?id=${site.googleAnalytics}`}
+            />
+            <script
+              // Configuração padrão do Google Analytics 4 (mede as visitas às páginas)
+              dangerouslySetInnerHTML={{
+                __html: `window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}gtag("js",new Date());gtag("config","${site.googleAnalytics}");`,
+              }}
+            />
+          </>
+        )}
         <Cabecalho />
         <main className="flex flex-1 flex-col">{children}</main>
         <Rodape />
