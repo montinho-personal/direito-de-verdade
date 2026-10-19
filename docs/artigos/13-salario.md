@@ -1,6 +1,6 @@
 # Artigo: 13º salário 2026 (`/artigos/13-salario`)
 
-Escrito em 19/10/2026, a partir dos prints do Renato. Primeiro artigo do site.
+Escrito e publicado em 19/10/2026, a partir dos prints do Renato. Primeiro artigo do site.
 
 ## Por que existe
 
@@ -168,6 +168,13 @@ ambiente):
   decreto). O texto fala só em "média do ano" para variáveis.
 - **Tabela de exemplos com 4 colunas e valores sem "R$"**: com 5 colunas,
   a coluna do total sumia no celular.
+- **FAQ abre e fecha** (pedido do Renato na revisão): cada resposta fica
+  fechada até tocar na pergunta. O texto continua no HTML, e o Google lê.
+- **Vídeo no fim** (indicado pelo Renato na revisão): youtu.be/bG82-fBIGqc,
+  depois das perguntas frequentes. Só a capa carrega com a página; o player
+  do YouTube vem no toque, para não pesar no celular. O título e o canal do
+  vídeo não puderam ser conferidos daqui (o YouTube não abre neste
+  ambiente).
 - **FAQ**: só PAA que não virou H2 (R$ 1.600, R$ 2.000, como saber se tenho
   direito, tabela do 13º 2026).
 - **Links internos**: nenhum por enquanto, porque é o primeiro artigo. Ao

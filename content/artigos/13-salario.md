@@ -13,6 +13,9 @@ faq:
     resposta: "Se você tem carteira assinada (inclusive como doméstica ou jovem aprendiz) e trabalhou pelo menos 15 dias em algum mês do ano, tem direito a pelo menos 1/12 do 13º. Aposentados e pensionistas do INSS conferem o valor e a data no aplicativo ou no site [Meu INSS](https://meu.inss.gov.br/), ou pelo telefone 135. Estagiário, autônomo e quem recebe o BPC não têm 13º."
   - pergunta: "Qual é a tabela do 13º salário para 2026?"
     resposta: "Para quem tem carteira assinada: 1ª parcela até 30 de novembro, com metade do valor e sem descontos; 2ª parcela até 18 de dezembro, com o restante e os descontos. O INSS segue a tabela de 2026 (7,5% até R$ 1.621; 9% até R$ 2.902,84; 12% até R$ 4.354,27; 14% até R$ 8.475,55), aplicada sobre o 13º separado do salário. Com 13º de até R$ 5 mil, não há imposto de renda."
+video:
+  url: "https://youtu.be/bG82-fBIGqc"
+  titulo: "Vídeo sobre o 13º salário"
 fontes:
   - nome: "Lei nº 4.090/1962: cria o 13º salário (Planalto)"
     url: "https://www.planalto.gov.br/ccivil_03/leis/l4090.htm"

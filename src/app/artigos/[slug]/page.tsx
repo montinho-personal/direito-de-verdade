@@ -3,6 +3,7 @@ import { notFound } from "next/navigation";
 import { Calculadora13Salario } from "@/components/calculadora-13-salario";
 import { CartaoArtigo } from "@/components/cartao-artigo";
 import { Migalhas } from "@/components/migalhas";
+import { VideoDoYoutube } from "@/components/video-do-youtube";
 import {
   artigoPorSlug,
   artigosRelacionados,
@@ -104,6 +105,7 @@ export default async function PaginaDoArtigo({
     ...(artigo.faq.length
       ? [{ id: "perguntas-frequentes", titulo: "Perguntas frequentes" }]
       : []),
+    ...(artigo.video ? [{ id: "video", titulo: "Assista em vídeo" }] : []),
   ];
 
   return (
@@ -199,14 +201,50 @@ export default async function PaginaDoArtigo({
           )}
 
           {artigo.faq.length > 0 && (
-            <section aria-labelledby="perguntas-frequentes" className="texto mt-12">
-              <h2 id="perguntas-frequentes">Perguntas frequentes</h2>
-              {artigo.faq.map((item) => (
-                <div key={item.pergunta}>
-                  <h3>{item.pergunta}</h3>
-                  <p dangerouslySetInnerHTML={{ __html: item.respostaHtml }} />
-                </div>
-              ))}
+            <section aria-labelledby="perguntas-frequentes" className="mt-12">
+              <h2
+                id="perguntas-frequentes"
+                className="scroll-mt-6 font-serif text-[1.625rem] leading-snug"
+              >
+                Perguntas frequentes
+              </h2>
+              {/* Cada resposta abre e fecha ao tocar na pergunta; fechada, continua na
+                  página (o Google lê) */}
+              <div className="mt-6 divide-y divide-border rounded-2xl border border-border bg-surface">
+                {artigo.faq.map((item) => (
+                  <details key={item.pergunta} className="group">
+                    <summary className="flex cursor-pointer list-none items-center justify-between gap-4 px-5 py-4 focus-visible:outline-2 focus-visible:-outline-offset-2 focus-visible:outline-gold [&::-webkit-details-marker]:hidden">
+                      <h3 className="text-[1.0625rem] font-semibold leading-snug">
+                        {item.pergunta}
+                      </h3>
+                      <svg
+                        aria-hidden="true"
+                        viewBox="0 0 24 24"
+                        fill="none"
+                        stroke="currentColor"
+                        strokeWidth="2"
+                        strokeLinecap="round"
+                        strokeLinejoin="round"
+                        className="h-5 w-5 shrink-0 text-accent transition-transform group-open:rotate-180"
+                      >
+                        <path d="m6 9 6 6 6-6" />
+                      </svg>
+                    </summary>
+                    <div className="texto px-5 pb-5">
+                      <p dangerouslySetInnerHTML={{ __html: item.respostaHtml }} />
+                    </div>
+                  </details>
+                ))}
+              </div>
+            </section>
+          )}
+
+          {artigo.video && (
+            <section aria-labelledby="video" className="mt-12">
+              <h2 id="video" className="scroll-mt-6 font-serif text-[1.625rem] leading-snug">
+                Assista em vídeo
+              </h2>
+              <VideoDoYoutube id={artigo.video.id} titulo={artigo.video.titulo} />
             </section>
           )}
 

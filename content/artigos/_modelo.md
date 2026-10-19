@@ -40,6 +40,12 @@ publicadoEm: 2026-10-19
 #   - pergunta: "Outra pergunta?"
 #     resposta: "Outra resposta."
 
+# Opcional: vídeo do YouTube, só quando o Renato indicar. Aparece no fim do artigo,
+# depois das perguntas frequentes; o player só carrega quando a pessoa toca no play.
+# video:
+#   url: "https://youtu.be/XXXXXXXXXXX"
+#   titulo: "Do que o vídeo trata"
+
 # Opcional: fontes oficiais usadas no texto (lei no Planalto, gov.br, INSS, tribunais).
 # Viram a seção "Fontes" no fim do artigo. A url precisa começar com https://
 # fontes:

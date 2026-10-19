@@ -64,6 +64,8 @@ A pauta geral fica em `docs/pauta-editorial.md`.
   variada entre artigos; nunca link forçado só para ter link.
 - Links externos só para fontes oficiais, e toda fonte usada vai também no
   campo `fontes` (seção "Fontes" no fim).
+- Vídeo do YouTube (campo `video`) só quando o Renato indicar; entra no fim
+  do artigo, depois das perguntas frequentes.
 - O aviso "Importante" (informativo, procure advogado ou Defensoria) é
   automático; não prometer resultado de processo nem valor de indenização.
 - O site não presta consultoria e não indica escritório.
@@ -77,3 +79,7 @@ nunca em massa: o Google ignora `lastmod` quando tudo muda junto.
 
 Artigos novos um de cada vez: um publicado e conferido no ar antes do
 próximo. Publicar rápido é seguro; publicar rápido, igual e raso não é.
+
+Publicar direto em `main`, sem esperar aprovação (pedido do Renato em
+19/10/2026), e sempre mandar a ele o link do artigo no ar para conferir.
+Os prints do Google continuam vindo antes de escrever.

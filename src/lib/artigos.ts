@@ -18,6 +18,9 @@ export type Pergunta = { pergunta: string; respostaHtml: string; respostaTexto: 
 
 export type Fonte = { nome: string; url: string };
 
+// Vídeo do YouTube exibido no fim do artigo
+export type Video = { id: string; titulo: string };
+
 // O texto do artigo, com a ferramenta (quando houver) no lugar marcado
 export type ParteDoTexto =
   | { tipo: "texto"; html: string }
@@ -39,6 +42,7 @@ export type Artigo = {
   secoes: Secao[];
   faq: Pergunta[];
   fontes: Fonte[];
+  video?: Video;
   minutosDeLeitura: number;
 };
 
@@ -57,11 +61,17 @@ export function criarSlug(texto: string) {
 function textoSemHtml(html: string) {
   return html
     .replace(/<[^>]+>/g, "")
+    .replace(/&nbsp;/g, " ")
     .replace(/&quot;/g, '"')
     .replace(/&#39;/g, "'")
     .replace(/&lt;/g, "<")
     .replace(/&gt;/g, ">")
     .replace(/&amp;/g, "&");
+}
+
+// "R$ 1.600" não quebra entre o símbolo e o número
+function juntarValores(html: string) {
+  return html.replace(/R\$ (?=\d)/g, () => "R$&nbsp;");
 }
 
 // Links para outros sites abrem em nova aba
@@ -78,9 +88,9 @@ function link(this: Renderer, token: Tokens.Link) {
 // Para textos curtos (respostas do FAQ): só negrito, itálico e links
 const conversorDeTrechos = new Marked({ gfm: true, renderer: { link } });
 
-// Ids das seções "Perguntas frequentes" e "Fontes"; um título do texto com o mesmo
-// nome ganha um sufixo para não repetir o id
-const IDS_RESERVADOS = ["perguntas-frequentes", "fontes"];
+// Ids das seções "Perguntas frequentes", "Vídeo" e "Fontes"; um título do texto com o
+// mesmo nome ganha um sufixo para não repetir o id
+const IDS_RESERVADOS = ["perguntas-frequentes", "video", "fontes"];
 
 function converterMarkdown(markdown: string) {
   const secoes: Secao[] = [];
@@ -106,7 +116,7 @@ function converterMarkdown(markdown: string) {
     },
   });
 
-  const completo = conversor.parse(markdown, { async: false });
+  const completo = juntarValores(conversor.parse(markdown, { async: false }));
 
   // O primeiro parágrafo vira o lead, exibido em destaque abaixo do título
   const primeiro = completo.match(/^\s*<p>([\s\S]*?)<\/p>\n?/);
@@ -172,9 +182,10 @@ function lerFaq(valor: unknown, arquivo: string): Pergunta[] {
       throw new Error(`${arquivo}: ${campo} precisa ter "pergunta" e "resposta"`);
     }
     const { pergunta, resposta } = item as Record<string, unknown>;
-    const respostaHtml = conversorDeTrechos.parseInline(
-      lerTexto(resposta, `${campo}: resposta`, arquivo),
-      { async: false },
+    const respostaHtml = juntarValores(
+      conversorDeTrechos.parseInline(lerTexto(resposta, `${campo}: resposta`, arquivo), {
+        async: false,
+      }),
     );
     return {
       pergunta: lerTexto(pergunta, `${campo}: pergunta`, arquivo),
@@ -201,6 +212,24 @@ function lerFontes(valor: unknown, arquivo: string): Fonte[] {
     }
     return { nome: lerTexto(nome, `${campo}: nome`, arquivo), url: endereco };
   });
+}
+
+// Aceita youtu.be/ID, youtube.com/watch?v=ID, /shorts/ID e /embed/ID
+const ENDERECO_DO_YOUTUBE =
+  /^https:\/\/(?:www\.|m\.)?(?:youtu\.be\/|youtube\.com\/(?:watch\?(?:.*&)?v=|shorts\/|embed\/))([\w-]{11})(?:[?&#].*)?$/;
+
+function lerVideo(valor: unknown, arquivo: string): Video | undefined {
+  if (valor === undefined) return undefined;
+  if (typeof valor !== "object" || valor === null) {
+    throw new Error(`${arquivo}: "video" precisa ter "url" e "titulo"`);
+  }
+  const { url, titulo } = valor as Record<string, unknown>;
+  const endereco = lerTexto(url, "video: url", arquivo);
+  const id = endereco.match(ENDERECO_DO_YOUTUBE)?.[1];
+  if (!id) {
+    throw new Error(`${arquivo}: "video: url" precisa ser um link do YouTube`);
+  }
+  return { id, titulo: lerTexto(titulo, "video: titulo", arquivo) };
 }
 
 function lerArtigo(arquivo: string): Artigo | null {
@@ -250,6 +279,7 @@ function lerArtigo(arquivo: string): Artigo | null {
     secoes,
     faq,
     fontes: lerFontes(dados.fontes, arquivo),
+    video: lerVideo(dados.video, arquivo),
     minutosDeLeitura: Math.max(1, Math.round(palavras / 200)),
   };
 }
