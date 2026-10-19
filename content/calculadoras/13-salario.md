@@ -106,7 +106,7 @@ O que a calculadora não sabe, e pode deixar o seu valor diferente:
 
 - **Salário de dezembro:** o 13º é calculado sobre ele. Um aumento no fim do ano muda o valor.
 - **Faltas sem justificativa** que deixem algum mês com menos de 15 dias trabalhados.
-- **Pensão alimentícia** descontada em folha, que a calculadora não inclui.
+- **Pensão alimentícia** descontada em folha, que a calculadora não inclui. Veja [quanto da pensão sai do 13º](/artigos/pensao-alimenticia-13-salario).
 - **Adiantamento nas férias:** quem pediu a 1ª parcela junto com as férias já recebeu essa metade antes.
 
 As datas de pagamento, quem tem direito e o que fazer se a empresa atrasar estão no [guia do 13º salário 2026](/artigos/13-salario).

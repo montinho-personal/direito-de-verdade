@@ -152,6 +152,10 @@ Em 2026 entrou em vigor a nova isenção para quem ganha até R$ 5 mil (Lei nº 
 
 Acima de R$ 5 mil, o valor depende também dos seus dependentes: cada um diminui a base do imposto. A [calculadora do 13º salário com imposto de renda](/calculadoras/13-salario) faz essa conta, e as tabelas oficiais estão no [site da Receita Federal](https://www.gov.br/receitafederal/pt-br/assuntos/meu-imposto-de-renda/tabelas/2026).
 
+### Pensão alimentícia
+
+Quem paga pensão em percentual do salário também tem a pensão descontada do 13º, salvo se a decisão excluir. Veja quando a [pensão alimentícia incide sobre o 13º](/artigos/pensao-alimenticia-13-salario) e quanto descontar.
+
 ## Quem tem direito ao 13º salário?
 
 O 13º é direito de quem é **empregado**, mesmo que só tenha trabalhado parte do ano. Têm direito:
