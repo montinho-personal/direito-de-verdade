@@ -1,6 +1,6 @@
 // Conta do 13º salário de quem trabalha com carteira assinada, com os valores de 2026.
 // Fontes de cada número em docs/artigos/13-salario.md e
-// docs/artigos/calculadora-13-salario.md. Revisar todo ano.
+// docs/calculadoras/13-salario.md. Revisar todo ano.
 
 // Tabela de contribuição do INSS de 2026 (Portaria Interministerial MPS/MF nº 13/2026).
 // A alíquota de cada faixa vale só para a parte do valor que cai nela.

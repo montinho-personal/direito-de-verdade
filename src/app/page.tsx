@@ -1,6 +1,6 @@
 import Link from "next/link";
 import { CartaoArtigo } from "@/components/cartao-artigo";
-import { todosOsArtigos } from "@/lib/artigos";
+import { todasAsCalculadoras, todosOsArtigos } from "@/lib/artigos";
 import { metadadosDaPagina } from "@/lib/metadados";
 import { site } from "@/lib/site";
 
@@ -50,6 +50,7 @@ const pilares = [
 
 export default function Home() {
   const recentes = todosOsArtigos().slice(0, 3);
+  const calculadoras = todasAsCalculadoras().slice(0, 3);
 
   return (
     <>
@@ -101,6 +102,29 @@ export default function Home() {
           <div className="mt-8 grid gap-6 sm:grid-cols-2 lg:grid-cols-3">
             {recentes.map((artigo) => (
               <CartaoArtigo key={artigo.slug} artigo={artigo} tituloComo="h3" />
+            ))}
+          </div>
+        </section>
+      )}
+
+      {calculadoras.length > 0 && (
+        <section className="mx-auto w-full max-w-5xl px-6 pt-20">
+          <div className="flex flex-wrap items-end justify-between gap-4">
+            <h2 className="font-serif text-3xl sm:text-4xl">Calculadoras</h2>
+            <Link
+              href="/calculadoras"
+              className="font-medium text-accent underline underline-offset-4 hover:no-underline"
+            >
+              Ver todas as calculadoras
+            </Link>
+          </div>
+          <div className="mt-8 grid gap-6 sm:grid-cols-2 lg:grid-cols-3">
+            {calculadoras.map((calculadora) => (
+              <CartaoArtigo
+                key={calculadora.slug}
+                artigo={calculadora}
+                tituloComo="h3"
+              />
             ))}
           </div>
         </section>

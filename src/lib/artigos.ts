@@ -5,8 +5,10 @@ import { Marked, Renderer, type Tokens } from "marked";
 import { categoriaPorSlug, categorias, type Categoria } from "@/lib/categorias";
 import { ehFerramenta, FERRAMENTAS, type IdDaFerramenta } from "@/lib/ferramentas";
 
-// Cada artigo é um arquivo .md nesta pasta. Arquivos que começam com "_" são ignorados.
-const PASTA = path.join(process.cwd(), "content", "artigos");
+// Cada artigo é um arquivo .md em content/artigos; cada calculadora, em
+// content/calculadoras. Arquivos que começam com "_" são ignorados.
+// A coleção também é o começo do endereço: /artigos/<slug> e /calculadoras/<slug>.
+export type Colecao = "artigos" | "calculadoras";
 
 // Limite do título na aba do navegador e no Google (o Google corta perto de 60)
 const LIMITE_TITULO_SEO = 70;
@@ -27,7 +29,10 @@ export type ParteDoTexto =
   | { tipo: "ferramenta"; id: IdDaFerramenta };
 
 export type Artigo = {
+  colecao: Colecao;
   slug: string;
+  // Endereço da página, por exemplo /artigos/13-salario
+  caminho: string;
   titulo: string;
   tituloSeo?: string;
   descricao: string;
@@ -232,7 +237,7 @@ function lerVideo(valor: unknown, arquivo: string): Video | undefined {
   return { id, titulo: lerTexto(titulo, "video: titulo", arquivo) };
 }
 
-function lerArtigo(arquivo: string): Artigo | null {
+function lerArtigo(colecao: Colecao, arquivo: string): Artigo | null {
   const slug = arquivo.replace(/\.md$/, "");
   if (!/^[a-z0-9]+(-[a-z0-9]+)*$/.test(slug)) {
     throw new Error(
@@ -241,7 +246,7 @@ function lerArtigo(arquivo: string): Artigo | null {
   }
 
   const { data: dados, content: conteudo } = matter(
-    fs.readFileSync(path.join(PASTA, arquivo), "utf8"),
+    fs.readFileSync(path.join(process.cwd(), "content", colecao, arquivo), "utf8"),
   );
 
   // Rascunhos só aparecem rodando o site no computador (npm run dev)
@@ -263,7 +268,9 @@ function lerArtigo(arquivo: string): Artigo | null {
   const palavras = `${conteudo} ${textoDoFaq}`.split(/\s+/).filter(Boolean).length;
 
   return {
+    colecao,
     slug,
+    caminho: `/${colecao}/${slug}`,
     titulo: lerTexto(dados.titulo, "titulo", arquivo),
     tituloSeo: lerTituloSeo(dados.tituloSeo, arquivo),
     descricao: lerTexto(dados.descricao, "descricao", arquivo),
@@ -284,12 +291,13 @@ function lerArtigo(arquivo: string): Artigo | null {
   };
 }
 
-function carregarArtigos() {
-  if (!fs.existsSync(PASTA)) return [];
+function carregar(colecao: Colecao) {
+  const pasta = path.join(process.cwd(), "content", colecao);
+  if (!fs.existsSync(pasta)) return [];
   return fs
-    .readdirSync(PASTA)
+    .readdirSync(pasta)
     .filter((arquivo) => arquivo.endsWith(".md") && !arquivo.startsWith("_"))
-    .map(lerArtigo)
+    .map((arquivo) => lerArtigo(colecao, arquivo))
     .filter((artigo) => artigo !== null)
     .sort(
       (a, b) =>
@@ -298,18 +306,32 @@ function carregarArtigos() {
     );
 }
 
-let artigosCarregados: Artigo[] | undefined;
+const carregados = new Map<Colecao, Artigo[]>();
 
 // Do mais recente para o mais antigo
-export function todosOsArtigos() {
+function daColecao(colecao: Colecao) {
   // Em desenvolvimento, relê os arquivos a cada página para mostrar as edições na hora
-  if (process.env.NODE_ENV === "development") return carregarArtigos();
-  artigosCarregados ??= carregarArtigos();
-  return artigosCarregados;
+  if (process.env.NODE_ENV === "development") return carregar(colecao);
+  if (!carregados.has(colecao)) carregados.set(colecao, carregar(colecao));
+  return carregados.get(colecao)!;
+}
+
+export function todosOsArtigos() {
+  return daColecao("artigos");
 }
 
 export function artigoPorSlug(slug: string) {
   return todosOsArtigos().find((artigo) => artigo.slug === slug);
+}
+
+// As calculadoras têm a mesma estrutura dos artigos, mas ficam na seção própria
+// (/calculadoras), fora da lista de artigos e das páginas de categoria
+export function todasAsCalculadoras() {
+  return daColecao("calculadoras");
+}
+
+export function calculadoraPorSlug(slug: string) {
+  return todasAsCalculadoras().find((calculadora) => calculadora.slug === slug);
 }
 
 export function artigosDaCategoria(slug: string) {
@@ -323,7 +345,9 @@ export function categoriasComArtigos() {
 
 // Primeiro os da mesma categoria, depois os mais recentes
 export function artigosRelacionados(artigo: Artigo, quantidade = 3) {
-  const outros = todosOsArtigos().filter((a) => a.slug !== artigo.slug);
+  // Pelo endereço, e não pelo slug: a calculadora do 13º e o artigo do 13º têm o
+  // mesmo slug em seções diferentes
+  const outros = todosOsArtigos().filter((a) => a.caminho !== artigo.caminho);
   const mesmaCategoria = outros.filter((a) => a.categoria.slug === artigo.categoria.slug);
   const demais = outros.filter((a) => a.categoria.slug !== artigo.categoria.slug);
   return [...mesmaCategoria, ...demais].slice(0, quantidade);

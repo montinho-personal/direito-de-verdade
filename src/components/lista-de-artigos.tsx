@@ -3,19 +3,22 @@ import { CartaoArtigo } from "@/components/cartao-artigo";
 import { Migalhas } from "@/components/migalhas";
 import { categoriasComArtigos, type Artigo } from "@/lib/artigos";
 
-// Página de listagem: todos os artigos ou os de uma categoria
+// Página de listagem: todos os artigos, os de uma categoria ou as calculadoras
 export function ListaDeArtigos({
   titulo,
   descricao,
   artigos,
   migalhas,
   categoriaAtual,
+  comFiltros = true,
 }: {
   titulo: string;
   descricao: string;
   artigos: Artigo[];
   migalhas: { nome: string; caminho: string }[];
   categoriaAtual?: string;
+  // Botões das categorias de artigos (as calculadoras não usam)
+  comFiltros?: boolean;
 }) {
   const filtros = [
     { nome: "Todos", caminho: "/artigos", ativo: !categoriaAtual },
@@ -34,7 +37,7 @@ export function ListaDeArtigos({
       </h1>
       <p className="mt-4 max-w-2xl text-lg leading-8 text-muted">{descricao}</p>
 
-      {filtros.length > 2 && (
+      {comFiltros && filtros.length > 2 && (
         <nav aria-label="Categorias" className="mt-8">
           <ul className="flex flex-wrap gap-2">
             {filtros.map((filtro) => (

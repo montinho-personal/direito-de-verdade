@@ -1,7 +1,7 @@
-# Página: Calculadora do 13º salário 2026 (`/artigos/calculadora-13-salario`)
+# Calculadora: 13º salário 2026 (`/calculadoras/13-salario`)
 
 Escrita e publicada em 19/10/2026, a partir dos prints do Renato. Segunda
-página do site; companheira do [artigo do 13º](13-salario.md).
+página do site; companheira do [artigo do 13º](../artigos/13-salario.md).
 
 ## Por que existe
 
@@ -25,7 +25,7 @@ As duas se linkam.
 ## Prints recebidos
 
 Busca pedida ao Renato em 19/10/2026 e recebida no mesmo dia (celular,
-12h22). Prints em `docs/artigos/prints/calculadora-13-salario/`.
+12h22). Prints em `docs/calculadoras/prints/13-salario/`.
 
 | print | conteúdo | onde entrou |
 |---|---|---|
@@ -46,7 +46,7 @@ ambiente; mesmas leis do artigo do 13º).
 | A redução da Lei 15.270/2025 "também será aplicada no cálculo do imposto cobrado exclusivamente na fonte no pagamento do décimo terceiro salário" (Lei 9.250, art. 3º-A, § 3º) | [Lei 9.250 atualizada (Câmara)](https://www2.camara.leg.br/legin/fed/lei/1995/lei-9250-26-dezembro-1995-362566-normaatualizada-pl.pdf); IN RFB 2.299/2025, art. 65-A, § 3º ([DOU](https://www.in.gov.br/web/dou/-/instrucao-normativa-rfb-n-2.299-de-17-de-dezembro-de-2025-676155274)) | oficial |
 | A tabela de redução usa o rendimento bruto, "e não o da base de cálculo" | [Receita: exemplos da Lei 15.270](https://www.gov.br/receitafederal/pt-br/assuntos/meu-imposto-de-renda/tabelas/exemplos-de-aplicacao-da-lei-15-270-2025); MGI/Sipec, comunicado de dez/2025, exemplo 7 ([PDF](https://www.gov.br/servidor/pt-br/canais_atendimento/central-sipec/comunicas-1/dezembro/comunicado-566295-adequacao-sistemica-lei-15-270-de-26-de-novembro-de-2025.pdf)) | oficial |
 | Parcela única: "a Justiça admite que seja feito integralmente em um mesmo mês, desde que pago até o dia 30 de novembro", com INSS e IR descontados | [eSocial](https://www.gov.br/esocial/pt-br/noticias/como-pagar-a-primeira-parcela-do-13o-salario); [Agência Brasil, 27/11/2024](https://agenciabrasil.ebc.com.br/geral/noticia/2024-11/empresas-tem-ate-esta-sexta-feira-para-pagar-o-decimo-terceiro-salario); [Terra/IOB, 16/11/2023](https://www.terra.com.br/economia/empresas-podem-fazer-o-pagamento-do-13-em-parcela-unica,ff12dbdc70dfccf9f7fc666ce1b6e414kdjkvhvf.html) | oficial + 2 veículos |
-| Tabelas de 2026 (INSS, IR, salário mínimo, 18/12 como prazo da 2ª parcela) | ver o [doc do artigo do 13º](13-salario.md) | oficial / 2 veículos |
+| Tabelas de 2026 (INSS, IR, salário mínimo, 18/12 como prazo da 2ª parcela) | ver o [doc do artigo do 13º](../artigos/13-salario.md) | oficial / 2 veículos |
 
 Valores da tabela de exemplos, do texto e do FAQ: cálculo próprio com
 `src/lib/decimo-terceiro.ts`. Conferência do imposto de um 13º de
@@ -67,9 +67,11 @@ R$ 5.358,49, imposto pela tabela R$ 564,85, redução 978,62 − 0,133145 ×
 
 ## Decisões
 
-- **Endereço `/artigos/calculadora-13-salario`**, no mesmo formato dos
-  artigos: entra na lista, na categoria, no sitemap e no "Leia também" do
-  artigo do 13º sem código novo.
+- **Seção própria, `/calculadoras/13-salario`** (pedido do Renato em
+  19/10): as calculadoras ficam fora da lista de artigos e das categorias,
+  com página própria em `/calculadoras`, link no menu e um bloco na página
+  inicial. Foi publicada uma hora antes em `/artigos/calculadora-13-salario`;
+  esse endereço redireciona (308) para o novo.
 - **Calculadora no topo**, antes do sumário (marcador logo depois do lead),
   e lead curto, para a calculadora aparecer na primeira tela do celular.
 - **Imposto de renda acima de R$ 5 mil passou a ser calculado**, com

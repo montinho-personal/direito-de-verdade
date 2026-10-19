@@ -178,7 +178,7 @@ ambiente):
 - **FAQ**: só PAA que não virou H2 (R$ 1.600, R$ 2.000, como saber se tenho
   direito, tabela do 13º 2026).
 - **Calculadora com imposto de renda acima de R$ 5 mil** (19/10, junto com a
-  [página da calculadora](calculadora-13-salario.md)): regras confirmadas
+  [página da calculadora](../calculadoras/13-salario.md)): regras confirmadas
   na fonte oficial. O artigo ganhou um link para a página da calculadora na
   seção do imposto de renda. Edição no mesmo dia da publicação, por isso
   sem `atualizadoEm`.

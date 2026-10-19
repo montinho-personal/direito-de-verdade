@@ -5,6 +5,8 @@
 # direitodeverdade.com.br/artigos/como-calcular-a-rescisao
 # Use só letras minúsculas sem acento, números e hífens no nome do arquivo.
 # Antes de escrever: prints do Google e doc da peça (ver CLAUDE.md).
+# Página de calculadora: mesmo modelo, mas o arquivo vai em content/calculadoras/
+# (endereço /calculadoras/<nome>) e a ferramenta vem logo depois do lead.
 
 # H1 da página: o título completo, do jeito que as pessoas pesquisam no Google
 titulo: "Título do artigo"

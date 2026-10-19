@@ -1,12 +1,16 @@
 import Image from "next/image";
 import Link from "next/link";
 import logo from "@/assets/logo.png";
-import { todosOsArtigos } from "@/lib/artigos";
+import { todasAsCalculadoras, todosOsArtigos } from "@/lib/artigos";
 
 export function Cabecalho() {
   const links = [
     ...(todosOsArtigos().length ? [{ href: "/artigos", texto: "Artigos" }] : []),
-    { href: "/sobre", texto: "Sobre" },
+    ...(todasAsCalculadoras().length
+      ? [{ href: "/calculadoras", texto: "Calculadoras" }]
+      : []),
+    // No celular não cabe: o "Sobre" continua no rodapé
+    { href: "/sobre", texto: "Sobre", soNoComputador: true },
   ];
 
   return (
@@ -21,9 +25,12 @@ export function Cabecalho() {
           />
         </Link>
         <nav aria-label="Principal">
-          <ul className="flex items-center gap-5 text-sm font-medium sm:gap-8 sm:text-base">
+          <ul className="flex items-center gap-4 text-sm font-medium sm:gap-8 sm:text-base">
             {links.map((link) => (
-              <li key={link.href}>
+              <li
+                key={link.href}
+                className={"soNoComputador" in link ? "max-sm:hidden" : undefined}
+              >
                 <Link href={link.href} className="hover:text-accent">
                   {link.texto}
                 </Link>

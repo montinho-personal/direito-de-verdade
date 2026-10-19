@@ -70,6 +70,14 @@ A pauta geral fica em `docs/pauta-editorial.md`.
   automático; não prometer resultado de processo nem valor de indenização.
 - O site não presta consultoria e não indica escritório.
 
+## Calculadoras
+
+Calculadoras ficam fora da lista de artigos, na seção `/calculadoras`: o
+texto em `content/calculadoras/<slug>.md` (mesmo formato do artigo, com a
+ferramenta logo depois do lead), o doc em `docs/calculadoras/<slug>.md` e
+os prints em `docs/calculadoras/prints/<slug>/`. Valem as mesmas regras de
+prints, fonte e estrutura. Artigo e calculadora do mesmo assunto se linkam.
+
 ## Data de atualização
 
 `atualizadoEm` sobe a cada edição de conteúdo visível, no mesmo commit, e

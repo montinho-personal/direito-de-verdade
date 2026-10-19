@@ -57,7 +57,9 @@ Para criar um artigo, copie `content/artigos/_modelo.md`, que explica cada campo
 - `src/lib/artigos.ts` e `src/lib/categorias.ts`: leitura dos artigos e lista de categorias
 - `src/lib/ferramentas.ts`: ferramentas que podem entrar no meio de um artigo (uma por artigo); `src/lib/decimo-terceiro.ts` tem as contas da calculadora do 13º e as tabelas de 2026
 - `content/artigos/`: os artigos, em Markdown
+- `content/calculadoras/`: as páginas das calculadoras, no mesmo formato dos artigos (aparecem em `/calculadoras`, fora da lista de artigos)
 - `src/app/artigos`, `src/app/categoria`: lista de artigos, página de cada artigo e página de cada categoria
+- `src/app/calculadoras`: lista de calculadoras e página de cada uma (o layout, igual ao dos artigos, está em `src/components/pagina-do-artigo.tsx`)
 - `src/app/layout.tsx`: layout raiz, fontes, metadados padrão e código do AdSense
 - `src/app/page.tsx`: página inicial (com dados estruturados para o Google)
 - `src/app/sobre`, `src/app/contato`, `src/app/politica-de-privacidade`, `src/app/termos-de-uso`: páginas institucionais

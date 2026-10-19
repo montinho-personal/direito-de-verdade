@@ -3,6 +3,7 @@ import {
   artigosDaCategoria,
   categoriasComArtigos,
   dataDeAlteracao,
+  todasAsCalculadoras,
   todosOsArtigos,
   type Artigo,
 } from "@/lib/artigos";
@@ -10,7 +11,7 @@ import { site } from "@/lib/site";
 
 // Páginas fixas do site e a data da última alteração de cada uma.
 // Ao criar ou editar uma delas, inclua-a aqui ou atualize a data.
-// Artigos e categorias entram sozinhos.
+// Artigos, calculadoras e categorias entram sozinhos.
 const paginas = [
   { caminho: "", alteradaEm: "2026-10-19" },
   { caminho: "/sobre", alteradaEm: "2026-10-19" },
@@ -27,6 +28,7 @@ function maisRecente(artigos: Artigo[]) {
 
 export default function sitemap(): MetadataRoute.Sitemap {
   const artigos = todosOsArtigos();
+  const calculadoras = todasAsCalculadoras();
 
   return [
     ...paginas.map((pagina) => ({
@@ -40,8 +42,11 @@ export default function sitemap(): MetadataRoute.Sitemap {
       url: `${site.url}/categoria/${categoria.slug}`,
       lastModified: maisRecente(artigosDaCategoria(categoria.slug)),
     })),
-    ...artigos.map((artigo) => ({
-      url: `${site.url}/artigos/${artigo.slug}`,
+    ...(calculadoras.length
+      ? [{ url: `${site.url}/calculadoras`, lastModified: maisRecente(calculadoras) }]
+      : []),
+    ...[...artigos, ...calculadoras].map((artigo) => ({
+      url: `${site.url}${artigo.caminho}`,
       lastModified: dataDeAlteracao(artigo),
     })),
   ];
