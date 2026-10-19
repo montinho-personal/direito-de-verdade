@@ -28,7 +28,7 @@ O Google leva semanas para mostrar um site novo: publicar antes do pico.
 - Rescisão indireta: o que é e quando pedir
 - Acordo de demissão (80% do FGTS, metade do aviso, sem seguro-desemprego)
 - Pedido de demissão: o que recebe e o que perde
-- Seguro-desemprego 2026: quem tem direito, parcelas e valores
+- ~~Seguro-desemprego 2026: quem tem direito, parcelas e valores~~ — **publicado em 19/10/2026** ([doc](artigos/seguro-desemprego-2026.md), `/artigos/seguro-desemprego-2026`)
 - Aviso prévio trabalhado ou indenizado (e os 3 dias por ano)
 - Horas extras e banco de horas
 - Adicional de insalubridade
@@ -78,3 +78,4 @@ O Google leva semanas para mostrar um site novo: publicar antes do pico.
 ## Revisão anual (valores que mudam)
 
 - 13º salário: datas do ano, tabelas de INSS e IR, valor da multa.
+- Seguro-desemprego: tabela nova em janeiro (faixas, piso e teto), em `src/lib/seguro-desemprego.ts` e no artigo `seguro-desemprego-2026` (exemplos e título com o ano).

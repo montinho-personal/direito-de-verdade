@@ -4,6 +4,7 @@ tituloSeo: "Demissão sem justa causa: o que recebe e cálculo 2026"
 descricao: "Demissão sem justa causa: veja o que você recebe (aviso prévio, 13º, férias, multa de 40% do FGTS e seguro-desemprego) e calcule a sua rescisão de 2026."
 categoria: trabalho
 publicadoEm: 2026-10-19
+atualizadoEm: 2026-10-19
 faq:
   - pergunta: "Qual o prazo para a empresa pagar a rescisão?"
     resposta: "**10 dias** contados do fim do contrato, para pagar as verbas e entregar os documentos. Se atrasar, a empresa paga ao trabalhador uma multa no valor de um salário, além da multa administrativa (CLT, artigo 477, §§ 6º e 8º)."
@@ -118,6 +119,8 @@ Recebe, se tiver trabalhado com carteira assinada o tempo mínimo exigido ([Lei 
 | 1º | 12 meses nos últimos 18 meses |
 | 2º | 9 meses nos últimos 12 meses |
 | 3º em diante | cada um dos 6 meses antes da demissão |
+
+O valor vai de R$ 1.621 a R$ 2.518,65 por parcela, em 3 a 5 parcelas: veja a tabela e calcule [quanto você recebe de seguro-desemprego em 2026](/artigos/seguro-desemprego-2026).
 
 O pedido é feito pelo [gov.br](https://www.gov.br/pt-br/servicos/solicitar-o-seguro-desemprego), pelo aplicativo da Carteira de Trabalho Digital, pelo telefone 158 ou presencialmente, com agendamento.
 

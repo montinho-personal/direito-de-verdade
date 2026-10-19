@@ -11,14 +11,18 @@ export const TETO_2026 = 2518.65;
 const centavos = (valor: number) => Math.round(valor * 100 + 1e-6) / 100;
 
 // Valor da parcela a partir do salário médio dos 3 meses antes da dispensa
+// (tabela do Ministério do Trabalho em vigor desde 11/01/2026)
 export function valorDaParcela2026(salarioMedio: number) {
   if (!(salarioMedio > 0)) return 0;
   let valor: number;
   if (salarioMedio <= FAIXA_1_2026) valor = salarioMedio * 0.8;
   else if (salarioMedio <= FAIXA_2_2026) {
     valor = (salarioMedio - FAIXA_1_2026) * 0.5 + PARCELA_FIXA_FAIXA_2_2026;
-  } else valor = TETO_2026;
-  return centavos(Math.min(TETO_2026, Math.max(SALARIO_MINIMO_2026, valor)));
+  } else return TETO_2026;
+  // Valor com centavos é arredondado para o real inteiro de cima (Lei 7.998/1990,
+  // art. 4º, § 4º); nunca abaixo do salário mínimo nem acima do teto
+  const arredondado = Math.ceil(centavos(valor));
+  return Math.min(TETO_2026, Math.max(SALARIO_MINIMO_2026, arredondado));
 }
 
 // 1, 2 ou 3 (3 vale para o terceiro pedido em diante)
@@ -58,7 +62,7 @@ export function calcularSeguro(entrada: EntradaSeguro): Seguro | null {
   const salarioMedio = centavos(salarios.reduce((soma, valor) => soma + valor, 0) / salarios.length);
 
   // Doméstico: 3 parcelas de um salário mínimo, com 15 meses nos últimos 24
-  // (Lei Complementar 150/2015, art. 26)
+  // (Lei Complementar 150/2015, arts. 26 e 28)
   if (entrada.domestico) {
     const temDireito = entrada.meses >= 15;
     const parcelas = temDireito ? 3 : 0;
