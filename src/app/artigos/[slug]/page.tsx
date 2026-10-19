@@ -15,13 +15,18 @@ import type { IdDaFerramenta } from "@/lib/ferramentas";
 import { metadadosDaPagina } from "@/lib/metadados";
 import { site } from "@/lib/site";
 
-const COMPONENTES_DAS_FERRAMENTAS: Record<IdDaFerramenta, () => React.ReactNode> = {
+type PropsDaFerramenta = { nivelDoTitulo?: 2 | 3 };
+
+const COMPONENTES_DAS_FERRAMENTAS: Record<
+  IdDaFerramenta,
+  (props: PropsDaFerramenta) => React.ReactNode
+> = {
   "calculadora-13-salario": Calculadora13Salario,
 };
 
-function Ferramenta({ id }: { id: IdDaFerramenta }) {
+function Ferramenta({ id, ...props }: PropsDaFerramenta & { id: IdDaFerramenta }) {
   const Componente = COMPONENTES_DAS_FERRAMENTAS[id];
-  return <Componente />;
+  return <Componente {...props} />;
 }
 
 // A página inteira é gerada antes de responder; assim, um endereço que não existe
@@ -100,6 +105,12 @@ export default async function PaginaDoArtigo({
     ],
   };
 
+  // Ferramenta logo depois do lead (página de calculadora): vem antes do sumário,
+  // para aparecer na primeira tela
+  const [primeiraParte, ...demaisPartes] = artigo.partes;
+  const ferramentaNoTopo = primeiraParte?.tipo === "ferramenta" ? primeiraParte : null;
+  const partes = ferramentaNoTopo ? demaisPartes : artigo.partes;
+
   const sumario = [
     ...artigo.secoes,
     ...(artigo.faq.length
@@ -167,6 +178,12 @@ export default async function PaginaDoArtigo({
         </header>
 
         <div className="mx-auto w-full max-w-3xl px-6 py-12">
+          {ferramentaNoTopo && (
+            <div className="-mt-2 mb-10 [&>section]:my-0">
+              <Ferramenta id={ferramentaNoTopo.id} nivelDoTitulo={2} />
+            </div>
+          )}
+
           {sumario.length >= 3 && (
             <nav
               aria-label="Sumário"
@@ -188,7 +205,7 @@ export default async function PaginaDoArtigo({
             </nav>
           )}
 
-          {artigo.partes.map((parte, indice) =>
+          {partes.map((parte, indice) =>
             parte.tipo === "texto" ? (
               <div
                 key={indice}

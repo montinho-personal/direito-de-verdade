@@ -21,8 +21,10 @@ const MESES = Array.from({ length: 12 }, (_, i) => 12 - i);
 const estiloDoCampo =
   "mt-1.5 w-full rounded-lg border border-border bg-white px-3 py-2.5 text-base text-foreground focus:border-gold focus:outline-none focus:ring-2 focus:ring-gold/40";
 
-export function Calculadora13Salario() {
+// No meio do artigo o título é h3 (fica dentro de uma seção); no topo da página, h2
+export function Calculadora13Salario({ nivelDoTitulo = 3 }: { nivelDoTitulo?: 2 | 3 }) {
   const id = useId();
+  const Titulo = nivelDoTitulo === 2 ? "h2" : "h3";
   const [salario, setSalario] = useState("");
   const [meses, setMeses] = useState(12);
   const [variaveis, setVariaveis] = useState("");
@@ -43,9 +45,9 @@ export function Calculadora13Salario() {
       <p className="text-xs font-semibold uppercase tracking-wider text-accent">
         Calculadora
       </p>
-      <h3 id={`${id}-titulo`} className="mt-2 font-serif text-2xl leading-snug">
+      <Titulo id={`${id}-titulo`} className="mt-2 font-serif text-2xl leading-snug">
         Calcule o seu 13º salário de 2026
-      </h3>
+      </Titulo>
 
       <div className="mt-6 grid gap-4 sm:grid-cols-2">
         <label className="block text-sm font-medium">
