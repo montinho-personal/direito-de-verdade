@@ -1,10 +1,11 @@
 "use client";
 
 import Link from "next/link";
-import { useId } from "react";
+import { useEffect, useId } from "react";
 import { Campo, Compartilhar, Escolha, Linha } from "@/components/partes-da-calculadora";
 import { descreverDesconto, descreverVerba, resumoEmTexto } from "@/components/rescisao/descricao";
 import {
+  definirMotivoInicial,
   type Formulario,
   lerFormulario,
   mudarFormulario,
@@ -259,6 +260,12 @@ export function CalculadoraRescisao({ nivelDoTitulo = 3 }: { nivelDoTitulo?: 2 |
       <AvisoJuridico />
     </section>
   );
+}
+
+// A mesma calculadora, já com "Pedido de demissão" escolhido (artigo do pedido)
+export function CalculadoraPedidoDeDemissao(props: { nivelDoTitulo?: 2 | 3 }) {
+  useEffect(() => definirMotivoInicial("pedido"), []);
+  return <CalculadoraRescisao {...props} />;
 }
 
 function Etiqueta({ children }: { children: string }) {

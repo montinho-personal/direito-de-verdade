@@ -138,4 +138,4 @@ Se o contrato tiver uma cláusula que permite a qualquer lado encerrá-lo antes 
 
 ## Pedido de demissão: o que muda?
 
-Quem **pede** demissão perde o aviso prévio indenizado (precisa cumprir o aviso ou pode ter os dias descontados), a multa de 40%, o saque do FGTS e o seguro-desemprego. Continua recebendo saldo de salário, 13º proporcional, férias vencidas e proporcionais com 1/3, mesmo com menos de 1 ano de empresa ([Súmula 261 do TST](https://juslaboris.tst.jus.br/bitstream/handle/20.500.12178/4220/2003_res0121_rep01.pdf)).
+Quem **pede** demissão perde o aviso prévio indenizado (precisa cumprir o aviso ou pode ter os dias descontados), a multa de 40%, o saque do FGTS e o seguro-desemprego. Continua recebendo saldo de salário, 13º proporcional, férias vencidas e proporcionais com 1/3, mesmo com menos de 1 ano de empresa ([Súmula 261 do TST](https://juslaboris.tst.jus.br/bitstream/handle/20.500.12178/4220/2003_res0121_rep01.pdf)). Os detalhes do aviso, do FGTS e da experiência estão no guia do [pedido de demissão: o que recebe e o que perde](/artigos/pedido-de-demissao).

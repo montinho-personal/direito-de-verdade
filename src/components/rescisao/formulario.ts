@@ -51,6 +51,14 @@ export function mudarFormulario(mudanca: Partial<Formulario>) {
   ouvintes.forEach((ouvinte) => ouvinte());
 }
 
+// Motivo já escolhido quando a calculadora entra num artigo sobre um tipo de saída;
+// só vale se a pessoa ainda não começou a preencher
+export function definirMotivoInicial(motivo: Motivo) {
+  if (!atual.salario && !atual.admissao && !atual.saida && atual.motivo !== motivo) {
+    mudarFormulario({ motivo });
+  }
+}
+
 function assinar(ouvinte: () => void) {
   ouvintes.add(ouvinte);
   return () => ouvintes.delete(ouvinte);

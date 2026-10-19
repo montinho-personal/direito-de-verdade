@@ -1,7 +1,7 @@
 import Link from "next/link";
 import { Calculadora13Salario } from "@/components/calculadora-13-salario";
 import { CalculadoraIrSalario } from "@/components/calculadora-ir-salario";
-import { CalculadoraRescisao } from "@/components/calculadora-rescisao";
+import { CalculadoraPedidoDeDemissao, CalculadoraRescisao } from "@/components/calculadora-rescisao";
 import { CalculadoraSeguroDesemprego } from "@/components/calculadora-seguro-desemprego";
 import { CartaoArtigo } from "@/components/cartao-artigo";
 import { ComparadorDeRescisao } from "@/components/comparador-de-rescisao";
@@ -29,6 +29,7 @@ const COMPONENTES_DAS_FERRAMENTAS: Record<
   "calculadora-13-salario": Calculadora13Salario,
   "calculadora-ir-salario": CalculadoraIrSalario,
   "calculadora-rescisao": CalculadoraRescisao,
+  "calculadora-pedido-de-demissao": CalculadoraPedidoDeDemissao,
   "calculadora-seguro-desemprego": CalculadoraSeguroDesemprego,
   "comparador-de-salario": ComparadorDeSalario,
   "conferir-holerite": ConferirHolerite,
