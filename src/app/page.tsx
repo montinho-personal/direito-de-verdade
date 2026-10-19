@@ -1,5 +1,34 @@
-import Image from "next/image";
-import logo from "@/assets/logo.png";
+import { metadadosDaPagina } from "@/lib/metadados";
+import { site } from "@/lib/site";
+
+export const metadata = metadadosDaPagina({
+  descricao: site.descricao,
+  caminho: "/",
+});
+
+// Dados estruturados: ajudam o Google a identificar o site e a marca
+const dadosEstruturados = {
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Organization",
+      "@id": `${site.url}/#organizacao`,
+      name: site.nome,
+      url: site.url,
+      logo: `${site.url}/icon.png`,
+      slogan: "Seus direitos. Sem complicação.",
+    },
+    {
+      "@type": "WebSite",
+      "@id": `${site.url}/#site`,
+      name: site.nome,
+      url: site.url,
+      description: site.descricao,
+      inLanguage: "pt-BR",
+      publisher: { "@id": `${site.url}/#organizacao` },
+    },
+  ],
+};
 
 const pilares = [
   {
@@ -18,17 +47,13 @@ const pilares = [
 
 export default function Home() {
   return (
-    <div className="flex flex-1 flex-col font-sans">
-      <header className="border-b border-border">
-        <div className="mx-auto w-full max-w-5xl px-6 py-4">
-          <Image
-            src={logo}
-            alt="Direito de Verdade"
-            loading="eager"
-            className="h-12 w-auto sm:h-16"
-          />
-        </div>
-      </header>
+    <>
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{
+          __html: JSON.stringify(dadosEstruturados).replace(/</g, "\\u003c"),
+        }}
+      />
 
       <section className="bg-navy text-white">
         <div className="mx-auto w-full max-w-5xl px-6 py-20 sm:py-28">
@@ -48,7 +73,7 @@ export default function Home() {
         </div>
       </section>
 
-      <main className="mx-auto w-full max-w-5xl flex-1 px-6 py-20">
+      <section className="mx-auto w-full max-w-5xl px-6 py-20">
         <h2 className="text-sm font-semibold uppercase tracking-wider text-accent">
           O que você vai encontrar
         </h2>
@@ -64,17 +89,7 @@ export default function Home() {
             </div>
           ))}
         </div>
-      </main>
-
-      <footer className="border-t border-border">
-        <div className="mx-auto w-full max-w-5xl space-y-2 px-6 py-8 text-sm text-muted">
-          <p>
-            O conteúdo deste site é informativo e não substitui a orientação de
-            um advogado.
-          </p>
-          <p>© 2026 Direito de Verdade.</p>
-        </div>
-      </footer>
-    </div>
+      </section>
+    </>
   );
 }

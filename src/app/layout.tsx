@@ -1,5 +1,8 @@
 import type { Metadata, Viewport } from "next";
 import { DM_Serif_Display, Geist } from "next/font/google";
+import { Cabecalho } from "@/components/cabecalho";
+import { Rodape } from "@/components/rodape";
+import { site } from "@/lib/site";
 import "./globals.css";
 
 const geistSans = Geist({
@@ -14,18 +17,18 @@ const dmSerif = DM_Serif_Display({
 });
 
 export const metadata: Metadata = {
-  // Na Vercel, usa o domínio de produção (inclusive um domínio próprio, quando houver)
-  metadataBase: new URL(
-    process.env.VERCEL_PROJECT_PRODUCTION_URL
-      ? `https://${process.env.VERCEL_PROJECT_PRODUCTION_URL}`
-      : "http://localhost:3000",
-  ),
+  metadataBase: new URL(site.url),
   title: {
-    template: "%s | Direito de Verdade",
-    default: "Direito de Verdade: seus direitos, sem complicação",
+    template: `%s | ${site.nome}`,
+    default: site.tituloPadrao,
   },
-  description:
-    "Informação jurídica clara, ferramentas práticas e orientações para situações da vida real.",
+  description: site.descricao,
+  applicationName: site.nome,
+  verification: site.verificacaoGoogle
+    ? { google: site.verificacaoGoogle }
+    : undefined,
+  // Permite que o Google confirme que o site pertence à conta do AdSense
+  other: site.adsense ? { "google-adsense-account": site.adsense } : undefined,
 };
 
 export const viewport: Viewport = {
@@ -38,7 +41,19 @@ export default function RootLayout({ children }: LayoutProps<"/">) {
       lang="pt-BR"
       className={`${geistSans.variable} ${dmSerif.variable} h-full antialiased`}
     >
-      <body className="min-h-full flex flex-col">{children}</body>
+      <body className="min-h-full flex flex-col font-sans">
+        {/* Scripts assíncronos são levados para o <head> automaticamente pelo React */}
+        {site.adsense && (
+          <script
+            async
+            src={`https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=${site.adsense}`}
+            crossOrigin="anonymous"
+          />
+        )}
+        <Cabecalho />
+        <main className="flex flex-1 flex-col">{children}</main>
+        <Rodape />
+      </body>
     </html>
   );
 }

@@ -35,3 +35,45 @@ body {
   background: var(--background);
   color: var(--foreground);
 }
+
+/* Textos longos: páginas institucionais e, no futuro, artigos */
+.texto {
+  font-size: 1.0625rem;
+  line-height: 1.8;
+}
+
+.texto h2 {
+  margin-top: 2.5rem;
+  font-family: var(--font-dm-serif);
+  font-size: 1.625rem;
+  line-height: 1.3;
+}
+
+.texto p,
+.texto ul {
+  margin-top: 1rem;
+}
+
+.texto ul {
+  padding-left: 1.25rem;
+  list-style: disc;
+}
+
+.texto li {
+  margin-top: 0.5rem;
+}
+
+.texto li::marker {
+  color: var(--gold);
+}
+
+.texto a {
+  color: var(--accent);
+  text-decoration: underline;
+  text-underline-offset: 3px;
+  overflow-wrap: anywhere;
+}
+
+.texto strong {
+  font-weight: 600;
+}
