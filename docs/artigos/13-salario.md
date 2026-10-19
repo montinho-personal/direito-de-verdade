@@ -113,22 +113,24 @@ ambiente):
 - **Salário variável e comissões:** a regra de 1/11 das variáveis até
   novembro (art. 77) só apareceu na cópia do decreto — confirmar no texto
   oficial.
-- **Autônomo, MEI (o próprio) e sócio:** sem previsão legal; fonte única.
-  Buscar segunda fonte ou só dizer que o 13º é direito de quem tem vínculo
-  de emprego.
+- **Autônomo, MEI (o próprio) e sócio:** fonte única. Resolvido no texto
+  pela própria lei: a Lei 4.090/1962 dá o 13º "a todo empregado", e o texto
+  diz que autônomo e MEI não têm direito porque não são empregados. Sócio
+  ficou de fora.
 - **Valor da multa por atraso (R$ 176,03):** a nova checagem (19/10) não
   achou esse número em segunda fonte; os resumos da Portaria MTE 1.131/2025
   falam do piso geral (R$ 443,97) e do acréscimo por trabalhador (R$ 104,31),
   sem a linha da gratificação de Natal. Valores antigos: R$ 170,25/170,26
-  (Portaria MTE 290/1997). Até abrir a tabela do PDF oficial, o texto diz só
-  "multa administrativa por trabalhador, dobrada na reincidência (Lei
-  7.855/1989, art. 3º)", sem valor.
+  (Portaria MTE 290/1997). Publicado sem valor: "multa administrativa por
+  trabalhador, que dobra na reincidência (Lei 7.855/1989, art. 3º)".
 - **Links oficiais do INSS para o campo `fontes`:** a página de março do
   Ministério da Previdência foi achada (tabela acima). Falta a URL do
   comunicado do gov.br de 09/07/2026 que aparece nos prints ("Beneficiários
   que começaram a receber a partir de maio terão..."): pedir ao Renato o
   link (tocar no resultado e copiar) ou um print da página. O texto do
-  Decreto 12.884/2026 no Planalto também não foi aberto.
+  Decreto 12.884/2026 no Planalto também não foi aberto. Enquanto isso, o
+  campo `fontes` usa as duas matérias da Agência Brasil (abertas e
+  conferidas).
 - **Aviso prévio indenizado no acordo (art. 484-A):** fontes divergem sobre
   a projeção na rescisão por acordo; não afirmar.
 - **Datas por final de benefício do lote de novembro do INSS:** a janela
