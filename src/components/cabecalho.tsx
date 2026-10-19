@@ -15,17 +15,17 @@ export function Cabecalho() {
 
   return (
     <header className="border-b border-border">
-      <div className="mx-auto flex w-full max-w-5xl items-center justify-between gap-4 px-6 py-4">
+      <div className="mx-auto flex w-full max-w-5xl items-center justify-between gap-3 px-4 py-4 sm:gap-4 sm:px-6">
         <Link href="/" className="inline-block shrink-0">
           <Image
             src={logo}
             alt="Direito de Verdade"
             loading="eager"
-            className="h-12 w-auto sm:h-16"
+            className="h-10 w-auto min-[360px]:h-12 sm:h-16"
           />
         </Link>
         <nav aria-label="Principal">
-          <ul className="flex items-center gap-4 text-sm font-medium sm:gap-8 sm:text-base">
+          <ul className="flex items-center gap-3 text-sm min-[360px]:gap-4 font-medium sm:gap-8 sm:text-base">
             {links.map((link) => (
               <li
                 key={link.href}

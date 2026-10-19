@@ -87,6 +87,10 @@ ferramenta logo depois do lead), o doc em `docs/calculadoras/<slug>.md` e
 os prints em `docs/calculadoras/prints/<slug>/`. Valem as mesmas regras de
 prints, fonte e estrutura. Artigo e calculadora do mesmo assunto se linkam.
 
+As tabelas de INSS e imposto de renda ficam só em
+`src/lib/tributos/parametros-<ano>.ts`. Mexeu no motor ou nos parâmetros: rodar
+`npm test`, que confere a conta com os exemplos oficiais da Receita.
+
 ## Data de atualização
 
 `atualizadoEm` sobe a cada edição de conteúdo visível, no mesmo commit, e

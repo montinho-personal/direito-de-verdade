@@ -121,7 +121,11 @@ function converterMarkdown(markdown: string) {
     },
   });
 
-  const completo = juntarValores(conversor.parse(markdown, { async: false }));
+  // Tabelas largas rolam de lado no celular; o tabindex deixa quem usa teclado rolar também
+  const completo = juntarValores(conversor.parse(markdown, { async: false })).replace(
+    /<table>/g,
+    '<table tabindex="0">',
+  );
 
   // O primeiro parágrafo vira o lead, exibido em destaque abaixo do título
   const primeiro = completo.match(/^\s*<p>([\s\S]*?)<\/p>\n?/);
@@ -137,8 +141,9 @@ const MARCADOR_DE_FERRAMENTA = /<!--\s*ferramenta:\s*([^\s]*?)\s*-->\n?/;
 function dividirPartes(html: string, arquivo: string): ParteDoTexto[] {
   // split com grupo de captura alterna: texto, id, texto, id, texto...
   const pedacos = html.split(new RegExp(MARCADOR_DE_FERRAMENTA, "g"));
-  if (pedacos.length > 3) {
-    throw new Error(`${arquivo}: o artigo tem mais de uma ferramenta; o limite é uma`);
+  const ids = pedacos.filter((_, indice) => indice % 2 === 1);
+  if (new Set(ids).size !== ids.length) {
+    throw new Error(`${arquivo}: a mesma ferramenta aparece mais de uma vez`);
   }
   return pedacos.flatMap((pedaco, indice): ParteDoTexto[] => {
     if (indice % 2 === 0) return pedaco.trim() ? [{ tipo: "texto", html: pedaco }] : [];
