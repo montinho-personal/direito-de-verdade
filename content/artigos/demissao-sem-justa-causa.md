@@ -95,7 +95,7 @@ Depende do tempo de casa e da data de saída. Um exemplo: salário de R$ 1.500, 
 | **Rescisão a receber** | **5.346,87** |
 | Multa de 40% do FGTS (na conta do FGTS) | 1.088,80 |
 
-Se a 1ª parcela do 13º já tiver sido paga, ela é descontada. Para o seu caso, use a calculadora no começo do artigo.
+Se a 1ª parcela do 13º já tiver sido paga, ela é descontada. Para o seu caso, use a calculadora no começo do artigo ou a [calculadora de rescisão trabalhista](/calculadoras/rescisao), que também calcula pedido de demissão, acordo e justa causa.
 
 ## Qual é o valor da multa por demissão sem justa causa?
 

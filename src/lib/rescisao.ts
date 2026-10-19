@@ -1,5 +1,7 @@
-// Conta da rescisão de quem é demitido sem justa causa, com os valores de 2026.
-// Fontes em docs/artigos/demissao-sem-justa-causa.md. Revisar todo ano.
+// Conta da rescisão com os valores de 2026: demissão sem justa causa, pedido de
+// demissão, acordo (CLT, art. 484-A) e justa causa. Fontes em
+// docs/artigos/demissao-sem-justa-causa.md e docs/calculadoras/rescisao.md.
+// Revisar todo ano.
 import { detalheDoImposto2026, impostoDeRenda13, inss2026 } from "@/lib/decimo-terceiro";
 
 const centavos = (valor: number) => Math.round(valor * 100 + 1e-6) / 100;
@@ -78,7 +80,11 @@ function avosDeFerias(admissao: Date, fim: Date) {
   return avos;
 }
 
+export type Motivo = "sem-justa-causa" | "pedido" | "acordo" | "justa-causa";
+
 export type EntradaRescisao = {
+  // Sem motivo informado, vale a demissão sem justa causa
+  motivo?: Motivo;
   salario: number;
   // AAAA-MM-DD
   admissao: string;
@@ -107,11 +113,18 @@ export type Rescisao = {
   bruto: number;
   liquido: number;
   multaFgts: number;
+  // 40% na demissão sem justa causa, 20% no acordo, zero nos outros casos
+  percentualDaMulta: number;
   depositoFgts: number;
 };
 
 export function calcularRescisao(entrada: EntradaRescisao): Rescisao | null {
-  const { salario, avisoIndenizado, feriasVencidas: vencidas, dependentes = 0 } = entrada;
+  const { salario, feriasVencidas: vencidas, dependentes = 0 } = entrada;
+  const motivo = entrada.motivo ?? "sem-justa-causa";
+  // Aviso indenizado só quando a empresa encerra o contrato (no acordo, pela metade)
+  const avisoIndenizado =
+    entrada.avisoIndenizado && (motivo === "sem-justa-causa" || motivo === "acordo");
+  const justaCausa = motivo === "justa-causa";
   if (!(salario > 0) || !entrada.admissao || !entrada.saida) return null;
   const admissao = lerData(entrada.admissao);
   const saida = lerData(entrada.saida);
@@ -121,13 +134,16 @@ export function calcularRescisao(entrada: EntradaRescisao): Rescisao | null {
 
   const anos = anosCompletos(admissao, saida);
   const dias = diasDeAviso(anos);
-  // O aviso indenizado conta como tempo de serviço: o contrato é projetado até o fim dele
-  const fimProjetado = avisoIndenizado ? somarDias(saida, dias) : saida;
+  // O aviso indenizado conta como tempo de serviço: o contrato é projetado até o fim
+  // dele. No acordo as fontes divergem sobre a projeção; a conta não projeta.
+  const fimProjetado = avisoIndenizado && motivo === "sem-justa-causa" ? somarDias(saida, dias) : saida;
 
   const diaDaSaida = saida.getUTCDate();
   const diasTrabalhadosNoMes = Math.min(30, diaDaSaida);
   const saldoDeSalario = centavos((salario / 30) * diasTrabalhadosNoMes);
-  const avisoPrevio = avisoIndenizado ? centavos((salario / 30) * dias) : 0;
+  const avisoPrevio = avisoIndenizado
+    ? centavos(((salario / 30) * dias) / (motivo === "acordo" ? 2 : 1))
+    : 0;
 
   // 13º do ano da saída (e do ano seguinte, se a projeção do aviso passar de dezembro);
   // o dos anos anteriores já devia ter sido pago
@@ -135,9 +151,11 @@ export function calcularRescisao(entrada: EntradaRescisao): Rescisao | null {
   for (let ano = saida.getUTCFullYear(); ano <= fimProjetado.getUTCFullYear(); ano++) {
     avos13 += avosDe13NoAno(ano, admissao, fimProjetado);
   }
+  // Na justa causa não há 13º nem férias proporcionais (só as férias vencidas)
+  if (justaCausa) avos13 = 0;
   const decimoTerceiro = centavos((salario / 12) * avos13);
 
-  const avosFerias = avosDeFerias(admissao, fimProjetado);
+  const avosFerias = justaCausa ? 0 : avosDeFerias(admissao, fimProjetado);
   const feriasProporcionais = centavos((salario / 12) * avosFerias);
   const feriasVencidas = centavos(salario * vencidas);
   const tercoDeFerias = centavos((feriasProporcionais + feriasVencidas) / 3);
@@ -158,7 +176,9 @@ export function calcularRescisao(entrada: EntradaRescisao): Rescisao | null {
   // FGTS: 8% sobre saldo de salário, aviso indenizado e 13º, e multa de 40% sobre
   // tudo o que foi depositado no contrato
   const depositoFgts = centavos(0.08 * (saldoDeSalario + avisoPrevio + decimoTerceiro));
-  const multaFgts = centavos(0.4 * ((entrada.saldoFgts ?? 0) + depositoFgts));
+  const percentualDaMulta =
+    motivo === "sem-justa-causa" ? 0.4 : motivo === "acordo" ? 0.2 : 0;
+  const multaFgts = centavos(percentualDaMulta * ((entrada.saldoFgts ?? 0) + depositoFgts));
 
   return {
     diasTrabalhadosNoMes,
@@ -176,6 +196,7 @@ export function calcularRescisao(entrada: EntradaRescisao): Rescisao | null {
     bruto,
     liquido: centavos(bruto - inss - impostoDeRenda),
     multaFgts,
+    percentualDaMulta,
     depositoFgts,
   };
 }
