@@ -4,6 +4,22 @@ tituloSeo: "Direitos do consumidor na Black Friday 2026: 8 regras do CDC"
 descricao: "Desistir em 7 dias, troca, entrega, preço anunciado e dinheiro de volta: o que o CDC garante na Black Friday 2026 e como fugir do desconto falso."
 categoria: consumidor
 publicadoEm: 2026-10-19
+faq:
+  - pergunta: "Quando é a Black Friday 2026?"
+    resposta: "Na **sexta-feira, 27 de novembro de 2026**, o dia seguinte ao Dia de Ação de Graças dos Estados Unidos. Muitas lojas começam as ofertas antes, mas os direitos são os mesmos em qualquer dia: valem as regras do Código de Defesa do Consumidor."
+  - pergunta: "Preciso explicar por que desisti da compra online?"
+    resposta: "Não. O direito de arrependimento não depende de motivo nem de defeito: basta pedir em até 7 dias corridos depois de receber o produto. Você pode abrir a embalagem e testar o produto, e a loja não pode recusar a devolução por isso."
+  - pergunta: "O frete é devolvido quando eu desisto da compra?"
+    resposta: "Sim. A loja tem que devolver tudo o que você pagou, com correção: o produto, o frete de envio e o frete da devolução. A cartilha da Senacon, do Ministério da Justiça, diz isso com todas as letras."
+  - pergunta: "Posso desistir de uma compra feita pelo WhatsApp ou pelo Instagram?"
+    resposta: "Pode. O direito de arrependimento vale para toda compra feita fora da loja física: site, aplicativo, telefone, WhatsApp, rede social ou vendedor que foi até a sua casa."
+  - pergunta: "A loja pode devolver o dinheiro em crédito ou vale-compras?"
+    resposta: "Só se você aceitar. Na desistência, na entrega que não chegou e no pedido cancelado pela loja, você tem direito ao dinheiro de volta, e ninguém é obrigado a aceitar crédito no lugar dele."
+  - pergunta: "Caí em um golpe na Black Friday. O que fazer?"
+    resposta: "Avise o seu banco ou a operadora do cartão na hora, registre um boletim de ocorrência (em muitos estados dá para fazer pela delegacia eletrônica) e guarde prints, comprovantes e conversas. Se o pagamento foi por Pix, peça ao banco a devolução pelo mecanismo do Pix para casos de fraude."
+video:
+  url: "https://www.youtube.com/watch?v=p3ZAx9Pf1MQ"
+  titulo: "Vídeo sobre os direitos do consumidor na Black Friday"
 fontes:
   - nome: "Código de Defesa do Consumidor, Lei nº 8.078/1990, texto atualizado (Câmara dos Deputados)"
     url: "https://www2.camara.leg.br/legin/fed/lei/1990/lei-8078-11-setembro-1990-365086-normaatualizada-pl.html"
@@ -23,6 +39,8 @@ fontes:
     url: "https://www.agenciasp.sp.gov.br/procon-novo-golpe-que-altera-qr-code-pix/"
   - nome: "Procon-SP: guia de comércio eletrônico (2024)"
     url: "https://www.procon.sp.gov.br/wp-content/uploads/2024/08/Guia_de_Comercio_Eletronico.pdf"
+  - nome: "Polícia Civil de SP: o que fazer em fraudes online (Agência SP)"
+    url: "https://www.agenciasp.sp.gov.br/policia-civil-de-sp-contra-fraudes-online/"
   - nome: "Procon-SP: lista \"Evite esses sites\""
     url: "https://sistemas.procon.sp.gov.br/evitesite/list/evitesites.php"
   - nome: "Consumidor.gov.br: como funciona e prazo de resposta das empresas"

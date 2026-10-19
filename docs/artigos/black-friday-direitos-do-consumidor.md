@@ -69,8 +69,13 @@ Abertas e lidas em 19/10/2026.
 
 - **"8 regras" no título** e lista numerada com exatamente 8 itens logo no
   primeiro H2: o 1º resultado hoje é "Black Friday 2023: 7 direitos…".
-- **Um H2 por pergunta do PAA** das duas buscas. Sem FAQ: todas as
-  perguntas dos prints viraram H2.
+- **Um H2 por pergunta do PAA** das duas buscas. **FAQ com 6 perguntas**
+  (pedido do Renato): a data, e as dúvidas pontuais da visão geral de IA
+  (motivo, frete, WhatsApp/Instagram, crédito no lugar do dinheiro, golpe).
+  Golpe: Polícia Civil de SP (banco, boletim de ocorrência) e Procon-SP
+  (devolução do Pix), sem detalhar o MED.
+- **Vídeo no fim** (indicado pelo Renato): youtube.com/watch?v=p3ZAx9Pf1MQ.
+  Título e canal não conferidos daqui (o YouTube não abre neste ambiente).
 - **Dados do Procon-SP de 2025** logo depois das regras, ligando cada regra
   às reclamações que mais aconteceram.
 - **Lista do Procon-SP sem nomes de empresas:** a lista muda; o texto manda

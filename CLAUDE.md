@@ -64,7 +64,11 @@ A pauta geral fica em `docs/pauta-editorial.md`.
 - O primeiro parágrafo (o lead) responde direto a dúvida principal.
 - H2 no formato das perguntas reais (autocompletar e "As pessoas também
   perguntam"); H3 para desdobrar.
-- FAQ a partir das perguntas do Google que o texto não respondeu num H2.
+- Todo artigo tem FAQ (4 a 6 perguntas, com resposta curta e direta, que
+  abre e fecha): primeiro as perguntas do Google que não viraram H2; se
+  todas viraram, as dúvidas pontuais dos prints (visão geral de IA,
+  autocompletar) e a pergunta da data, quando houver (pedido do Renato em
+  19/10/2026).
 - Links internos no meio da frase, com âncora que descreve o destino e
   variada entre artigos; nunca link forçado só para ter link.
 - Links externos só para fontes oficiais, e toda fonte usada vai também no
