@@ -1,3 +1,6 @@
+import Link from "next/link";
+import { CartaoArtigo } from "@/components/cartao-artigo";
+import { todosOsArtigos } from "@/lib/artigos";
 import { metadadosDaPagina } from "@/lib/metadados";
 import { site } from "@/lib/site";
 
@@ -46,6 +49,8 @@ const pilares = [
 ];
 
 export default function Home() {
+  const recentes = todosOsArtigos().slice(0, 3);
+
   return (
     <>
       <script
@@ -67,11 +72,39 @@ export default function Home() {
             Informação jurídica clara, ferramentas práticas e orientações para
             situações da vida real.
           </p>
-          <p className="mt-10 inline-flex rounded-full border border-navy-line px-4 py-2 text-sm font-medium text-gold">
-            Site em construção. Em breve, novidades.
-          </p>
+          {recentes.length ? (
+            <Link
+              href="/artigos"
+              className="mt-10 inline-flex rounded-full bg-gold px-6 py-3 font-semibold text-navy hover:opacity-90"
+            >
+              Ler os artigos
+            </Link>
+          ) : (
+            <p className="mt-10 inline-flex rounded-full border border-navy-line px-4 py-2 text-sm font-medium text-gold">
+              Site em construção. Em breve, novidades.
+            </p>
+          )}
         </div>
       </section>
+
+      {recentes.length > 0 && (
+        <section className="mx-auto w-full max-w-5xl px-6 pt-20">
+          <div className="flex flex-wrap items-end justify-between gap-4">
+            <h2 className="font-serif text-3xl sm:text-4xl">Artigos recentes</h2>
+            <Link
+              href="/artigos"
+              className="font-medium text-accent underline underline-offset-4 hover:no-underline"
+            >
+              Ver todos os artigos
+            </Link>
+          </div>
+          <div className="mt-8 grid gap-6 sm:grid-cols-2 lg:grid-cols-3">
+            {recentes.map((artigo) => (
+              <CartaoArtigo key={artigo.slug} artigo={artigo} tituloComo="h3" />
+            ))}
+          </div>
+        </section>
+      )}
 
       <section className="mx-auto w-full max-w-5xl px-6 py-20">
         <h2 className="text-sm font-semibold uppercase tracking-wider text-accent">

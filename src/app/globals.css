@@ -36,10 +36,14 @@ body {
   color: var(--foreground);
 }
 
-/* Textos longos: páginas institucionais e, no futuro, artigos */
+/* Textos longos: páginas institucionais e artigos */
 .texto {
   font-size: 1.0625rem;
   line-height: 1.8;
+}
+
+.texto > :first-child {
+  margin-top: 0;
 }
 
 .texto h2 {
@@ -47,20 +51,103 @@ body {
   font-family: var(--font-dm-serif);
   font-size: 1.625rem;
   line-height: 1.3;
+  scroll-margin-top: 1.5rem;
+}
+
+.texto h3 {
+  margin-top: 2rem;
+  font-size: 1.1875rem;
+  font-weight: 600;
+  line-height: 1.4;
+  scroll-margin-top: 1.5rem;
+}
+
+.texto h4 {
+  margin-top: 1.5rem;
+  font-weight: 600;
 }
 
 .texto p,
-.texto ul {
+.texto ul,
+.texto ol,
+.texto blockquote,
+.texto table,
+.texto pre {
   margin-top: 1rem;
 }
 
-.texto ul {
+.texto ul,
+.texto ol {
   padding-left: 1.25rem;
+}
+
+.texto ul {
   list-style: disc;
+}
+
+.texto ol {
+  list-style: decimal;
 }
 
 .texto li {
   margin-top: 0.5rem;
+}
+
+.texto li > ul,
+.texto li > ol {
+  margin-top: 0.5rem;
+}
+
+/* Destaque: "> Atenção: ..." no texto do artigo */
+.texto blockquote {
+  border-left: 4px solid var(--gold);
+  border-radius: 0 1rem 1rem 0;
+  background: var(--surface);
+  padding: 1rem 1.25rem;
+}
+
+.texto blockquote > :first-child {
+  margin-top: 0;
+}
+
+.texto hr {
+  margin: 2.5rem 0;
+  border-color: var(--border);
+}
+
+.texto table {
+  display: block;
+  max-width: 100%;
+  overflow-x: auto;
+  border-collapse: collapse;
+  font-size: 0.9375rem;
+  line-height: 1.6;
+}
+
+.texto th,
+.texto td {
+  border: 1px solid var(--border);
+  padding: 0.5rem 0.75rem;
+  text-align: left;
+  vertical-align: top;
+}
+
+.texto th {
+  background: var(--surface);
+  font-weight: 600;
+}
+
+.texto code {
+  border-radius: 0.375rem;
+  background: var(--surface);
+  padding: 0.125rem 0.375rem;
+  font-size: 0.9em;
+}
+
+.texto img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 1rem;
 }
 
 .texto li::marker {

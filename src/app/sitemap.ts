@@ -1,8 +1,16 @@
 import type { MetadataRoute } from "next";
+import {
+  artigosDaCategoria,
+  categoriasComArtigos,
+  dataDeAlteracao,
+  todosOsArtigos,
+  type Artigo,
+} from "@/lib/artigos";
 import { site } from "@/lib/site";
 
-// Páginas do site e a data da última alteração de cada uma.
-// Ao criar ou editar uma página, inclua-a aqui ou atualize a data.
+// Páginas fixas do site e a data da última alteração de cada uma.
+// Ao criar ou editar uma delas, inclua-a aqui ou atualize a data.
+// Artigos e categorias entram sozinhos.
 const paginas = [
   { caminho: "", alteradaEm: "2026-10-19" },
   { caminho: "/sobre", alteradaEm: "2026-10-19" },
@@ -13,9 +21,28 @@ const paginas = [
   { caminho: "/termos-de-uso", alteradaEm: "2026-10-19" },
 ];
 
+function maisRecente(artigos: Artigo[]) {
+  return artigos.map(dataDeAlteracao).sort().at(-1);
+}
+
 export default function sitemap(): MetadataRoute.Sitemap {
-  return paginas.map((pagina) => ({
-    url: `${site.url}${pagina.caminho}`,
-    lastModified: pagina.alteradaEm,
-  }));
+  const artigos = todosOsArtigos();
+
+  return [
+    ...paginas.map((pagina) => ({
+      url: `${site.url}${pagina.caminho}`,
+      lastModified: pagina.alteradaEm,
+    })),
+    ...(artigos.length
+      ? [{ url: `${site.url}/artigos`, lastModified: maisRecente(artigos) }]
+      : []),
+    ...categoriasComArtigos().map((categoria) => ({
+      url: `${site.url}/categoria/${categoria.slug}`,
+      lastModified: maisRecente(artigosDaCategoria(categoria.slug)),
+    })),
+    ...artigos.map((artigo) => ({
+      url: `${site.url}/artigos/${artigo.slug}`,
+      lastModified: dataDeAlteracao(artigo),
+    })),
+  ];
 }
