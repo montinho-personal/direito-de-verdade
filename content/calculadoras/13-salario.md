@@ -1,7 +1,7 @@
 ---
 titulo: "Calculadora do 13º salário 2026: valor líquido da 1ª e da 2ª parcela"
-tituloSeo: "Calculadora 13º salário 2026: valor líquido e parcelas"
-descricao: "Calculadora do 13º salário 2026: veja o valor líquido da 1ª e da 2ª parcela, com INSS, imposto de renda, 13º proporcional, horas extras e comissões."
+tituloSeo: "Calculadora 13º salário 2026: cálculo exato do valor líquido"
+descricao: "Calcule em segundos o 13º salário líquido de 2026: quanto cai em cada parcela, com INSS e imposto de renda. Faz o proporcional e soma hora extra e comissão."
 categoria: trabalho
 publicadoEm: 2026-10-19
 faq:

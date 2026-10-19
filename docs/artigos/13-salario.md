@@ -146,6 +146,14 @@ ambiente):
 
 ## Decisões
 
+- **Título e descrição para o Google** (revistos em 19/10, a pedido do
+  Renato, com foco em clique): título "13º salário 2026: datas, antecipação
+  e quanto você recebe" (busca principal + "antecipação", que aparece duas
+  vezes no autocompletar, + a pergunta de valor do PAA). A descrição abre
+  com a resposta que nem a visão geral de IA acerta (2ª parcela até 18/12,
+  porque o dia 20 é domingo) e fecha com valor e aposentados, 3 de 7
+  sugestões do autocompletar. "Como calcular" saiu do título: essa busca
+  agora tem a página da calculadora.
 - **Endereço sem ano** (`/artigos/13-salario`): o artigo é atualizado a cada
   ano e acumula a autoridade; o ano fica no título e no texto.
 - **Aposentados ganharam H2 próprio** (antes, a ideia era só uma menção): é a

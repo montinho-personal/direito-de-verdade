@@ -72,6 +72,12 @@ R$ 5.358,49, imposto pela tabela R$ 564,85, redução 978,62 − 0,133145 ×
   com página própria em `/calculadoras`, link no menu e um bloco na página
   inicial. Foi publicada uma hora antes em `/artigos/calculadora-13-salario`;
   esse endereço redireciona (308) para o novo.
+- **Título e descrição para o Google** (revistos em 19/10 com foco em
+  clique): título "Calculadora 13º salário 2026: cálculo exato do valor
+  líquido" ("cálculo exato" e "líquido" vêm do autocompletar; os concorrentes
+  só dizem "calculadora do 13º"). A descrição promete o resultado ("em
+  segundos", "quanto cai em cada parcela") e o que a de muitos concorrentes
+  não faz: IR, proporcional, hora extra e comissão.
 - **Calculadora no topo**, antes do sumário (marcador logo depois do lead),
   e lead curto, para a calculadora aparecer na primeira tela do celular.
 - **Imposto de renda acima de R$ 5 mil passou a ser calculado**, com

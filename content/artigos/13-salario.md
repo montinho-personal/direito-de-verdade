@@ -1,7 +1,7 @@
 ---
 titulo: "13º salário 2026: quando cai, como calcular e quem tem direito"
-tituloSeo: "13º salário 2026: datas, como calcular e quem tem direito"
-descricao: "1ª parcela do 13º salário 2026 até 30/11 e 2ª antecipada para 18/12. Veja como calcular, os descontos, quem tem direito e o 13º dos aposentados do INSS."
+tituloSeo: "13º salário 2026: datas, antecipação e quanto você recebe"
+descricao: "13º salário 2026: a 1ª parcela cai até 30/11 e a 2ª foi antecipada para 18/12, porque o dia 20 é domingo. Veja quanto você recebe e o 13º dos aposentados."
 categoria: trabalho
 publicadoEm: 2026-10-19
 faq:

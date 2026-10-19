@@ -52,10 +52,15 @@ A pauta geral fica em `docs/pauta-editorial.md`.
 ## Estrutura do artigo
 
 - `tituloSeo` (o `<title>`): até ~60 caracteres, com a busca principal no
-  começo.
+  começo e, depois dela, o gancho mais forte dos prints: o termo que mais
+  aparece no autocompletar (ex.: "antecipado", "líquido", "cálculo exato"),
+  um dado novo que os concorrentes não têm ou um número. Não listar todos os
+  assuntos do texto: quem lê o título decide em meio segundo.
 - `titulo` (o H1): a busca principal, completa e natural.
-- `descricao`: meta description de até ~160 caracteres, com a busca principal
-  e o que a pessoa vai encontrar.
+- `descricao`: meta description de até ~160 caracteres, escrita como anúncio:
+  começa com a busca principal, entrega a resposta (data, valor, prazo) e
+  termina com o que a pessoa ganha ao clicar. Olhar os títulos e trechos dos
+  concorrentes nos prints e dizer o que só o nosso tem.
 - O primeiro parágrafo (o lead) responde direto a dúvida principal.
 - H2 no formato das perguntas reais (autocompletar e "As pessoas também
   perguntam"); H3 para desdobrar.
