@@ -4,7 +4,6 @@ tituloSeo: "Direitos do consumidor na Black Friday 2026: 8 regras do CDC"
 descricao: "Desistir em 7 dias, troca, entrega, preço anunciado e dinheiro de volta: o que o CDC garante na Black Friday 2026 e como fugir do desconto falso."
 categoria: consumidor
 publicadoEm: 2026-10-19
-rascunho: true
 fontes:
   - nome: "Código de Defesa do Consumidor, Lei nº 8.078/1990, texto atualizado (Câmara dos Deputados)"
     url: "https://www2.camara.leg.br/legin/fed/lei/1990/lei-8078-11-setembro-1990-365086-normaatualizada-pl.html"
@@ -14,6 +13,10 @@ fontes:
     url: "https://www2.camara.leg.br/legin/fed/lei/2004/lei-10962-11-outubro-2004-534307-normaatualizada-pl.html"
   - nome: "Lei nº 9.099/1995: Juizados Especiais, texto atualizado (Câmara dos Deputados)"
     url: "https://www2.camara.leg.br/legin/fed/lei/1995/lei-9099-26-setembro-1995-348608-normaatualizada-pl.html"
+  - nome: "Procon-SP: lista \"Evite esses sites\""
+    url: "https://sistemas.procon.sp.gov.br/evitesite/list/evitesites.php"
+  - nome: "Consumidor.gov.br: como funciona e prazo de resposta das empresas"
+    url: "https://www.consumidor.gov.br/pages/conteudo/publico/1"
   - nome: "Procon-SP: balanço da Black Friday 2025"
     url: "https://www.procon.sp.gov.br/black-friday-2025-procon-sp-recebe-mais-de-3-mil-interacoes-e-encontra-irregularidades-em-mais-de-340-estabelecimentos-em-todo-o-estado/"
   - nome: "Procon-SP: consulta \"De Olho na Black Friday\" (2026)"
@@ -103,7 +106,20 @@ Para não cair:
 - **Acompanhe o preço desde já.** Anote ou tire print do valor dos produtos que você quer nas semanas antes da Black Friday.
 - **Use comparadores de preço com histórico**, que mostram quanto o produto custou nos últimos meses.
 - **Tire print do anúncio** com o preço, o desconto e a data. Ele é a sua prova se a loja não cumprir.
-- **Desconfie de urgência:** "só hoje", "últimas unidades" e cronômetros são técnicas para você decidir sem pensar.
+- **Desconfie de urgência:** "só hoje", "últimas unidades" e "estoque limitado" estão entre os apelos que o Procon-SP estuda na consulta [De Olho na Black Friday](https://www.procon.sp.gov.br/black-friday-procon-sp-lanca-consulta-virtual-para-entender-habitos-dos-consumidores/), aberta até 10 de novembro de 2026, por levarem a compras por impulso.
+
+## Quais empresas estão na lista de não confiáveis do Procon?
+
+O Procon-SP mantém a lista **[Evite esses sites](https://sistemas.procon.sp.gov.br/evitesite/list/evitesites.php)**, com lojas virtuais que receberam reclamações de consumidores, foram notificadas e não responderam ou não foram encontradas. A lista muda com frequência (a versão consultada em outubro de 2026 tinha sido atualizada em 12 de maio de 2026), então confira o endereço do site na própria página do Procon antes de pagar, em vez de confiar em listas copiadas.
+
+Fora da lista, um site também merece desconfiança quando não mostra **nome da empresa, CNPJ e endereço**, informações que todo site de venda é obrigado a exibir em local de destaque ([Decreto nº 7.962/2013, artigo 2º](https://www2.camara.leg.br/legin/fed/decret/2013/decreto-7962-15-marco-2013-775557-publicacaooriginal-139266-pe.html)).
+
+## Dicas do Procon para a Black Friday
+
+- **Planeje antes de comprar.** O Procon-SP recomenda planejar o uso do 13º salário com responsabilidade e evitar empréstimo para comprar em promoção, porque os juros podem tornar o desconto bem mais caro ([alerta do Procon-SP](https://www.procon.sp.gov.br/procon-sp-alerta-juros-continuam-altos-e-consumidor-deve-evitar-endividamento-impulsivo-na-black-friday/)). Vale lembrar que a 1ª parcela do 13º só precisa cair até 30 de novembro, três dias depois da Black Friday: veja na [calculadora do 13º salário](/calculadoras/13-salario) quanto você vai receber.
+- **Confira o preço e as condições finais** (frete, prazo de entrega, parcelas e juros) antes de fechar a compra.
+- **Consulte a lista Evite esses sites** e veja se a loja mostra CNPJ e endereço.
+- **Guarde as provas:** print do anúncio, comprovante, nota fiscal e conversas com a loja.
 
 ## Preço diferente na etiqueta, no site e no caixa
 
@@ -114,7 +130,8 @@ A mesma lei manda a loja informar com clareza os descontos que dependem da forma
 ## Como reclamar se a loja não resolver
 
 1. **Fale com a loja primeiro**, pelo SAC ou pelo canal da compra, e anote o número do protocolo.
-2. **Procure o Procon da sua cidade ou do seu estado.** O atendimento é gratuito.
-3. **Entre no Juizado Especial Cível**, que julga causas de até 40 salários mínimos (R$ 64.840 em 2026). Em causas de até 20 salários mínimos (R$ 32.420 em 2026), você pode entrar sem advogado ([Lei nº 9.099/1995](https://www2.camara.leg.br/legin/fed/lei/1995/lei-9099-26-setembro-1995-348608-normaatualizada-pl.html)).
+2. **Registre a reclamação no [Consumidor.gov.br](https://www.consumidor.gov.br/pages/conteudo/publico/1)**, a plataforma pública em que as empresas cadastradas se comprometem a responder em até **10 dias**.
+3. **Procure o Procon da sua cidade ou do seu estado.**
+4. **Entre no Juizado Especial Cível**, que julga causas de até 40 salários mínimos (R$ 64.840 em 2026). Em causas de até 20 salários mínimos (R$ 32.420 em 2026), você pode entrar sem advogado ([Lei nº 9.099/1995](https://www2.camara.leg.br/legin/fed/lei/1995/lei-9099-26-setembro-1995-348608-normaatualizada-pl.html)).
 
 Guarde tudo: prints do anúncio, comprovante de pagamento, nota fiscal, e-mails e conversas com a loja.
