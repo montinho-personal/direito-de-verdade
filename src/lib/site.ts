@@ -12,7 +12,7 @@ export const site = {
 
   // ID da métrica do Google Analytics 4, no formato "G-XXXXXXXXXX" (em Administrador >
   // Fluxos de dados > o fluxo do site). Vazio: o Analytics não é carregado.
-  googleAnalytics: "",
+  googleAnalytics: "G-05XK591EB3",
 
   // E-mail de contato exibido no site.
   // Vazio: a página de contato fica oculta e a política de privacidade avisa que o canal está a caminho.
