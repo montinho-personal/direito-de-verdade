@@ -51,16 +51,19 @@ Abertas e lidas em 19/10/2026.
 | Consumidor.gov.br: empresas respondem em até 10 dias | [Consumidor.gov.br](https://www.consumidor.gov.br/pages/conteudo/publico/1) | oficial |
 | Black Friday 2026 em 27/11 (sexta depois do Dia de Ação de Graças, 26/11) | [Central do Varejo](https://centraldovarejo.com.br/black-friday-2026-data-faturamento-e-preparacao-do-varejo/); [meutudo](https://meutudo.com.br/blog/?p=127272) | 2 veículos |
 
+| Arrependimento: 7 dias a partir do recebimento; pode abrir e testar; não precisa justificar; reembolso integral com frete de envio e de devolução; ninguém é obrigado a aceitar créditos; "tudo pela metade do dobro" | [Cartilha Black Friday da Senacon, 2025](https://www.gov.br/mj/pt-br/assuntos/arquivos-imprensa/senacon/cartilha-black-friday-senacon-2025) | oficial |
+| 7 dias corridos, a partir do dia seguinte ao recebimento, sem parar no fim de semana; atraso na entrega dá as opções do art. 35 | [Procon-SP, perguntas frequentes](https://www.procon.sp.gov.br/perguntas-frequentes/) | oficial |
+| Frete de devolução não pode ser cobrado | [Guia de comércio eletrônico do Procon-SP](https://www.procon.sp.gov.br/wp-content/uploads/2024/08/Guia_de_Comercio_Eletronico.pdf); STJ, REsp 1.340.604, [Informativo 528](https://scon.stj.jus.br/docs_internet/informativos/PDF/Inf0528.pdf) | oficial |
+| Erro grosseiro no preço, avisado logo, pode afastar a oferta (caso a caso) | STJ, REsp 1.794.991, [Informativo 671](https://processo.stj.jus.br/jurisprudencia/externo/informativo/?acao=pesquisarumaedicao&livre=%40cod%3D%270671%27) | oficial |
+| Digitar o endereço em vez de clicar em links; Pix dentro da loja e conferir o recebedor; golpe do QR Code do Pix | Guia do Procon-SP (acima); [Febraban, 24/11/2025](https://portal.febraban.org.br/noticia/4391/pt-br/); [Procon-SP via Agência SP, 12/09/2026](https://www.agenciasp.sp.gov.br/procon-novo-golpe-que-altera-qr-code-pix/) | oficial |
+| Consumidor.gov.br é gratuito e exige conta gov.br | [Consumidor.gov.br](https://www.consumidor.gov.br/pages/conteudo/publico/1) | oficial |
+
 ## Pendente
 
-- **"Metade do dobro" em fonte oficial:** o texto descreve a prática e a
-  enquadra no art. 37 (§ 1º fala de informação falsa sobre preço). Falta
-  uma nota de Procon ou Senacon com o termo.
-- **Preço errado (erro grosseiro):** fica de fora até achar o entendimento
-  do STJ em fonte oficial.
-- **Golpes (Pix, sites falsos):** só a parte com base legal (CNPJ e
-  endereço) e a lista do Procon. Orientação de Febraban ou polícia ainda
-  não conferida.
+- **Data com dois veículos abertos e lidos:** a busca mostrou Central do
+  Varejo e meutudo com 27/11; JB, TechTudo e Exame não abriram aqui.
+- **MED do Pix (Banco Central):** citado pelo Procon-SP; a página do BC não
+  foi aberta, por isso o texto não detalha o mecanismo.
 
 ## Decisões
 
