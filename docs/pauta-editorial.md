@@ -17,6 +17,7 @@ O Google leva semanas para mostrar um site novo: publicar antes do pico.
 | Calculadora do 13º salário 2026 | novembro e dezembro | **publicado em 19/10/2026** — [doc](calculadoras/13-salario.md), `/calculadoras/13-salario` |
 | Calculadora de rescisão trabalhista 2026 | o ano todo, pico em dezembro e janeiro | **publicado em 19/10/2026** — [doc](calculadoras/rescisao.md), `/calculadoras/rescisao` |
 | Calculadora de imposto de renda 2026 (salário) | agora e março a maio | **publicado em 19/10/2026** — [doc](calculadoras/imposto-de-renda.md), `/calculadoras/imposto-de-renda` |
+| Calculadora do seguro-desemprego 2026 | o ano todo, pico em janeiro (tabela nova) | **publicado em 19/10/2026** — [doc](calculadoras/seguro-desemprego.md), `/calculadoras/seguro-desemprego` |
 | Black Friday (27/11): direitos do consumidor | novembro | **publicado em 19/10/2026** — [doc](artigos/black-friday-direitos-do-consumidor.md), `/artigos/black-friday-direitos-do-consumidor` |
 | Pensão alimentícia incide sobre o 13º? | novembro e dezembro | **publicado em 19/10/2026** — [doc](artigos/pensao-alimenticia-13-salario.md), `/artigos/pensao-alimenticia-13-salario` |
 | Isenção do IR para quem ganha até R$ 5 mil | agora e março a maio (declaração 2027) | **publicado em 19/10/2026** — [doc](artigos/isencao-imposto-de-renda-5-mil.md), `/artigos/isencao-imposto-de-renda-5-mil` |

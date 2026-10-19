@@ -4,6 +4,7 @@ tituloSeo: "Seguro-desemprego 2026: valor, tabela e quantas parcelas"
 descricao: "Seguro-desemprego 2026 paga de R$ 1.621 a R$ 2.518,65 por parcela, de 3 a 5 parcelas. Veja a tabela, quem tem direito e calcule o seu valor exato."
 categoria: trabalho
 publicadoEm: 2026-10-19
+atualizadoEm: 2026-10-19
 faq:
   - pergunta: "Quem pede demissão recebe seguro-desemprego?"
     resposta: "Não. O seguro-desemprego é para quem é dispensado sem justa causa, inclusive na rescisão indireta (quando a empresa comete falta grave e o trabalhador vai à Justiça). Pedido de demissão, justa causa, acordo com a empresa e plano de demissão voluntária não dão direito."
@@ -75,7 +76,7 @@ Exemplo: salário médio de R$ 3.000. Passa R$ 777,83 da primeira faixa; metade 
 | R$ 3.500 | R$ 2.417 |
 | R$ 3.703,99 ou mais | R$ 2.518,65 (valor máximo) |
 
-O **valor máximo** do seguro-desemprego em 2026 é **R$ 2.518,65**, para quem tinha salário médio acima de R$ 3.703,99. Ganhar R$ 5 mil ou R$ 10 mil não muda o valor: ele para no teto.
+O **valor máximo** do seguro-desemprego em 2026 é **R$ 2.518,65**, para quem tinha salário médio acima de R$ 3.703,99. Ganhar R$ 5 mil ou R$ 10 mil não muda o valor: ele para no teto. Os totais com 4 e 5 parcelas estão na [calculadora do seguro-desemprego](/calculadoras/seguro-desemprego).
 
 ## Quantas parcelas do seguro-desemprego em 2026?
 
