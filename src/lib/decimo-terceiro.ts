@@ -1,4 +1,5 @@
-// Conta do 13º salário de quem trabalha com carteira assinada, com os valores de 2026.
+// Conta do 13º salário de quem trabalha com carteira assinada, com os valores de 2026,
+// e o imposto de renda mensal de 2026 (calculadora do artigo da isenção de R$ 5 mil).
 // Fontes de cada número em docs/artigos/13-salario.md e
 // docs/calculadoras/13-salario.md. Revisar todo ano.
 
@@ -22,7 +23,7 @@ const FAIXAS_IR_2026 = [
 ];
 const DEDUCAO_POR_DEPENDENTE_2026 = 189.59;
 // Usado no lugar das deduções (INSS e dependentes) quando for maior que elas
-const DESCONTO_SIMPLIFICADO_2026 = 607.2;
+export const DESCONTO_SIMPLIFICADO_2026 = 607.2;
 
 // Até este valor de 13º não há imposto de renda em 2026 (Lei 15.270/2025, que
 // também vale para o 13º). Até R$ 7.350 o imposto tem uma redução menor.
@@ -46,20 +47,33 @@ export function inss2026(valor: number) {
   return centavos(total);
 }
 
-// Imposto de renda do 13º, calculado à parte do salário. A redução da Lei 15.270/2025
-// usa o 13º bruto, e não a base de cálculo (exemplos da Receita Federal).
-export function impostoDeRenda13(bruto: number, inss: number, dependentes = 0) {
+// Imposto de renda de 2026 sobre um rendimento mensal (salário) ou sobre o 13º, que
+// é calculado à parte do salário com as mesmas regras. A redução da Lei 15.270/2025
+// usa o rendimento bruto, e não a base de cálculo (exemplos da Receita Federal).
+export function detalheDoImposto2026(bruto: number, inss: number, dependentes = 0) {
   const deducoes = inss + dependentes * DEDUCAO_POR_DEPENDENTE_2026;
-  const base = bruto - Math.max(deducoes, DESCONTO_SIMPLIFICADO_2026);
+  const usaDescontoSimplificado = DESCONTO_SIMPLIFICADO_2026 > deducoes;
+  const base = Math.max(0, bruto - Math.max(deducoes, DESCONTO_SIMPLIFICADO_2026));
   const faixa = FAIXAS_IR_2026.find((f) => base <= f.ate) ?? FAIXAS_IR_2026[4];
-  const pelaTabela = Math.max(0, base * faixa.aliquota - faixa.deduzir);
-  const reducao =
+  const pelaTabela = centavos(Math.max(0, base * faixa.aliquota - faixa.deduzir));
+  const reducaoDaLei =
     bruto <= LIMITE_ISENCAO_IR_2026
       ? pelaTabela
       : bruto <= LIMITE_REDUCAO_IR_2026
         ? 978.62 - 0.133145 * bruto
         : 0;
-  return centavos(Math.max(0, pelaTabela - reducao));
+  const imposto = centavos(Math.max(0, pelaTabela - reducaoDaLei));
+  return {
+    base: centavos(base),
+    usaDescontoSimplificado,
+    pelaTabela,
+    reducao: centavos(pelaTabela - imposto),
+    imposto,
+  };
+}
+
+export function impostoDeRenda13(bruto: number, inss: number, dependentes = 0) {
+  return detalheDoImposto2026(bruto, inss, dependentes).imposto;
 }
 
 export type Resultado13 = {

@@ -1,5 +1,6 @@
 import Link from "next/link";
 import { Calculadora13Salario } from "@/components/calculadora-13-salario";
+import { CalculadoraIrSalario } from "@/components/calculadora-ir-salario";
 import { CartaoArtigo } from "@/components/cartao-artigo";
 import { Migalhas } from "@/components/migalhas";
 import { VideoDoYoutube } from "@/components/video-do-youtube";
@@ -20,6 +21,7 @@ const COMPONENTES_DAS_FERRAMENTAS: Record<
   (props: PropsDaFerramenta) => React.ReactNode
 > = {
   "calculadora-13-salario": Calculadora13Salario,
+  "calculadora-ir-salario": CalculadoraIrSalario,
 };
 
 function Ferramenta({ id, ...props }: PropsDaFerramenta & { id: IdDaFerramenta }) {

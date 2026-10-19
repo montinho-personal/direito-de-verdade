@@ -144,7 +144,7 @@ Fonte: [tabela de contribuição do INSS de 2026](https://www.gov.br/inss/pt-br/
 
 O 13º também paga imposto de renda **separado do salário**: o imposto é calculado só sobre ele e retido na 2ª parcela.
 
-Em 2026 entrou em vigor a nova isenção para quem ganha até R$ 5 mil (Lei nº 15.270/2025), e ela **vale também para o 13º**. Na prática:
+Em 2026 entrou em vigor a [nova isenção do imposto de renda para quem ganha até R$ 5 mil](/artigos/isencao-imposto-de-renda-5-mil) (Lei nº 15.270/2025), e ela **vale também para o 13º**. Na prática:
 
 - **13º de até R$ 5.000:** sem imposto de renda.
 - **13º entre R$ 5.000,01 e R$ 7.350:** o imposto tem um desconto que diminui conforme o valor sobe.
