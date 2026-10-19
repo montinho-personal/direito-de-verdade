@@ -23,7 +23,7 @@ O Google leva semanas para mostrar um site novo: publicar antes do pico.
 ## Temas-base (o ano todo)
 
 ### Trabalho
-- Rescisão sem justa causa: o que recebe e em quanto tempo
+- ~~Rescisão sem justa causa: o que recebe e em quanto tempo~~ — **publicado em 19/10/2026** ([doc](artigos/demissao-sem-justa-causa.md), `/artigos/demissao-sem-justa-causa`)
 - Rescisão indireta: o que é e quando pedir
 - Acordo de demissão (80% do FGTS, metade do aviso, sem seguro-desemprego)
 - Pedido de demissão: o que recebe e o que perde

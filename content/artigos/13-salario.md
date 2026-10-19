@@ -102,7 +102,7 @@ A empregada doméstica tem direito ao 13º com as mesmas regras: mesmas datas, m
 
 ### 13º proporcional na rescisão e aviso prévio indenizado
 
-Quem é **demitido sem justa causa** recebe o 13º proporcional junto com a rescisão. Se o aviso prévio for **indenizado**, ou seja, se a empresa dispensou você de trabalhar o aviso, esse período conta como tempo de serviço ([CLT, artigo 487](https://www.planalto.gov.br/ccivil_03/decreto-lei/del5452.htm)). Na prática, o contrato é projetado até o fim do aviso, e isso pode render mais um avo de 13º.
+Quem é **demitido sem justa causa** recebe o 13º proporcional junto com as [outras verbas da rescisão](/artigos/demissao-sem-justa-causa). Se o aviso prévio for **indenizado**, ou seja, se a empresa dispensou você de trabalhar o aviso, esse período conta como tempo de serviço ([CLT, artigo 487](https://www.planalto.gov.br/ccivil_03/decreto-lei/del5452.htm)). Na prática, o contrato é projetado até o fim do aviso, e isso pode render mais um avo de 13º.
 
 Exemplo: quem foi demitido em 10 de outubro, com 30 dias de aviso indenizado, tem o contrato projetado até 9 de novembro. Novembro passa a contar 9 dias, menos que 15, e não gera avo. Mas outubro, que teria só 10 dias, passa a ter o mês inteiro e conta como mais um avo.
 
