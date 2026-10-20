@@ -23,6 +23,7 @@ O Google leva semanas para mostrar um site novo: publicar antes do pico.
 | Isenção do IR para quem ganha até R$ 5 mil | agora e março a maio (declaração 2027) | **publicado em 19/10/2026** — [doc](artigos/isencao-imposto-de-renda-5-mil.md), `/artigos/isencao-imposto-de-renda-5-mil` |
 | Como calcular férias (1/3, venda de 10 dias, coletivas), com calculadora | o ano todo, pico de novembro a janeiro (coletivas) | **publicado em 20/10/2026** — [doc](artigos/como-calcular-ferias.md), `/artigos/como-calcular-ferias`; página `/calculadoras/ferias` a seguir |
 | Taxa das compras internacionais 2026 (taxa das blusinhas, Shein, Remessa Conforme), com calculadora | novembro (Black Friday) e dezembro | **publicado em 20/10/2026** — [doc](artigos/taxa-compras-internacionais.md), `/artigos/taxa-compras-internacionais` |
+| Golpe do Pix: como recuperar o dinheiro pelo MED (e site falso na Black Friday) | novembro e dezembro | **publicado em 20/10/2026** — [doc](artigos/golpe-pix-como-recuperar-dinheiro.md), `/artigos/golpe-pix-como-recuperar-dinheiro` |
 
 ## Temas-base (o ano todo)
 

@@ -17,7 +17,7 @@ faq:
   - pergunta: "A loja pode devolver o dinheiro em crédito ou vale-compras?"
     resposta: "Só se você aceitar. Na desistência, na entrega que não chegou e no pedido cancelado pela loja, você tem direito ao dinheiro de volta, e ninguém é obrigado a aceitar crédito no lugar dele."
   - pergunta: "Caí em um golpe na Black Friday. O que fazer?"
-    resposta: "Avise o seu banco ou a operadora do cartão na hora, registre um boletim de ocorrência (em muitos estados dá para fazer pela delegacia eletrônica) e guarde prints, comprovantes e conversas. Se o pagamento foi por Pix, peça ao banco a devolução pelo mecanismo do Pix para casos de fraude."
+    resposta: "Avise o seu banco ou a operadora do cartão na hora, registre um boletim de ocorrência (em muitos estados dá para fazer pela delegacia eletrônica) e guarde prints, comprovantes e conversas. Se o pagamento foi por Pix, conteste no app do banco para acionar o MED, o mecanismo de devolução do Pix; o prazo é de 80 dias, mas quanto antes, melhor. Veja o [passo a passo para recuperar o dinheiro do golpe do Pix](/artigos/golpe-pix-como-recuperar-dinheiro)."
 video:
   url: "https://www.youtube.com/watch?v=p3ZAx9Pf1MQ"
   titulo: "Vídeo sobre os direitos do consumidor na Black Friday"
