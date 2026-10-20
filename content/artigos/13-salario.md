@@ -62,7 +62,7 @@ Para quem tem carteira assinada, a única "antecipação" de 2026 é essa da 2ª
 Duas situações fazem o dinheiro chegar mais cedo:
 
 - **A empresa decide pagar antes.** É permitido e acontece bastante, mas é decisão dela.
-- **Você pediu em janeiro.** Quem pede por escrito, no mês de janeiro, recebe a 1ª parcela junto com as férias daquele ano.
+- **Você pediu em janeiro.** Quem pede por escrito, no mês de janeiro, recebe a 1ª parcela junto com as férias daquele ano; veja [como calcular as férias](/artigos/como-calcular-ferias) com esse adiantamento.
 
 A antecipação que virou notícia em 2026 foi a dos **aposentados e pensionistas do INSS**, que receberam o 13º em abril e maio. Veja os detalhes [mais abaixo](#13o-dos-aposentados-e-pensionistas-do-inss-em-2026).
 

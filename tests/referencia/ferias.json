@@ -1,0 +1,460 @@
+[
+ {
+  "nome": "30 dias, salário de R$ 1621",
+  "entrada": {
+   "salario": 162100
+  },
+  "esperado": {
+   "direito": 30,
+   "ferias": 162100,
+   "terco": 54033,
+   "abono": 0,
+   "inss": 17020,
+   "ir": 0,
+   "liquido": 199113
+  }
+ },
+ {
+  "nome": "30 dias, salário de R$ 1800",
+  "entrada": {
+   "salario": 180000
+  },
+  "esperado": {
+   "direito": 30,
+   "ferias": 180000,
+   "terco": 60000,
+   "abono": 0,
+   "inss": 19169,
+   "ir": 0,
+   "liquido": 220831
+  }
+ },
+ {
+  "nome": "30 dias, salário de R$ 2000",
+  "entrada": {
+   "salario": 200000
+  },
+  "esperado": {
+   "direito": 30,
+   "ferias": 200000,
+   "terco": 66667,
+   "abono": 0,
+   "inss": 21569,
+   "ir": 0,
+   "liquido": 245098
+  }
+ },
+ {
+  "nome": "30 dias, salário de R$ 2200",
+  "entrada": {
+   "salario": 220000
+  },
+  "esperado": {
+   "direito": 30,
+   "ferias": 220000,
+   "terco": 73333,
+   "abono": 0,
+   "inss": 24060,
+   "ir": 0,
+   "liquido": 269273
+  }
+ },
+ {
+  "nome": "30 dias, salário de R$ 3000",
+  "entrada": {
+   "salario": 300000
+  },
+  "esperado": {
+   "direito": 30,
+   "ferias": 300000,
+   "terco": 100000,
+   "abono": 0,
+   "inss": 36860,
+   "ir": 0,
+   "liquido": 363140
+  }
+ },
+ {
+  "nome": "30 dias, salário de R$ 3500",
+  "entrada": {
+   "salario": 350000
+  },
+  "esperado": {
+   "direito": 30,
+   "ferias": 350000,
+   "terco": 116667,
+   "abono": 0,
+   "inss": 45485,
+   "ir": 0,
+   "liquido": 421182
+  }
+ },
+ {
+  "nome": "30 dias, salário de R$ 3750",
+  "entrada": {
+   "salario": 375000
+  },
+  "esperado": {
+   "direito": 30,
+   "ferias": 375000,
+   "terco": 125000,
+   "abono": 0,
+   "inss": 50151,
+   "ir": 0,
+   "liquido": 449849
+  }
+ },
+ {
+  "nome": "30 dias, salário de R$ 5000",
+  "entrada": {
+   "salario": 500000
+  },
+  "esperado": {
+   "direito": 30,
+   "ferias": 500000,
+   "terco": 166667,
+   "abono": 0,
+   "inss": 73485,
+   "ir": 63153,
+   "liquido": 530029
+  }
+ },
+ {
+  "nome": "30 dias, salário de R$ 5513.25",
+  "entrada": {
+   "salario": 551325
+  },
+  "esperado": {
+   "direito": 30,
+   "ferias": 551325,
+   "terco": 183775,
+   "abono": 0,
+   "inss": 83065,
+   "ir": 88437,
+   "liquido": 563598
+  }
+ },
+ {
+  "nome": "30 dias, salário de R$ 6000",
+  "entrada": {
+   "salario": 600000
+  },
+  "esperado": {
+   "direito": 30,
+   "ferias": 600000,
+   "terco": 200000,
+   "abono": 0,
+   "inss": 92151,
+   "ir": 103785,
+   "liquido": 604064
+  }
+ },
+ {
+  "nome": "30 dias, salário de R$ 7350",
+  "entrada": {
+   "salario": 735000
+  },
+  "esperado": {
+   "direito": 30,
+   "ferias": 735000,
+   "terco": 245000,
+   "abono": 0,
+   "inss": 98809,
+   "ir": 151455,
+   "liquido": 729736
+  }
+ },
+ {
+  "nome": "30 dias, salário de R$ 8000",
+  "entrada": {
+   "salario": 800000
+  },
+  "esperado": {
+   "direito": 30,
+   "ferias": 800000,
+   "terco": 266667,
+   "abono": 0,
+   "inss": 98809,
+   "ir": 175288,
+   "liquido": 792570
+  }
+ },
+ {
+  "nome": "30 dias, salário de R$ 10000",
+  "entrada": {
+   "salario": 1000000
+  },
+  "esperado": {
+   "direito": 30,
+   "ferias": 1000000,
+   "terco": 333333,
+   "abono": 0,
+   "inss": 98809,
+   "ir": 248621,
+   "liquido": 985903
+  }
+ },
+ {
+  "nome": "30 dias, salário de R$ 2537.89",
+  "entrada": {
+   "salario": 253789
+  },
+  "esperado": {
+   "direito": 30,
+   "ferias": 253789,
+   "terco": 84596,
+   "abono": 0,
+   "inss": 29466,
+   "ir": 0,
+   "liquido": 308919
+  }
+ },
+ {
+  "nome": "vendendo 10 dias, R$ 3.000",
+  "entrada": {
+   "salario": 300000,
+   "diasVendidos": 10
+  },
+  "esperado": {
+   "direito": 30,
+   "ferias": 200000,
+   "terco": 66667,
+   "abono": 133333,
+   "inss": 21569,
+   "ir": 0,
+   "liquido": 378431
+  }
+ },
+ {
+  "nome": "vendendo 5 dias, R$ 3.000",
+  "entrada": {
+   "salario": 300000,
+   "diasVendidos": 5
+  },
+  "esperado": {
+   "direito": 30,
+   "ferias": 250000,
+   "terco": 83333,
+   "abono": 66667,
+   "inss": 28860,
+   "ir": 0,
+   "liquido": 371140
+  }
+ },
+ {
+  "nome": "15 dias (fracionadas), R$ 4.000",
+  "entrada": {
+   "salario": 400000,
+   "diasDeDescanso": 15
+  },
+  "esperado": {
+   "direito": 30,
+   "ferias": 200000,
+   "terco": 66667,
+   "abono": 0,
+   "inss": 21569,
+   "ir": 0,
+   "liquido": 245098
+  }
+ },
+ {
+  "nome": "20 dias e venda de 10, R$ 4.000",
+  "entrada": {
+   "salario": 400000,
+   "diasDeDescanso": 20,
+   "diasVendidos": 10
+  },
+  "esperado": {
+   "direito": 30,
+   "ferias": 266667,
+   "terco": 88889,
+   "abono": 177777,
+   "inss": 31527,
+   "ir": 0,
+   "liquido": 501806
+  }
+ },
+ {
+  "nome": "8 faltas: 24 dias e venda de 8",
+  "entrada": {
+   "salario": 300000,
+   "faltas": 8,
+   "diasVendidos": 8
+  },
+  "esperado": {
+   "direito": 24,
+   "ferias": 160000,
+   "terco": 53333,
+   "abono": 106667,
+   "inss": 16768,
+   "ir": 0,
+   "liquido": 303232
+  }
+ },
+ {
+  "nome": "20 faltas: 18 dias",
+  "entrada": {
+   "salario": 300000,
+   "faltas": 20
+  },
+  "esperado": {
+   "direito": 18,
+   "ferias": 180000,
+   "terco": 60000,
+   "abono": 0,
+   "inss": 19169,
+   "ir": 0,
+   "liquido": 220831
+  }
+ },
+ {
+  "nome": "30 faltas: 12 dias",
+  "entrada": {
+   "salario": 300000,
+   "faltas": 30
+  },
+  "esperado": {
+   "direito": 12,
+   "ferias": 120000,
+   "terco": 40000,
+   "abono": 0,
+   "inss": 12000,
+   "ir": 0,
+   "liquido": 148000
+  }
+ },
+ {
+  "nome": "horas extras e adicional noturno na média",
+  "entrada": {
+   "salario": 280000,
+   "mediaVariaveis": 64000
+  },
+  "esperado": {
+   "direito": 30,
+   "ferias": 344000,
+   "terco": 114667,
+   "abono": 0,
+   "inss": 44365,
+   "ir": 0,
+   "liquido": 414302
+  }
+ },
+ {
+  "nome": "venda de 10 dias com imposto no 1/3 do abono, R$ 6.000",
+  "entrada": {
+   "salario": 600000,
+   "diasVendidos": 10
+  },
+  "esperado": {
+   "direito": 30,
+   "ferias": 400000,
+   "terco": 133333,
+   "abono": 266667,
+   "inss": 54818,
+   "ir": 39454,
+   "liquido": 705728
+  }
+ },
+ {
+  "nome": "venda de 10 dias, R$ 5.000 (rendimento de R$ 5.000 cravados)",
+  "entrada": {
+   "salario": 500000,
+   "diasVendidos": 10
+  },
+  "esperado": {
+   "direito": 30,
+   "ferias": 333333,
+   "terco": 111111,
+   "abono": 222223,
+   "inss": 42374,
+   "ir": 0,
+   "liquido": 624293
+  }
+ },
+ {
+  "nome": "dependentes",
+  "entrada": {
+   "salario": 900000,
+   "dependentes": 2
+  },
+  "esperado": {
+   "direito": 30,
+   "ferias": 900000,
+   "terco": 300000,
+   "abono": 0,
+   "inss": 98809,
+   "ir": 201527,
+   "liquido": 899664
+  }
+ },
+ {
+  "nome": "pensão alimentícia",
+  "entrada": {
+   "salario": 900000,
+   "pensao": 150000
+  },
+  "esperado": {
+   "direito": 30,
+   "ferias": 900000,
+   "terco": 300000,
+   "abono": 0,
+   "inss": 98809,
+   "ir": 170705,
+   "liquido": 780486
+  }
+ },
+ {
+  "nome": "1ª parcela do 13º junto",
+  "entrada": {
+   "salario": 300000,
+   "adiantar13": true
+  },
+  "esperado": {
+   "direito": 30,
+   "ferias": 300000,
+   "terco": 100000,
+   "abono": 0,
+   "inss": 36860,
+   "ir": 0,
+   "liquido": 513140
+  }
+ },
+ {
+  "nome": "datas: início numa segunda",
+  "entrada": {
+   "salario": 300000,
+   "inicio": "2027-01-04"
+  },
+  "esperado": {
+   "direito": 30,
+   "ferias": 300000,
+   "terco": 100000,
+   "abono": 0,
+   "inss": 36860,
+   "ir": 0,
+   "liquido": 363140,
+   "pagamentoAte": "2027-01-02",
+   "volta": "2027-02-03"
+  }
+ },
+ {
+  "nome": "datas: 20 dias a partir de 01/12",
+  "entrada": {
+   "salario": 300000,
+   "diasDeDescanso": 20,
+   "diasVendidos": 10,
+   "inicio": "2026-12-01"
+  },
+  "esperado": {
+   "direito": 30,
+   "ferias": 200000,
+   "terco": 66667,
+   "abono": 133333,
+   "inss": 21569,
+   "ir": 0,
+   "liquido": 378431,
+   "pagamentoAte": "2026-11-29",
+   "volta": "2026-12-21"
+  }
+ }
+]
