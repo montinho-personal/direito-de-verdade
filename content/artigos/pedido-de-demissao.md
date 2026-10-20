@@ -4,6 +4,7 @@ tituloSeo: "Pedido de demissão: o que recebe e o que perde (com cálculo)"
 descricao: "Pedido de demissão: você recebe saldo de salário, 13º e férias com 1/3, mas perde a multa, o saque do FGTS e o seguro. Veja o aviso prévio e calcule a sua rescisão."
 categoria: trabalho
 publicadoEm: 2026-10-19
+atualizadoEm: 2026-10-20
 faq:
   - pergunta: "Quem pede demissão recebe seguro-desemprego?"
     resposta: "Não. O seguro-desemprego é para quem é dispensado sem justa causa (Lei nº 7.998/1990, artigo 3º). Quem pede demissão não tem direito, mesmo com muitos anos de carteira assinada."
@@ -103,7 +104,7 @@ A conta daquele emprego pode ser sacada depois, em situações previstas no arti
 
 Quem está no **saque-aniversário** continua sacando a parcela anual, que começa pelas contas de contratos já encerrados ([artigo 20-D, § 1º](https://www2.camara.leg.br/legin/fed/lei/1990/lei-8036-11-maio-1990-365155-normaatualizada-pl.html)).
 
-Se a saída for de comum acordo com a empresa, a regra muda: no acordo, dá para sacar até 80% do FGTS e receber multa de 20%. Veja [o que muda em cada tipo de saída](/calculadoras/rescisao#quanto-recebe-em-cada-tipo-de-rescisao), e o guia de [quem é demitido sem justa causa](/artigos/demissao-sem-justa-causa).
+Se a saída for de comum acordo com a empresa, a regra muda: no [acordo de demissão](/artigos/acordo-de-demissao), dá para sacar até 80% do FGTS e receber multa de 20%. Veja [o que muda em cada tipo de saída](/calculadoras/rescisao#quanto-recebe-em-cada-tipo-de-rescisao), e o guia de [quem é demitido sem justa causa](/artigos/demissao-sem-justa-causa).
 
 ## Pedido de demissão no contrato de experiência
 

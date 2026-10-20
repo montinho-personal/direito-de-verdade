@@ -27,7 +27,7 @@ O Google leva semanas para mostrar um site novo: publicar antes do pico.
 ### Trabalho
 - ~~Rescisão sem justa causa: o que recebe e em quanto tempo~~ — **publicado em 19/10/2026** ([doc](artigos/demissao-sem-justa-causa.md), `/artigos/demissao-sem-justa-causa`)
 - Rescisão indireta: o que é e quando pedir
-- Acordo de demissão (80% do FGTS, metade do aviso, sem seguro-desemprego)
+- ~~Acordo de demissão (80% do FGTS, metade do aviso, sem seguro-desemprego)~~ — **publicado em 20/10/2026** ([doc](artigos/acordo-de-demissao.md), `/artigos/acordo-de-demissao`)
 - ~~Pedido de demissão: o que recebe e o que perde~~ — **publicado em 19/10/2026** ([doc](artigos/pedido-de-demissao.md), `/artigos/pedido-de-demissao`)
 - ~~Seguro-desemprego 2026: quem tem direito, parcelas e valores~~ — **publicado em 19/10/2026** ([doc](artigos/seguro-desemprego-2026.md), `/artigos/seguro-desemprego-2026`)
 - Aviso prévio trabalhado ou indenizado (e os 3 dias por ano)

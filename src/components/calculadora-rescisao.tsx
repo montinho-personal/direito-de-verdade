@@ -262,9 +262,14 @@ export function CalculadoraRescisao({ nivelDoTitulo = 3 }: { nivelDoTitulo?: 2 |
   );
 }
 
-// A mesma calculadora, já com "Pedido de demissão" escolhido (artigo do pedido)
+// A mesma calculadora, já com o tipo de saída do artigo escolhido
 export function CalculadoraPedidoDeDemissao(props: { nivelDoTitulo?: 2 | 3 }) {
   useEffect(() => definirMotivoInicial("pedido"), []);
+  return <CalculadoraRescisao {...props} />;
+}
+
+export function CalculadoraAcordoDeDemissao(props: { nivelDoTitulo?: 2 | 3 }) {
+  useEffect(() => definirMotivoInicial("acordo"), []);
   return <CalculadoraRescisao {...props} />;
 }
 

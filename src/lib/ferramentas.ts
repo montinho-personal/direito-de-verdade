@@ -7,6 +7,7 @@ export const FERRAMENTAS = [
   "calculadora-ir-salario",
   "calculadora-rescisao",
   "calculadora-pedido-de-demissao",
+  "calculadora-acordo-de-demissao",
   "calculadora-seguro-desemprego",
   "comparador-de-salario",
   "conferir-holerite",
