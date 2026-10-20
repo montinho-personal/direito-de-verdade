@@ -26,6 +26,7 @@ O Google leva semanas para mostrar um site novo: publicar antes do pico.
 | Golpe do Pix: como recuperar o dinheiro pelo MED (e site falso na Black Friday) | novembro e dezembro | **publicado em 20/10/2026** — [doc](artigos/golpe-pix-como-recuperar-dinheiro.md), `/artigos/golpe-pix-como-recuperar-dinheiro` |
 | Produto com defeito: o que fazer, prazos do CDC e garantia estendida | dezembro e janeiro (depois da Black Friday e do Natal) | **publicado em 20/10/2026** — [doc](artigos/produto-com-defeito.md), `/artigos/produto-com-defeito` |
 | Loja é obrigada a trocar produto? (troca de presente de Natal, sem nota, sem etiqueta, promoção) | 26/12 a meados de janeiro | **publicado em 20/10/2026** — [doc](artigos/loja-e-obrigada-a-trocar-produto.md), `/artigos/loja-e-obrigada-a-trocar-produto` |
+| Trabalhar no feriado paga em dobro? 24 e 31 de dezembro são feriado? | dezembro (semana do Natal e do Ano Novo) e todo feriado | **publicado em 20/10/2026** — [doc](artigos/trabalhar-no-feriado.md), `/artigos/trabalhar-no-feriado` |
 
 ## Temas-base (o ano todo)
 
@@ -87,3 +88,4 @@ O Google leva semanas para mostrar um site novo: publicar antes do pico.
 - Férias: tabela por salário e exemplos de `/artigos/como-calcular-ferias` (INSS e IR do ano; redução da Lei 15.270 nas férias).
 - Compras internacionais: alíquotas do Remessa Conforme (Portaria MF), desconto em dólar e ICMS dos estados; conferir a cada avaliação semestral da Fazenda (Lei 15.502/2026).
 - Seguro-desemprego: tabela nova em janeiro (faixas, piso e teto), em `src/lib/seguro-desemprego.ts` e no artigo `seguro-desemprego-2026` (exemplos e título com o ano).
+- Trabalho no feriado: calendário de fim de ano (portaria de pontos facultativos do MGI, dias da semana), tabela com o salário mínimo do ano e feriado bancário de 31/12 em `/artigos/trabalhar-no-feriado`.
