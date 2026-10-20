@@ -48,6 +48,24 @@ test("13º: adiantamento maior que o 13º não deixa a 2ª parcela negativa", ()
   assert.ok(r.faltouDescontar > 0);
 });
 
+test("13º: afastamento pelo INSS tira os meses e mostra quanto valeriam", () => {
+  // R$ 3.000, 3 meses de auxílio: 9/12 = 2.250 da empresa; os 3 meses valem 750
+  const r = calcular13({ salario: 300000, mesesAfastadoPeloInss: 3, motivoDoAfastamento: "acidente" });
+  assert.equal(r.bruto, 225000);
+  assert.deepEqual(r.afastamento, { motivo: "acidente", valorDosMeses: 75000 });
+  assert.equal(r.primeira.regra, "proporcional");
+  assert.equal(calcular13({ salario: 300000, mesesAfastadoPeloInss: 2 }).afastamento.motivo, "doenca");
+  assert.equal(calcular13({ salario: 300000 }).afastamento, null);
+});
+
+test("13º: centavos e limites das faixas sem erro de ponto flutuante", () => {
+  for (const salario of [162101, 253789, 500001, 735001, 847555, 847556, 999999]) {
+    const r = calcular13({ salario });
+    assert.ok(Number.isInteger(r.bruto + r.inss.total + r.irrf.imposto + r.segunda + r.primeira.valor));
+    assert.equal(r.primeira.valor + r.inss.total + r.irrf.imposto + r.segunda, r.bruto);
+  }
+});
+
 test("13º: entradas inválidas", () => {
   const campos = (e) => calcular13(e).erros?.map((x) => x.campo) ?? [];
   assert.deepEqual(campos({ salario: 0 }), ["salario"]);

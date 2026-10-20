@@ -158,3 +158,30 @@ memória, cálculo detalhado, comparador, conferência, 320/390/1280 px, axe
 Horistas, comissionistas puros, domésticos com regras de convenção,
 aposentados e pensionistas (abono anual do INSS), acidente de trabalho e
 suspensão do contrato.
+
+## Segunda passada da auditoria (20/10/2026)
+
+O prompt da auditoria foi reenviado; cada fase foi conferida contra o que já
+estava no ar. O que faltava:
+
+| ponto | gravidade | correção |
+|---|---|---|
+| Acidente de trabalho ficava "fora da calculadora", sem orientação | média | o campo de afastamento vale para doença ou acidente; com o motivo "acidente", o resultado mostra quanto os meses valeriam de 13º e avisa da Súmula 46 do TST e da possível diferença, como tema não pacífico |
+| Doméstico listado como fora da conta | baixa | LC 150/2015, art. 19 (aberto na Câmara): aplicam-se as Leis 4.090 e 4.749; mesma tabela do INSS (art. 34, I, remete ao art. 20 da Lei 8.212). Pode usar a calculadora |
+| Comparador dizia que reajuste de 2027 nunca muda o 13º de 2026 | baixa | ressalva do reajuste retroativo (convenção coletiva) |
+| Testes de centavos e afastamento | — | 2 testes novos (67 no total) |
+
+### Fontes desta passada
+
+| fato | fonte | tipo |
+|---|---|---|
+| INSS paga abono anual a quem recebeu auxílio-doença no ano, calculado como o 13º sobre a renda do benefício de dezembro | Lei 8.213/1991, art. 40 (texto da Câmara, aberto em 20/10) | oficial |
+| Doméstico: Leis 4.090 e 4.749 se aplicam | LC 150/2015, art. 19 (texto da Câmara, aberto em 20/10) | oficial |
+| Súmula 46 do TST: faltas por acidente não contam para o cálculo da gratificação natalina | texto reproduzido por Coad e Empório do Direito; quadro do TST publicado pelo TRT-2 (2008 e 2012) lista a súmula "sem alteração" | 2 veículos (site do TST bloqueado neste ambiente) |
+| Empresa paga a diferença entre o abono e o 13º no acidente | IOB e Coad, lidos só pelo resumo da busca (páginas bloqueadas) | **fraco**: por isso o texto diz "há orientação" e "não é pacífico", sem calcular a diferença |
+
+### Pendente
+
+- Abrir a Súmula 46 no site do TST e as páginas da IOB e da Coad quando o acesso permitir.
+- Horista e comissionista puro continuam fora: a base de dezembro depende de horas e comissões do mês, sem regra única confirmada.
+- Suspensão do contrato (art. 476-A e disciplinar): sem fonte, fora da conta.

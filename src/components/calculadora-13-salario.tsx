@@ -178,14 +178,26 @@ export function Calculadora13Salario({ nivelDoTitulo = 3 }: { nivelDoTitulo?: 2 
           />
           <Campo
             id={`${id}-inss`}
-            rotulo="Meses afastado pelo INSS por doença"
+            rotulo="Meses afastado recebendo benefício do INSS"
             exemplo="0"
             modo="numeric"
             valor={f.mesesAfastadoPeloInss}
             aoMudar={(mesesAfastadoPeloInss) => mudarFormulario13({ mesesAfastadoPeloInss })}
             erro={erro("mesesAfastadoPeloInss")}
-            dica="Depois dos 15 primeiros dias. O INSS paga o abono anual dessa parte."
+            dica="Por doença ou acidente, depois dos 15 primeiros dias. O INSS paga o abono anual dessa parte."
           />
+          {Number(f.mesesAfastadoPeloInss) > 0 && (
+            <Escolha
+              id={`${id}-motivo`}
+              rotulo="Motivo do afastamento"
+              valor={f.motivoDoAfastamento}
+              opcoes={[
+                { valor: "doenca", nome: "Doença" },
+                { valor: "acidente", nome: "Acidente de trabalho ou doença do trabalho" },
+              ]}
+              aoMudar={(motivoDoAfastamento) => mudarFormulario13({ motivoDoAfastamento })}
+            />
+          )}
           <label className="flex min-h-11 items-start gap-3 text-sm sm:col-span-2">
             <input
               type="checkbox"
@@ -332,10 +344,20 @@ function Resultado({ r }: { r: ResultadoDo13 }) {
               .
             </li>
           )}
-          {r.mesesDescontados.inss > 0 && (
+          {r.afastamento && (
             <li>
-              Os {r.mesesDescontados.inss} meses de afastamento pelo INSS ficam fora do 13º da empresa:
-              o INSS paga o abono anual proporcional a eles.
+              Os {r.mesesDescontados.inss} meses de afastamento ficam fora do 13º da empresa: o INSS
+              paga o abono anual proporcional a eles, calculado sobre o valor do benefício. Pelo
+              salário, esses meses valeriam{" "}
+              <span className="tabular-nums">{reais(r.afastamento.valorDosMeses)}</span> de 13º bruto.
+              {r.afastamento.motivo === "acidente" && (
+                <>
+                  {" "}No acidente de trabalho, a Súmula 46 do TST diz que as ausências não reduzem o
+                  13º, e há orientação de que a empresa pague a diferença entre o abono e esse
+                  valor. O tema não é pacífico: confira a convenção coletiva e, se precisar, procure
+                  o sindicato.
+                </>
+              )}
             </li>
           )}
         </ul>

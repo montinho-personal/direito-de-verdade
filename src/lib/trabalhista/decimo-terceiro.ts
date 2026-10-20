@@ -37,6 +37,9 @@ export type EntradaDo13 = {
   // de 15 dias, e meses de afastamento pelo INSS por doença (o INSS paga essa parte)
   mesesComFaltas?: number;
   mesesAfastadoPeloInss?: number;
+  // Motivo do afastamento: muda só o aviso (no acidente de trabalho a Súmula 46 do TST
+  // pode garantir a diferença entre o abono do INSS e o 13º desses meses)
+  motivoDoAfastamento?: "doenca" | "acidente";
 };
 
 export type ResultadoDo13 = {
@@ -45,6 +48,8 @@ export type ResultadoDo13 = {
   avos: number;
   avosDoPeriodo: number; // antes de tirar faltas e afastamentos
   mesesDescontados: { faltas: number; inss: number };
+  // 13º bruto que os meses de afastamento valeriam, para comparar com o abono do INSS
+  afastamento: { motivo: "doenca" | "acidente"; valorDosMeses: number } | null;
   salarioDeDezembro: number;
   mediaVariavel: number;
   origemDaMedia: "informada" | "mensal" | "nenhuma";
@@ -218,6 +223,12 @@ export function calcular13(entrada: EntradaDo13): ResultadoDo13 | ErroDo13 {
     avos,
     avosDoPeriodo,
     mesesDescontados: { faltas, inss: afastado },
+    afastamento: afastado
+      ? {
+          motivo: entrada.motivoDoAfastamento ?? "doenca",
+          valorDosMeses: dividirArredondando(remuneracao * afastado, 12),
+        }
+      : null,
     salarioDeDezembro,
     mediaVariavel,
     origemDaMedia,

@@ -27,6 +27,7 @@ export type Formulario13 = {
   pensao: string;
   mesesComFaltas: string;
   mesesAfastadoPeloInss: string;
+  motivoDoAfastamento: "doenca" | "acidente";
 };
 
 const INICIAL: Formulario13 = {
@@ -45,6 +46,7 @@ const INICIAL: Formulario13 = {
   pensao: "",
   mesesComFaltas: "",
   mesesAfastadoPeloInss: "",
+  motivoDoAfastamento: "doenca",
 };
 
 let atual = INICIAL;
@@ -114,6 +116,7 @@ export function lerFormulario13(f: Formulario13): { entrada: EntradaDo13 | null;
       pensao,
       mesesComFaltas: faltas,
       mesesAfastadoPeloInss: afastado,
+      motivoDoAfastamento: f.motivoDoAfastamento,
     },
     erros,
   };

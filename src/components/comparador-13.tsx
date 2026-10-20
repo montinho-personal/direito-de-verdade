@@ -107,7 +107,9 @@ export function Comparador13({ nivelDoTitulo = 3 }: { nivelDoTitulo?: 2 | 3 }) {
           {quando === "depois" && (
             <p className="mt-4 rounded-xl border border-border bg-white px-4 py-4 text-sm leading-6">
               Um aumento que só vale a partir de 2027 não muda o 13º de 2026, que usa o salário de
-              dezembro de 2026.
+              dezembro de 2026. A exceção é o reajuste retroativo, como o de uma convenção coletiva
+              assinada depois mas que vale desde um mês de 2026: aí a diferença do 13º também é
+              devida. Para simular, escolha o mês a partir do qual o reajuste vale.
             </p>
           )}
         </>

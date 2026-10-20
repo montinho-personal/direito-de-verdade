@@ -35,6 +35,10 @@ fontes:
     url: "https://www.in.gov.br/web/dou/-/instrucao-normativa-rfb-n-2.141-de-22-de-maio-de-2023-485302288"
   - nome: "eSocial: como pagar a primeira parcela do 13º salário"
     url: "https://www.gov.br/esocial/pt-br/noticias/como-pagar-a-primeira-parcela-do-13o-salario"
+  - nome: "Lei nº 8.213/1991, artigo 40: abono anual do INSS (Câmara dos Deputados)"
+    url: "https://www2.camara.leg.br/legin/fed/lei/1991/lei-8213-24-julho-1991-363650-normaatualizada-pl.html"
+  - nome: "Lei Complementar nº 150/2015, artigo 19: 13º do empregado doméstico (Câmara dos Deputados)"
+    url: "https://www2.camara.leg.br/legin/fed/leicom/2015/leicomplementar-150-1-junho-2015-780907-normaatualizada-pl.html"
 ---
 
 Digite o salário bruto e os meses trabalhados para ver a **estimativa do 13º líquido de 2026**: a 1ª parcela, até 30/11, e a 2ª, até 18/12, com o INSS e o imposto de renda separados e a conta passo a passo.
@@ -126,19 +130,21 @@ Copie dos holerites a 1ª parcela, a 2ª, o INSS e o imposto de renda e compare 
 ## Faltas, afastamentos e saída no meio do ano
 
 - **Faltas sem justificativa** só tiram um mês da conta se o deixarem com menos de 15 dias trabalhados. Faltas justificadas por lei não descontam ([Decreto nº 10.854/2021, artigo 81](https://www.in.gov.br/web/dou/-/decreto-n-10.854-de-10-de-novembro-de-2021-359085615)).
-- **Afastamento pelo INSS por doença:** a empresa paga o 13º dos meses trabalhados; o período do auxílio entra no abono anual pago pelo INSS.
+- **Afastamento pelo INSS por doença ou acidente:** a empresa paga o 13º dos meses trabalhados, incluindo os 15 primeiros dias de afastamento; o período do benefício entra no abono anual pago pelo INSS ([Lei nº 8.213/1991, artigo 40](https://www2.camara.leg.br/legin/fed/lei/1991/lei-8213-24-julho-1991-363650-normaatualizada-pl.html)), calculado sobre o valor do benefício.
+- **Acidente de trabalho:** a Súmula 46 do TST diz que as ausências por acidente não reduzem o 13º, e há orientação de que a empresa pague a diferença entre o abono do INSS e o 13º desses meses. O tema não é pacífico e convenções coletivas costumam tratar dele. A calculadora mostra quanto esses meses valeriam, para você comparar com o abono.
 - **Licença-maternidade:** os meses contam normalmente no 13º.
 - **Saída no ano:** o 13º proporcional vem na rescisão, menos o que já foi adiantado, exceto na justa causa ([artigo 82](https://www.in.gov.br/web/dou/-/decreto-n-10.854-de-10-de-novembro-de-2021-359085615)). Veja a [calculadora de rescisão](/calculadoras/rescisao).
 
-Afastamento por acidente de trabalho e suspensão do contrato têm regras próprias e ficam fora da calculadora.
+A suspensão do contrato (para curso de qualificação ou disciplinar, por exemplo) tem regras próprias e fica fora da calculadora.
 
 ## Como calculamos seu 13º salário
 
 - **Regras:** Lei nº 4.090/1962, Lei nº 4.749/1965 e Decreto nº 10.854/2021 (artigos 76 a 82), com as tabelas de INSS e imposto de renda de 2026 e a redução da Lei nº 15.270/2025, que também vale para o 13º.
-- **Última revisão:** 20 de outubro de 2026, com a conta testada contra uma conta de referência feita à parte em 29 situações (salários de R$ 1.621 a R$ 10.000, limites das faixas, proporcional, admissão no meio do mês, variáveis, reajuste, faltas, afastamento, saída no ano e 1ª parcela já recebida) e com os exemplos oficiais da Receita.
+- **Última revisão:** 20 de outubro de 2026, com a conta testada contra uma conta de referência feita à parte em 29 situações (salários de R$ 1.621 a R$ 10.000, limites das faixas, centavos, proporcional, admissão no meio do mês, variáveis, reajuste, faltas, afastamento, saída no ano e 1ª parcela já recebida) e com os exemplos oficiais da Receita.
 - **1ª parcela:** é uma projeção para o mês escolhido (novembro, se você não mudar). O valor real é o que a empresa pagou; informe-o no cálculo detalhado.
 - **Arredondamento:** cada etapa ao centavo. O holerite pode ter 1 centavo de diferença.
-- **O que fica de fora:** horistas, comissionistas puros, empregados domésticos com regras de convenção, aposentados e pensionistas do INSS (que têm o abono anual), acidente de trabalho e suspensão do contrato.
+- **Empregado doméstico:** segue as mesmas leis do 13º ([Lei Complementar nº 150/2015, artigo 19](https://www2.camara.leg.br/legin/fed/leicom/2015/leicomplementar-150-1-junho-2015-780907-normaatualizada-pl.html)) e a mesma tabela do INSS, e pode usar a calculadora.
+- **O que fica de fora:** horistas e comissionistas puros (a base de dezembro depende das horas e das comissões do mês), o abono anual de aposentados e pensionistas do INSS, a diferença do acidente de trabalho e a suspensão do contrato.
 - **Privacidade:** a conta é feita no seu navegador. Nada do que você digita é enviado ou guardado.
 
 Esta é uma estimativa detalhada do 13º salário líquido, baseada nas informações fornecidas e nas regras aplicáveis. O resultado pode variar conforme o holerite, a convenção coletiva e situações específicas, e não substitui a análise individualizada de um profissional habilitado.
