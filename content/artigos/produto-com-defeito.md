@@ -65,7 +65,7 @@ Se você escolheu a troca depois dos 30 dias, a loja deve trocar por outro igual
 
 ### Quando a loja não é obrigada a trocar o produto?
 
-Quando o produto **não tem defeito** e foi comprado **na loja física**: trocar porque não serviu ou não agradou depende da política da loja, que vira obrigação se foi anunciada ([veja quando a loja não é obrigada a trocar](/artigos/black-friday-direitos-do-consumidor#quando-o-lojista-nao-e-obrigado-a-trocar-um-produto)). Também não há garantia para dano causado pelo próprio uso inadequado. Defeito de fábrica, por outro lado, dá direito ao conserto, à troca ou ao dinheiro de volta, com desconto de Black Friday ou sem.
+Quando o produto **não tem defeito** e foi comprado **na loja física**: trocar porque não serviu ou não agradou depende da política da loja, que vira obrigação se foi anunciada ([veja as regras da troca sem defeito, sem nota e de presente](/artigos/loja-e-obrigada-a-trocar-produto)). Também não há garantia para dano causado pelo próprio uso inadequado. Defeito de fábrica, por outro lado, dá direito ao conserto, à troca ou ao dinheiro de volta, com desconto de Black Friday ou sem.
 
 ## Prazo de garantia no CDC: 30 ou 90 dias?
 

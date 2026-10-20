@@ -25,6 +25,7 @@ O Google leva semanas para mostrar um site novo: publicar antes do pico.
 | Taxa das compras internacionais 2026 (taxa das blusinhas, Shein, Remessa Conforme), com calculadora | novembro (Black Friday) e dezembro | **publicado em 20/10/2026** — [doc](artigos/taxa-compras-internacionais.md), `/artigos/taxa-compras-internacionais` |
 | Golpe do Pix: como recuperar o dinheiro pelo MED (e site falso na Black Friday) | novembro e dezembro | **publicado em 20/10/2026** — [doc](artigos/golpe-pix-como-recuperar-dinheiro.md), `/artigos/golpe-pix-como-recuperar-dinheiro` |
 | Produto com defeito: o que fazer, prazos do CDC e garantia estendida | dezembro e janeiro (depois da Black Friday e do Natal) | **publicado em 20/10/2026** — [doc](artigos/produto-com-defeito.md), `/artigos/produto-com-defeito` |
+| Loja é obrigada a trocar produto? (troca de presente de Natal, sem nota, sem etiqueta, promoção) | 26/12 a meados de janeiro | **publicado em 20/10/2026** — [doc](artigos/loja-e-obrigada-a-trocar-produto.md), `/artigos/loja-e-obrigada-a-trocar-produto` |
 
 ## Temas-base (o ano todo)
 

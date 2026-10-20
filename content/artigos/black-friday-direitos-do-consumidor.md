@@ -89,7 +89,7 @@ Ao desistir, a loja tem que devolver **de imediato** tudo o que você pagou, com
 
 Quando você comprou **na loja física** e o produto **não tem defeito**. O direito de arrependimento do CDC só vale para compras feitas fora da loja. Trocar porque a cor não agradou, o tamanho não serviu ou o presente não foi aprovado depende da boa vontade da loja.
 
-Mas a promessa da loja vira obrigação: se a etiqueta, o cartaz, o site ou o vendedor anunciou troca em 30 dias, por exemplo, a loja tem que cumprir, porque toda informação suficientemente precisa sobre a oferta faz parte do contrato ([CDC, artigo 30](https://www2.camara.leg.br/legin/fed/lei/1990/lei-8078-11-setembro-1990-365086-normaatualizada-pl.html)). Antes de pagar, pergunte qual é a política de troca e peça que ela venha escrita na nota ou na etiqueta.
+Mas a promessa da loja vira obrigação: se a etiqueta, o cartaz, o site ou o vendedor anunciou troca em 30 dias, por exemplo, a loja tem que cumprir, porque toda informação suficientemente precisa sobre a oferta faz parte do contrato ([CDC, artigo 30](https://www2.camara.leg.br/legin/fed/lei/1990/lei-8078-11-setembro-1990-365086-normaatualizada-pl.html)). Antes de pagar, pergunte qual é a política de troca e peça que ela venha escrita na nota ou na etiqueta. Troca sem nota, sem etiqueta, em promoção e de presente de Natal: veja [quando a loja é obrigada a trocar o produto](/artigos/loja-e-obrigada-a-trocar-produto).
 
 ## Produto com defeito: conserto, troca ou dinheiro de volta
 
