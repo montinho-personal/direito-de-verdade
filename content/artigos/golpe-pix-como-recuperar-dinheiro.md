@@ -13,6 +13,9 @@ faq:
     resposta: "Não para o MED: o pedido é gratuito e feito no app ou no atendimento do seu banco. Desconfie de anúncios que prometem recuperar o dinheiro mediante pagamento: ninguém consegue garantir a devolução. Se o banco negar e você quiser cobrar dele, o Juizado Especial aceita causas de até 20 salários mínimos sem advogado."
   - pergunta: "Qual é o site oficial da Black Friday?"
     resposta: "Não existe. A Black Friday é uma data de promoções, sem site oficial ou organizador. Desconfie de páginas que se apresentam como \"site oficial da Black Friday\" e compre direto no site da loja, digitando o endereço no navegador."
+video:
+  url: "https://youtu.be/81tP0pfstlE"
+  titulo: "Vídeo: caí no golpe do Pix, como recuperar o dinheiro"
 fontes:
   - nome: "Banco Central: Guia de implementação do Mecanismo Especial de Devolução (MED), versão 4.3"
     url: "https://www.bcb.gov.br/content/estabilidadefinanceira/pix/Guia_MED.pdf"

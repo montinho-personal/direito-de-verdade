@@ -15,6 +15,9 @@ faq:
     resposta: "Pode. Em até **7 dias corridos** da contratação, mesmo feita dentro da loja, você desiste e recebe tudo de volta. Depois disso, ainda dá para cancelar, com devolução do prêmio pago antes de a cobertura começar, ou de parte proporcional depois que ela começou."
   - pergunta: "Até quando a empresa deve ter peças de reposição?"
     resposta: "Enquanto fabricar ou importar o produto e, depois disso, por um período razoável (CDC, artigo 32). A lei não fixa quantos anos."
+video:
+  url: "https://youtu.be/gWnXFemaFbY"
+  titulo: "Vídeo: produto com defeito, o que fazer"
 fontes:
   - nome: "Código de Defesa do Consumidor (Lei nº 8.078/1990), texto atualizado (Câmara dos Deputados)"
     url: "https://www2.camara.leg.br/legin/fed/lei/1990/lei-8078-11-setembro-1990-365086-normaatualizada-pl.html"

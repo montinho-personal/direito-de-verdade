@@ -13,6 +13,9 @@ faq:
     resposta: "É a cota de isenção de quem **viaja**: na volta de avião ou navio, cada viajante pode trazer até **US$ 1.000** em bens na bagagem sem imposto. Ela não vale para compras pela internet, que seguem as regras de remessa explicadas acima."
   - pergunta: "A Receita pode cobrar imposto de uma compra antiga?"
     resposta: "Pode. Segundo a Receita, ela tem **5 anos** para revisar importações e cobrar impostos que não foram pagos, mesmo de pacotes que não foram fiscalizados na chegada."
+video:
+  url: "https://youtu.be/QZLb32yTmMk"
+  titulo: "Vídeo: a taxa das blusinhas acabou?"
 fontes:
   - nome: "Receita Federal: Novas Regras das compras internacionais (desde 12/05/2026)"
     url: "https://www.gov.br/receitafederal/pt-br/assuntos/aduana-e-comercio-exterior/manuais/remessas-postal-e-expressa/regras-futuras"

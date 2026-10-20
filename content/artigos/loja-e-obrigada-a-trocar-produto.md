@@ -13,6 +13,9 @@ faq:
     resposta: "Na loja física, só se a loja oferecer isso: sem defeito, nem a troca é obrigatória. Pela internet, sim: você pode desistir em até 7 dias do recebimento e receber tudo de volta, sem dizer o motivo (CDC, artigo 49)."
   - pergunta: "A loja pode cobrar a diferença se o preço subiu?"
     resposta: "Não, quando a troca é pelo mesmo produto em outro tamanho ou cor. Vale o valor pago, e a loja não pode cobrar complemento, nem o consumidor pedir abatimento se o preço caiu, segundo o Procon-SP."
+video:
+  url: "https://youtu.be/2l2RVHYIuSY"
+  titulo: "Vídeo: a loja é obrigada a trocar produto?"
 fontes:
   - nome: "Código de Defesa do Consumidor (Lei nº 8.078/1990), texto atualizado (Câmara dos Deputados)"
     url: "https://www2.camara.leg.br/legin/fed/lei/1990/lei-8078-11-setembro-1990-365086-normaatualizada-pl.html"

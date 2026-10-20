@@ -15,6 +15,9 @@ faq:
     resposta: "Você recebe as férias adiantadas, com 1/3, até 2 dias antes de sair. Por isso, o salário seguinte vem menor: ele paga só os dias trabalhados depois da volta, porque os dias de férias já foram pagos. Não é desconto, é o adiantamento."
   - pergunta: "As férias podem começar na sexta-feira?"
     resposta: "Depende da sua folga semanal. A CLT proíbe começar as férias nos **2 dias antes de um feriado ou do dia de repouso** (artigo 134, § 3º). Para quem folga no domingo, as férias não podem começar na sexta nem no sábado."
+video:
+  url: "https://youtu.be/mHAr5DOl7ts"
+  titulo: "Vídeo: como calcular as férias"
 fontes:
   - nome: "CLT, artigos 129 a 145 (férias), texto atualizado (Câmara dos Deputados)"
     url: "https://www2.camara.leg.br/legin/fed/declei/1940-1949/decreto-lei-5452-1-maio-1943-415500-normaatualizada-pe.html"
