@@ -99,7 +99,7 @@ Com defeito, a história muda: a troca deixa de ser favor, comprando na loja fí
 - o dinheiro de volta, com correção;
 - ou um abatimento no preço.
 
-O prazo para reclamar de um defeito que aparece logo é de **30 dias** para produtos não duráveis, como alimentos, e de **90 dias** para duráveis, como eletrônicos e eletrodomésticos, contados da entrega. Se o defeito é escondido e só aparece com o uso, o prazo começa a contar quando ele aparece ([CDC, artigo 26](https://www2.camara.leg.br/legin/fed/lei/1990/lei-8078-11-setembro-1990-365086-normaatualizada-pl.html)).
+O prazo para reclamar de um defeito que aparece logo é de **30 dias** para produtos não duráveis, como alimentos, e de **90 dias** para duráveis, como eletrônicos e eletrodomésticos, contados da entrega. Se o defeito é escondido e só aparece com o uso, o prazo começa a contar quando ele aparece ([CDC, artigo 26](https://www2.camara.leg.br/legin/fed/lei/1990/lei-8078-11-setembro-1990-365086-normaatualizada-pl.html)). O passo a passo, os prazos e se vale a pena a garantia estendida estão em [produto com defeito: o que fazer](/artigos/produto-com-defeito).
 
 ## O que diz o artigo 35 do CDC?
 
