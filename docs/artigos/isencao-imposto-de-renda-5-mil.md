@@ -31,7 +31,7 @@ veio "Outras pessoas pesquisaram".
 | Senado aprovou o PL 1.087/2025 em 5/11/2025 | [Estado de Minas](https://em.com.br/politica/2025/11/7286627-senado-aprova-projeto-de-isencao-do-imposto-de-renda-ate-rs-5-mil.html); [Jornal Opção](https://www.jornalopcao.com.br/ultimas-noticias/senado-aprova-isencao-do-ir-para-renda-ate-r-5-mil-texto-vai-a-sancao-de-lula-763008/) (vistos na busca) | 2 veículos |
 | Mais de uma fonte de renda pode ter imposto a pagar na declaração | ver [doc do 13º](13-salario.md) (Bora Investir/B3 e Band) | 2 veículos |
 
-Tabela de exemplos e FAQ: cálculo próprio com `src/lib/decimo-terceiro.ts`
+Tabela de exemplos e FAQ: cálculo próprio com o motor `src/lib/tributos/calculo.ts`
 (INSS de 2026), conferido com o exemplo da Receita de R$ 6.000 (redução
 igual; o imposto muda só porque a Receita usou o INSS de 2025).
 

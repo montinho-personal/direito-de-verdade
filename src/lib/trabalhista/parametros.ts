@@ -23,3 +23,23 @@ export const REGRAS_DA_RESCISAO = {
   multaAcordoPorMil: 200,
   saqueNoAcordoPorMil: 800,
 } as const;
+
+// Prazos e regras do 13º salário. Fontes (conferidas em 20/10/2026): Lei 4.090/1962,
+// Lei 4.749/1965 e Decreto 10.854/2021, arts. 76 a 82 (Diário Oficial da União).
+// - 13º = 1/12 da remuneração de dezembro por mês de serviço; 15 dias ou mais
+//   contam como mês (art. 76, §§ 1º e 2º)
+// - Variáveis: 1/11 da soma até novembro, revista até 10 de janeiro para 1/12 do ano
+//   (art. 77)
+// - 1ª parcela entre fevereiro e novembro: metade do salário do mês anterior ao
+//   pagamento (art. 78); admitido no ano: metade de 1/12 por mês de serviço ou
+//   fração superior a 15 dias (§ 4º); descontada da gratificação (§ 3º)
+// - 2026: o prazo de 20/12 cai num domingo; a 2ª parcela sai até sexta, 18/12
+//   (docs/artigos/13-salario.md, 2 veículos)
+export const DECIMO_TERCEIRO_2026 = {
+  ano: 2026,
+  revisadoEm: "2026-10-20",
+  primeiraParcelaAte: "2026-11-30",
+  segundaParcelaAte: "2026-12-18",
+  prazoLegalDaSegunda: "2026-12-20",
+  ajusteDeVariaveisAte: "2027-01-10",
+} as const;

@@ -1,0 +1,515 @@
+[
+ {
+  "nome": "ano todo, salário de R$ 1621",
+  "entrada": {
+   "salario": 162100
+  },
+  "esperado": {
+   "avos": 12,
+   "bruto": 162100,
+   "primeira": 81050,
+   "inss": 12158,
+   "ir": 0,
+   "segunda": 68892,
+   "liquido": 149942,
+   "ajuste": null
+  }
+ },
+ {
+  "nome": "ano todo, salário de R$ 2000",
+  "entrada": {
+   "salario": 200000
+  },
+  "esperado": {
+   "avos": 12,
+   "bruto": 200000,
+   "primeira": 100000,
+   "inss": 15569,
+   "ir": 0,
+   "segunda": 84431,
+   "liquido": 184431,
+   "ajuste": null
+  }
+ },
+ {
+  "nome": "ano todo, salário de R$ 3000",
+  "entrada": {
+   "salario": 300000
+  },
+  "esperado": {
+   "avos": 12,
+   "bruto": 300000,
+   "primeira": 150000,
+   "inss": 24860,
+   "ir": 0,
+   "segunda": 125140,
+   "liquido": 275140,
+   "ajuste": null
+  }
+ },
+ {
+  "nome": "ano todo, salário de R$ 5000",
+  "entrada": {
+   "salario": 500000
+  },
+  "esperado": {
+   "avos": 12,
+   "bruto": 500000,
+   "primeira": 250000,
+   "inss": 50151,
+   "ir": 0,
+   "segunda": 199849,
+   "liquido": 449849,
+   "ajuste": null
+  }
+ },
+ {
+  "nome": "ano todo, salário de R$ 5000.01",
+  "entrada": {
+   "salario": 500001
+  },
+  "esperado": {
+   "avos": 12,
+   "bruto": 500001,
+   "primeira": 250001,
+   "inss": 50152,
+   "ir": 0,
+   "segunda": 199848,
+   "liquido": 449849,
+   "ajuste": null
+  }
+ },
+ {
+  "nome": "ano todo, salário de R$ 5500",
+  "entrada": {
+   "salario": 550000
+  },
+  "esperado": {
+   "avos": 12,
+   "bruto": 550000,
+   "primeira": 275000,
+   "inss": 57151,
+   "ir": 19047,
+   "segunda": 198802,
+   "liquido": 473802,
+   "ajuste": null
+  }
+ },
+ {
+  "nome": "ano todo, salário de R$ 6000",
+  "entrada": {
+   "salario": 600000
+  },
+  "esperado": {
+   "avos": 12,
+   "bruto": 600000,
+   "primeira": 300000,
+   "inss": 64151,
+   "ir": 38510,
+   "segunda": 197339,
+   "liquido": 497339,
+   "ajuste": null
+  }
+ },
+ {
+  "nome": "ano todo, salário de R$ 7350",
+  "entrada": {
+   "salario": 735000
+  },
+  "esperado": {
+   "avos": 12,
+   "bruto": 735000,
+   "primeira": 367500,
+   "inss": 83051,
+   "ir": 88413,
+   "segunda": 196036,
+   "liquido": 563536,
+   "ajuste": null
+  }
+ },
+ {
+  "nome": "ano todo, salário de R$ 7350.01",
+  "entrada": {
+   "salario": 735001
+  },
+  "esperado": {
+   "avos": 12,
+   "bruto": 735001,
+   "primeira": 367501,
+   "inss": 83052,
+   "ir": 88413,
+   "segunda": 196035,
+   "liquido": 563536,
+   "ajuste": null
+  }
+ },
+ {
+  "nome": "ano todo, salário de R$ 8000",
+  "entrada": {
+   "salario": 800000
+  },
+  "esperado": {
+   "avos": 12,
+   "bruto": 800000,
+   "primeira": 400000,
+   "inss": 92151,
+   "ir": 103785,
+   "segunda": 204064,
+   "liquido": 604064,
+   "ajuste": null
+  }
+ },
+ {
+  "nome": "ano todo, salário de R$ 8475.55",
+  "entrada": {
+   "salario": 847555
+  },
+  "esperado": {
+   "avos": 12,
+   "bruto": 847555,
+   "primeira": 423778,
+   "inss": 98809,
+   "ir": 115032,
+   "segunda": 209936,
+   "liquido": 633714,
+   "ajuste": null
+  }
+ },
+ {
+  "nome": "ano todo, salário de R$ 8475.56",
+  "entrada": {
+   "salario": 847556
+  },
+  "esperado": {
+   "avos": 12,
+   "bruto": 847556,
+   "primeira": 423778,
+   "inss": 98809,
+   "ir": 115032,
+   "segunda": 209937,
+   "liquido": 633715,
+   "ajuste": null
+  }
+ },
+ {
+  "nome": "ano todo, salário de R$ 10000",
+  "entrada": {
+   "salario": 1000000
+  },
+  "esperado": {
+   "avos": 12,
+   "bruto": 1000000,
+   "primeira": 500000,
+   "inss": 98809,
+   "ir": 156955,
+   "segunda": 244236,
+   "liquido": 744236,
+   "ajuste": null
+  }
+ },
+ {
+  "nome": "ano todo, salário de R$ 2537.89",
+  "entrada": {
+   "salario": 253789
+  },
+  "esperado": {
+   "avos": 12,
+   "bruto": 253789,
+   "primeira": 126895,
+   "inss": 20410,
+   "ir": 0,
+   "segunda": 106484,
+   "liquido": 233379,
+   "ajuste": null
+  }
+ },
+ {
+  "nome": "6 meses (admitido em julho)",
+  "entrada": {
+   "salario": 300000,
+   "meses": 6
+  },
+  "esperado": {
+   "avos": 6,
+   "bruto": 150000,
+   "primeira": 62500,
+   "inss": 11250,
+   "ir": 0,
+   "segunda": 76250,
+   "liquido": 138750,
+   "ajuste": null
+  }
+ },
+ {
+  "nome": "1 mês (dezembro): sem 1ª parcela",
+  "entrada": {
+   "salario": 300000,
+   "meses": 1
+  },
+  "esperado": {
+   "avos": 1,
+   "bruto": 25000,
+   "primeira": 0,
+   "inss": 1875,
+   "ir": 0,
+   "segunda": 23125,
+   "liquido": 23125,
+   "ajuste": null
+  }
+ },
+ {
+  "nome": "admissão em 16/03 (16 dias em março)",
+  "entrada": {
+   "salario": 420000,
+   "admissao": "2026-03-16"
+  },
+  "esperado": {
+   "avos": 10,
+   "bruto": 350000,
+   "primeira": 157500,
+   "inss": 30860,
+   "ir": 0,
+   "segunda": 161640,
+   "liquido": 319140,
+   "ajuste": null
+  }
+ },
+ {
+  "nome": "admissão em 17/03 (15 dias: conta no 13º, não no adiantamento)",
+  "entrada": {
+   "salario": 420000,
+   "admissao": "2026-03-17"
+  },
+  "esperado": {
+   "avos": 10,
+   "bruto": 350000,
+   "primeira": 140000,
+   "inss": 30860,
+   "ir": 0,
+   "segunda": 179140,
+   "liquido": 319140,
+   "ajuste": null
+  }
+ },
+ {
+  "nome": "dependentes",
+  "entrada": {
+   "salario": 800000,
+   "dependentes": 2
+  },
+  "esperado": {
+   "avos": 12,
+   "bruto": 800000,
+   "primeira": 400000,
+   "inss": 92151,
+   "ir": 93358,
+   "segunda": 214491,
+   "liquido": 614491,
+   "ajuste": null
+  }
+ },
+ {
+  "nome": "pensão alimentícia",
+  "entrada": {
+   "salario": 800000,
+   "pensao": 100000
+  },
+  "esperado": {
+   "avos": 12,
+   "bruto": 800000,
+   "primeira": 400000,
+   "inss": 92151,
+   "ir": 76285,
+   "segunda": 131564,
+   "liquido": 531564,
+   "ajuste": null
+  }
+ },
+ {
+  "nome": "média de variáveis",
+  "entrada": {
+   "salario": 450000,
+   "mediaVariaveis": 80000
+  },
+  "esperado": {
+   "avos": 12,
+   "bruto": 530000,
+   "primeira": 265000,
+   "inss": 54351,
+   "ir": 10884,
+   "segunda": 199765,
+   "liquido": 464765,
+   "ajuste": null
+  }
+ },
+ {
+  "nome": "variáveis mês a mês, com ajuste de janeiro",
+  "entrada": {
+   "salario": 350000,
+   "variaveisMensais": [
+    40000,
+    50000,
+    0,
+    65000,
+    70000,
+    30000,
+    45000,
+    90000,
+    52000,
+    61000,
+    48000,
+    150000
+   ]
+  },
+  "esperado": {
+   "avos": 12,
+   "bruto": 400091,
+   "primeira": 200046,
+   "inss": 36871,
+   "ir": 0,
+   "segunda": 163174,
+   "liquido": 363220,
+   "ajuste": 8326
+  }
+ },
+ {
+  "nome": "variáveis mês a mês sem dezembro",
+  "entrada": {
+   "salario": 350000,
+   "variaveisMensais": [
+    40000,
+    40000,
+    40000,
+    40000,
+    40000,
+    40000,
+    40000,
+    40000,
+    40000,
+    40000,
+    40000,
+    null
+   ]
+  },
+  "esperado": {
+   "avos": 12,
+   "bruto": 390000,
+   "primeira": 195000,
+   "inss": 35660,
+   "ir": 0,
+   "segunda": 159340,
+   "liquido": 354340,
+   "ajuste": null
+  }
+ },
+ {
+  "nome": "reajuste em outubro (vale para as duas parcelas)",
+  "entrada": {
+   "salario": 300000,
+   "reajuste": {
+    "salario": 330000,
+    "mes": 10
+   }
+  },
+  "esperado": {
+   "avos": 12,
+   "bruto": 330000,
+   "primeira": 165000,
+   "inss": 28460,
+   "ir": 0,
+   "segunda": 136540,
+   "liquido": 301540,
+   "ajuste": null
+  }
+ },
+ {
+  "nome": "reajuste em novembro (1ª parcela no salário antigo)",
+  "entrada": {
+   "salario": 300000,
+   "reajuste": {
+    "salario": 330000,
+    "mes": 11
+   }
+  },
+  "esperado": {
+   "avos": 12,
+   "bruto": 330000,
+   "primeira": 150000,
+   "inss": 28460,
+   "ir": 0,
+   "segunda": 151540,
+   "liquido": 301540,
+   "ajuste": null
+  }
+ },
+ {
+  "nome": "1ª parcela recebida nas férias",
+  "entrada": {
+   "salario": 620000,
+   "adiantamentoRecebido": 290000
+  },
+  "esperado": {
+   "avos": 12,
+   "bruto": 620000,
+   "primeira": 290000,
+   "inss": 66951,
+   "ir": 45903,
+   "segunda": 217146,
+   "liquido": 507146,
+   "ajuste": null
+  }
+ },
+ {
+  "nome": "faltas e afastamento pelo INSS",
+  "entrada": {
+   "salario": 300000,
+   "mesesComFaltas": 1,
+   "mesesAfastadoPeloInss": 3
+  },
+  "esperado": {
+   "avos": 8,
+   "bruto": 200000,
+   "primeira": 100000,
+   "inss": 15569,
+   "ir": 0,
+   "segunda": 84431,
+   "liquido": 184431,
+   "ajuste": null
+  }
+ },
+ {
+  "nome": "saída em agosto (13º na rescisão)",
+  "entrada": {
+   "salario": 520000,
+   "saida": "2026-08-20"
+  },
+  "esperado": {
+   "avos": 8,
+   "bruto": 346667,
+   "primeira": 0,
+   "inss": 30460,
+   "ir": 0,
+   "segunda": 316207,
+   "liquido": 316207,
+   "ajuste": null
+  }
+ },
+ {
+  "nome": "adiantamento em junho, admissão em fevereiro",
+  "entrada": {
+   "salario": 280000,
+   "admissao": "2026-02-10",
+   "mesDoAdiantamento": 6
+  },
+  "esperado": {
+   "avos": 11,
+   "bruto": 256667,
+   "primeira": 58333,
+   "inss": 20669,
+   "ir": 0,
+   "segunda": 177665,
+   "liquido": 235998,
+   "ajuste": null
+  }
+ }
+]

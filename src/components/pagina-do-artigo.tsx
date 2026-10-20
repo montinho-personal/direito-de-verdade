@@ -4,8 +4,10 @@ import { CalculadoraIrSalario } from "@/components/calculadora-ir-salario";
 import { CalculadoraPedidoDeDemissao, CalculadoraRescisao } from "@/components/calculadora-rescisao";
 import { CalculadoraSeguroDesemprego } from "@/components/calculadora-seguro-desemprego";
 import { CartaoArtigo } from "@/components/cartao-artigo";
+import { Comparador13 } from "@/components/comparador-13";
 import { ComparadorDeRescisao } from "@/components/comparador-de-rescisao";
 import { ComparadorDeSalario } from "@/components/comparador-de-salario";
+import { Conferir13 } from "@/components/conferir-13";
 import { ConferirHolerite } from "@/components/conferir-holerite";
 import { ConferirTrct } from "@/components/conferir-trct";
 import { Migalhas } from "@/components/migalhas";
@@ -35,6 +37,8 @@ const COMPONENTES_DAS_FERRAMENTAS: Record<
   "conferir-holerite": ConferirHolerite,
   "comparador-de-rescisao": ComparadorDeRescisao,
   "conferir-trct": ConferirTrct,
+  "conferir-13": Conferir13,
+  "comparador-13": Comparador13,
 };
 
 function Ferramenta({ id, ...props }: PropsDaFerramenta & { id: IdDaFerramenta }) {

@@ -4,7 +4,7 @@ tituloSeo: "13º salário 2026: datas, antecipação e quanto você recebe"
 descricao: "13º salário 2026: a 1ª parcela cai até 30/11 e a 2ª foi antecipada para 18/12, porque o dia 20 é domingo. Veja quanto você recebe e o 13º dos aposentados."
 categoria: trabalho
 publicadoEm: 2026-10-19
-atualizadoEm: 2026-10-19
+atualizadoEm: 2026-10-20
 faq:
   - pergunta: "Quem ganha R$ 1.600 recebe quanto de décimo terceiro?"
     resposta: "Quem ganha R$ 1.600 por mês e trabalhou o ano todo tem R$ 1.600 de 13º bruto: **R$ 800 na 1ª parcela** e **R$ 680 na 2ª**, depois do desconto de R$ 120 de INSS. No total, caem R$ 1.480 na conta, sem imposto de renda."
@@ -40,7 +40,7 @@ fontes:
     url: "https://agenciabrasil.ebc.com.br/economia/noticia/2026-05/inss-paga-segunda-parcela-do-13o-aposentados-e-pensionistas"
 ---
 
-O 13º salário de 2026 tem duas datas-limite: a 1ª parcela precisa cair até **segunda-feira, 30 de novembro**, e a 2ª até **sexta-feira, 18 de dezembro**, dois dias antes do normal, porque o dia 20 cai num domingo. A 1ª parcela é a metade do 13º, sem nenhum desconto; o INSS e o imposto de renda saem todos da 2ª. E quem tem 13º de até R$ 5 mil não paga imposto de renda sobre ele em 2026.
+O 13º salário de 2026 tem duas datas-limite: a 1ª parcela precisa cair até **segunda-feira, 30 de novembro**, e a 2ª até **sexta-feira, 18 de dezembro**, dois dias antes do normal, porque o dia 20 cai num domingo. A 1ª parcela é a metade do salário, sem nenhum desconto; o INSS e o imposto de renda saem todos da 2ª. E quem tem 13º de até R$ 5 mil não paga imposto de renda sobre ele em 2026.
 
 ## Quando cai o 13º salário em 2026?
 
@@ -48,7 +48,7 @@ Para quem trabalha com carteira assinada, o calendário de 2026 é este:
 
 | Parcela | Prazo em 2026 | Quanto vem | Descontos |
 | --- | --- | --- | --- |
-| 1ª parcela | até segunda, 30 de novembro | metade do 13º | nenhum |
+| 1ª parcela | até segunda, 30 de novembro | metade do salário | nenhum |
 | 2ª parcela | até sexta, 18 de dezembro | o restante | INSS e imposto de renda |
 
 O prazo da 2ª parcela na lei é 20 de dezembro ([Lei nº 4.749/1965](https://www.planalto.gov.br/ccivil_03/leis/l4749.htm)). Em 2026, o dia 20 é um domingo, e o pagamento não pode passar do prazo: por isso a empresa precisa depositar até sexta, 18.

@@ -12,6 +12,8 @@ export const FERRAMENTAS = [
   "conferir-holerite",
   "comparador-de-rescisao",
   "conferir-trct",
+  "conferir-13",
+  "comparador-13",
 ] as const;
 
 export type IdDaFerramenta = (typeof FERRAMENTAS)[number];

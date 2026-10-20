@@ -49,15 +49,16 @@ ambiente; mesmas leis do artigo do 13º).
 | Tabelas de 2026 (INSS, IR, salário mínimo, 18/12 como prazo da 2ª parcela) | ver o [doc do artigo do 13º](../artigos/13-salario.md) | oficial / 2 veículos |
 
 Valores da tabela de exemplos, do texto e do FAQ: cálculo próprio com
-`src/lib/decimo-terceiro.ts`. Conferência do imposto de um 13º de
+o motor `src/lib/trabalhista/decimo-terceiro.ts`. Conferência do imposto de um 13º de
 R$ 6.000 sem dependentes: INSS R$ 641,51 (maior que o simplificado), base
 R$ 5.358,49, imposto pela tabela R$ 564,85, redução 978,62 − 0,133145 ×
 6.000 = R$ 179,75, imposto R$ 385,10.
 
 ## Pendente
 
-- **1ª parcela de quem foi contratado no ano:** o decreto não diz até que
-  mês contar. Sistemas de folha citados em buscas (Sólides, TOTVS) contam
+- ~~**1ª parcela de quem foi contratado no ano:** o decreto não diz até que
+  mês contar.~~ Resolvido em 20/10: o § 4º do art. 78 fala em "mês de serviço";
+  a conta usa os meses de serviço até o mês do pagamento. Sistemas de folha citados em buscas (Sólides, TOTVS) contam
   até o mês do pagamento, mas não foram abertos. O texto diz que a regra
   não define e que o total não muda.
 - **Exemplo oficial de IR do 13º com a redução:** não achado; o cálculo
@@ -101,3 +102,59 @@ proporcional", "calculadora 13 salário 2 parcela", "calculadora 13
 salário com hora extra", "calculadora 13 salário com comissão". Comparar
 com o artigo do 13º no Search Console para ver se uma página rouba busca da
 outra.
+
+## Auditoria e evolução (20/10/2026)
+
+### O que a auditoria achou
+
+| problema | gravidade | evidência | correção |
+|---|---|---|---|
+| 1ª parcela de quem entrou no ano = metade do 13º do ano inteiro | alta | Decreto 10.854, art. 78, § 4º: metade de 1/12 por mês de serviço. Admitido em julho com R$ 3.000: mostrava R$ 750; o correto, pago em novembro, é R$ 625 | meses de serviço até o mês do pagamento, com fração acima de 15 dias |
+| Título e seção prometiam "cálculo exato" | média | a conta não cobria reajuste, pensão, faltas, afastamentos nem 1ª parcela já recebida | título "líquido da 1ª e da 2ª parcela"; página fala em estimativa detalhada e lista o que fica de fora |
+| Sem reajuste, pensão, 1ª parcela recebida, mês do adiantamento, faltas, afastamento, saída | média | — | cálculo detalhado |
+| Variáveis só por média, sem o acerto de janeiro | média | art. 77 | variáveis mês a mês, média até novembro e acerto com dezembro; aviso quando falta dezembro |
+| Contas em ponto flutuante; "6 ou mais" dependentes valia 6 | baixa | — | motor em centavos; campo numérico |
+
+Conferido e mantido: 1/12 da remuneração de dezembro por mês com 15 dias ou
+mais (art. 76); 1ª parcela de quem trabalhou o ano todo = metade do salário do
+mês anterior (art. 78); INSS do 13º à parte; IR exclusivo na fonte com as
+deduções do mês e o desconto simplificado (IN 2.141/2023) e a redução da Lei
+15.270 sobre o 13º bruto (art. 3º-A, § 3º). Em 2.042 salários do ano todo, o
+motor novo dá exatamente os mesmos valores do antigo.
+
+### Interpretações usadas (sinalizadas)
+
+- 1ª parcela proporcional: meses até o mês do pagamento, supondo o pagamento no
+  fim do mês; a fração conta se passar de 15 dias (o § 4º diz "superior").
+- Variáveis na 1ª parcela: metade da média até o mês anterior (o § 1º do art. 78
+  fala em "soma"; a média é a leitura usada na folha).
+- Sem a data da admissão, "6 meses" supõe contratação no começo de julho.
+
+### O que mudou
+
+- `src/lib/trabalhista/decimo-terceiro.ts` (motor novo) e `DECIMO_TERCEIRO_2026`
+  em `parametros.ts` (prazos do ano e data da revisão). O `src/lib/decimo-terceiro.ts`
+  antigo saiu.
+- `calculadora-13-salario.tsx`: resultado com 1ª (projeção ou informada), 2ª e
+  total; descontos à parte; memória em 14 passos; cálculo detalhado; avisos de
+  acerto de janeiro, afastamento e saída; copiar, WhatsApp e imprimir.
+- `conferir-13.tsx` e `comparador-13.tsx`, com os dados compartilhados de
+  `src/components/decimo/formulario.ts`.
+- Página: calendário de 2026, tabela por faixa salarial (R$ 1.621 a R$ 10.000)
+  com INSS e IR, descontos, proporcional corrigido, reajuste, conferência,
+  faltas e afastamentos, "Como calculamos seu 13º salário", 2 FAQs novas.
+- Artigo do 13º: "a 1ª parcela é a metade do salário" (era "do 13º").
+
+### Testes
+
+`npm test`: 29 situações conferidas com a conta de referência em Python
+(`tests/referencia/decimo_terceiro.py`), mais valores à mão, ajuste de janeiro,
+adiantamento maior que o 13º e entradas inválidas. No navegador: valores,
+memória, cálculo detalhado, comparador, conferência, 320/390/1280 px, axe
+(WCAG 2.2 AA) em todas as páginas e âncoras.
+
+### Fora da conta
+
+Horistas, comissionistas puros, domésticos com regras de convenção,
+aposentados e pensionistas (abono anual do INSS), acidente de trabalho e
+suspensão do contrato.
