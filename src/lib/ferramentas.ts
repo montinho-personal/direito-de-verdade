@@ -16,6 +16,7 @@ export const FERRAMENTAS = [
   "conferir-13",
   "comparador-13",
   "calculadora-ferias",
+  "calculadora-compra-internacional",
 ] as const;
 
 export type IdDaFerramenta = (typeof FERRAMENTAS)[number];

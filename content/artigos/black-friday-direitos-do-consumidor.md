@@ -4,6 +4,7 @@ tituloSeo: "Direitos do consumidor na Black Friday 2026: 8 regras do CDC"
 descricao: "Desistir em 7 dias, troca, entrega, preço anunciado e dinheiro de volta: o que o CDC garante na Black Friday 2026 e como fugir do desconto falso."
 categoria: consumidor
 publicadoEm: 2026-10-19
+atualizadoEm: 2026-10-20
 faq:
   - pergunta: "Quando é a Black Friday 2026?"
     resposta: "Na **sexta-feira, 27 de novembro de 2026**, o dia seguinte ao Dia de Ação de Graças dos Estados Unidos. Muitas lojas começam as ofertas antes, mas os direitos são os mesmos em qualquer dia: valem as regras do Código de Defesa do Consumidor."
@@ -153,6 +154,7 @@ Fora da lista, um site também merece desconfiança quando não mostra **nome da
 - **Consulte a lista Evite esses sites** e veja se a loja mostra CNPJ e endereço.
 - **Não clique em links de mensagens.** Digite o endereço da loja no navegador: sites falsos copiam o visual das lojas conhecidas.
 - **No Pix, pague dentro da loja** e confira no aplicativo do banco o nome e o CNPJ de quem vai receber antes de confirmar. O Procon-SP alertou em 2026 para um golpe que troca o QR Code do Pix ([Agência SP](https://www.agenciasp.sp.gov.br/procon-novo-golpe-que-altera-qr-code-pix/)).
+- **Comprando em site estrangeiro, some os impostos.** Até US$ 50 em site do Remessa Conforme, só o ICMS; acima disso, há também imposto de importação. Veja [quanto de imposto paga uma compra na Shein ou no AliExpress](/artigos/taxa-compras-internacionais).
 - **Guarde as provas:** print do anúncio, comprovante, nota fiscal e conversas com a loja.
 
 ## Preço diferente na etiqueta, no site e no caixa
