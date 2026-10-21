@@ -32,8 +32,9 @@ comprado pela internet`, `quem paga o frete da devolução`.
 - Parcelas futuras do cartão parcelado: sem fonte específica; o texto manda
   conferir as faturas e contestar.
 - Prazo em dias para o estorno: não existe em norma; o texto não dá número.
-- Prazo que termina em fim de semana: sem fonte; o texto manda pedir dentro
-  dos 7 dias.
+- Prazo: dias corridos, começando no dia seguinte e sem parar no fim de
+  semana (Procon-SP, perguntas frequentes, a mesma fonte do artigo da Black
+  Friday); entrou no texto em 21/10.
 - Serviços digitais e assinaturas: sem fonte específica; fora.
 - REsp 1.913.986: acompanhar o fim do julgamento.
 

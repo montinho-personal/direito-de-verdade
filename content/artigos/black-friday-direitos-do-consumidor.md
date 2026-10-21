@@ -4,7 +4,7 @@ tituloSeo: "Direitos do consumidor na Black Friday 2026: 8 regras do CDC"
 descricao: "Desistir em 7 dias, troca, entrega, preço anunciado e dinheiro de volta: o que o CDC garante na Black Friday 2026 e como fugir do desconto falso."
 categoria: consumidor
 publicadoEm: 2026-10-19
-atualizadoEm: 2026-10-20
+atualizadoEm: 2026-10-21
 faq:
   - pergunta: "Quando é a Black Friday 2026?"
     resposta: "Na **sexta-feira, 27 de novembro de 2026**, o dia seguinte ao Dia de Ação de Graças dos Estados Unidos. Muitas lojas começam as ofertas antes, mas os direitos são os mesmos em qualquer dia: valem as regras do Código de Defesa do Consumidor."
@@ -85,6 +85,8 @@ Ao desistir, a loja tem que devolver **de imediato** tudo o que você pagou, com
 - **Guarde a confirmação.** A loja é obrigada a confirmar na hora que recebeu o seu pedido.
 - **Compra no cartão:** a loja tem que avisar a operadora do cartão para a cobrança não entrar na fatura ou, se já entrou, ser estornada.
 
+O passo a passo completo, com quem paga o frete e o que fazer no marketplace, está em [direito de arrependimento: como devolver uma compra online](/artigos/direito-de-arrependimento).
+
 ## Quando o lojista não é obrigado a trocar um produto?
 
 Quando você comprou **na loja física** e o produto **não tem defeito**. O direito de arrependimento do CDC só vale para compras feitas fora da loja. Trocar porque a cor não agradou, o tamanho não serviu ou o presente não foi aprovado depende da boa vontade da loja.
@@ -113,11 +115,11 @@ Em outras palavras, a escolha é **sua**, e não da loja: exigir o que foi anunc
 
 Pedido cancelado pela loja depois de pago foi a segunda maior reclamação da Black Friday de 2025 no Procon-SP. Se a loja anunciou o produto por aquele preço e confirmou a venda, o artigo 35 vale: você pode exigir a entrega pelo preço anunciado, aceitar outro produto equivalente ou receber o dinheiro de volta.
 
-A exceção é o **erro grosseiro**, aquele preço tão fora da realidade que ninguém acharia que era de verdade. O Superior Tribunal de Justiça (STJ) já decidiu que um erro de sistema evidente, avisado logo ao consumidor, pode liberar a loja de cumprir a oferta ([Informativo 671](https://processo.stj.jus.br/jurisprudencia/externo/informativo/?acao=pesquisarumaedicao&livre=%40cod%3D%270671%27)). Isso é analisado caso a caso: um desconto alto de Black Friday não é, por si só, erro grosseiro.
+A exceção é o **erro grosseiro**, aquele preço tão fora da realidade que ninguém acharia que era de verdade. O Superior Tribunal de Justiça (STJ) já decidiu que um erro de sistema evidente, avisado logo ao consumidor, pode liberar a loja de cumprir a oferta ([Informativo 671](https://processo.stj.jus.br/jurisprudencia/externo/informativo/?acao=pesquisarumaedicao&livre=%40cod%3D%270671%27)). Isso é analisado caso a caso: um desconto alto de Black Friday não é, por si só, erro grosseiro. Falta de estoque, cupom que não entrou e preço diferente no carrinho estão em [loja cancelou minha compra: o que fazer](/artigos/loja-cancelou-pedido).
 
 ### A entrega atrasou ou não chegou
 
-O comércio eletrônico tem que cumprir as condições da oferta, "com a entrega dos produtos e serviços contratados, observados prazos" ([Decreto nº 7.962/2013, artigo 6º](https://www2.camara.leg.br/legin/fed/decret/2013/decreto-7962-15-marco-2013-775557-publicacaooriginal-139266-pe.html)). Passou o prazo prometido, você pode cobrar a entrega, aceitar outro produto ou cancelar a compra com todo o dinheiro de volta.
+O comércio eletrônico tem que cumprir as condições da oferta, "com a entrega dos produtos e serviços contratados, observados prazos" ([Decreto nº 7.962/2013, artigo 6º](https://www2.camara.leg.br/legin/fed/decret/2013/decreto-7962-15-marco-2013-775557-publicacaooriginal-139266-pe.html)). Passou o prazo prometido, você pode cobrar a entrega, aceitar outro produto ou cancelar a compra com todo o dinheiro de volta. O que fazer quando o rastreio diz "entregue" ou a loja some está em [comprei pela internet e não chegou](/artigos/compra-nao-chegou).
 
 ## Quando o consumidor tem direito de receber o dinheiro de volta?
 
@@ -170,4 +172,4 @@ A mesma lei manda a loja informar com clareza os descontos que dependem da forma
 3. **Procure o Procon da sua cidade ou do seu estado.**
 4. **Entre no Juizado Especial Cível**, que julga causas de até 40 salários mínimos (R$ 64.840 em 2026). Em causas de até 20 salários mínimos (R$ 32.420 em 2026), você pode entrar sem advogado ([Lei nº 9.099/1995](https://www2.camara.leg.br/legin/fed/lei/1995/lei-9099-26-setembro-1995-348608-normaatualizada-pl.html)).
 
-Guarde tudo: prints do anúncio, comprovante de pagamento, nota fiscal, e-mails e conversas com a loja.
+Guarde tudo: prints do anúncio, comprovante de pagamento, nota fiscal, e-mails e conversas com a loja. O passo a passo de cada canal está em [como reclamar no Procon e no Consumidor.gov.br](/artigos/como-reclamar-procon); se pagou no cartão, veja também [como contestar a compra e pedir o estorno](/artigos/estorno-cartao-de-credito).

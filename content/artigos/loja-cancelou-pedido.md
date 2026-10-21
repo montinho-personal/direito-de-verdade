@@ -26,6 +26,8 @@ fontes:
     url: "https://www.tjdft.jus.br/consultas/jurisprudencia/jurisprudencia-em-temas/cdc-na-visao-do-tjdft-1/o-consumidor-na-internet/responsabilidade-do-fornecedor-por-oferta-de-produto-na-internet"
   - nome: "TJDFT: empresa não é obrigada a cumprir oferta de produto a preço vil se o erro for de fácil constatação (2020)"
     url: "https://www.tjdft.jus.br/institucional/imprensa/noticias/2020/novembro/empresa-nao-e-obrigada-a-cumprir-oferta-de-produto-a-preco-vil-e-erro-for-de-facil-constatacao"
+  - nome: "STJ: Informativo 671, erro grosseiro no preço (REsp 1.794.991)"
+    url: "https://processo.stj.jus.br/jurisprudencia/externo/informativo/?acao=pesquisarumaedicao&livre=%40cod%3D%270671%27"
   - nome: "TJDFT: o mero descumprimento contratual causa, por si só, dano moral?"
     url: "https://www.tjdft.jus.br/consultas/jurisprudencia/jurisprudencia-em-temas/jurisprudencia-em-perguntas/direito-civil-e-processual-civil/dano-moral/o-mero-descumprimento-contratual-causa-por-si-so-ofensa-a-personalidade-passivel-de-indenizacao-por-dano-moral"
   - nome: "Procon Niterói: reembolso, em quais situações o consumidor tem direito"
@@ -58,7 +60,7 @@ Peça por escrito a entrega do produto anunciado. Se a loja provar que o produto
 
 Depende de o erro ser **grosseiro** ou não. Não há um percentual fixo na lei; o critério vem dos tribunais.
 
-- **Erro grosseiro, fácil de perceber**: a Justiça tem liberado a loja. No TJDFT, relógios anunciados a R$ 101,40, quase 100 vezes abaixo do preço normal, não obrigaram a loja, porque o erro era "perceptível ao homem médio" e exigir a venda feriria a boa-fé ([TJDFT, 2020](https://www.tjdft.jus.br/institucional/imprensa/noticias/2020/novembro/empresa-nao-e-obrigada-a-cumprir-oferta-de-produto-a-preco-vil-e-erro-for-de-facil-constatacao)). Pesa a favor da loja quando ela corrige e avisa rápido e devolve o dinheiro.
+- **Erro grosseiro, fácil de perceber**: a Justiça tem liberado a loja. No TJDFT, relógios anunciados a R$ 101,40, quase 100 vezes abaixo do preço normal, não obrigaram a loja, porque o erro era "perceptível ao homem médio" e exigir a venda feriria a boa-fé ([TJDFT, 2020](https://www.tjdft.jus.br/institucional/imprensa/noticias/2020/novembro/empresa-nao-e-obrigada-a-cumprir-oferta-de-produto-a-preco-vil-e-erro-for-de-facil-constatacao)). O STJ decidiu no mesmo sentido num caso de passagens aéreas: um erro de sistema evidente, avisado logo ao consumidor, pode liberar a loja de cumprir a oferta ([STJ, Informativo 671](https://processo.stj.jus.br/jurisprudencia/externo/informativo/?acao=pesquisarumaedicao&livre=%40cod%3D%270671%27)). Pesa a favor da loja quando ela corrige e avisa rápido e devolve o dinheiro.
 - **Preço baixo, mas plausível**: promoção forte não é erro. Quando o erro grosseiro não fica provado e a oferta foi clara, a loja tem de cumprir. O TJDFT manteve, por exemplo, a obrigação de entregar uma Smart TV de R$ 899,50 já paga, cancelada pela plataforma ([TJDFT](https://www.tjdft.jus.br/consultas/jurisprudencia/jurisprudencia-em-temas/cdc-na-visao-do-tjdft-1/o-consumidor-na-internet/responsabilidade-do-fornecedor-por-oferta-de-produto-na-internet)).
 
 Na dúvida, peça o cumprimento por escrito, guarde o print do anúncio com data e hora e reclame. Mesmo quando a loja pode cancelar, ela **deve devolver** o que você pagou.

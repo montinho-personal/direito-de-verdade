@@ -30,8 +30,8 @@ de preço no site a loja é obrigada a vender`, `oferta não cumprida`.
 
 ## Pendente
 
-- STJ REsp 1.794.991/SE (passagens, erro sistêmico, 2020): só 1 veículo lido
-  (Correio Braziliense); fora do texto até confirmar.
+- STJ REsp 1.794.991/SE: confirmado pelo Informativo 671 do STJ (fonte já
+  usada no artigo da Black Friday); entrou no texto em 21/10.
 - Frete grátis anunciado e cobrado: sem fonte específica; fora.
 - Portaria Senacon 12/2021 (marketplace): não verificada.
 

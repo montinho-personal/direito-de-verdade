@@ -26,6 +26,8 @@ fontes:
     url: "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias-antigas/2015/2015-05-03_08-00_Consumidor-que-compra-pela-internet-tem-assegurado-o-direito-de-se-arrepender.aspx"
   - nome: "Senacon (Ministério da Justiça): direitos do consumidor na compra de presentes (05/08/2026)"
     url: "https://www.gov.br/mj/pt-br/assuntos/noticias-1/dia-dos-pais-conheca-os-direitos-do-consumidor-na-compra-de-presentes"
+  - nome: "Procon-SP: perguntas frequentes (prazo de 7 dias)"
+    url: "https://www.procon.sp.gov.br/perguntas-frequentes/"
   - nome: "Procon-SC: direito de arrependimento vale por 7 dias para compras online (06/10/2026)"
     url: "https://www.procon.sc.gov.br/procon-sc-explica-direito-de-arrependimento-vale-por-7-dias-para-compras-online/"
   - nome: "Procon-SP: autuação da empresa responsável pela Shopee (26/02/2026)"
@@ -46,7 +48,7 @@ A lei não pede motivo. Não serviu, não gostou, achou mais barato em outro lug
 
 ### Quando começa a contar o prazo de 7 dias?
 
-Para produto, a Senacon, o Procon-SP e o Procon-SC contam **do recebimento** ([Senacon](https://www.gov.br/mj/pt-br/assuntos/noticias-1/dia-dos-pais-conheca-os-direitos-do-consumidor-na-compra-de-presentes); [Procon-SC](https://www.procon.sc.gov.br/procon-sc-explica-direito-de-arrependimento-vale-por-7-dias-para-compras-online/)). Para serviço, conta da contratação. Para não correr risco, **faça o pedido de desistência dentro dos 7 dias** e guarde o comprovante, mesmo que a coleta aconteça depois.
+Para produto, a Senacon, o Procon-SP e o Procon-SC contam **do recebimento** ([Senacon](https://www.gov.br/mj/pt-br/assuntos/noticias-1/dia-dos-pais-conheca-os-direitos-do-consumidor-na-compra-de-presentes); [Procon-SC](https://www.procon.sc.gov.br/procon-sc-explica-direito-de-arrependimento-vale-por-7-dias-para-compras-online/)). Para serviço, conta da contratação. São **dias corridos**: a contagem começa no dia seguinte e não para no fim de semana ([Procon-SP](https://www.procon.sp.gov.br/perguntas-frequentes/)). Para não correr risco, **faça o pedido de desistência dentro dos 7 dias** e guarde o comprovante, mesmo que a coleta aconteça depois.
 
 ### Em que compras vale?
 

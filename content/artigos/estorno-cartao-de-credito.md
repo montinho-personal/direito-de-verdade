@@ -73,7 +73,7 @@ O banco responde pelas fraudes feitas por terceiros nas operações bancárias, 
 
 ## Comprei e não recebi: dá para contestar no cartão?
 
-Dá. Primeiro, peça à loja o cumprimento ou o cancelamento com devolução do dinheiro, por escrito. Se ela não resolver, conteste a compra no banco com as provas: o pedido, o prazo de entrega prometido e as suas tentativas de contato. A regra do artigo 54-G vale para qualquer compra contestada no cartão.
+Dá. Primeiro, peça à loja o cumprimento ou o cancelamento com devolução do dinheiro, por escrito. Se ela não resolver, conteste a compra no banco com as provas: o pedido, o prazo de entrega prometido e as suas tentativas de contato. A regra do artigo 54-G vale para qualquer compra contestada no cartão. O passo a passo com a loja está em [comprei pela internet e não chegou](/artigos/compra-nao-chegou).
 
 Se você **desistiu** de uma compra feita pela internet dentro de 7 dias, a própria loja deve avisar o cartão para a compra não ser lançada na fatura ou ser estornada ([Decreto 7.962/2013, artigo 5º](https://www2.camara.leg.br/legin/fed/decret/2013/decreto-7962-15-marco-2013-775557-publicacaooriginal-139266-pe.html)). Veja [direito de arrependimento](/artigos/direito-de-arrependimento).
 

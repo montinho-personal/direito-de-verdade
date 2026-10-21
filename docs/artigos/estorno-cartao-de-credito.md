@@ -36,7 +36,7 @@ Nenhum ainda. Buscas pedidas: `como contestar compra no cartão de crédito`,
   norma; o texto diz que varia. Não usar números de blogs.
 - Tema 929: atualizar quando a tese for publicada (pode tirar a modulação de
   30/03/2021).
-- Link para `/artigos/compra-nao-chegou` quando ele for publicado.
+- Link para `/artigos/compra-nao-chegou`: feito em 21/10.
 
 ## Decisões
 
