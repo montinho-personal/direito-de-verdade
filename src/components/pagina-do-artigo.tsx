@@ -160,7 +160,7 @@ export function PaginaDoArtigo({ artigo }: { artigo: Artigo }) {
             >
               {calculadora ? "Calculadora" : artigo.categoria.nome}
             </Link>
-            <h1 className="mt-3 font-serif text-4xl leading-tight sm:text-5xl">
+            <h1 className="mt-3 font-serif text-4xl leading-tight break-words sm:text-5xl">
               {artigo.titulo}
             </h1>
             <p className="mt-5 text-sm text-muted">

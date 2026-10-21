@@ -45,7 +45,7 @@ Lembrar o Renato desta lista a cada entrega.
 | Comprei e não chegou (`/artigos/compra-nao-chegou`) | `comprei e não chegou o que fazer`; `entrega atrasada direitos do consumidor`; `pedido consta como entregue mas não recebi` | aguardando prints |
 | Golpes de compra no fim do ano (`/artigos/golpes-de-fim-de-ano`) | `golpe da taxa dos correios`; `golpe perfil falso instagram loja`; `golpe do boleto falso` | aguardando prints |
 | Loja cancelou o pedido (`/artigos/loja-cancelou-pedido`) | `loja cancelou minha compra o que fazer`; `erro de preço no site a loja é obrigada a vender`; `oferta não cumprida` | aguardando prints |
-| Como reclamar no Procon e no Consumidor.gov.br (`/artigos/como-reclamar-procon`) | `como reclamar no procon`; `consumidor.gov.br como funciona`; `reclamar no procon online` | aguardando prints |
+| Como reclamar no Procon e no Consumidor.gov.br (`/artigos/como-reclamar-procon`) | `como reclamar no procon`; `consumidor.gov.br como funciona`; `reclamar no procon online` | **publicado em 21/10/2026**, aguardando prints |
 
 ## Temas-base (o ano todo)
 
@@ -108,3 +108,4 @@ Lembrar o Renato desta lista a cada entrega.
 - Compras internacionais: alíquotas do Remessa Conforme (Portaria MF), desconto em dólar e ICMS dos estados; conferir a cada avaliação semestral da Fazenda (Lei 15.502/2026).
 - Seguro-desemprego: tabela nova em janeiro (faixas, piso e teto), em `src/lib/seguro-desemprego.ts` e no artigo `seguro-desemprego-2026` (exemplos e título com o ano).
 - Trabalho no feriado: calendário de fim de ano (portaria de pontos facultativos do MGI, dias da semana), tabela com o salário mínimo do ano e feriado bancário de 31/12 em `/artigos/trabalhar-no-feriado`.
+- Como reclamar no Procon: valores de 20 e 40 salários mínimos do Juizado em `/artigos/como-reclamar-procon`.
