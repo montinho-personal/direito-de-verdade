@@ -40,7 +40,7 @@ Lembrar o Renato desta lista a cada entrega.
 
 | artigo | buscas para printar | status |
 |---|---|---|
-| Direito de arrependimento (`/artigos/direito-de-arrependimento`) | `direito de arrependimento`; `devolver produto comprado pela internet`; `quem paga o frete da devolução` | **publicado em 21/10/2026**, aguardando prints |
+| Direito de arrependimento (`/artigos/direito-de-arrependimento`) | `direito de arrependimento`; `devolver produto comprado pela internet`; `quem paga o frete da devolução` | **prints recebidos e artigo revisado em 22/10/2026** |
 | Estorno no cartão de crédito (`/artigos/estorno-cartao-de-credito`) | `como contestar compra no cartão de crédito`; `estorno no cartão demora quanto tempo`; `compra não reconhecida no cartão` | **publicado em 21/10/2026**, aguardando prints |
 | Comprei e não chegou (`/artigos/compra-nao-chegou`) | `comprei e não chegou o que fazer`; `entrega atrasada direitos do consumidor`; `pedido consta como entregue mas não recebi` | **publicado em 21/10/2026**, aguardando prints |
 | Golpes de compra no fim do ano (`/artigos/golpes-de-fim-de-ano`) | `golpe da taxa dos correios`; `golpe perfil falso instagram loja`; `golpe do boleto falso` | **publicado em 21/10/2026**, aguardando prints |
