@@ -4,6 +4,7 @@ tituloSeo: "Golpes de fim de ano: taxa dos Correios, loja falsa e boleto"
 descricao: "Golpes de compra no fim do ano: os Correios e a Receita nunca mandam link de pagamento por SMS. Veja os 6 golpes mais comuns e o que fazer se cair."
 categoria: consumidor
 publicadoEm: 2026-10-21
+atualizadoEm: 2026-10-21
 faq:
   - pergunta: "Recebi um SMS dos Correios dizendo que minha encomenda está retida. É golpe?"
     resposta: "Se a mensagem traz link para pagar, é golpe: a Receita Federal, os Correios e as lojas nunca enviam link de pagamento por SMS. Confira em Minhas Importações, entrando pelo site ou pelo app dos Correios com usuário e senha."
@@ -11,11 +12,19 @@ faq:
     resposta: "Não é garantia. A Receita Federal orienta a desconfiar mesmo quando todos os dados estão corretos, porque os golpistas conseguem essas informações."
   - pergunta: "O banco ligou pedindo para confirmar minha senha. É do banco mesmo?"
     resposta: "Não. Os bancos nunca ligam pedindo senha, token ou dados e nunca pedem transferência para resolver problema na conta (Febraban). Desligue e ligue você para o número do verso do cartão."
-  - pergunta: "Paguei um boleto falso. O banco devolve?"
-    resposta: "Depende do caso. O STJ já mandou o banco responder quando o golpe usou dados vazados do próprio banco. Avise o banco na hora e registre boletim de ocorrência."
+  - pergunta: "Tem como cancelar o pagamento de um boleto falso?"
+    resposta: "Não existe um cancelamento garantido: avise o banco na hora, peça o protocolo e registre boletim de ocorrência. Se o boleto foi pago com Pix, peça também a devolução pelo MED."
   - pergunta: "Imposto de encomenda não pago pode sujar meu nome?"
     resposta: "Não. A Receita Federal informa que os impostos de encomenda não são 'negativados' no SPC ou no Serasa. Ameaça desse tipo é sinal de golpe."
 fontes:
+  - nome: "Ministério da Justiça: Glossário de Tipologias de Fraudes e Golpes Digitais (out/2025)"
+    url: "https://www.gov.br/mj/pt-br/assuntos/alianca-nacional-de-combate-a-fraudes-bancarias-digitais/glossario_final_iniciativa_1-8_v10.pdf"
+  - nome: "Marco Civil da Internet (Lei nº 12.965/2014), artigos 15 e 22"
+    url: "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2014/lei/l12965.htm"
+  - nome: "STJ: Súmula 479"
+    url: "https://scon.stj.jus.br/SCON/sumstj/toc.jsp?livre=%27479%27.num.&O=JT"
+  - nome: "STJ: golpes virtuais e fraudes envolvendo instituições financeiras (11/10/2026)"
+    url: "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/11102026-Golpes-virtuais--danos-reais-o-STJ-diante-das-fraudes-envolvendo-instituicoes-financeiras.aspx"
   - nome: "Receita Federal: e-golpe, golpes com encomendas internacionais"
     url: "https://www.gov.br/receitafederal/pt-br/assuntos/aduana-e-comercio-exterior/manuais/remessas-postal-e-expressa/e-golpe"
   - nome: "Receita Federal: golpe via SMS"
@@ -54,38 +63,75 @@ Segundo a Febraban, a **falsa venda** foi o golpe mais relatado aos bancos no 1�
 
 ## Golpe da taxa dos Correios: "sua encomenda está retida"
 
-**Como funciona:** chega um SMS, WhatsApp ou e-mail dizendo que a sua encomenda está retida e que você precisa pagar uma taxa ou um imposto para liberar, com um link, um Pix ou um boleto.
+### Como funciona o golpe do correio?
 
-**Como reconhecer** ([Receita Federal](https://www.gov.br/receitafederal/pt-br/assuntos/aduana-e-comercio-exterior/manuais/remessas-postal-e-expressa/e-golpe)):
+Chega um SMS, um WhatsApp ou um e-mail "da alfândega" dizendo que a sua encomenda está retida ou que você foi taxado, e que precisa pagar uma taxa de liberação, de entrega ou de importação, com um link, um Pix ou um boleto. O link leva a uma página falsa que imita o site dos Correios ou da Receita. O Ministério da Justiça registra o golpe como **"falsa taxa"**, nas versões falsa taxa de entrega, falso contato dos Correios ou da Alfândega e falsa taxa de encomenda ([glossário de golpes do Ministério da Justiça](https://www.gov.br/mj/pt-br/assuntos/alianca-nacional-de-combate-a-fraudes-bancarias-digitais/glossario_final_iniciativa_1-8_v10.pdf)).
+
+### Como saber se a taxa do correio é golpe?
+
+Segundo a [Receita Federal](https://www.gov.br/receitafederal/pt-br/assuntos/aduana-e-comercio-exterior/manuais/remessas-postal-e-expressa/e-golpe):
 
 - A Receita, os Correios e as lojas **nunca mandam link de pagamento por SMS**.
 - A Receita **nunca liga nem manda mensagem** para cobrar ([golpes mais comuns](https://www.gov.br/receitafederal/pt-br/assuntos/aduana-e-comercio-exterior/manuais/remessas-postal-e-expressa/e-golpe/e-golpe-quais-sao-os-golpes-mais-comuns)).
 - Desconfie **mesmo que a mensagem traga o seu nome, CPF e endereço certos**.
-- Quem comprou numa loja do **Remessa Conforme** já pagou o imposto na compra.
 - Imposto de encomenda **não é "negativado"** no SPC ou no Serasa: ameaça de nome sujo é sinal de golpe.
 
-**Como conferir de verdade:** entre no site **www.correios.com.br** ou no app dos Correios, faça login com usuário e senha e abra **Minhas Importações**. O boleto ou o Pix do imposto só são gerados ali. **Não procure "Minhas Importações" no Google**: há anúncios patrocinados falsos que imitam a página ([Receita Federal](https://www.gov.br/receitafederal/pt-br/assuntos/aduana-e-comercio-exterior/manuais/remessas-postal-e-expressa/e-golpe/pesquisa-no-google-e-segura/pesquisa-no-google-posso-confiar)). Os impostos de verdade estão em [taxa das compras internacionais](/artigos/taxa-compras-internacionais).
+### Como os Correios avisam que a encomenda foi taxada?
 
-## Loja falsa e perfil falso no Instagram ou no WhatsApp
+Pelo próprio site ou app. Entre em **www.correios.com.br** ou no app dos Correios, faça login com usuário e senha e abra **Minhas Importações**: é ali que aparece o imposto a pagar, e o boleto ou o Pix só são gerados ali. **Não procure "Minhas Importações" no Google**: há anúncios patrocinados falsos que imitam a página ([Receita Federal](https://www.gov.br/receitafederal/pt-br/assuntos/aduana-e-comercio-exterior/manuais/remessas-postal-e-expressa/e-golpe/pesquisa-no-google-e-segura/pesquisa-no-google-posso-confiar)).
 
-**Como funciona:** o golpista cria um site ou um perfil que imita uma loja conhecida, ou uma loja que não existe, com preços muito baixos e anúncios pagos. Você paga e o produto nunca chega. Às vezes a loja ainda manda um **rastreio falso** e depois cobra uma "taxa de reenvio" ou "taxa de liberação", que **não existem** ([Receita Federal](https://www.gov.br/receitafederal/pt-br/assuntos/aduana-e-comercio-exterior/manuais/remessas-postal-e-expressa/e-golpe/compras-em-redes-sociais/compras-em-redes-sociais)).
+### Os Correios estão me cobrando taxa de importação. É verdade?
 
-**Como reconhecer:**
+Só se a cobrança aparecer em Minhas Importações. Quem comprou numa loja do **Remessa Conforme** já pagou o imposto na compra e não deve receber cobrança na entrega ([Receita Federal](https://www.gov.br/receitafederal/pt-br/assuntos/aduana-e-comercio-exterior/manuais/remessas-postal-e-expressa/e-golpe/golpe-por-carta/golpe-por-carta)). Os impostos de verdade estão em [taxa das compras internacionais](/artigos/taxa-compras-internacionais). Se já pagou o falso, veja [o que fazer](#cai-no-golpe-o-que-fazer).
+
+## Golpe da loja falsa no Instagram: como saber se é golpe
+
+### O que é o golpe da loja falsa?
+
+O golpista cria um site ou um perfil que copia a marca, as fotos e as publicações de uma loja conhecida, ou inventa uma loja que não existe, com preços muito baixos e anúncios pagos. Você paga, geralmente por Pix, e o produto nunca chega. Às vezes a loja ainda manda um **rastreio falso** e depois cobra uma "taxa de reenvio" ou "taxa de liberação", que **não existem** ([Receita Federal](https://www.gov.br/receitafederal/pt-br/assuntos/aduana-e-comercio-exterior/manuais/remessas-postal-e-expressa/e-golpe/compras-em-redes-sociais/compras-em-redes-sociais)).
+
+### Como saber se uma loja do Instagram é golpe?
 
 - **Preço muito abaixo** do que as outras lojas cobram e **pressão** para fechar a compra logo.
-- **Endereço do site diferente** do da loja verdadeira, com uma letra trocada ou um final diferente ([Procon-SP](https://www.procon.sp.gov.br/site-de-compras-falso/)).
 - **Perfil recém-criado**, sem selo de verificação, com poucos seguidores ou sem comentários de quem comprou (orientação da [Febraban](https://portal.febraban.org.br/noticia/4400/pt-br/)).
+- **No Pix, confira o nome e o CNPJ de quem vai receber** antes de confirmar: se não for o da loja, não pague ([Procon-SP](https://www.procon.sp.gov.br/procon-sp-orienta-consumidores-sobre-novo-golpe-que-altera-qr-code-do-pix-em-compras-online/)).
+- **Endereço do site diferente** do da loja verdadeira, com uma letra trocada ou um final diferente ([Procon-SP](https://www.procon.sp.gov.br/site-de-compras-falso/)).
 - **Sem CNPJ, endereço e telefone** no site. A loja virtual é obrigada a mostrar esses dados ([Decreto 7.962/2013, artigo 2º](https://www2.camara.leg.br/legin/fed/decret/2013/decreto-7962-15-marco-2013-775557-publicacaooriginal-139266-pe.html)).
 
-**Antes de comprar:** confira a lista **[Evite esses sites](https://sistemas.procon.sp.gov.br/evitesite/list/evitesites.php)** do Procon-SP e digite o endereço da loja no navegador em vez de clicar no anúncio.
+**Antes de comprar:** confira a lista **[Evite esses sites](https://sistemas.procon.sp.gov.br/evitesite/list/evitesites.php)** do Procon-SP e entre no site da loja digitando o endereço, em vez de clicar no anúncio.
 
-## Boleto falso ou adulterado
+### Paguei por Pix no golpe do Instagram: tem volta?
 
-**Como funciona:** o golpista manda um boleto parecido com o da loja, ou altera o código de barras, e o dinheiro vai para outra conta.
+Peça a devolução pelo **MED** no app do seu banco o quanto antes: quanto mais cedo, maior a chance de ainda haver dinheiro na conta do golpista. O passo a passo está em [como recuperar o dinheiro do Pix](/artigos/golpe-pix-como-recuperar-dinheiro). Denuncie o perfil no próprio Instagram.
 
-**Como reconhecer:** na hora de pagar, o **app do banco mostra o nome de quem vai receber**. Se não for a loja onde você comprou, **não pague** (orientação da [Febraban](https://portal.febraban.org.br/noticia/4400/pt-br/)).
+### Tem como descobrir quem é o dono de um perfil fake no Instagram?
 
-**E se já pagou?** Avise o banco na hora e registre boletim de ocorrência. A responsabilidade do banco depende do caso: o STJ mandou o banco indenizar quando o golpe do boleto usou **dados vazados do próprio banco** ([STJ, 2023](https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2023/24102023-Banco-responde-por-vazamento-de-dados-que-resultou-em-aplicacao-do-%E2%80%9Cgolpe-do-boleto%E2%80%9D-contra-cliente.aspx)). Em outras situações, a resposta pode ser diferente: guarde o comprovante e procure orientação.
+Não por conta própria. A rede social é obrigada a guardar os registros de acesso por **6 meses** ([Marco Civil da Internet, artigo 15](https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2014/lei/l12965.htm)), mas só os entrega por **ordem de um juiz**, num pedido feito em processo ou na investigação policial ([artigo 22](https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2014/lei/l12965.htm)). Por isso o boletim de ocorrência e os prints do perfil são importantes: faça logo, antes que o prazo de guarda passe.
+
+## Golpe do boleto falso: o que fazer
+
+### Como saber se um boleto é falso ou golpe?
+
+O golpista manda um boleto igual ao da loja ou da conta, ou altera o código de barras ou o QR Code do Pix, e o dinheiro vai para a conta dele. Na hora de pagar, o **app do banco mostra o nome de quem vai receber**. Se não for a empresa com quem você negociou, **não pague** (orientação da [Febraban](https://portal.febraban.org.br/noticia/4400/pt-br/)). Na dúvida, pegue a segunda via no site ou no app da própria empresa.
+
+### Paguei um boleto falso: o que fazer?
+
+1. **Avise o banco na hora**, pelo app ou pelo SAC, e peça o registro da contestação com número de protocolo. Se o boleto foi pago **com Pix**, peça também o [MED do Pix](/artigos/golpe-pix-como-recuperar-dinheiro).
+2. **Registre um boletim de ocorrência**, de preferência na delegacia online do seu estado.
+3. **Avise a empresa** que deveria ter recebido o valor.
+4. **Guarde tudo:** o boleto, o comprovante, os e-mails e as conversas.
+
+O pagamento de boleto não tem a garantia de contestação que existe no cartão de crédito: por isso a pressa em avisar o banco.
+
+### O banco responde pelo boleto falso?
+
+**Depende do caso.** O banco responde pelas fraudes ligadas à própria atividade bancária, sem precisar provar culpa dele ([Súmula 479 do STJ](https://scon.stj.jus.br/SCON/sumstj/toc.jsp?livre=%27479%27.num.&O=JT)). Mas o simples fato de ter caído no golpe não basta: é preciso mostrar a falha do banco. Exemplos que o STJ já reconheceu:
+
+- O golpe usou **dados vazados do próprio banco** ([STJ, REsp 2.077.278, 2023](https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2023/24102023-Banco-responde-por-vazamento-de-dados-que-resultou-em-aplicacao-do-%E2%80%9Cgolpe-do-boleto%E2%80%9D-contra-cliente.aspx)).
+- A conta que recebeu o dinheiro foi **aberta com documentos falsos** ([STJ, AREsp 3.193.758, junho de 2026](https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/11102026-Golpes-virtuais--danos-reais-o-STJ-diante-das-fraudes-envolvendo-instituicoes-financeiras.aspx)).
+- O banco não barrou **transações fora do perfil** do cliente (mesma notícia do STJ).
+
+Sem solução no banco, reclame na ouvidoria e no [Procon ou no Consumidor.gov.br](/artigos/como-reclamar-procon). Para uma ação, procure um advogado ou a Defensoria Pública.
 
 ## Falso entregador e maquininha adulterada
 
