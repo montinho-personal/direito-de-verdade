@@ -30,6 +30,16 @@ O Google leva semanas para mostrar um site novo: publicar antes do pico.
 | Trabalho temporário de fim de ano: direitos, 13º, rescisão e seguro-desemprego | outubro a dezembro (contratação) e janeiro (fim dos contratos) | **publicado em 21/10/2026** — [doc](artigos/trabalho-temporario.md), `/artigos/trabalho-temporario` |
 | Voo atrasado ou cancelado e bagagem extraviada (regras novas da ANAC em 26/10/2026) | dezembro e janeiro (viagens de fim de ano) | **publicado em 21/10/2026** — [doc](artigos/voo-atrasado-ou-cancelado.md), `/artigos/voo-atrasado-ou-cancelado` |
 
+## Próximos três (sugeridos em 21/10/2026)
+
+Um de cada vez, na ordem, cada um só depois dos prints.
+
+| ordem | artigo | por que agora | buscas para printar | status |
+|---|---|---|---|---|
+| 1 | Aviso prévio trabalhado ou indenizado (30 dias + 3 por ano, redução de 2 horas ou 7 dias, pedido de demissão) | fecha o grupo de rescisão (demissão, pedido, acordo, calculadora); demissões sobem em dezembro e janeiro | `aviso prévio trabalhado`; `aviso prévio indenizado`; `aviso prévio proporcional` | aguardando prints |
+| 2 | Horas extras e banco de horas (50%, 100% no domingo e feriado, prazo do banco, o que acontece na demissão) | hora extra do comércio no fim de ano; liga com feriado e temporário | `hora extra quanto paga`; `banco de horas como funciona`; `banco de horas na demissão` | aguardando prints |
+| 3 | Nome sujo: prazo de 5 anos e como limpar o nome | quem recebe o 13º paga dívida em dezembro; apareceu nas buscas de boleto e do Consumidor.gov.br (Serasa, limpa nome, dívidas) | `quanto tempo o nome fica sujo`; `como limpar o nome`; `dívida prescrita` | aguardando prints |
+
 ## Prints pendentes
 
 Artigos publicados antes dos prints do Google, a pedido do Renato em
