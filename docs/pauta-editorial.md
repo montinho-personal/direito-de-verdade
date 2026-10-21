@@ -45,7 +45,7 @@ Lembrar o Renato desta lista a cada entrega.
 | Comprei e não chegou (`/artigos/compra-nao-chegou`) | `comprei e não chegou o que fazer`; `entrega atrasada direitos do consumidor`; `pedido consta como entregue mas não recebi` | **prints recebidos e artigo revisado em 21/10/2026** |
 | Golpes de compra no fim do ano (`/artigos/golpes-de-fim-de-ano`) | `golpe da taxa dos correios`; `golpe perfil falso instagram loja`; `golpe do boleto falso` | **prints recebidos e artigo revisado em 21/10/2026** |
 | Loja cancelou o pedido (`/artigos/loja-cancelou-pedido`) | `loja cancelou minha compra o que fazer`; `erro de preço no site a loja é obrigada a vender`; `oferta não cumprida` | **prints recebidos e artigo revisado em 21/10/2026** |
-| Como reclamar no Procon e no Consumidor.gov.br (`/artigos/como-reclamar-procon`) | `como reclamar no procon`; `consumidor.gov.br como funciona`; `reclamar no procon online` | **publicado em 21/10/2026**, aguardando prints |
+| Como reclamar no Procon e no Consumidor.gov.br (`/artigos/como-reclamar-procon`) | `como reclamar no procon`; `consumidor.gov.br como funciona`; `reclamar no procon online` | **prints recebidos e artigo revisado em 21/10/2026** |
 
 ## Temas-base (o ano todo)
 
