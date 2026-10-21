@@ -4,6 +4,7 @@ tituloSeo: "Trabalhar no feriado paga em dobro? E 24 e 31 de dezembro"
 descricao: "Trabalhar no feriado paga em dobro, ou o dia vira folga. 24 e 31 de dezembro não são feriado. Veja quanto recebe, a regra nova do comércio e o calendário."
 categoria: trabalho
 publicadoEm: 2026-10-20
+atualizadoEm: 2026-10-21
 faq:
   - pergunta: "24 de dezembro é feriado para empregada doméstica?"
     resposta: "Não. Para a doméstica, 24 de dezembro é dia normal de trabalho, a não ser que o patrão a dispense. O dia 25 é feriado: se ela trabalhar e não ganhar folga em outro dia, recebe o dia em dobro, como manda a Lei Complementar 150 (artigo 2º, § 8º)."
@@ -105,7 +106,7 @@ Ponto facultativo é uma folga do serviço público, não da empresa privada. Pa
 
 ### É obrigatório trabalhar no dia 24 de dezembro?
 
-Se o dia 24 é dia de trabalho na sua escala, sim: a empresa não é obrigada a liberar. Faltar sem justificativa leva ao desconto do dia e pode tirar a remuneração do descanso semanal daquela semana ([Lei 605/1949, artigo 6º](https://www2.camara.leg.br/legin/fed/lei/1940-1949/lei-605-5-janeiro-1949-367115-normaatualizada-pl.html)). Se a empresa pedir para compensar as horas da folga depois, como num banco de horas, peça a regra por escrito.
+Se o dia 24 é dia de trabalho na sua escala, sim: a empresa não é obrigada a liberar. Faltar sem justificativa leva ao desconto do dia e pode tirar a remuneração do descanso semanal daquela semana ([Lei 605/1949, artigo 6º](https://www2.camara.leg.br/legin/fed/lei/1940-1949/lei-605-5-janeiro-1949-367115-normaatualizada-pl.html)). Se a empresa pedir para compensar as horas da folga depois, como num banco de horas, peça a regra por escrito. Os prazos e limites estão em [como funciona o banco de horas](/artigos/horas-extras-banco-de-horas).
 
 ### Dia 24 de dezembro é ponto facultativo a partir de que horas?
 
