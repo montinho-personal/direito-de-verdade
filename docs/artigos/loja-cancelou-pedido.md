@@ -11,8 +11,24 @@ Cancelamento por "erro de preço" e falta de estoque explode na Black Friday.
 
 ## Prints recebidos
 
-Nenhum ainda. Buscas pedidas: `loja cancelou minha compra o que fazer`, `erro
-de preço no site a loja é obrigada a vender`, `oferta não cumprida`.
+Recebidos em 22/10/2026 (celular, 08h50–08h51), em
+`docs/artigos/prints/loja-cancelou-pedido/`. O artigo tinha sido publicado em
+21/10 sem prints; esta revisão o reorganizou pelas buscas reais.
+
+| print | conteúdo | onde entrou |
+|---|---|---|
+| 01 autocompletar `loja cancelou minha compra o que fazer` | Shopee; Mercado Livre; online | lead e H2 do marketplace com Shopee e Mercado Livre |
+| 02 visão geral de IA | guardar provas; pedir explicação formal; art. 35 (cumprimento, equivalente, reembolso) | H2 "o que fazer" (passo a passo) |
+| 03 PAA | o que fazer quando a loja cancelou; o que acontece quando é cancelada pelo estabelecimento; o que a lei diz sobre cancelamento; tem como reverter | H2 "o que fazer"; H2 "o que a lei diz"; H3 "o que acontece"; H3 "tem como reverter" |
+| 04–05 outras pesquisas | cancelada pelo vendedor no Mercado Livre; aprovada e depois cancelada; loja pode cancelar compra online; cancelou e aumentou o preço; jurisprudência; falta de estoque; produto entregue após estorno; cliente recebeu e cancelou | H2 do marketplace; H3 "cancelou e aumentou o preço"; H2 "falta de estoque". Produto entregue após o estorno: fora (sem fonte) |
+| 06 autocompletar `erro de preço no site a loja é obrigada a vender` | roupas; pelo preço do site; erro preço produto; fazer o estorno; Havan | H2 "obrigada a vender pelo preço anunciado"; "é obrigada a fazer o estorno". Roupas usadas e Havan: fora |
+| 07 visão geral de IA | regra: cumprir (art. 30); exceção: erro grosseiro e óbvio (boa-fé, art. 4º, III) | H2 do erro de preço (art. 4º, III conferido) |
+| 08 PAA | o que a lei diz sobre erros de preço; o que fazer se o preço no site estiver errado; preço do site igual ao da loja; art. 42 | H2 do erro; H3 "o que devo fazer". Site x loja física: fora (sem regra conferida) |
+| 09–10 outras pesquisas | erro grosseiro; preço errado na internet; etiqueta errada; etiqueta de outro produto; erro crasso; mudança de preço depois da compra; Procon; consumidor.gov | H3 do preço diferente "inclusive etiqueta errada" (Lei 10.962); "grosseiro (ou crasso)"; H3 "cancelou e aumentou o preço" |
+| 11 autocompletar `oferta não cumprida` | cdc; dano moral; cdc artigo; lei do consumidor; Bíblia/frases | H3 "oferta não cumprida: art. 35". Sentido bíblico: fora |
+| 12 visão geral de IA | art. 35, três opções | texto literal do art. 35 |
+| 13 PAA | o que fazer quando o fornecedor não cumpre; é crime prometer e não cumprir; art. 35; lei do cumprimento da oferta | H3 "é crime" (CDC arts. 66 e 67); "cumprimento forçado da oferta" |
+| 14–15 outras pesquisas | cumprimento forçado; art. 35 prazo; arts. 30 e 35; produto anunciado e não tem no supermercado; art. 35 dano moral; art. 35 do Código Penal | supermercado no H2 da falta de estoque. "Prazo do art. 35": fora (o artigo não tem prazo) |
 
 ## Fontes confirmadas
 
@@ -26,6 +42,7 @@ de preço no site a loja é obrigada a vender`, `oferta não cumprida`.
 | Oferta clara e já paga obriga; erro grosseiro não provado obriga (Acórdãos 1928729 e 1950105); classificados não respondem (STJ REsp 2.102.442) | TJDFT, Jurisprudência em temas | oficial |
 | Sem prazo legal de devolução; exigir prazo; mesmo meio de pagamento | Procon Niterói | oficial |
 | Cupom não aplicado: exigir cumprimento ou cancelamento com reembolso | Procon-SP, Guia de Comércio Eletrônico | oficial |
+| Crimes de afirmação falsa ou enganosa e publicidade enganosa (arts. 66 e 67) | CDC, Câmara | oficial |
 | Mero descumprimento não gera dano moral | TJDFT | oficial |
 
 ## Pendente
@@ -44,5 +61,5 @@ de preço no site a loja é obrigada a vender`, `oferta não cumprida`.
 
 ## Para medir
 
-Depois dos prints: `loja cancelou compra`, `erro de preço site`, `oferta não
+A partir de novembro/2026: `loja cancelou compra`, `erro de preço site`, `oferta não
 cumprida`, `preço diferente no caixa`.
