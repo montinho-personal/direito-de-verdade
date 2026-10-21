@@ -4,7 +4,7 @@ tituloSeo: "Demissão sem justa causa: o que recebe e cálculo 2026"
 descricao: "Demissão sem justa causa: veja o que você recebe (aviso prévio, 13º, férias, multa de 40% do FGTS e seguro-desemprego) e calcule a sua rescisão de 2026."
 categoria: trabalho
 publicadoEm: 2026-10-19
-atualizadoEm: 2026-10-19
+atualizadoEm: 2026-10-21
 faq:
   - pergunta: "Qual o prazo para a empresa pagar a rescisão?"
     resposta: "**10 dias** contados do fim do contrato, para pagar as verbas e entregar os documentos. Se atrasar, a empresa paga ao trabalhador uma multa no valor de um salário, além da multa administrativa (CLT, artigo 477, §§ 6º e 8º)."
@@ -66,7 +66,7 @@ Base legal: [CLT](https://www2.camara.leg.br/legin/fed/declei/1940-1949/decreto-
 Uma verba de cada vez:
 
 1. **Saldo de salário:** salário ÷ 30 × dias trabalhados no mês da saída.
-2. **Aviso prévio indenizado:** salário ÷ 30 × dias de aviso. São 30 dias até 1 ano de empresa e mais 3 por ano completo, até 90 ([Lei nº 12.506/2011](https://www2.camara.leg.br/legin/fed/lei/2011/lei-12506-11-outubro-2011-611572-publicacaooriginal-133781-pl.html)). Com 1 ano completo, já são 33 dias, como o TST confirma ([notícia do TST](https://www.trt4.jus.br/portais/escola/modulos/noticias/413950)).
+2. **Aviso prévio indenizado:** salário ÷ 30 × dias de aviso. São 30 dias até 1 ano de empresa e mais 3 por ano completo, até 90 ([Lei nº 12.506/2011](https://www2.camara.leg.br/legin/fed/lei/2011/lei-12506-11-outubro-2011-611572-publicacaooriginal-133781-pl.html)). Com 1 ano completo, já são 33 dias, como o TST confirma ([notícia do TST](https://www.trt4.jus.br/portais/escola/modulos/noticias/413950)). A tabela completa e as regras do aviso trabalhado estão em [aviso prévio trabalhado ou indenizado](/artigos/aviso-previo).
 3. **13º proporcional:** salário ÷ 12 × meses trabalhados no ano.
 4. **Férias proporcionais:** salário ÷ 12 × meses desde o último aniversário de contrato (fração de mais de 14 dias conta como mês), mais 1/3.
 5. **Férias vencidas:** um salário por período não tirado, mais 1/3.

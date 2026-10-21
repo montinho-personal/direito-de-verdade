@@ -50,8 +50,9 @@ e Súmulas do TST (Res. 121/2003), baixados em 19/10/2026.
 
 ## Pendente
 
-- **Aviso proporcional no pedido de demissão:** a Nota Técnica 184/2012 do MTE
-  não foi aberta; o texto diz que há decisões diferentes e indica o sindicato.
+- ~~Aviso proporcional no pedido de demissão~~: resolvido em 21/10/2026 com a
+  SBDI-1 do TST (E-RR-1964-73.2013.5.09.0009, Informativo 165): só quando a
+  empresa demite. Texto atualizado e link para `/artigos/aviso-previo`.
 - **Notícia do TST de 19/03/2026** (primeiro resultado): não abriu.
 - **Correção do FGTS retido:** não conferida; fora do texto.
 

@@ -4,7 +4,7 @@ tituloSeo: "Pedido de demissão: o que recebe e o que perde (com cálculo)"
 descricao: "Pedido de demissão: você recebe saldo de salário, 13º e férias com 1/3, mas perde a multa, o saque do FGTS e o seguro. Veja o aviso prévio e calcule a sua rescisão."
 categoria: trabalho
 publicadoEm: 2026-10-19
-atualizadoEm: 2026-10-20
+atualizadoEm: 2026-10-21
 faq:
   - pergunta: "Quem pede demissão recebe seguro-desemprego?"
     resposta: "Não. O seguro-desemprego é para quem é dispensado sem justa causa (Lei nº 7.998/1990, artigo 3º). Quem pede demissão não tem direito, mesmo com muitos anos de carteira assinada."
@@ -17,6 +17,8 @@ faq:
   - pergunta: "Quem tem estabilidade pode pedir demissão?"
     resposta: "Pode, mas o pedido de demissão de quem tem estabilidade só vale com a assistência do sindicato da categoria; se não houver sindicato, perante o Ministério do Trabalho ou a Justiça do Trabalho (CLT, artigo 500)."
 fontes:
+  - nome: "TST: Informativo 165, aviso proporcional só quando a empresa demite (E-RR-1964-73.2013.5.09.0009)"
+    url: "https://juslaboris.tst.jus.br/bitstream/handle/20.500.12178/147906/2018_informativo_tst_cjur_n0001a0189_compilacao.pdf"
   - nome: "CLT, artigos 146, 477, 480, 481, 487, 488, 489 e 500, texto atualizado (Câmara dos Deputados)"
     url: "https://www2.camara.leg.br/legin/fed/declei/1940-1949/decreto-lei-5452-1-maio-1943-415500-normaatualizada-pe.html"
   - nome: "TST: Súmulas 157, 261 e 276 (Resolução 121/2003)"
@@ -87,7 +89,7 @@ A lei não libera do aviso quem arrumou outro emprego. O caminho é pedir à emp
 
 ### O aviso de quem pede demissão é de 30 dias ou proporcional?
 
-A Lei nº 12.506/2011 diz que o aviso de 30 dias é "concedido aos empregados" e cresce 3 dias por ano de empresa, até 90 ([texto da lei](https://www2.camara.leg.br/legin/fed/lei/2011/lei-12506-11-outubro-2011-611572-publicacaooriginal-133781-pl.html)). Por isso, no pedido de demissão, o mais comum é cumprir **30 dias**. O tema tem decisões em sentidos diferentes; se a empresa exigir mais, confira com o sindicato da categoria.
+A Lei nº 12.506/2011 diz que o aviso de 30 dias é "concedido aos empregados" e cresce 3 dias por ano de empresa, até 90 ([texto da lei](https://www2.camara.leg.br/legin/fed/lei/2011/lei-12506-11-outubro-2011-611572-publicacaooriginal-133781-pl.html)). Para o TST, a proporcionalidade vale só quando a empresa demite: quem pede demissão cumpre **30 dias**, e a empresa que exigiu mais foi condenada a pagar os dias a mais (E-RR-1964-73.2013.5.09.0009, 2017, [Informativo 165 do TST](https://juslaboris.tst.jus.br/bitstream/handle/20.500.12178/147906/2018_informativo_tst_cjur_n0001a0189_compilacao.pdf)). A tabela de dias e as outras regras estão em [aviso prévio trabalhado ou indenizado](/artigos/aviso-previo).
 
 ## Quem pede demissão tem direito ao FGTS?
 
