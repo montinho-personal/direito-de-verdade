@@ -1,18 +1,21 @@
 ---
-titulo: "Como contestar uma compra no cartão de crédito e pedir o estorno"
-tituloSeo: "Como contestar compra no cartão de crédito e pedir estorno"
-descricao: "Como contestar compra no cartão: avise o banco 10 dias antes do vencimento e pague só o que não está em disputa. Veja o passo a passo e a cobrança em dobro."
+titulo: "Como contestar compra no cartão de crédito: estorno, prazo e compra não reconhecida"
+tituloSeo: "Como contestar compra no cartão de crédito: prazo e estorno"
+descricao: "Como contestar compra no cartão de crédito no Nubank, Itaú, BB ou Caixa: avise 10 dias antes do vencimento e não pague o valor. Veja quanto demora o estorno."
 categoria: consumidor
 publicadoEm: 2026-10-21
+atualizadoEm: 2026-10-22
 faq:
-  - pergunta: "Quanto tempo demora o estorno no cartão?"
-    resposta: "Nenhuma lei fixa um prazo em dias para o banco concluir a contestação. O que a lei garante é que o valor contestado com pelo menos 10 dias de antecedência do vencimento não pode ser cobrado enquanto a disputa não for resolvida (CDC, artigo 54-G). A ouvidoria do banco tem até 10 dias úteis para responder."
-  - pergunta: "Qual o prazo para contestar uma compra no cartão?"
-    resposta: "Não há prazo em lei: cada banco e cada bandeira têm a sua regra. Conteste assim que vir a compra na fatura e confira o prazo no app ou no contrato do seu cartão."
-  - pergunta: "Tenho de pagar a fatura com a compra que estou contestando?"
-    resposta: "Não, se você avisou o banco com pelo menos 10 dias de antecedência do vencimento. Você pode descontar o valor em disputa e pagar o resto da fatura (CDC, artigo 54-G, I)."
+  - pergunta: "Como cancelar uma compra não reconhecida no cartão de crédito?"
+    resposta: "Pelo app do banco: abra a fatura, toque na compra e escolha a opção de contestar ou de não reconhecer. Peça também o bloqueio do cartão e registre boletim de ocorrência, como orienta o Ministério da Justiça."
+  - pergunta: "Contestar compra bloqueia o cartão?"
+    resposta: "Na compra que você não reconhece, o bloqueio é o primeiro passo indicado pelo Ministério da Justiça. Na contestação por problema com a loja, como produto que não chegou, não há motivo para bloquear o cartão."
+  - pergunta: "Compra não reconhecida no cartão dá dano moral?"
+    resposta: "Não automaticamente. O banco responde pela fraude e deve devolver o que foi cobrado (Súmula 479 do STJ). O dano moral depende de prejuízo além do aborrecimento, que você precisa mostrar."
   - pergunta: "Cancelei a assinatura e continuam cobrando no cartão. E agora?"
     resposta: "Depois do cancelamento, as cobranças futuras devem parar na hora (Procon-SC). Guarde o comprovante do cancelamento, conteste as cobranças no banco e peça a devolução à empresa; a cobrança indevida paga pode ser devolvida em dobro."
+  - pergunta: "Como contestar uma compra no cartão de débito?"
+    resposta: "Do mesmo jeito: avise o banco pelo app ou pelo telefone do verso do cartão e peça a contestação. No débito, o dinheiro já saiu da conta, então o que se pede é a devolução do valor. Para o Pix, o caminho é o MED."
 fontes:
   - nome: "Código de Defesa do Consumidor (Lei nº 8.078/1990), texto atualizado (Câmara dos Deputados)"
     url: "https://www2.camara.leg.br/legin/fed/lei/1990/lei-8078-11-setembro-1990-365086-normaatualizada-pl.html"
@@ -34,34 +37,62 @@ fontes:
     url: "https://processo.stj.jus.br/repetitivos/temas_repetitivos/pesquisa.jsp?novaConsulta=true&tipo_pesquisa=T&cod_tema_inicial=929&cod_tema_final=929"
   - nome: "STJ: Súmula 479"
     url: "https://scon.stj.jus.br/SCON/sumstj/toc.jsp?livre=%27479%27.num.&O=JT"
+  - nome: "TJDFT: o mero descumprimento contratual causa, por si só, dano moral?"
+    url: "https://www.tjdft.jus.br/consultas/jurisprudencia/jurisprudencia-em-temas/jurisprudencia-em-perguntas/direito-civil-e-processual-civil/dano-moral/o-mero-descumprimento-contratual-causa-por-si-so-ofensa-a-personalidade-passivel-de-indenizacao-por-dano-moral"
 ---
 
-Para **contestar uma compra no cartão de crédito**, avise o banco pelo app, pelo telefone do verso do cartão ou pelo chat e peça o **cancelamento da cobrança**. Se você contestar com pelo menos **10 dias de antecedência do vencimento**, o banco **não pode cobrar** o valor em disputa enquanto a contestação não for resolvida: você paga só o resto da fatura ([CDC, artigo 54-G](https://www2.camara.leg.br/legin/fed/lei/1990/lei-8078-11-setembro-1990-365086-normaatualizada-pl.html)). Nenhuma lei fixa um prazo em dias para o estorno sair.
+Para **contestar uma compra no cartão de crédito**, abra o **app do banco**, toque na compra na fatura e escolha a opção de **contestar** (ou ligue para o número do verso do cartão). Se você contestar com pelo menos **10 dias de antecedência do vencimento**, o banco **não pode cobrar** o valor em disputa enquanto a contestação não for resolvida, nem jogá-lo para a fatura seguinte: você paga só o resto ([CDC, artigo 54-G](https://www2.camara.leg.br/legin/fed/lei/1990/lei-8078-11-setembro-1990-365086-normaatualizada-pl.html)). **Nenhuma lei fixa um prazo em dias** para o estorno sair nem para você contestar: isso varia por banco e por bandeira.
+
+## Como contestar uma compra no cartão de crédito: passo a passo
+
+1. **Confira se a compra é mesmo estranha.** O nome na fatura pode ser a razão social da loja ou de um intermediário de pagamento, e não o nome que você conhece. Veja também cartões adicionais e assinaturas que renovam sozinhas.
+2. **Fale com o banco** pelo app, pelo chat ou pelo telefone que está no verso do cartão. Diga qual compra contesta (data, valor, loja) e o motivo: **não reconheço** a compra ou **tive um problema** com ela (não chegou, foi cancelada, veio errada, foi cobrada duas vezes).
+3. **Anote o protocolo.** Se puder, faça o pedido por escrito, pelo app ou pelo chat.
+4. **Junte as provas:** pedido, prints da conversa com a loja, comprovante de cancelamento ou de devolução, rastreio, boletim de ocorrência.
+5. **Pague a fatura sem o valor contestado**, se avisou com 10 dias de antecedência do vencimento. Confira se a compra aparece como "em contestação".
+6. **Se o banco negar ou não responder**, vá à **ouvidoria** do banco, que tem até **10 dias úteis** para responder ([Resolução CMN 4.860/2020, artigo 6º](https://www.bcb.gov.br/api/conteudo/app/normativos/exibenormativo?p1=Resolu%C3%A7%C3%A3o%20CMN&p2=4860)). Depois, registre reclamação no [Banco Central](https://www.bcb.gov.br/meubc/registrar_reclamacao), no [Procon ou no Consumidor.gov.br](/artigos/como-reclamar-procon).
+
+### Nubank, Itaú, Banco do Brasil, Caixa, Santander, Bradesco, Inter, Mercado Pago e PicPay
+
+Em todos esses bancos, a contestação fica no **app**, na **fatura do cartão**: você toca na compra e escolhe a opção de contestar, reportar um problema ou não reconhecer a compra (o nome do botão muda de banco para banco). Também dá para pedir pelo telefone que está no verso do cartão. Os **prazos para contestar e para analisar** são definidos por cada banco e bandeira: confira no app ou na central de ajuda do seu banco antes de passar do prazo.
+
+Se o problema é com a loja (produto que não chegou, pedido cancelado), tente resolver com ela antes e guarde as conversas: elas entram como prova na contestação.
 
 ## O que diz a lei sobre contestar compra no cartão
 
 Desde 2021, o Código de Defesa do Consumidor proíbe o banco de ([artigo 54-G](https://www2.camara.leg.br/legin/fed/lei/1990/lei-8078-11-setembro-1990-365086-normaatualizada-pl.html)):
 
-- **cobrar uma compra contestada** enquanto a disputa não for resolvida, desde que você tenha avisado a administradora com **pelo menos 10 dias de antecedência do vencimento da fatura**. O valor não pode ser jogado para a fatura seguinte, e você pode **descontar o valor em disputa** e pagar o restante;
+- **cobrar uma compra contestada** enquanto a disputa não for resolvida, desde que você tenha avisado com **pelo menos 10 dias de antecedência do vencimento da fatura**. O valor não pode ser mantido na fatura seguinte, e você pode **descontar o valor em disputa** e pagar o restante;
 - **impedir ou dificultar**, quando o cartão foi usado em fraude, que você peça e consiga a **anulação**, o **bloqueio imediato** do pagamento ou a **devolução** do que foi cobrado.
 
-## Como contestar uma compra no cartão: passo a passo
+### Sou obrigado a pagar a compra contestada? Quem paga?
 
-1. **Fale com o banco** pelo app, pelo chat ou pelo telefone que está no verso do cartão. Diga qual compra contesta (data, valor, loja) e o motivo.
-2. **Anote o protocolo.** Se puder, faça o pedido por escrito, pelo app ou pelo chat.
-3. **Junte as provas:** pedido, prints da conversa com a loja, comprovante de cancelamento ou de devolução, e-mail de rastreio.
-4. **Pague a fatura sem o valor contestado**, se avisou com 10 dias de antecedência do vencimento. Confira na fatura se o banco já marcou a compra como "em contestação".
-5. **Se o banco negar ou não responder**, vá à **ouvidoria** do banco, que tem até **10 dias úteis** para responder ([Resolução CMN 4.860/2020, artigo 6º](https://www.bcb.gov.br/api/conteudo/app/normativos/exibenormativo?p1=Resolu%C3%A7%C3%A3o%20CMN&p2=4860)). Depois, dá para registrar reclamação no [Banco Central](https://www.bcb.gov.br/meubc/registrar_reclamacao), no [Procon ou no Consumidor.gov.br](/artigos/como-reclamar-procon).
+**Enquanto a contestação está em análise, não**, se você avisou com 10 dias de antecedência do vencimento. Se o banco aceitar a contestação, você não paga: a compra é cancelada na sua fatura. Se o banco **negar**, ele pode voltar a cobrar: peça a negativa **por escrito**, com o motivo, e reclame na ouvidoria, no Banco Central ou no Procon.
 
-### Qual o prazo para contestar?
+### Qual o prazo para contestar uma compra no cartão?
 
-**Não há prazo em lei.** Cada banco e cada bandeira têm a sua regra. Conteste **assim que vir** a cobrança e confira o prazo no app ou no contrato do seu cartão.
+**Não há prazo em lei.** Cada banco e cada bandeira têm a sua regra. Conteste **assim que vir** a cobrança, e no máximo antes do vencimento da fatura, para não ter de pagar o valor em disputa.
 
-### Quanto tempo demora o estorno?
+## Estorno no cartão: quanto tempo demora?
 
-Também **não há prazo em lei** para o banco concluir. O que você tem garantido é não pagar o valor contestado a tempo enquanto a disputa não acaba, e a resposta da ouvidoria em até 10 dias úteis.
+**Nenhuma lei fixa esse prazo.** Há dois caminhos diferentes:
 
-## Compra que eu não fiz: cartão clonado ou usado por golpistas
+- **A loja cancela a compra** (você desistiu, ela cancelou o pedido): a loja pede o estorno à operadora, e o valor volta como **crédito na fatura**. Quando você desiste de uma compra pela internet, a loja deve avisar o cartão **imediatamente** para a compra não ser lançada ou ser estornada ([Decreto 7.962/2013, artigo 5º](https://www2.camara.leg.br/legin/fed/decret/2013/decreto-7962-15-marco-2013-775557-publicacaooriginal-139266-pe.html)).
+- **Você contesta no banco**: a análise passa pelo banco e pela bandeira, e o prazo é o de cada um. O que a lei garante é que, contestando a tempo, você não paga o valor enquanto espera.
+
+### Como saber se o estorno foi feito?
+
+Confira a fatura no app: o estorno aparece como **crédito** (um valor negativo) na fatura atual ou na seguinte. Na **compra parcelada**, confira também se as **parcelas futuras** sumiram. Se o crédito não aparecer, peça ao banco o número do protocolo da contestação e a situação dela.
+
+### Já paguei a fatura. Como fica o estorno?
+
+O valor estornado aparece como **crédito** na fatura. Se você já pagou uma cobrança **indevida**, tem direito a receber em dobro o que pagou a mais (veja abaixo).
+
+### O estorno não caiu. O que fazer?
+
+Cobre a loja (se foi ela que cancelou) e o banco, com o protocolo. Sem solução, vá à **ouvidoria** do banco (10 dias úteis para responder), ao [Banco Central](https://www.bcb.gov.br/meubc/registrar_reclamacao) e ao [Procon ou ao Consumidor.gov.br](/artigos/como-reclamar-procon).
+
+## Compra não reconhecida no cartão: fizeram uma compra e não fui eu
 
 O Ministério da Justiça orienta ([Sofri um golpe, e agora?](https://www.gov.br/mj/pt-br/acesso-a-informacao/acoes-e-programas/sofri-um-golpe-e-agora/fizeram-compras-on-line-com-os-dados-do-meu-cartao)):
 
@@ -71,11 +102,13 @@ O Ministério da Justiça orienta ([Sofri um golpe, e agora?](https://www.gov.br
 
 O banco responde pelas fraudes feitas por terceiros nas operações bancárias, sem precisar provar culpa dele: é a [Súmula 479 do STJ](https://scon.stj.jus.br/SCON/sumstj/toc.jsp?livre=%27479%27.num.&O=JT). O Procon-SP considera indevida a cláusula do contrato que joga no titular a culpa pelas compras feitas antes do aviso de perda ou roubo ([perguntas frequentes](https://www.procon.sp.gov.br/perguntas-frequentes/)).
 
+### Compra não reconhecida dá dano moral?
+
+**Não automaticamente.** Pela Súmula 479, o banco deve devolver o que foi cobrado pela fraude. Já o dano moral depende de um prejuízo que vá além do aborrecimento: a regra geral dos tribunais é que o simples aborrecimento não gera indenização ([TJDFT](https://www.tjdft.jus.br/consultas/jurisprudencia/jurisprudencia-em-temas/jurisprudencia-em-perguntas/direito-civil-e-processual-civil/dano-moral/o-mero-descumprimento-contratual-causa-por-si-so-ofensa-a-personalidade-passivel-de-indenizacao-por-dano-moral)). Guarde provas do que a fraude causou.
+
 ## Comprei e não recebi: dá para contestar no cartão?
 
-Dá. Primeiro, peça à loja o cumprimento ou o cancelamento com devolução do dinheiro, por escrito. Se ela não resolver, conteste a compra no banco com as provas: o pedido, o prazo de entrega prometido e as suas tentativas de contato. A regra do artigo 54-G vale para qualquer compra contestada no cartão. O passo a passo com a loja está em [comprei pela internet e não chegou](/artigos/compra-nao-chegou).
-
-Se você **desistiu** de uma compra feita pela internet dentro de 7 dias, a própria loja deve avisar o cartão para a compra não ser lançada na fatura ou ser estornada ([Decreto 7.962/2013, artigo 5º](https://www2.camara.leg.br/legin/fed/decret/2013/decreto-7962-15-marco-2013-775557-publicacaooriginal-139266-pe.html)). Veja [direito de arrependimento](/artigos/direito-de-arrependimento).
+Dá. Primeiro, peça à loja o cumprimento ou o cancelamento com devolução do dinheiro, por escrito. Se ela não resolver, conteste a compra no banco com as provas: o pedido, o prazo de entrega prometido e as suas tentativas de contato. A regra do artigo 54-G vale para qualquer compra contestada no cartão. O passo a passo com a loja está em [comprei pela internet e não chegou](/artigos/compra-nao-chegou). Se você **desistiu** dentro de 7 dias, veja [direito de arrependimento](/artigos/direito-de-arrependimento).
 
 ## Compra cobrada em dobro ou assinatura cancelada que continua cobrando
 
