@@ -4,6 +4,7 @@ tituloSeo: "Hora extra quanto paga: 50%, 100% e banco de horas"
 descricao: "Hora extra paga no mínimo 50% a mais, e domingo ou feriado sem folga, o dobro. Veja o cálculo com o salário de 2026, o banco de horas e a demissão."
 categoria: trabalho
 publicadoEm: 2026-10-21
+atualizadoEm: 2026-10-21
 faq:
   - pergunta: "Hora extra paga imposto de renda?"
     resposta: "Paga. Para a Receita Federal, hora extra é rendimento do trabalho, com desconto na fonte e entrada na declaração anual, mesmo quando vem de acordo coletivo (Perguntas e Respostas IRPF 2026, pergunta 186). Também tem INSS e FGTS."
@@ -42,7 +43,7 @@ fontes:
     url: "https://www.gov.br/receitafederal/pt-br/centrais-de-conteudo/publicacoes/perguntas-e-respostas/dirpf/p-r-irpf-2026-v1-00-2026-04-23.pdf"
 ---
 
-A **hora extra paga no mínimo 50% a mais** que a hora normal ([Constituição, artigo 7º, XVI](https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm)). Trabalho em **domingo ou feriado sem folga compensatória** é pago **em dobro**, o chamado 100% ([Súmula 146 do TST](https://juslaboris.tst.jus.br/bitstream/handle/20.500.12178/4220/2003_res0121_rep01.pdf)). Com o salário mínimo de 2026 e jornada de 44 horas, a hora normal vale **R$ 7,37**, e a hora extra de 50%, **R$ 11,05**. No **banco de horas**, as horas a mais viram folga em vez de dinheiro; o que não for compensado é pago como extra, inclusive na demissão. E atenção: a **Emenda Constitucional 141**, de 16/10/2026, reduz o limite semanal para 42 horas em dezembro de 2026 e para 40 horas em dezembro de 2027.
+A **hora extra paga no mínimo 50% a mais** que a hora normal ([Constituição, artigo 7º, XVI](https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm)). Trabalho em **domingo ou feriado sem folga compensatória** é pago **em dobro**, o chamado 100% ([Súmula 146 do TST](https://juslaboris.tst.jus.br/bitstream/handle/20.500.12178/4220/2003_res0121_rep01.pdf)). Com o salário mínimo de 2026 e jornada de 44 horas, a hora normal vale **R$ 7,37**, e a hora extra de 50%, **R$ 11,05**. No **banco de horas**, as horas a mais viram folga em vez de dinheiro; o que não for compensado é pago como extra, inclusive na demissão. E atenção: a **Emenda Constitucional 141**, de 16/10/2026, reduz o limite semanal para 42 horas em 16 de dezembro de 2026 e para 40 horas em dezembro de 2027 (veja [o que muda com o fim da escala 6x1](/artigos/fim-da-escala-6x1)).
 
 ## Quanto paga a hora extra?
 
@@ -111,7 +112,7 @@ Se a empresa **corta** horas extras feitas com habitualidade por pelo menos 1 an
 
 A [Emenda Constitucional 141](https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc141.htm), publicada em **16 de outubro de 2026**, mudou o artigo 7º da Constituição:
 
-- a jornada normal passa a ter limite de **42 horas semanais dois meses depois da publicação** (meados de dezembro de 2026) e de **40 horas um ano depois disso** (dezembro de 2027); o limite de 8 horas por dia continua;
+- a jornada normal passa a ter limite de **42 horas semanais dois meses depois da publicação** (16 de dezembro de 2026) e de **40 horas um ano depois disso** (dezembro de 2027); o limite de 8 horas por dia continua;
 - o descanso semanal passa a ser de **2 dias**, um deles de preferência no domingo, também dois meses depois da publicação;
 - a redução vale para os contratos em vigor e **sem nenhuma redução de salário**, inclusive dos pisos.
 
