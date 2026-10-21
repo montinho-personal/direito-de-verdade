@@ -28,6 +28,7 @@ O Google leva semanas para mostrar um site novo: publicar antes do pico.
 | Loja é obrigada a trocar produto? (troca de presente de Natal, sem nota, sem etiqueta, promoção) | 26/12 a meados de janeiro | **publicado em 20/10/2026** — [doc](artigos/loja-e-obrigada-a-trocar-produto.md), `/artigos/loja-e-obrigada-a-trocar-produto` |
 | Trabalhar no feriado paga em dobro? 24 e 31 de dezembro são feriado? | dezembro (semana do Natal e do Ano Novo) e todo feriado | **publicado em 20/10/2026** — [doc](artigos/trabalhar-no-feriado.md), `/artigos/trabalhar-no-feriado` |
 | Trabalho temporário de fim de ano: direitos, 13º, rescisão e seguro-desemprego | outubro a dezembro (contratação) e janeiro (fim dos contratos) | **publicado em 21/10/2026** — [doc](artigos/trabalho-temporario.md), `/artigos/trabalho-temporario` |
+| Voo atrasado ou cancelado e bagagem extraviada (regras novas da ANAC em 26/10/2026) | dezembro e janeiro (viagens de fim de ano) | **publicado em 21/10/2026** — [doc](artigos/voo-atrasado-ou-cancelado.md), `/artigos/voo-atrasado-ou-cancelado` |
 
 ## Temas-base (o ano todo)
 
