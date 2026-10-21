@@ -11,7 +11,7 @@ cobrança em dobro, cartão clonado).
 
 ## Prints recebidos
 
-Recebidos em 22/10/2026 (celular, 08h31–08h32), em
+Recebidos em 21/10/2026 (celular, 08h31–08h32), em
 `docs/artigos/prints/estorno-cartao-de-credito/`. O artigo tinha sido
 publicado em 21/10 sem prints; esta revisão o reorganizou pelas buscas reais.
 

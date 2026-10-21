@@ -4,7 +4,7 @@ tituloSeo: "Loja cancelou a compra: oferta não cumprida e erro de preço"
 descricao: "Loja cancelou sua compra? A oferta obriga: você pode exigir o produto, outro igual ou o dinheiro de volta. Veja quando o erro de preço livra a loja."
 categoria: consumidor
 publicadoEm: 2026-10-21
-atualizadoEm: 2026-10-22
+atualizadoEm: 2026-10-21
 faq:
   - pergunta: "A loja pode cancelar a compra depois de confirmar o pagamento?"
     resposta: "Só em casos excepcionais, como o erro de preço grosseiro. Fora disso, a oferta obriga a loja, e você pode exigir o produto, aceitar outro equivalente ou cancelar com o dinheiro de volta (CDC, artigos 30 e 35)."

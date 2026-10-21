@@ -4,7 +4,7 @@ tituloSeo: "Como contestar compra no cartão de crédito: prazo e estorno"
 descricao: "Como contestar compra no cartão de crédito no Nubank, Itaú, BB ou Caixa: avise 10 dias antes do vencimento e não pague o valor. Veja quanto demora o estorno."
 categoria: consumidor
 publicadoEm: 2026-10-21
-atualizadoEm: 2026-10-22
+atualizadoEm: 2026-10-21
 faq:
   - pergunta: "Como cancelar uma compra não reconhecida no cartão de crédito?"
     resposta: "Pelo app do banco: abra a fatura, toque na compra e escolha a opção de contestar ou de não reconhecer. Peça também o bloqueio do cartão e registre boletim de ocorrência, como orienta o Ministério da Justiça."

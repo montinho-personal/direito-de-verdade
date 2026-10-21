@@ -11,7 +11,7 @@ Devolução de compra online sobe da Black Friday até janeiro (presentes).
 
 ## Prints recebidos
 
-Recebidos em 22/10/2026 (celular, 06h49–06h50), em
+Recebidos em 21/10/2026 (celular, 06h49–06h50), em
 `docs/artigos/prints/direito-de-arrependimento/`. O artigo tinha sido
 publicado em 21/10 sem prints; esta revisão o reorganizou pelas buscas reais.
 

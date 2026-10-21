@@ -11,7 +11,7 @@ Cancelamento por "erro de preço" e falta de estoque explode na Black Friday.
 
 ## Prints recebidos
 
-Recebidos em 22/10/2026 (celular, 08h50–08h51), em
+Recebidos em 21/10/2026 (celular, 08h50–08h51), em
 `docs/artigos/prints/loja-cancelou-pedido/`. O artigo tinha sido publicado em
 21/10 sem prints; esta revisão o reorganizou pelas buscas reais.
 

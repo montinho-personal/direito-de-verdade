@@ -4,7 +4,7 @@ tituloSeo: "Comprei e não chegou: o que fazer, prazo e como cancelar"
 descricao: "Comprei pela internet e não chegou: atraso na entrega é descumprimento de oferta. Exija o produto, outro igual ou o dinheiro de volta. Veja o passo a passo."
 categoria: consumidor
 publicadoEm: 2026-10-21
-atualizadoEm: 2026-10-22
+atualizadoEm: 2026-10-21
 faq:
   - pergunta: "A loja pode cobrar multa se eu cancelar por atraso na entrega?"
     resposta: "Não. O cancelamento por descumprimento da oferta, como a entrega fora do prazo, é imediato, a loja não pode cobrar nada e deve devolver o que você pagou (Procon-SP)."

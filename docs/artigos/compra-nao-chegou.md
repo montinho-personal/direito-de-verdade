@@ -11,7 +11,7 @@ Pico em dezembro, com as entregas de Natal e as compras da Black Friday.
 
 ## Prints recebidos
 
-Recebidos em 22/10/2026 (celular, 08h41–08h43), em
+Recebidos em 21/10/2026 (celular, 08h41–08h43), em
 `docs/artigos/prints/compra-nao-chegou/`. O artigo tinha sido publicado em
 21/10 sem prints; esta revisão o reorganizou pelas buscas reais.
 

@@ -4,7 +4,7 @@ tituloSeo: "Direito de arrependimento CDC: 7 dias corridos e loja física"
 descricao: "Direito de arrependimento: o artigo 49 do CDC dá 7 dias corridos para devolver compra online, com frete pago pela loja. Veja o passo a passo e a loja física."
 categoria: consumidor
 publicadoEm: 2026-10-21
-atualizadoEm: 2026-10-22
+atualizadoEm: 2026-10-21
 faq:
   - pergunta: "Passaram os 7 dias. Ainda posso devolver?"
     resposta: "Pelo direito de arrependimento, não. Depois dos 7 dias, a devolução depende de o produto ter defeito (30 ou 90 dias para reclamar) ou da política de troca da loja."
