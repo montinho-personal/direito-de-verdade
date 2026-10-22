@@ -42,6 +42,16 @@ Um de cada vez, na ordem, cada um só depois dos prints.
 | 3a | **Fim da escala 6x1: o que muda (EC 141/2026)** — sugestão de 21/10/2026, antes do nome sujo | promulgada em 16/10/2026; busca em alta agora, mudanças em dezembro de 2026 e 2027 | `fim da escala 6x1`; `escala 6x1 quando começa`; `jornada de 40 horas` | **publicado em 21/10/2026** — [doc](artigos/fim-da-escala-6x1.md), `/artigos/fim-da-escala-6x1` |
 | 3 | Nome sujo: prazo de 5 anos e como limpar o nome | quem recebe o 13º paga dívida em dezembro; apareceu nas buscas de boleto e do Consumidor.gov.br (Serasa, limpa nome, dívidas) | `quanto tempo o nome fica sujo`; `como limpar o nome`; `dívida prescrita` | **publicado em 21/10/2026** — [doc](artigos/nome-sujo.md), `/artigos/nome-sujo` |
 
+## Próximos três (sugeridos em 22/10/2026)
+
+Um de cada vez, na ordem, cada um só depois dos prints.
+
+| ordem | artigo | por que agora | buscas para printar | status |
+|---|---|---|---|---|
+| 1 | Rescisão indireta: o que é, quando pedir e o que recebe | apareceu duas vezes nos prints do FGTS ("empresa não depositou fgts posso pedir rescisão indireta"); fecha o grupo de rescisão e liga com FGTS, salário atrasado e demissão | `rescisão indireta`; `rescisão indireta o que recebe`; `salário atrasado o que fazer` | sugerido |
+| 2 | Auxílio-doença 2026 (auxílio por incapacidade): quem tem direito, valor e perícia | o grupo de Previdência e INSS ainda não tem nenhum artigo; busca alta o ano todo; liga com FGTS (afastamento sem depósito) e férias | `auxílio doença`; `auxílio doença valor 2026`; `perícia do inss` | sugerido |
+| 3 | Cobrança indevida: devolução em dobro e como pedir | dezembro e janeiro têm faturas de cartão, contas e boletos de fim de ano; liga com estorno, nome sujo, Procon e golpes | `cobrança indevida`; `devolução em dobro cobrança indevida`; `cobrança indevida no cartão de crédito` | sugerido |
+
 ## Prints pendentes
 
 Artigos publicados antes dos prints do Google, a pedido do Renato em
