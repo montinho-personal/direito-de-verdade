@@ -48,7 +48,7 @@ Um de cada vez, na ordem, cada um só depois dos prints.
 
 | ordem | artigo | por que agora | buscas para printar | status |
 |---|---|---|---|---|
-| 1 | Rescisão indireta: o que é, quando pedir e o que recebe | apareceu duas vezes nos prints do FGTS ("empresa não depositou fgts posso pedir rescisão indireta"); fecha o grupo de rescisão e liga com FGTS, salário atrasado e demissão | `rescisão indireta`; `rescisão indireta o que recebe`; `salário atrasado o que fazer` | sugerido |
+| 1 | Rescisão indireta: o que é, quando pedir e o que recebe | apareceu duas vezes nos prints do FGTS ("empresa não depositou fgts posso pedir rescisão indireta"); fecha o grupo de rescisão e liga com FGTS, salário atrasado e demissão | `rescisão indireta`; `rescisão indireta o que recebe`; `salário atrasado o que fazer` | **publicado em 22/10/2026 sem prints** — [doc](artigos/rescisao-indireta.md), `/artigos/rescisao-indireta` |
 | 2 | Auxílio-doença 2026 (auxílio por incapacidade): quem tem direito, valor e perícia | o grupo de Previdência e INSS ainda não tem nenhum artigo; busca alta o ano todo; liga com FGTS (afastamento sem depósito) e férias | `auxílio doença`; `auxílio doença valor 2026`; `perícia do inss` | **publicado em 22/10/2026 sem prints** — [doc](artigos/auxilio-doenca.md), `/artigos/auxilio-doenca` |
 | 3 | Cobrança indevida: devolução em dobro e como pedir | dezembro e janeiro têm faturas de cartão, contas e boletos de fim de ano; liga com estorno, nome sujo, Procon e golpes | `cobrança indevida`; `devolução em dobro cobrança indevida`; `cobrança indevida no cartão de crédito` | **publicado em 22/10/2026 sem prints** — [doc](artigos/cobranca-indevida.md), `/artigos/cobranca-indevida` |
 
@@ -70,12 +70,13 @@ Lembrar o Renato desta lista a cada entrega.
 | Como reclamar no Procon e no Consumidor.gov.br (`/artigos/como-reclamar-procon`) | `como reclamar no procon`; `consumidor.gov.br como funciona`; `reclamar no procon online` | **prints recebidos e artigo revisado em 21/10/2026** |
 | Cobrança indevida (`/artigos/cobranca-indevida`), publicado em 22/10/2026 | `cobrança indevida`; `devolução em dobro cobrança indevida`; `cobrança indevida no cartão de crédito` | **aguardando prints** |
 | Auxílio-doença 2026 (`/artigos/auxilio-doenca`), publicado em 22/10/2026 | `auxílio doença`; `auxílio doença valor 2026`; `perícia do inss` | **aguardando prints** |
+| Rescisão indireta (`/artigos/rescisao-indireta`), publicado em 22/10/2026 | `rescisão indireta`; `rescisão indireta o que recebe`; `salário atrasado o que fazer` | **aguardando prints** |
 
 ## Temas-base (o ano todo)
 
 ### Trabalho
 - ~~Rescisão sem justa causa: o que recebe e em quanto tempo~~ — **publicado em 19/10/2026** ([doc](artigos/demissao-sem-justa-causa.md), `/artigos/demissao-sem-justa-causa`)
-- Rescisão indireta: o que é e quando pedir
+- ~~Rescisão indireta: o que é e quando pedir~~ — **publicado em 22/10/2026** ([doc](artigos/rescisao-indireta.md), `/artigos/rescisao-indireta`)
 - ~~Acordo de demissão (80% do FGTS, metade do aviso, sem seguro-desemprego)~~ — **publicado em 20/10/2026** ([doc](artigos/acordo-de-demissao.md), `/artigos/acordo-de-demissao`)
 - ~~Pedido de demissão: o que recebe e o que perde~~ — **publicado em 19/10/2026** ([doc](artigos/pedido-de-demissao.md), `/artigos/pedido-de-demissao`)
 - ~~Seguro-desemprego 2026: quem tem direito, parcelas e valores~~ — **publicado em 19/10/2026** ([doc](artigos/seguro-desemprego-2026.md), `/artigos/seguro-desemprego-2026`)
@@ -87,7 +88,7 @@ Lembrar o Renato desta lista a cada entrega.
 ### Previdência e INSS
 - Regras de aposentadoria 2026 (atualizar em janeiro para 2027)
 - BPC/LOAS: quem tem direito
-- Auxílio por incapacidade (antigo auxílio-doença) e perícia
+- ~~Auxílio por incapacidade (antigo auxílio-doença) e perícia~~ — **publicado em 22/10/2026** ([doc](artigos/auxilio-doenca.md), `/artigos/auxilio-doenca`)
 - Benefício negado: como recorrer
 
 ### Família
@@ -98,7 +99,7 @@ Lembrar o Renato desta lista a cada entrega.
 - Inventário: prazo e custos
 
 ### Consumidor
-- Cobrança indevida: devolução em dobro
+- ~~Cobrança indevida: devolução em dobro~~ — **publicado em 22/10/2026** ([doc](artigos/cobranca-indevida.md), `/artigos/cobranca-indevida`)
 - Desconto indevido de consignado
 - Nome sujo: prazo de 5 anos e como limpar o nome
 - Produto com defeito: prazos de 30 e 90 dias

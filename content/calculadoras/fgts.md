@@ -4,6 +4,7 @@ tituloSeo: "Calculadora de FGTS 2026: Saldo, Depósitos e Multa"
 descricao: "Calculadora de FGTS 2026: calcule o depósito de 8% do mês, estime o saldo, confira os depósitos da empresa e simule a multa de 40% ou 20%."
 categoria: trabalho
 publicadoEm: 2026-10-22
+atualizadoEm: 2026-10-22
 faq:
   - pergunta: "Quem ganha R$ 2.000 paga quanto de FGTS?"
     resposta: "Nada: o FGTS não é descontado do salário. Quem paga é a empresa, que deposita R$ 160 por mês (8% de R$ 2.000) na conta do trabalhador, mais R$ 160 sobre o 13º no fim do ano."
@@ -133,7 +134,7 @@ Sobre o depósito atrasado, a empresa paga a TR do período, juros de 0,5% ao m�
 
 ### Posso pedir rescisão indireta se a empresa não deposita o FGTS?
 
-A CLT permite ao empregado considerar o contrato rescindido quando o empregador **não cumpre as obrigações do contrato** ([artigo 483, "d"](https://www2.camara.leg.br/legin/fed/declei/1940-1949/decreto-lei-5452-1-maio-1943-415500-normaatualizada-pe.html)), e a falta de depósito do FGTS é um dos casos levados à Justiça com esse fundamento. Nesse caso, o empregado pode pedir a rescisão na Justiça **continuando ou não a trabalhar** até a decisão (artigo 483, § 3º). Quem decide é a Justiça do Trabalho; converse antes com um advogado ou a Defensoria Pública.
+A CLT permite ao empregado considerar o contrato rescindido quando o empregador **não cumpre as obrigações do contrato** ([artigo 483, "d"](https://www2.camara.leg.br/legin/fed/declei/1940-1949/decreto-lei-5452-1-maio-1943-415500-normaatualizada-pe.html)), e a falta de depósito do FGTS é um dos casos levados à Justiça com esse fundamento. Nesse caso, o empregado pode pedir a rescisão na Justiça **continuando ou não a trabalhar** até a decisão (artigo 483, § 3º). Quem decide é a Justiça do Trabalho; converse antes com um advogado ou a Defensoria Pública. As verbas e o passo a passo estão em [rescisão indireta: o que é e o que você recebe](/artigos/rescisao-indireta).
 
 ## Como funciona a multa de 40% do FGTS?
 
