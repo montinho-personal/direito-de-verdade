@@ -70,7 +70,7 @@ Lembrar o Renato desta lista a cada entrega.
 | Como reclamar no Procon e no Consumidor.gov.br (`/artigos/como-reclamar-procon`) | `como reclamar no procon`; `consumidor.gov.br como funciona`; `reclamar no procon online` | **prints recebidos e artigo revisado em 21/10/2026** |
 | Cobrança indevida (`/artigos/cobranca-indevida`), publicado em 22/10/2026 | `cobrança indevida`; `devolução em dobro cobrança indevida`; `cobrança indevida no cartão de crédito` | **aguardando prints** |
 | Auxílio-doença 2026 (`/artigos/auxilio-doenca`), publicado em 22/10/2026 | `auxílio doença`; `auxílio doença valor 2026`; `perícia do inss` | **aguardando prints** |
-| Rescisão indireta (`/artigos/rescisao-indireta`), publicado em 22/10/2026 | `rescisão indireta`; `rescisão indireta o que recebe`; `salário atrasado o que fazer` | **aguardando prints** |
+| Rescisão indireta (`/artigos/rescisao-indireta`), publicado em 22/10/2026 | `rescisão indireta`; `rescisão indireta o que recebe`; `salário atrasado o que fazer` | **prints recebidos e artigo revisado em 22/10/2026** |
 
 ## Temas-base (o ano todo)
 
