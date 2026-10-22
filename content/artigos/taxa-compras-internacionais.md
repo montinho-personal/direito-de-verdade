@@ -4,6 +4,7 @@ tituloSeo: "Taxa das blusinhas acabou? Imposto da Shein 2026 e cálculo"
 descricao: "Taxa das blusinhas: desde 12/05/2026, compra de até US$ 50 na Shein não paga imposto federal, só ICMS. Acima disso, 60% menos US$ 30. Calcule a sua."
 categoria: consumidor
 publicadoEm: 2026-10-20
+atualizadoEm: 2026-10-21
 faq:
   - pergunta: "A Shein avisa quando o produto é taxado?"
     resposta: "Sim. Sites do Remessa Conforme, como a Shein, mostram e cobram os impostos no fechamento da compra. Se um site do programa não cobrar nada de imposto, a Receita recomenda recusar a compra: o pacote pode ser cobrado na chegada, sem o benefício."
@@ -25,6 +26,8 @@ fontes:
     url: "https://www.gov.br/receitafederal/pt-br/assuntos/aduana-e-comercio-exterior/manuais/remessas-postal-e-expressa/programa-remessa-conforme-o-que-e-como-funciona"
   - nome: "Receita Federal: empresas certificadas no Remessa Conforme"
     url: "https://www.gov.br/receitafederal/pt-br/assuntos/aduana-e-comercio-exterior/manuais/remessas-postal-e-expressa/empresas-certificadas-no-programa-remessa-conforme-prc"
+  - nome: "Receita Federal: Perguntas e Respostas sobre remessas, pergunta 13.3 (imposto cobrado indevidamente no Remessa Conforme)"
+    url: "https://www.gov.br/receitafederal/pt-br/assuntos/aduana-e-comercio-exterior/manuais/remessas-postal-e-expressa/topicos/Perguntas_e_Respostas"
   - nome: "Agência Senado: sancionada a Lei 15.502, que autoriza zerar a taxa das blusinhas (11/09/2026)"
     url: "https://www12.senado.leg.br/noticias/materias/2026/09/11/sancionada-lei-que-autoriza-zerar-taxa-das-blusinhas-ate-us-50"
   - nome: "Agência Câmara: Medida Provisória 1.357/2026 (13/05/2026)"
@@ -86,7 +89,7 @@ Primeiro, veja **o que** foi cobrado:
 
 - **Só o ICMS:** está certo. Ele é cobrado em qualquer valor, também abaixo de US$ 50.
 - **Imposto de importação em site fora do Remessa Conforme:** também está certo. Fora do programa, são 60% em qualquer valor.
-- **Imposto de importação em site do programa, numa compra de até US$ 50:** confira se o frete entrou na conta e a cotação do dia. Se ainda assim estiver errado, peça a revisão pelo canal em que o imposto foi cobrado (nos Correios, em "Minhas Importações"), dentro do prazo de pagamento, com o comprovante da compra. Quem decide é a Receita. Outra opção é recusar o pacote, que volta ao remetente.
+- **Imposto de importação em site do programa, numa compra de até US$ 50:** confira se o frete entrou na conta e a cotação do dia. Se ainda assim estiver errado e o imposto foi cobrado na compra, a Receita diz que a cobrança foi indevida e que o reembolso deve ser pedido ao próprio site ([pergunta 13.3](https://www.gov.br/receitafederal/pt-br/assuntos/aduana-e-comercio-exterior/manuais/remessas-postal-e-expressa/topicos/Perguntas_e_Respostas)). Se foi cobrado na chegada, peça a revisão pelo canal da cobrança (nos Correios, em "Minhas Importações"), dentro do prazo de pagamento, com o comprovante da compra. Quem decide é a Receita. Outra opção é recusar o pacote, que volta ao remetente.
 
 Se um site do programa **não cobrar** imposto nenhum na compra, a Receita recomenda recusar: o pacote pode ser cobrado na chegada, sem o benefício ([Receita Federal](https://www.gov.br/receitafederal/pt-br/assuntos/aduana-e-comercio-exterior/manuais/remessas-postal-e-expressa/programa-remessa-conforme-o-que-e-como-funciona)).
 
@@ -100,7 +103,7 @@ A Receita Federal ensina a conta em três passos ([Quanto vou pagar de impostos?
 
 Exemplo da Receita: compra de R$ 330 em site do programa, dólar a R$ 5,00, ICMS de 17%. Imposto de importação: R$ 198 − R$ 150 = R$ 48. ICMS: (R$ 330 + R$ 48) ÷ 0,83 × 0,17 = R$ 77,42. Total de impostos: **R$ 125,42**. Fora do programa, a mesma compra pagaria R$ 306,14.
 
-A alíquota de ICMS de cada estado está na [tabela do Comsefaz](https://comsefaz.org.br/novo/informacoes-fiscais/), indicada pela Receita ("Alíquotas de ICMS sobre Importados"). A lei de 2026 também permite usar o câmbio do dia da compra nos sites do programa, para a variação do dólar até a chegada do pacote não mudar o imposto.
+A alíquota de ICMS de cada estado está na [tabela do Comsefaz](https://comsefaz.org.br/novo/informacoes-fiscais/), indicada pela Receita ("Alíquotas de ICMS sobre Importados"). A [calculadora de taxa de importação](/calculadoras/taxa-de-importacao) faz a conta com a alíquota do seu estado e mostra por que o ICMS de 17% soma 20,5% ao preço. A lei de 2026 também permite usar o câmbio do dia da compra nos sites do programa, para a variação do dólar até a chegada do pacote não mudar o imposto.
 
 ## O que é o Remessa Conforme e quais empresas fazem parte
 

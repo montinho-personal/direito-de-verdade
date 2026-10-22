@@ -1,5 +1,6 @@
 "use client";
 
+import { usePathname } from "next/navigation";
 import { useId, useState } from "react";
 import { Campo, Compartilhar, Escolha, Linha } from "@/components/partes-da-calculadora";
 import { lerReais, reais } from "@/lib/dinheiro";
@@ -50,6 +51,7 @@ export function CalculadoraCompraInternacional({ nivelDoTitulo = 3 }: { nivelDoT
   const errosDoMotor = calculo && !calculo.ok ? calculo.erros : [];
   const erro = (campo: string) => errosDeLeitura[campo] ?? errosDoMotor.find((e) => e.campo === campo)?.mensagem;
   const r = calculo?.ok ? calculo : null;
+  const endereco = `https://direitodeverdade.com.br${usePathname() ?? "/calculadoras/taxa-de-importacao"}`;
 
   return (
     <section
@@ -105,7 +107,7 @@ export function CalculadoraCompraInternacional({ nivelDoTitulo = 3 }: { nivelDoT
 
       <div className="mt-6">
         {r ? (
-          <Resultado r={r} />
+          <Resultado r={r} endereco={endereco} />
         ) : (
           <p className="rounded-xl border border-dashed border-border bg-white px-4 py-5 text-sm text-muted">
             Digite o valor da compra e a cotação do dólar para ver os impostos.
@@ -118,14 +120,14 @@ export function CalculadoraCompraInternacional({ nivelDoTitulo = 3 }: { nivelDoT
 
       <p className="mt-4 text-xs leading-5 text-muted">
         Estimativa com as regras da Receita Federal em vigor desde 12/05/2026, revisadas em
-        20/10/2026, para compras de pessoa física até US$ 3 mil. O valor final depende da
+        21/10/2026, para compras de pessoa física até US$ 3 mil. O valor final depende da
         cotação usada na declaração e da alíquota de ICMS do seu estado.
       </p>
     </section>
   );
 }
 
-function Resultado({ r }: { r: ResultadoDaImportacao }) {
+function Resultado({ r, endereco }: { r: ResultadoDaImportacao; endereco: string }) {
   const nomeDaFaixa = {
     "ate-50": "até US$ 50 no Remessa Conforme: imposto federal zero",
     "acima-de-50": "acima de US$ 50 no Remessa Conforme: 60% menos US$ 30",
@@ -166,7 +168,8 @@ function Resultado({ r }: { r: ResultadoDaImportacao }) {
         {r.faixa === "fora-do-programa" && (
           <li>
             Fora do Remessa Conforme, os impostos são cobrados quando o pacote chega ao Brasil,
-            antes da entrega, pelos Correios ou pela transportadora.
+            antes da entrega, pelos Correios ou pela transportadora. Eles podem cobrar também um
+            serviço pelo despacho, que não é imposto e não entra nesta conta.
           </li>
         )}
         <li>
@@ -213,7 +216,7 @@ function Resultado({ r }: { r: ResultadoDaImportacao }) {
           `Compra: ${reais(r.valor)} (${dolares(r.valorEmCentavosDeDolar)})`,
           `Imposto de importação: ${reais(r.impostoDeImportacao)} · ICMS: ${reais(r.icms)}`,
           `Total com impostos: ${reais(r.total)}`,
-          "Calculado em https://direitodeverdade.com.br/artigos/taxa-compras-internacionais",
+          `Calculado em ${endereco}`,
         ].join("\n")}
       />
     </div>

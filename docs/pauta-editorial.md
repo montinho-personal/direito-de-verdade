@@ -22,7 +22,7 @@ O Google leva semanas para mostrar um site novo: publicar antes do pico.
 | Pensão alimentícia incide sobre o 13º? | novembro e dezembro | **publicado em 19/10/2026** — [doc](artigos/pensao-alimenticia-13-salario.md), `/artigos/pensao-alimenticia-13-salario` |
 | Isenção do IR para quem ganha até R$ 5 mil | agora e março a maio (declaração 2027) | **publicado em 19/10/2026** — [doc](artigos/isencao-imposto-de-renda-5-mil.md), `/artigos/isencao-imposto-de-renda-5-mil` |
 | Como calcular férias (1/3, venda de 10 dias, coletivas), com calculadora | o ano todo, pico de novembro a janeiro (coletivas) | **publicado em 20/10/2026** — [doc](artigos/como-calcular-ferias.md), `/artigos/como-calcular-ferias`; página [`/calculadoras/ferias`](calculadoras/ferias.md) publicada em 21/10/2026 |
-| Taxa das compras internacionais 2026 (taxa das blusinhas, Shein, Remessa Conforme), com calculadora | novembro (Black Friday) e dezembro | **publicado em 20/10/2026** — [doc](artigos/taxa-compras-internacionais.md), `/artigos/taxa-compras-internacionais` |
+| Taxa das compras internacionais 2026 (taxa das blusinhas, Shein, Remessa Conforme), com calculadora | novembro (Black Friday) e dezembro | **publicado em 20/10/2026** — [doc](artigos/taxa-compras-internacionais.md), `/artigos/taxa-compras-internacionais`; página [`/calculadoras/taxa-de-importacao`](calculadoras/taxa-de-importacao.md) publicada em 21/10/2026 |
 | Golpe do Pix: como recuperar o dinheiro pelo MED (e site falso na Black Friday) | novembro e dezembro | **publicado em 20/10/2026** — [doc](artigos/golpe-pix-como-recuperar-dinheiro.md), `/artigos/golpe-pix-como-recuperar-dinheiro` |
 | Produto com defeito: o que fazer, prazos do CDC e garantia estendida | dezembro e janeiro (depois da Black Friday e do Natal) | **publicado em 20/10/2026** — [doc](artigos/produto-com-defeito.md), `/artigos/produto-com-defeito` |
 | Loja é obrigada a trocar produto? (troca de presente de Natal, sem nota, sem etiqueta, promoção) | 26/12 a meados de janeiro | **publicado em 20/10/2026** — [doc](artigos/loja-e-obrigada-a-trocar-produto.md), `/artigos/loja-e-obrigada-a-trocar-produto` |
@@ -126,7 +126,7 @@ Lembrar o Renato desta lista a cada entrega.
 
 - 13º salário: datas do ano, tabelas de INSS e IR, valor da multa.
 - Férias: tabela por salário e exemplos de `/artigos/como-calcular-ferias` (INSS e IR do ano; redução da Lei 15.270 nas férias).
-- Compras internacionais: alíquotas do Remessa Conforme (Portaria MF), desconto em dólar e ICMS dos estados; conferir a cada avaliação semestral da Fazenda (Lei 15.502/2026).
+- Compras internacionais: alíquotas do Remessa Conforme (Portaria MF), desconto em dólar e ICMS dos estados; conferir a cada avaliação semestral da Fazenda (Lei 15.502/2026; a primeira, por volta de 10/12/2026), no artigo e em `/calculadoras/taxa-de-importacao` (tabelas e data de revisão no rodapé da ferramenta).
 - Seguro-desemprego: tabela nova em janeiro (faixas, piso e teto), em `src/lib/seguro-desemprego.ts` e no artigo `seguro-desemprego-2026` (exemplos e título com o ano).
 - Trabalho no feriado: calendário de fim de ano (portaria de pontos facultativos do MGI, dias da semana), tabela com o salário mínimo do ano e feriado bancário de 31/12 em `/artigos/trabalhar-no-feriado`.
 - Como reclamar no Procon: valores de 20 e 40 salários mínimos do Juizado em `/artigos/como-reclamar-procon`.

@@ -9,7 +9,7 @@ import { dividirArredondando } from "./tributos/calculo.ts";
 
 export const IMPORTACAO_2026 = {
   vigenteDesde: "2026-05-12",
-  revisadoEm: "2026-10-20",
+  revisadoEm: "2026-10-21",
   limiteEmDolares: 3000,
   // Sites certificados no Programa Remessa Conforme
   remessaConforme: { ateDolares: 50, aliquotaAtePorMil: 0, aliquotaAcimaPorMil: 600, descontoEmDolares: 30 },

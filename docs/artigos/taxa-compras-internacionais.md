@@ -85,3 +85,13 @@ A partir de ~5/11: "taxa shein", "taxa shein 2026", "taxa das blusinhas",
 "taxa das blusinhas acabou", "imposto compra internacional", "remessa
 conforme", "calculadora imposto compra internacional". Revisar a cada
 anúncio da Fazenda (avaliação semestral prevista na lei).
+
+## Revisões
+
+- **21/10/2026:** link para a página nova `/calculadoras/taxa-de-importacao`
+  (parágrafo do ICMS). No H3 "Fui taxado abaixo de 50 dólares", o reembolso
+  do imposto de importação cobrado na compra em site do PRC passou a ser pedido
+  ao próprio site, como diz a Receita (Perguntas e Respostas, 13.3); a revisão
+  em "Minhas Importações" ficou para a cobrança na chegada. Portaria MF
+  1.342/2026 conferida no DOU (texto integral) e calculadora da Receita aberta:
+  saem do "Pendente".
