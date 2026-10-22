@@ -4,7 +4,7 @@ tituloSeo: "Calculadora rescisão CLT 2026: com FGTS e multa de 40%"
 descricao: "Calculadora de rescisão trabalhista 2026: veja quanto recebe na demissão, no pedido, no acordo ou na justa causa, com FGTS e multa, e confira o seu TRCT."
 categoria: trabalho
 publicadoEm: 2026-10-19
-atualizadoEm: 2026-10-19
+atualizadoEm: 2026-10-22
 faq:
   - pergunta: "Qual o prazo para receber a rescisão?"
     resposta: "A empresa tem **10 dias** depois do fim do contrato para pagar e entregar os documentos, em qualquer tipo de rescisão. Se atrasar, paga ao trabalhador uma multa no valor de um salário (CLT, artigo 477)."
@@ -100,7 +100,7 @@ Em **até 10 dias contados do fim do contrato**, em qualquer tipo de rescisão, 
 
 ## Calculadora de rescisão com FGTS e multa
 
-A multa é calculada sobre **todos os depósitos do FGTS feitos durante o contrato**, com correção: 40% na demissão sem justa causa e 20% no acordo ([Lei nº 8.036/1990, artigo 18](https://www2.camara.leg.br/legin/fed/lei/1990/lei-8036-11-maio-1990-365155-normaatualizada-pl.html); [CLT, artigo 484-A](https://www2.camara.leg.br/legin/fed/declei/1940-1949/decreto-lei-5452-1-maio-1943-415500-normaatualizada-pe.html)). Por isso o saldo que aparece no aplicativo nem sempre é a base da multa: o que você já sacou durante o contrato continua contando, e os créditos de distribuição de resultado do FGTS ficam de fora (Lei nº 8.036/1990, artigo 13, § 7º). Se o extrato do FGTS mostrar o valor para fins rescisórios, use esse; senão, some ao saldo o que você sacou durante o contrato. A calculadora soma a ele os depósitos de 8% sobre o saldo de salário, o aviso indenizado e o 13º da rescisão ([Súmula 305 do TST](https://juslaboris.tst.jus.br/bitstream/handle/20.500.12178/4220/2003_res0121_rep01.pdf)).
+A multa é calculada sobre **todos os depósitos do FGTS feitos durante o contrato**, com correção: 40% na demissão sem justa causa e 20% no acordo ([Lei nº 8.036/1990, artigo 18](https://www2.camara.leg.br/legin/fed/lei/1990/lei-8036-11-maio-1990-365155-normaatualizada-pl.html); [CLT, artigo 484-A](https://www2.camara.leg.br/legin/fed/declei/1940-1949/decreto-lei-5452-1-maio-1943-415500-normaatualizada-pe.html)). Por isso o saldo que aparece no aplicativo nem sempre é a base da multa: o que você já sacou durante o contrato continua contando, e os créditos de distribuição de resultado do FGTS ficam de fora (Lei nº 8.036/1990, artigo 13, § 7º). Se o extrato do FGTS mostrar o valor para fins rescisórios, use esse; senão, some ao saldo o que você sacou durante o contrato. Para estimar essa base pelos salários, ou conferir os depósitos mês a mês, use a [calculadora de FGTS](/calculadoras/fgts). A calculadora soma a ele os depósitos de 8% sobre o saldo de salário, o aviso indenizado e o 13º da rescisão ([Súmula 305 do TST](https://juslaboris.tst.jus.br/bitstream/handle/20.500.12178/4220/2003_res0121_rep01.pdf)).
 
 A multa não vem junto com a rescisão: a empresa deposita na sua conta do FGTS. Quem optou pelo saque-aniversário e é demitido sem justa causa recebe a multa, mas não saca o saldo.
 

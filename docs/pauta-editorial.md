@@ -29,6 +29,7 @@ O Google leva semanas para mostrar um site novo: publicar antes do pico.
 | Trabalhar no feriado paga em dobro? 24 e 31 de dezembro são feriado? | dezembro (semana do Natal e do Ano Novo) e todo feriado | **publicado em 20/10/2026** — [doc](artigos/trabalhar-no-feriado.md), `/artigos/trabalhar-no-feriado` |
 | Trabalho temporário de fim de ano: direitos, 13º, rescisão e seguro-desemprego | outubro a dezembro (contratação) e janeiro (fim dos contratos) | **publicado em 21/10/2026** — [doc](artigos/trabalho-temporario.md), `/artigos/trabalho-temporario` |
 | Voo atrasado ou cancelado e bagagem extraviada (regras novas da ANAC em 26/10/2026) | dezembro e janeiro (viagens de fim de ano) | **publicado em 21/10/2026** — [doc](artigos/voo-atrasado-ou-cancelado.md), `/artigos/voo-atrasado-ou-cancelado` |
+| Calculadora de FGTS 2026 (depósito, saldo, conferência, multa e saque) | o ano todo, pico em dezembro e janeiro (demissões) | **publicado em 22/10/2026** — [doc](calculadoras/fgts.md), `/calculadoras/fgts` |
 
 ## Próximos três (sugeridos em 21/10/2026)
 
@@ -125,6 +126,7 @@ Lembrar o Renato desta lista a cada entrega.
 - Hora extra: salário mínimo e exemplos; etapas da EC 141 (42 horas em dez/2026, 40 horas em dez/2027) em `/artigos/horas-extras-banco-de-horas`.
 - Calculadora de horas extras: tabela por salário, exemplos do simulador (INSS e IR do ano), divisor de 42 horas (EC 141, sem texto oficial em 21/10/2026), anos do seletor e data de revisão no rodapé da ferramenta, em `/calculadoras/horas-extras`.
 
+- Calculadora de FGTS: distribuição de lucros do ano (agosto), tabela do saque-aniversário (pode mudar até 30/06 para o ano seguinte), regras da antecipação, salário mínimo nos exemplos e data de revisão em `src/lib/fgts/parametros.ts`.
 - 13º salário: datas do ano, tabelas de INSS e IR, valor da multa.
 - Férias: tabela por salário e exemplos de `/artigos/como-calcular-ferias` (INSS e IR do ano; redução da Lei 15.270 nas férias).
 - Compras internacionais: alíquotas do Remessa Conforme (Portaria MF), desconto em dólar e ICMS dos estados; conferir a cada avaliação semestral da Fazenda (Lei 15.502/2026; a primeira, por volta de 10/12/2026), no artigo e em `/calculadoras/taxa-de-importacao` (tabelas e data de revisão no rodapé da ferramenta).
