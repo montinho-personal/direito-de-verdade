@@ -15,9 +15,10 @@ salário atrasado.
 
 ## Prints recebidos
 
-Prints em `docs/artigos/prints/rescisao-indireta/` (01–03, de `rescisão indireta`). Os
-de `rescisão indireta o que recebe` e `salário atrasado o que fazer` chegaram pelo chat,
-mas os arquivos não ficaram disponíveis no ambiente: o conteúdo está anotado abaixo.
+Prints em `docs/artigos/prints/rescisao-indireta/`: 01–03 de `rescisão indireta` e
+07–09 de `salário atrasado o que fazer` (reenviados às 09h30). Os de `rescisão indireta o
+que recebe` (04–06) chegaram pelo chat, mas os arquivos não ficaram disponíveis no
+ambiente: o conteúdo está anotado abaixo.
 
 | print | conteúdo | onde entrou |
 |---|---|---|
