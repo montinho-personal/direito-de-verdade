@@ -50,7 +50,7 @@ Um de cada vez, na ordem, cada um só depois dos prints.
 |---|---|---|---|---|
 | 1 | Rescisão indireta: o que é, quando pedir e o que recebe | apareceu duas vezes nos prints do FGTS ("empresa não depositou fgts posso pedir rescisão indireta"); fecha o grupo de rescisão e liga com FGTS, salário atrasado e demissão | `rescisão indireta`; `rescisão indireta o que recebe`; `salário atrasado o que fazer` | sugerido |
 | 2 | Auxílio-doença 2026 (auxílio por incapacidade): quem tem direito, valor e perícia | o grupo de Previdência e INSS ainda não tem nenhum artigo; busca alta o ano todo; liga com FGTS (afastamento sem depósito) e férias | `auxílio doença`; `auxílio doença valor 2026`; `perícia do inss` | sugerido |
-| 3 | Cobrança indevida: devolução em dobro e como pedir | dezembro e janeiro têm faturas de cartão, contas e boletos de fim de ano; liga com estorno, nome sujo, Procon e golpes | `cobrança indevida`; `devolução em dobro cobrança indevida`; `cobrança indevida no cartão de crédito` | sugerido |
+| 3 | Cobrança indevida: devolução em dobro e como pedir | dezembro e janeiro têm faturas de cartão, contas e boletos de fim de ano; liga com estorno, nome sujo, Procon e golpes | `cobrança indevida`; `devolução em dobro cobrança indevida`; `cobrança indevida no cartão de crédito` | **publicado em 22/10/2026 sem prints** — [doc](artigos/cobranca-indevida.md), `/artigos/cobranca-indevida` |
 
 ## Prints pendentes
 
@@ -68,6 +68,7 @@ Lembrar o Renato desta lista a cada entrega.
 | Golpes de compra no fim do ano (`/artigos/golpes-de-fim-de-ano`) | `golpe da taxa dos correios`; `golpe perfil falso instagram loja`; `golpe do boleto falso` | **prints recebidos e artigo revisado em 21/10/2026** |
 | Loja cancelou o pedido (`/artigos/loja-cancelou-pedido`) | `loja cancelou minha compra o que fazer`; `erro de preço no site a loja é obrigada a vender`; `oferta não cumprida` | **prints recebidos e artigo revisado em 21/10/2026** |
 | Como reclamar no Procon e no Consumidor.gov.br (`/artigos/como-reclamar-procon`) | `como reclamar no procon`; `consumidor.gov.br como funciona`; `reclamar no procon online` | **prints recebidos e artigo revisado em 21/10/2026** |
+| Cobrança indevida (`/artigos/cobranca-indevida`), publicado em 22/10/2026 | `cobrança indevida`; `devolução em dobro cobrança indevida`; `cobrança indevida no cartão de crédito` | **aguardando prints** |
 
 ## Temas-base (o ano todo)
 
@@ -143,3 +144,4 @@ Lembrar o Renato desta lista a cada entrega.
 - Seguro-desemprego: tabela nova em janeiro (faixas, piso e teto), em `src/lib/seguro-desemprego.ts` e no artigo `seguro-desemprego-2026` (exemplos e título com o ano).
 - Trabalho no feriado: calendário de fim de ano (portaria de pontos facultativos do MGI, dias da semana), tabela com o salário mínimo do ano e feriado bancário de 31/12 em `/artigos/trabalhar-no-feriado`.
 - Como reclamar no Procon: valores de 20 e 40 salários mínimos do Juizado em `/artigos/como-reclamar-procon`.
+- Cobrança indevida: valores do Juizado e tese do Tema 929 do STJ (julgado em 15/09/2026, a publicar) em `/artigos/cobranca-indevida`.
