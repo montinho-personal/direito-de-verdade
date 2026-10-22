@@ -1,16 +1,22 @@
 "use client";
 
 import Link from "next/link";
-import { useId, useState } from "react";
-import { Campo, Compartilhar, Escolha, Linha } from "@/components/partes-da-calculadora";
+import { usePathname } from "next/navigation";
+import { type ReactNode, useId, useState } from "react";
+import { Campo, Compartilhar, Escolha, estiloDoBotao, Linha } from "@/components/partes-da-calculadora";
 import { lerQuantidade, lerReais, percentualPorMil, reais } from "@/lib/dinheiro";
-import { formatarData } from "@/lib/trabalhista/datas.ts";
+import { formatarData, lerData, somarDias } from "@/lib/trabalhista/datas.ts";
 import {
   calcularFerias,
+  type ComparacaoDaVenda,
+  compararVenda,
   diasPelasFaltas,
   type EntradaDasFerias,
+  periodosCompletos,
   type ResultadoDasFerias,
 } from "@/lib/trabalhista/ferias.ts";
+
+type Nivel = "h3" | "h4";
 
 const FALTAS = [
   { valor: "0", nome: "Até 5 (30 dias de férias)" },
@@ -20,6 +26,8 @@ const FALTAS = [
 ];
 
 type Formulario = {
+  // Férias durante o contrato ou saída da empresa (aí a conta é a da rescisão)
+  situacao: "ferias" | "saida";
   salario: string;
   media: string;
   faltas: string;
@@ -29,9 +37,12 @@ type Formulario = {
   pensao: string;
   adiantar13: boolean;
   inicio: string;
+  admissao: string;
+  periodo: string; // "" = o último período completo antes do início
 };
 
 const INICIAL: Formulario = {
+  situacao: "ferias",
   salario: "",
   media: "",
   faltas: "0",
@@ -41,12 +52,21 @@ const INICIAL: Formulario = {
   pensao: "",
   adiantar13: false,
   inicio: "",
+  admissao: "",
+  periodo: "",
 };
+
+const SITUACOES = [
+  { valor: "ferias", nome: "Vou sair de férias" },
+  { valor: "saida", nome: "Estou saindo da empresa" },
+] as const;
 
 // Férias de quem tem carteira assinada e recebe por mês: o recibo pago antes das férias
 export function CalculadoraFerias({ nivelDoTitulo = 3 }: { nivelDoTitulo?: 2 | 3 }) {
   const id = useId();
   const Titulo = nivelDoTitulo === 2 ? "h2" : "h3";
+  const Sub: Nivel = nivelDoTitulo === 2 ? "h3" : "h4";
+  const endereco = `https://direitodeverdade.com.br${usePathname() ?? "/calculadoras/ferias"}`;
   const [f, setF] = useState(INICIAL);
   const mudar = (mudanca: Partial<Formulario>) => setF((atual) => ({ ...atual, ...mudanca }));
 
@@ -64,6 +84,19 @@ export function CalculadoraFerias({ nivelDoTitulo = 3 }: { nivelDoTitulo?: 2 | 3
     ...Array.from({ length: disponiveis }, (_, i) => disponiveis - 1 - i)
       .filter((n) => n >= 5 && disponiveis - n >= 5 && (n >= 14 || disponiveis - n >= 14))
       .map((n) => ({ valor: String(n), nome: `${n} dias (sobram ${disponiveis - n})` })),
+  ];
+
+  // Períodos aquisitivos completos até o início das férias, para escolher a que período
+  // elas se referem
+  const admissao = f.admissao ? lerData(f.admissao) : null;
+  const inicio = f.inicio ? lerData(f.inicio) : null;
+  const periodos = admissao && inicio ? periodosCompletos(admissao, inicio) : [];
+  const opcoesDePeriodo = [
+    { valor: "", nome: "O último período completo" },
+    ...periodos.map((p) => ({
+      valor: String(p.numero),
+      nome: `${p.numero}º período: ${formatarData(p.inicio)} a ${formatarData(p.fim)}`,
+    })),
   ];
 
   const leituras = {
@@ -88,6 +121,8 @@ export function CalculadoraFerias({ nivelDoTitulo = 3 }: { nivelDoTitulo?: 2 | 3
           pensao: centavos(leituras.pensao),
           adiantar13: f.adiantar13,
           inicio: f.inicio || undefined,
+          admissao: f.admissao || undefined,
+          periodo: f.periodo && periodos.length >= Number(f.periodo) ? Number(f.periodo) : undefined,
         }
       : null;
   const calculo = entrada ? calcularFerias(entrada) : null;
@@ -95,11 +130,12 @@ export function CalculadoraFerias({ nivelDoTitulo = 3 }: { nivelDoTitulo?: 2 | 3
   const erro = (campo: string) =>
     errosDeLeitura[campo] ?? errosDoMotor.find((e) => e.campo === campo)?.mensagem;
   const r = calculo?.ok ? calculo : null;
-  // Mesmos dados vendendo o máximo, para mostrar quanto a venda põe no bolso
-  const comVenda =
-    entrada && r && vendidos === 0 && maximoParaVender > 0 && !f.descanso
-      ? calcularFerias({ ...entrada, diasVendidos: maximoParaVender, diasDeDescanso: undefined })
-      : null;
+  // Tirar todos os dias ou vender 1/3, com os mesmos dados
+  const comparacao = entrada && r ? compararVenda(entrada) : null;
+  function refazer() {
+    setF(INICIAL);
+    document.getElementById(`${id}-salario`)?.focus();
+  }
 
   return (
     <section
@@ -113,6 +149,47 @@ export function CalculadoraFerias({ nivelDoTitulo = 3 }: { nivelDoTitulo?: 2 | 3
         Calcule as suas férias
       </Titulo>
 
+      <fieldset className="mt-6">
+        <legend className="text-sm font-medium">Qual é a sua situação?</legend>
+        <div className="mt-2 flex flex-wrap gap-2">
+          {SITUACOES.map((item) => (
+            <label
+              key={item.valor}
+              className="inline-flex min-h-11 cursor-pointer items-center gap-2 rounded-full border border-border bg-white px-4 py-2 text-sm has-[:checked]:border-gold has-[:checked]:bg-gold/10 has-[:focus-visible]:ring-2 has-[:focus-visible]:ring-gold/60"
+            >
+              <input
+                type="radio"
+                name={`${id}-situacao`}
+                value={item.valor}
+                checked={f.situacao === item.valor}
+                onChange={() => mudar({ situacao: item.valor })}
+                className="accent-[var(--accent)]"
+              />
+              {item.nome}
+            </label>
+          ))}
+        </div>
+      </fieldset>
+
+      {f.situacao === "saida" ? (
+        <div className="mt-6 space-y-3 rounded-xl border border-border bg-white px-4 py-5 text-sm leading-6">
+          <p>
+            Na saída da empresa, as <strong>férias vencidas</strong> e as{" "}
+            <strong>proporcionais</strong> (1/12 por mês trabalhado, contando o mês com mais de 14
+            dias) são pagas na <strong>rescisão</strong>, com 1/3, como indenização: sem INSS e sem
+            imposto de renda. Na demissão por justa causa, as proporcionais não são pagas (CLT,
+            artigo 146).
+          </p>
+          <p>
+            Essa conta, com o aviso prévio e as outras verbas, está na{" "}
+            <Link href="/calculadoras/rescisao" className="font-medium text-accent underline underline-offset-2">
+              calculadora de rescisão
+            </Link>
+            .
+          </p>
+        </div>
+      ) : (
+      <>
       <div className="mt-6 grid gap-4 sm:grid-cols-2">
         <Campo
           id={`${id}-salario`}
@@ -176,6 +253,25 @@ export function CalculadoraFerias({ nivelDoTitulo = 3 }: { nivelDoTitulo?: 2 | 3
             dica="Para ver até quando a empresa precisa pagar e o dia da volta."
           />
           <Campo
+            id={`${id}-admissao`}
+            rotulo="Data de admissão"
+            tipo="date"
+            valor={f.admissao}
+            aoMudar={(admissao) => mudar({ admissao, periodo: "" })}
+            erro={erro("admissao")}
+            dica="Com a admissão e o início, mostramos o período das férias e o prazo da empresa."
+          />
+          {periodos.length > 1 && (
+            <Escolha
+              id={`${id}-periodo`}
+              rotulo="Estas férias são de qual período?"
+              valor={f.periodo}
+              opcoes={opcoesDePeriodo}
+              aoMudar={(periodo) => mudar({ periodo })}
+              dica="Se você tem férias vencidas de um período anterior, escolha esse período."
+            />
+          )}
+          <Campo
             id={`${id}-dependentes`}
             rotulo="Dependentes no imposto de renda"
             exemplo="0"
@@ -210,9 +306,11 @@ export function CalculadoraFerias({ nivelDoTitulo = 3 }: { nivelDoTitulo?: 2 | 3
         </div>
       </details>
 
+      {erro("periodo") && <p className="mt-2 text-sm text-red-700">{erro("periodo")}</p>}
+
       <div className="mt-6">
         {r ? (
-          <Resultado r={r} comVenda={comVenda?.ok ? comVenda : null} />
+          <Resultado r={r} comparacao={comparacao} Sub={Sub} endereco={endereco} refazer={refazer} />
         ) : (
           <p className="rounded-xl border border-dashed border-border bg-white px-4 py-5 text-sm text-muted">
             Digite o seu salário bruto para ver o valor das férias.
@@ -222,12 +320,14 @@ export function CalculadoraFerias({ nivelDoTitulo = 3 }: { nivelDoTitulo?: 2 | 3
           {r ? `Férias líquidas estimadas: ${reais(r.liquido)}.` : ""}
         </p>
       </div>
+      </>
+      )}
 
       <p className="mt-4 text-xs leading-5 text-muted">
         Estimativa do recibo de férias de quem tem carteira assinada e recebe por mês, com as
-        tabelas de INSS e imposto de renda de 2026, revisadas em 20/10/2026. O valor pode
+        tabelas de INSS e imposto de renda de 2026, revisadas em 21/10/2026. O valor pode
         variar com convenção coletiva e verbas que a calculadora não conhece.{" "}
-        <Link href="/artigos/como-calcular-ferias#como-calculamos" className="text-accent underline underline-offset-2">
+        <Link href="/calculadoras/ferias#como-esta-calculadora-funciona" className="text-accent underline underline-offset-2">
           Como calculamos
         </Link>
       </p>
@@ -235,14 +335,27 @@ export function CalculadoraFerias({ nivelDoTitulo = 3 }: { nivelDoTitulo?: 2 | 3
   );
 }
 
-function Resultado({ r, comVenda }: { r: ResultadoDasFerias; comVenda: ResultadoDasFerias | null }) {
+function Resultado({
+  r,
+  comparacao,
+  Sub,
+  endereco,
+  refazer,
+}: {
+  r: ResultadoDasFerias;
+  comparacao: ComparacaoDaVenda | null;
+  Sub: Nivel;
+  endereco: string;
+  refazer: () => void;
+}) {
   const isento = r.irrf.imposto === 0 && r.irrf.tipoDeReducao === "isencao";
+  const extras = r.mediaVariavel;
   return (
     <div className="space-y-4">
       <div className="rounded-xl border border-border bg-white">
         <div className="px-4 pb-4 pt-5">
           <p className="text-xs font-semibold uppercase tracking-wider text-muted">
-            Suas férias líquidas estimadas
+            Valor líquido estimado das férias
           </p>
           <p className="mt-1 font-serif text-4xl tabular-nums sm:text-5xl">{reais(r.liquido)}</p>
           <p className="mt-1 text-sm text-muted">
@@ -252,63 +365,222 @@ function Resultado({ r, comVenda }: { r: ResultadoDasFerias; comVenda: Resultado
           </p>
         </div>
         <dl className="divide-y divide-border border-t border-border text-sm sm:text-base">
-          <Linha nome={`Férias (${r.diasDeDescanso} dias)`} valor={reais(r.ferias)} />
-          <Linha nome="1/3 das férias" valor={reais(r.tercoDasFerias)} />
+          <Linha
+            nome={`Remuneração de férias (${r.diasDeDescanso} dias)`}
+            valor={reais(r.ferias)}
+          />
+          <Linha nome="Adicional de 1/3" valor={reais(r.tercoDasFerias)} />
           {r.diasVendidos > 0 && (
             <>
-              <Linha nome={`Abono: venda de ${r.diasVendidos} dias`} valor={reais(r.abono)} />
+              <Linha nome={`Abono pecuniário (${r.diasVendidos} dias vendidos)`} valor={reais(r.abono)} />
               <Linha nome="1/3 do abono" valor={reais(r.tercoDoAbono)} />
             </>
           )}
           {r.adiantamento13 > 0 && <Linha nome="1ª parcela do 13º" valor={reais(r.adiantamento13)} />}
+          <Linha nome="Total bruto" valor={reais(r.bruto)} destaque />
           <Linha nome="INSS" valor={`− ${reais(r.inss.total)}`} />
           <Linha nome="Imposto de renda" valor={isento ? "Isento" : `− ${reais(r.irrf.imposto)}`} />
           {r.pensao > 0 && <Linha nome="Pensão alimentícia" valor={`− ${reais(r.pensao)}`} />}
-          <Linha nome="Líquido das férias" valor={reais(r.liquido)} destaque />
+          <Linha nome="Total de descontos" valor={`− ${reais(r.descontos)}`} />
+          <Linha nome="Líquido estimado" valor={reais(r.liquido)} destaque />
         </dl>
+        {extras > 0 && (
+          <p className="border-t border-border px-4 py-3 text-xs leading-5 text-muted">
+            A remuneração de férias já inclui a média de {reais(extras)} de horas extras,
+            adicionais e comissões.
+          </p>
+        )}
       </div>
 
-      <ul className="space-y-2 rounded-xl border border-border bg-white px-4 py-4 text-sm leading-6">
-        {r.diasVendidos > 0 && (
+      <Avisos r={r} />
+
+      <div className="rounded-xl border border-border bg-white px-4 py-4 text-sm leading-6">
+        <Sub className="font-serif text-lg">Entenda o dinheiro que você vai receber</Sub>
+        <ul className="mt-2 list-disc space-y-2 pl-5">
           <li>
-            A venda de {r.diasVendidos} dias põe <strong className="tabular-nums">{reais(r.ganhoDaVenda)}</strong>{" "}
-            a mais no recibo, sem INSS. O abono não paga imposto; o 1/3 dele entra na conta do
-            imposto das férias. Nos dias vendidos você trabalha e recebe o salário normal.
+            A <strong>remuneração de férias</strong> é o salário dos dias de descanso, pago{" "}
+            <strong>adiantado</strong>. Por isso, o holerite do mês seguinte costuma vir menor: os
+            dias de férias já foram pagos neste recibo.
           </li>
-        )}
-        {comVenda && (
           <li>
-            Se vender {comVenda.diasVendidos} dias, recebe{" "}
-            <strong className="tabular-nums">{reais(comVenda.ganhoDaVenda)}</strong> de abono com
-            1/3, sem INSS, descansa {comVenda.diasDeDescanso} dias e trabalha os outros{" "}
-            {comVenda.diasVendidos} com o salário normal. O recibo das férias fica em{" "}
-            {reais(comVenda.liquido)}.
+            O que vem <strong>a mais</strong> é o <strong>1/3</strong> das férias
+            {r.diasVendidos ? (
+              <>
+                {" "}
+                e o <strong>abono</strong> dos {r.diasVendidos} dias vendidos, com o 1/3 dele. Nos
+                dias vendidos, você trabalha e recebe também o salário normal, na folha do mês
+              </>
+            ) : null}
+            .
           </li>
-        )}
-        {r.datas && (
           <li>
-            Férias de {formatarData(r.datas.inicio)} a {formatarData(r.datas.ultimoDia)}; volta ao
-            trabalho em {formatarData(r.datas.volta)}. O pagamento vence em{" "}
-            {formatarData(r.datas.pagamentoAte)}, 2 dias antes do início.
+            Quanto vai cair no salário do mês depende do calendário e do fechamento da folha da
+            empresa: a calculadora não estima esse valor.
           </li>
-        )}
-        {r.diasQueSobram > 0 && (
-          <li>Sobram {r.diasQueSobram} dias para tirar depois, com outro recibo e outro 1/3.</li>
-        )}
-        {r.irrf.reducao > 0 && (
-          <li>
-            O imposto já tem a redução de 2026 ({reais(r.irrf.reducao)}). Parte das folhas não
-            aplica a redução às férias; nesse caso, o imposto seria {reais(r.irrf.impostoPelaTabela)}.
-          </li>
-        )}
-        <li>
-          No holerite do mês, o INSS pode ser recalculado junto com o salário dos dias
-          trabalhados, e o valor final muda alguns reais.
-        </li>
-      </ul>
+        </ul>
+      </div>
+
+      {comparacao && <Comparador c={comparacao} Sub={Sub} />}
 
       <Memoria r={r} />
-      <Compartilhar texto={resumo(r)} />
+      <Compartilhar texto={resumo(r, endereco)} />
+      <button type="button" onClick={refazer} className={`${estiloDoBotao} print:hidden`}>
+        Refazer a simulação
+      </button>
+
+      <nav aria-label="Continue entendendo seus direitos" className="rounded-xl border border-border bg-white px-4 py-4 text-sm leading-6 print:hidden">
+        <Sub className="font-serif text-lg">Continue entendendo seus direitos</Sub>
+        <ul className="mt-2 space-y-1">
+          {r.adiantamento13 === 0 && (
+            <li>
+              <Link href="/calculadoras/13-salario" className="text-accent underline underline-offset-2">
+                Calculadora do 13º salário
+              </Link>
+              : quanto cai na 1ª e na 2ª parcela.
+            </li>
+          )}
+          <li>
+            <Link href="/calculadoras/imposto-de-renda" className="text-accent underline underline-offset-2">
+              Calculadora de imposto de renda
+            </Link>
+            : o desconto do salário do mês.
+          </li>
+          <li>
+            <Link href="/calculadoras/rescisao" className="text-accent underline underline-offset-2">
+              Calculadora de rescisão
+            </Link>
+            : férias vencidas e proporcionais na saída da empresa.
+          </li>
+          <li>
+            <Link href="/artigos/como-calcular-ferias" className="text-accent underline underline-offset-2">
+              Como calcular férias
+            </Link>
+            : coletivas, faltas e quem pode vender dias.
+          </li>
+        </ul>
+      </nav>
+    </div>
+  );
+}
+
+// Prazos e situações que mudam o valor ou exigem atenção
+function Avisos({ r }: { r: ResultadoDasFerias }) {
+  const itens: ReactNode[] = [];
+  if (r.dobra > 0 && r.periodo) {
+    itens.push(
+      <>
+        <strong>Férias fora do prazo:</strong> {r.diasForaDoPrazo} dia
+        {r.diasForaDoPrazo > 1 ? "s caem" : " cai"} depois de {formatarData(r.periodo.concederAte)},
+        o último dia para a empresa conceder as férias desse período. Esses dias devem ser pagos{" "}
+        <strong>em dobro</strong> (CLT, artigo 137; Súmula 81 do TST): mais{" "}
+        <strong className="tabular-nums">{reais(r.dobra)}</strong> brutos, com o 1/3, que{" "}
+        <strong>não estão</strong> no líquido acima.
+      </>,
+    );
+  }
+  if (r.periodo && r.dobra === 0) {
+    itens.push(
+      <>
+        Período aquisitivo de {formatarData(r.periodo.inicio)} a {formatarData(r.periodo.fim)}. A
+        empresa tem até {formatarData(r.periodo.concederAte)} para conceder essas férias. O prazo
+        para pedir a venda de dias desse período era {formatarData(r.periodo.pedirAbonoAte)}, 15
+        dias antes do fim do período aquisitivo.
+      </>,
+    );
+  }
+  if (r.inicioAntesDoDomingo) {
+    itens.push(
+      <>
+        <strong>Atenção ao início:</strong> se o seu descanso semanal é no domingo, as férias não
+        podem começar na sexta nem no sábado. Também não podem começar nos 2 dias antes de um
+        feriado (CLT, artigo 134, § 3º).
+      </>,
+    );
+  }
+  if (r.datas) {
+    itens.push(
+      <>
+        Férias de {formatarData(r.datas.inicio)} a {formatarData(r.datas.ultimoDia)}; volta ao
+        trabalho em {formatarData(r.datas.volta)}. A empresa deve avisar por escrito até{" "}
+        {formatarData(somarDias(r.datas.inicio, -30))} (30 dias antes) e pagar até{" "}
+        {formatarData(r.datas.pagamentoAte)} (2 dias antes).
+      </>,
+    );
+  }
+  if (r.diasQueSobram > 0) {
+    itens.push(<>Sobram {r.diasQueSobram} dias para tirar depois, com outro recibo e outro 1/3.</>);
+  }
+  if (r.irrf.reducao > 0) {
+    itens.push(
+      <>
+        O imposto já tem a redução de 2026 ({reais(r.irrf.reducao)}). Parte das folhas não aplica a
+        redução às férias; nesse caso, o imposto seria {reais(r.irrf.impostoPelaTabela)}.
+      </>,
+    );
+  }
+  itens.push(
+    <>
+      No holerite, o INSS pode ser recalculado junto com o salário dos dias trabalhados no mês, e
+      o valor final muda alguns reais.
+    </>,
+  );
+  return (
+    <ul className="space-y-2 rounded-xl border border-border bg-white px-4 py-4 text-sm leading-6">
+      {itens.map((item, i) => (
+        <li key={i}>{item}</li>
+      ))}
+    </ul>
+  );
+}
+
+// Tirar todos os dias ou vender 1/3, no mesmo período de descanso de direito
+function Comparador({ c, Sub }: { c: ComparacaoDaVenda; Sub: Nivel }) {
+  const v = c.vendendo;
+  const cenarios = [
+    {
+      nome: `Tirar ${c.integral.diasDeDescanso} dias`,
+      recibo: c.integral.liquido,
+      descanso: c.integral.diasDeDescanso,
+      trabalhados: 0,
+      salario: 0,
+      bruto: c.brutoIntegral,
+    },
+    {
+      nome: `Vender ${v.diasVendidos} e tirar ${v.diasDeDescanso}`,
+      recibo: v.liquido,
+      descanso: v.diasDeDescanso,
+      trabalhados: v.diasVendidos,
+      salario: c.salarioDosDiasTrabalhados,
+      bruto: c.brutoVendendo,
+    },
+  ];
+  return (
+    <div className="rounded-xl border border-border bg-white px-4 py-4">
+      <Sub className="font-serif text-lg">
+        Vale mais a pena tirar {c.integral.diasDeDescanso} dias ou vender {v.diasVendidos}?
+      </Sub>
+      <div className="mt-3 grid gap-3 sm:grid-cols-2">
+        {cenarios.map((s) => (
+          <div key={s.nome} className="rounded-lg border border-border">
+            <p className="border-b border-border px-3 py-2 text-sm font-semibold">{s.nome}</p>
+            <dl className="divide-y divide-border text-sm">
+              <Linha nome="Recibo antes das férias (líquido)" valor={reais(s.recibo)} />
+              <Linha nome="Dias de descanso" valor={String(s.descanso)} />
+              <Linha nome="Dias trabalhados no lugar" valor={String(s.trabalhados)} />
+              <Linha nome="Salário desses dias (bruto, na folha)" valor={reais(s.salario)} />
+              <Linha nome="Total bruto no período" valor={reais(s.bruto)} destaque />
+            </dl>
+          </div>
+        ))}
+      </div>
+      <p className="mt-3 text-sm leading-6">
+        No mesmo período de {c.integral.diasDeDescanso} dias, vender {v.diasVendidos} dias rende{" "}
+        <strong className="tabular-nums">{reais(c.diferencaBruta)}</strong> a mais em valores
+        brutos, e você <strong>descansa {v.diasVendidos} dias a menos</strong>. O abono não tem INSS
+        e não paga imposto, mas o 1/3 dele entra no imposto das férias; o salário dos dias
+        trabalhados tem os descontos normais do mês. A venda é escolha sua: a empresa não pode
+        obrigar.
+      </p>
     </div>
   );
 }
@@ -388,7 +660,7 @@ function Memoria({ r }: { r: ResultadoDasFerias }) {
   );
 }
 
-function resumo(r: ResultadoDasFerias) {
+function resumo(r: ResultadoDasFerias, endereco: string) {
   return [
     "Simulação de férias (estimativa, tabelas de 2026)",
     `Férias (${r.diasDeDescanso} dias) + 1/3: ${reais(r.ferias + r.tercoDasFerias)}`,
@@ -397,6 +669,6 @@ function resumo(r: ResultadoDasFerias) {
     `INSS: ${reais(r.inss.total)} · Imposto de renda: ${reais(r.irrf.imposto)}`,
     `Líquido: ${reais(r.liquido)}`,
     "Valores estimados; o recibo pode variar.",
-    "Calculado em https://direitodeverdade.com.br/artigos/como-calcular-ferias",
+    `Calculado em ${endereco}`,
   ].join("\n");
 }

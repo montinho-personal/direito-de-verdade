@@ -4,6 +4,7 @@ tituloSeo: "Como calcular férias 2026: 1/3, venda de 10 dias e líquido"
 descricao: "Como calcular férias: salário ÷ 30 × dias + 1/3, menos INSS e IR. Quem ganha R$ 3.000 recebe R$ 3.631,40 líquidos. Veja quanto dá vender 10 dias e calcule."
 categoria: trabalho
 publicadoEm: 2026-10-20
+atualizadoEm: 2026-10-21
 faq:
   - pergunta: "Qual o valor das férias de um salário mínimo em 2026?"
     resposta: "Com o salário mínimo de R$ 1.621, as férias de 30 dias valem **R$ 2.161,33** brutos (R$ 1.621 + R$ 540,33 de 1/3). Com o desconto de R$ 170,20 de INSS e sem imposto de renda, o líquido é **R$ 1.991,13**."
@@ -178,6 +179,7 @@ As férias não são descontadas: elas são pagas **adiantadas**, antes de come�
 - **Imposto e redução:** a calculadora aplica a redução de 2026 sobre férias + 1/3 e mostra o imposto sem ela, porque as folhas divergem. Em 2027, os valores mudam com as novas tabelas.
 - **1ª parcela do 13º:** quem pede em janeiro recebe com as férias ([Lei nº 4.749/1965, artigo 2º, § 2º](https://www.planalto.gov.br/ccivil_03/leis/l4749.htm)); a calculadora usa metade da remuneração, sem descontos. Veja os detalhes no [guia do 13º salário](/artigos/13-salario).
 - **Arredondamento:** cada etapa ao centavo; o recibo pode ter 1 centavo de diferença.
-- **Fora da conta:** férias em dobro, férias proporcionais (use a [calculadora de rescisão](/calculadoras/rescisao)), horistas, convenção coletiva com regras próprias e o recálculo do INSS no holerite do mês.
+- **Férias em dobro:** com a data de admissão e o início, a calculadora mostra os dias fora do prazo de concessão e o valor da dobra, à parte do líquido. A conta completa, com o comparador entre tirar 30 dias e vender 10, está na [calculadora de férias](/calculadoras/ferias).
+- **Fora da conta:** férias proporcionais (use a [calculadora de rescisão](/calculadoras/rescisao)), horistas, convenção coletiva com regras próprias e o recálculo do INSS no holerite do mês.
 - **Revisão:** 20 de outubro de 2026, com a conta testada contra uma conta de referência feita à parte em 29 situações.
 - **Privacidade:** a conta é feita no seu navegador. Nada do que você digita é enviado ou guardado.

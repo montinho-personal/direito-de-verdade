@@ -5,6 +5,7 @@ isento) e da Solução de Consulta Cosit 209/2021 (1/3 do abono tributado). Gera
 
     python3 tests/referencia/ferias.py
 """
+import calendar
 import json
 from datetime import date, timedelta
 from decimal import Decimal as D, ROUND_HALF_UP
@@ -41,7 +42,31 @@ def calcular(c):
         ini = date.fromisoformat(c["inicio"])
         out["pagamentoAte"] = (ini - timedelta(days=2)).isoformat()
         out["volta"] = (ini + timedelta(days=descanso)).isoformat()
+        # CLT, art. 134, § 3º: não começar nos 2 dias antes do repouso (domingo)
+        out["sextaOuSabado"] = ini.isoweekday() in (5, 6)
+    if "admissao" in c:
+        adm = date.fromisoformat(c["admissao"])
+        # Aniversários do contrato: o período n vai do aniversário n-1 à véspera do n
+        anivs = [aniversario(adm, k) for k in range(0, 60)]
+        completos = [k for k in range(1, 59) if anivs[k] - timedelta(days=1) < ini]
+        n = c.get("periodo", completos[-1])
+        fim = anivs[n] - timedelta(days=1)
+        conceder = anivs[n + 1] - timedelta(days=1)  # art. 134: 12 meses depois
+        out["periodo"] = {"fim": fim.isoformat(), "concederAte": conceder.isoformat(),
+                          "pedirAbonoAte": (fim - timedelta(days=15)).isoformat()}
+        # art. 137 e Súmula 81 do TST: os dias gozados depois do prazo, em dobro, com 1/3
+        ultimo = ini + timedelta(days=descanso - 1)
+        fora = sum(1 for k in range((ultimo - ini).days + 1) if ini + timedelta(days=k) > conceder)
+        valor = rd(D(rem * fora) / 30)
+        out["diasForaDoPrazo"] = fora
+        out["dobra"] = valor + rd(D(valor) / 3)
     return out
+
+
+def aniversario(adm, anos):
+    ano = adm.year + anos
+    dia = min(adm.day, calendar.monthrange(ano, adm.month)[1])
+    return date(ano, adm.month, dia)
 
 
 R = lambda x: int((D(str(x)) * 100).quantize(D("1"), ROUND_HALF_UP))  # noqa: E731
@@ -63,6 +88,14 @@ CASOS += [
     ("1ª parcela do 13º junto", dict(salario=R(3000), adiantar13=True)),
     ("datas: início numa segunda", dict(salario=R(3000), inicio="2027-01-04")),
     ("datas: 20 dias a partir de 01/12", dict(salario=R(3000), diasDeDescanso=20, diasVendidos=10, inicio="2026-12-01")),
+    ("período: dentro do prazo de concessão", dict(salario=R(3000), admissao="2024-03-10", inicio="2026-02-02")),
+    ("período: depois do prazo, em dobro", dict(salario=R(3000), admissao="2023-05-15", inicio="2026-01-05", periodo=1)),
+    ("período: início no último dia do prazo (29 dias fora)", dict(salario=R(2500), admissao="2023-05-15", inicio="2025-05-14", periodo=1)),
+    ("período: um dia depois do prazo", dict(salario=R(2500), admissao="2023-05-15", inicio="2025-05-15", periodo=1)),
+    ("período: 30 dias começando 10 dias antes do fim do prazo", dict(salario=R(3000), admissao="2023-05-15", inicio="2025-05-05", periodo=1)),
+    ("período: admissão em 29/02", dict(salario=R(4000), admissao="2024-02-29", inicio="2025-03-02")),
+    ("início numa sexta-feira", dict(salario=R(3000), inicio="2026-11-06")),
+    ("início num sábado, 15 dias", dict(salario=R(3000), inicio="2026-11-07", diasDeDescanso=15)),
 ]
 
 if __name__ == "__main__":

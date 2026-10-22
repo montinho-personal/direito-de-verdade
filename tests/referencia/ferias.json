@@ -434,7 +434,8 @@
    "ir": 0,
    "liquido": 363140,
    "pagamentoAte": "2027-01-02",
-   "volta": "2027-02-03"
+   "volta": "2027-02-03",
+   "sextaOuSabado": false
   }
  },
  {
@@ -454,7 +455,213 @@
    "ir": 0,
    "liquido": 378431,
    "pagamentoAte": "2026-11-29",
-   "volta": "2026-12-21"
+   "volta": "2026-12-21",
+   "sextaOuSabado": false
+  }
+ },
+ {
+  "nome": "período: dentro do prazo de concessão",
+  "entrada": {
+   "salario": 300000,
+   "admissao": "2024-03-10",
+   "inicio": "2026-02-02"
+  },
+  "esperado": {
+   "direito": 30,
+   "ferias": 300000,
+   "terco": 100000,
+   "abono": 0,
+   "inss": 36860,
+   "ir": 0,
+   "liquido": 363140,
+   "pagamentoAte": "2026-01-31",
+   "volta": "2026-03-04",
+   "sextaOuSabado": false,
+   "periodo": {
+    "fim": "2025-03-09",
+    "concederAte": "2026-03-09",
+    "pedirAbonoAte": "2025-02-22"
+   },
+   "diasForaDoPrazo": 0,
+   "dobra": 0
+  }
+ },
+ {
+  "nome": "período: depois do prazo, em dobro",
+  "entrada": {
+   "salario": 300000,
+   "admissao": "2023-05-15",
+   "inicio": "2026-01-05",
+   "periodo": 1
+  },
+  "esperado": {
+   "direito": 30,
+   "ferias": 300000,
+   "terco": 100000,
+   "abono": 0,
+   "inss": 36860,
+   "ir": 0,
+   "liquido": 363140,
+   "pagamentoAte": "2026-01-03",
+   "volta": "2026-02-04",
+   "sextaOuSabado": false,
+   "periodo": {
+    "fim": "2024-05-14",
+    "concederAte": "2025-05-14",
+    "pedirAbonoAte": "2024-04-29"
+   },
+   "diasForaDoPrazo": 30,
+   "dobra": 400000
+  }
+ },
+ {
+  "nome": "período: início no último dia do prazo (29 dias fora)",
+  "entrada": {
+   "salario": 250000,
+   "admissao": "2023-05-15",
+   "inicio": "2025-05-14",
+   "periodo": 1
+  },
+  "esperado": {
+   "direito": 30,
+   "ferias": 250000,
+   "terco": 83333,
+   "abono": 0,
+   "inss": 28860,
+   "ir": 0,
+   "liquido": 304473,
+   "pagamentoAte": "2025-05-12",
+   "volta": "2025-06-13",
+   "sextaOuSabado": false,
+   "periodo": {
+    "fim": "2024-05-14",
+    "concederAte": "2025-05-14",
+    "pedirAbonoAte": "2024-04-29"
+   },
+   "diasForaDoPrazo": 29,
+   "dobra": 322223
+  }
+ },
+ {
+  "nome": "período: um dia depois do prazo",
+  "entrada": {
+   "salario": 250000,
+   "admissao": "2023-05-15",
+   "inicio": "2025-05-15",
+   "periodo": 1
+  },
+  "esperado": {
+   "direito": 30,
+   "ferias": 250000,
+   "terco": 83333,
+   "abono": 0,
+   "inss": 28860,
+   "ir": 0,
+   "liquido": 304473,
+   "pagamentoAte": "2025-05-13",
+   "volta": "2025-06-14",
+   "sextaOuSabado": false,
+   "periodo": {
+    "fim": "2024-05-14",
+    "concederAte": "2025-05-14",
+    "pedirAbonoAte": "2024-04-29"
+   },
+   "diasForaDoPrazo": 30,
+   "dobra": 333333
+  }
+ },
+ {
+  "nome": "período: 30 dias começando 10 dias antes do fim do prazo",
+  "entrada": {
+   "salario": 300000,
+   "admissao": "2023-05-15",
+   "inicio": "2025-05-05",
+   "periodo": 1
+  },
+  "esperado": {
+   "direito": 30,
+   "ferias": 300000,
+   "terco": 100000,
+   "abono": 0,
+   "inss": 36860,
+   "ir": 0,
+   "liquido": 363140,
+   "pagamentoAte": "2025-05-03",
+   "volta": "2025-06-04",
+   "sextaOuSabado": false,
+   "periodo": {
+    "fim": "2024-05-14",
+    "concederAte": "2025-05-14",
+    "pedirAbonoAte": "2024-04-29"
+   },
+   "diasForaDoPrazo": 20,
+   "dobra": 266667
+  }
+ },
+ {
+  "nome": "período: admissão em 29/02",
+  "entrada": {
+   "salario": 400000,
+   "admissao": "2024-02-29",
+   "inicio": "2025-03-02"
+  },
+  "esperado": {
+   "direito": 30,
+   "ferias": 400000,
+   "terco": 133333,
+   "abono": 0,
+   "inss": 54818,
+   "ir": 12245,
+   "liquido": 466270,
+   "pagamentoAte": "2025-02-28",
+   "volta": "2025-04-01",
+   "sextaOuSabado": false,
+   "periodo": {
+    "fim": "2025-02-27",
+    "concederAte": "2026-02-27",
+    "pedirAbonoAte": "2025-02-12"
+   },
+   "diasForaDoPrazo": 0,
+   "dobra": 0
+  }
+ },
+ {
+  "nome": "início numa sexta-feira",
+  "entrada": {
+   "salario": 300000,
+   "inicio": "2026-11-06"
+  },
+  "esperado": {
+   "direito": 30,
+   "ferias": 300000,
+   "terco": 100000,
+   "abono": 0,
+   "inss": 36860,
+   "ir": 0,
+   "liquido": 363140,
+   "pagamentoAte": "2026-11-04",
+   "volta": "2026-12-06",
+   "sextaOuSabado": true
+  }
+ },
+ {
+  "nome": "início num sábado, 15 dias",
+  "entrada": {
+   "salario": 300000,
+   "inicio": "2026-11-07",
+   "diasDeDescanso": 15
+  },
+  "esperado": {
+   "direito": 30,
+   "ferias": 150000,
+   "terco": 50000,
+   "abono": 0,
+   "inss": 15569,
+   "ir": 0,
+   "liquido": 184431,
+   "pagamentoAte": "2026-11-05",
+   "volta": "2026-11-22",
+   "sextaOuSabado": true
   }
  }
 ]
