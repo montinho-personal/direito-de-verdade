@@ -37,7 +37,7 @@ Um de cada vez, na ordem, cada um só depois dos prints.
 | ordem | artigo | por que agora | buscas para printar | status |
 |---|---|---|---|---|
 | 1 | Aviso prévio trabalhado ou indenizado (30 dias + 3 por ano, redução de 2 horas ou 7 dias, pedido de demissão) | fecha o grupo de rescisão (demissão, pedido, acordo, calculadora); demissões sobem em dezembro e janeiro | `aviso prévio trabalhado`; `aviso prévio indenizado`; `aviso prévio proporcional` | **publicado em 21/10/2026** — [doc](artigos/aviso-previo.md), `/artigos/aviso-previo` |
-| 2 | Horas extras e banco de horas (50%, 100% no domingo e feriado, prazo do banco, o que acontece na demissão) | hora extra do comércio no fim de ano; liga com feriado e temporário | `hora extra quanto paga`; `banco de horas como funciona`; `banco de horas na demissão` | **publicado em 21/10/2026** — [doc](artigos/horas-extras-banco-de-horas.md), `/artigos/horas-extras-banco-de-horas` |
+| 2 | Horas extras e banco de horas (50%, 100% no domingo e feriado, prazo do banco, o que acontece na demissão) | hora extra do comércio no fim de ano; liga com feriado e temporário | `hora extra quanto paga`; `banco de horas como funciona`; `banco de horas na demissão` | **publicado em 21/10/2026** — [doc](artigos/horas-extras-banco-de-horas.md), `/artigos/horas-extras-banco-de-horas`; calculadora [`/calculadoras/horas-extras`](calculadoras/horas-extras.md) publicada em 21/10/2026 |
 | 3a | **Fim da escala 6x1: o que muda (EC 141/2026)** — sugestão de 21/10/2026, antes do nome sujo | promulgada em 16/10/2026; busca em alta agora, mudanças em dezembro de 2026 e 2027 | `fim da escala 6x1`; `escala 6x1 quando começa`; `jornada de 40 horas` | **publicado em 21/10/2026** — [doc](artigos/fim-da-escala-6x1.md), `/artigos/fim-da-escala-6x1` |
 | 3 | Nome sujo: prazo de 5 anos e como limpar o nome | quem recebe o 13º paga dívida em dezembro; apareceu nas buscas de boleto e do Consumidor.gov.br (Serasa, limpa nome, dívidas) | `quanto tempo o nome fica sujo`; `como limpar o nome`; `dívida prescrita` | **publicado em 21/10/2026** — [doc](artigos/nome-sujo.md), `/artigos/nome-sujo` |
 
@@ -123,6 +123,7 @@ Lembrar o Renato desta lista a cada entrega.
 - Fim da escala 6x1: revisar em 16/12/2026 e dez/2027 (etapas da EC 141), regulamentação e teto do INSS (exclusão do art. 8º) em `/artigos/fim-da-escala-6x1`.
 
 - Hora extra: salário mínimo e exemplos; etapas da EC 141 (42 horas em dez/2026, 40 horas em dez/2027) em `/artigos/horas-extras-banco-de-horas`.
+- Calculadora de horas extras: tabela por salário, exemplos do simulador (INSS e IR do ano), divisor de 42 horas (EC 141, sem texto oficial em 21/10/2026), anos do seletor e data de revisão no rodapé da ferramenta, em `/calculadoras/horas-extras`.
 
 - 13º salário: datas do ano, tabelas de INSS e IR, valor da multa.
 - Férias: tabela por salário e exemplos de `/artigos/como-calcular-ferias` (INSS e IR do ano; redução da Lei 15.270 nas férias).

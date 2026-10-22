@@ -66,6 +66,8 @@ Entre **22h e 5h**, além da hora extra, entra o **adicional noturno de pelo men
 2. **Aplique o adicional:** × 1,5 para 50% ou × 2 para 100%.
 3. **Multiplique pelas horas extras do mês.**
 
+A [calculadora de horas extras](/calculadoras/horas-extras) faz essa conta com minutos, adicional noturno e o DSR do mês, mostra quanto sobra no líquido e confere o valor do holerite.
+
 ### Qual o valor da hora extra de quem ganha um salário mínimo em 2026?
 
 O salário mínimo de 2026 é **R$ 1.621**, e o próprio decreto fixa o valor horário em **R$ 7,37** ([Decreto nº 12.797/2025](https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2025/decreto/D12797.htm)), que é o salário dividido por 220:

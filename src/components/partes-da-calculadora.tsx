@@ -163,10 +163,18 @@ export function NotaDaEstimativa({ children }: { children?: ReactNode }) {
 }
 
 // Copiar, enviar pelo WhatsApp ou imprimir. Nada sai da página sem um clique.
-export function Compartilhar({ texto }: { texto: string }) {
+export function Compartilhar({
+  texto,
+  aoCompartilhar,
+}: {
+  texto: string;
+  // Avisa qual botão foi usado (para o Analytics), sem o texto
+  aoCompartilhar?: (canal: "copiar" | "whatsapp" | "imprimir") => void;
+}) {
   const [aviso, setAviso] = useState("");
 
   async function copiar() {
+    aoCompartilhar?.("copiar");
     try {
       await navigator.clipboard.writeText(texto);
       setAviso("Resumo copiado.");
@@ -185,11 +193,15 @@ export function Compartilhar({ texto }: { texto: string }) {
           href={`https://wa.me/?text=${encodeURIComponent(texto)}`}
           target="_blank"
           rel="noopener noreferrer"
+          onClick={() => aoCompartilhar?.("whatsapp")}
           className={estiloDoBotao}
         >
           Enviar pelo WhatsApp
         </a>
-        <button type="button" onClick={() => window.print()} className={estiloDoBotao}>
+        <button type="button" onClick={() => {
+            aoCompartilhar?.("imprimir");
+            window.print();
+          }} className={estiloDoBotao}>
           Imprimir ou salvar em PDF
         </button>
       </div>

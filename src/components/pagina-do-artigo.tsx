@@ -2,6 +2,7 @@ import Link from "next/link";
 import { Calculadora13Salario } from "@/components/calculadora-13-salario";
 import { CalculadoraCompraInternacional } from "@/components/calculadora-compra-internacional";
 import { CalculadoraFerias } from "@/components/calculadora-ferias";
+import { CalculadoraHorasExtras } from "@/components/calculadora-horas-extras";
 import { CalculadoraIrSalario } from "@/components/calculadora-ir-salario";
 import {
   CalculadoraAcordoDeDemissao,
@@ -48,6 +49,7 @@ const COMPONENTES_DAS_FERRAMENTAS: Record<
   "comparador-13": Comparador13,
   "calculadora-ferias": CalculadoraFerias,
   "calculadora-compra-internacional": CalculadoraCompraInternacional,
+  "calculadora-horas-extras": CalculadoraHorasExtras,
 };
 
 function Ferramenta({ id, ...props }: PropsDaFerramenta & { id: IdDaFerramenta }) {

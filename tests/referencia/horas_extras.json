@@ -1,0 +1,558 @@
+[
+ {
+  "nome": "salário mínimo de 2026, 10h a 50%",
+  "entrada": {
+   "salario": 162100,
+   "divisor": 220,
+   "lancamentos": [
+    {
+     "minutos": 600,
+     "adicionalPorMil": 500,
+     "noturna": false
+    }
+   ]
+  },
+  "esperado": {
+   "horaNormal": 737,
+   "linhas": [
+    11052
+   ],
+   "horasExtras": 11052,
+   "dsr": 0,
+   "total": 11052,
+   "decimoTerceiro": 921,
+   "ferias": 1228,
+   "fgts": 884
+  }
+ },
+ {
+  "nome": "salário mínimo, 1h a 100%",
+  "entrada": {
+   "salario": 162100,
+   "divisor": 220,
+   "lancamentos": [
+    {
+     "minutos": 60,
+     "adicionalPorMil": 1000,
+     "noturna": false
+    }
+   ]
+  },
+  "esperado": {
+   "horaNormal": 737,
+   "linhas": [
+    1474
+   ],
+   "horasExtras": 1474,
+   "dsr": 0,
+   "total": 1474,
+   "decimoTerceiro": 123,
+   "ferias": 164,
+   "fgts": 118
+  }
+ },
+ {
+  "nome": "R$ 2.200, 10h a 50% com DSR de novembro/2026",
+  "entrada": {
+   "salario": 220000,
+   "divisor": 220,
+   "lancamentos": [
+    {
+     "minutos": 600,
+     "adicionalPorMil": 500,
+     "noturna": false
+    }
+   ],
+   "dsr": {
+    "diasUteis": 23,
+    "repousos": 7
+   }
+  },
+  "esperado": {
+   "horaNormal": 1000,
+   "linhas": [
+    15000
+   ],
+   "horasExtras": 15000,
+   "dsr": 4565,
+   "total": 19565,
+   "decimoTerceiro": 1630,
+   "ferias": 2174,
+   "fgts": 1565,
+   "simulacao": {
+    "aumentoBruto": 19565,
+    "aumentoLiquido": 17805,
+    "diferencaInss": 1760,
+    "diferencaIrrf": 0,
+    "dependentes": 0
+   }
+  }
+ },
+ {
+  "nome": "R$ 2.200, 30 minutos a 50%",
+  "entrada": {
+   "salario": 220000,
+   "divisor": 220,
+   "lancamentos": [
+    {
+     "minutos": 30,
+     "adicionalPorMil": 500,
+     "noturna": false
+    }
+   ]
+  },
+  "esperado": {
+   "horaNormal": 1000,
+   "linhas": [
+    750
+   ],
+   "horasExtras": 750,
+   "dsr": 0,
+   "total": 750,
+   "decimoTerceiro": 63,
+   "ferias": 83,
+   "fgts": 60
+  }
+ },
+ {
+  "nome": "R$ 3.000, 12h30 a 50% e 8h a 100%, DSR de dezembro/2026",
+  "entrada": {
+   "salario": 300000,
+   "divisor": 220,
+   "lancamentos": [
+    {
+     "minutos": 750,
+     "adicionalPorMil": 500,
+     "noturna": false
+    },
+    {
+     "minutos": 480,
+     "adicionalPorMil": 1000,
+     "noturna": false
+    }
+   ],
+   "dsr": {
+    "diasUteis": 26,
+    "repousos": 5
+   }
+  },
+  "esperado": {
+   "horaNormal": 1364,
+   "linhas": [
+    25568,
+    21818
+   ],
+   "horasExtras": 47386,
+   "dsr": 9113,
+   "total": 56499,
+   "decimoTerceiro": 4708,
+   "ferias": 6278,
+   "fgts": 4520,
+   "simulacao": {
+    "aumentoBruto": 56499,
+    "aumentoLiquido": 49719,
+    "diferencaInss": 6780,
+    "diferencaIrrf": 0,
+    "dependentes": 1
+   }
+  }
+ },
+ {
+  "nome": "R$ 3.000 com 40 horas semanais (divisor 200)",
+  "entrada": {
+   "salario": 300000,
+   "divisor": 200,
+   "lancamentos": [
+    {
+     "minutos": 600,
+     "adicionalPorMil": 500,
+     "noturna": false
+    }
+   ]
+  },
+  "esperado": {
+   "horaNormal": 1500,
+   "linhas": [
+    22500
+   ],
+   "horasExtras": 22500,
+   "dsr": 0,
+   "total": 22500,
+   "decimoTerceiro": 1875,
+   "ferias": 2500,
+   "fgts": 1800
+  }
+ },
+ {
+  "nome": "R$ 4.500, convenção de 70%, 6h47",
+  "entrada": {
+   "salario": 450000,
+   "divisor": 220,
+   "lancamentos": [
+    {
+     "minutos": 407,
+     "adicionalPorMil": 700,
+     "noturna": false
+    }
+   ]
+  },
+  "esperado": {
+   "horaNormal": 2045,
+   "linhas": [
+    23588
+   ],
+   "horasExtras": 23588,
+   "dsr": 0,
+   "total": 23588,
+   "decimoTerceiro": 1966,
+   "ferias": 2621,
+   "fgts": 1887
+  }
+ },
+ {
+  "nome": "R$ 2.500 + periculosidade de 30% na base",
+  "entrada": {
+   "salario": 250000,
+   "adicionaisFixos": 75000,
+   "divisor": 220,
+   "lancamentos": [
+    {
+     "minutos": 900,
+     "adicionalPorMil": 500,
+     "noturna": false
+    }
+   ],
+   "dsr": {
+    "diasUteis": 23,
+    "repousos": 7
+   }
+  },
+  "esperado": {
+   "horaNormal": 1477,
+   "linhas": [
+    33239
+   ],
+   "horasExtras": 33239,
+   "dsr": 10116,
+   "total": 43355,
+   "decimoTerceiro": 3613,
+   "ferias": 4817,
+   "fgts": 3468,
+   "simulacao": {
+    "aumentoBruto": 43355,
+    "aumentoLiquido": 38152,
+    "diferencaInss": 5203,
+    "diferencaIrrf": 0,
+    "dependentes": 0
+   }
+  }
+ },
+ {
+  "nome": "R$ 2.000, 2h noturnas a 50% (urbano, hora reduzida)",
+  "entrada": {
+   "salario": 200000,
+   "divisor": 220,
+   "lancamentos": [
+    {
+     "minutos": 120,
+     "adicionalPorMil": 500,
+     "noturna": true
+    }
+   ]
+  },
+  "esperado": {
+   "horaNormal": 909,
+   "linhas": [
+    3740
+   ],
+   "horasExtras": 3740,
+   "dsr": 0,
+   "total": 3740,
+   "decimoTerceiro": 312,
+   "ferias": 416,
+   "fgts": 299
+  }
+ },
+ {
+  "nome": "R$ 2.000, 2h noturnas a 50% (rural, 25%, sem hora reduzida)",
+  "entrada": {
+   "salario": 200000,
+   "divisor": 220,
+   "regime": "rural",
+   "lancamentos": [
+    {
+     "minutos": 120,
+     "adicionalPorMil": 500,
+     "noturna": true
+    }
+   ]
+  },
+  "esperado": {
+   "horaNormal": 909,
+   "linhas": [
+    3409
+   ],
+   "horasExtras": 3409,
+   "dsr": 0,
+   "total": 3409,
+   "decimoTerceiro": 284,
+   "ferias": 379,
+   "fgts": 273
+  }
+ },
+ {
+  "nome": "R$ 1.800, doméstica, 3h noturnas com convenção de 30%",
+  "entrada": {
+   "salario": 180000,
+   "divisor": 220,
+   "regime": "domestico",
+   "adicionalNoturnoPorMil": 300,
+   "lancamentos": [
+    {
+     "minutos": 180,
+     "adicionalPorMil": 500,
+     "noturna": true
+    }
+   ]
+  },
+  "esperado": {
+   "horaNormal": 818,
+   "linhas": [
+    5470
+   ],
+   "horasExtras": 5470,
+   "dsr": 0,
+   "total": 5470,
+   "decimoTerceiro": 456,
+   "ferias": 608,
+   "fgts": 438
+  }
+ },
+ {
+  "nome": "R$ 7.000, 20h a 50%, DSR, simulação com 1 dependente",
+  "entrada": {
+   "salario": 700000,
+   "divisor": 220,
+   "lancamentos": [
+    {
+     "minutos": 1200,
+     "adicionalPorMil": 500,
+     "noturna": false
+    }
+   ],
+   "dsr": {
+    "diasUteis": 23,
+    "repousos": 7
+   }
+  },
+  "esperado": {
+   "horaNormal": 3182,
+   "linhas": [
+    95455
+   ],
+   "horasExtras": 95455,
+   "dsr": 29052,
+   "total": 124507,
+   "decimoTerceiro": 10376,
+   "ferias": 13834,
+   "fgts": 9961,
+   "simulacao": {
+    "aumentoBruto": 124507,
+    "aumentoLiquido": 72969,
+    "diferencaInss": 17431,
+    "diferencaIrrf": 34107,
+    "dependentes": 1
+   }
+  }
+ },
+ {
+  "nome": "R$ 12.000, 15h a 50% e 4h a 100%",
+  "entrada": {
+   "salario": 1200000,
+   "divisor": 220,
+   "lancamentos": [
+    {
+     "minutos": 900,
+     "adicionalPorMil": 500,
+     "noturna": false
+    },
+    {
+     "minutos": 240,
+     "adicionalPorMil": 1000,
+     "noturna": false
+    }
+   ],
+   "dsr": {
+    "diasUteis": 26,
+    "repousos": 5
+   }
+  },
+  "esperado": {
+   "horaNormal": 5455,
+   "linhas": [
+    122727,
+    43636
+   ],
+   "horasExtras": 166363,
+   "dsr": 31993,
+   "total": 198356,
+   "decimoTerceiro": 16530,
+   "ferias": 22040,
+   "fgts": 15868,
+   "simulacao": {
+    "aumentoBruto": 198356,
+    "aumentoLiquido": 143809,
+    "diferencaInss": 0,
+    "diferencaIrrf": 54547,
+    "dependentes": 0
+   }
+  }
+ },
+ {
+  "nome": "R$ 4.800, 36 horas (divisor 180)",
+  "entrada": {
+   "salario": 480000,
+   "divisor": 180,
+   "lancamentos": [
+    {
+     "minutos": 500,
+     "adicionalPorMil": 500,
+     "noturna": false
+    }
+   ]
+  },
+  "esperado": {
+   "horaNormal": 2667,
+   "linhas": [
+    33333
+   ],
+   "horasExtras": 33333,
+   "dsr": 0,
+   "total": 33333,
+   "decimoTerceiro": 2778,
+   "ferias": 3704,
+   "fgts": 2667
+  }
+ },
+ {
+  "nome": "divisor 210 (42 horas, conta do TST sem texto oficial)",
+  "entrada": {
+   "salario": 300000,
+   "divisor": 210,
+   "lancamentos": [
+    {
+     "minutos": 600,
+     "adicionalPorMil": 500,
+     "noturna": false
+    }
+   ]
+  },
+  "esperado": {
+   "horaNormal": 1429,
+   "linhas": [
+    21429
+   ],
+   "horasExtras": 21429,
+   "dsr": 0,
+   "total": 21429,
+   "decimoTerceiro": 1786,
+   "ferias": 2381,
+   "fgts": 1714
+  }
+ },
+ {
+  "nome": "horas de fevereiro/2023: reflexos sem o DSR (OJ 394 antiga)",
+  "entrada": {
+   "salario": 250000,
+   "divisor": 220,
+   "lancamentos": [
+    {
+     "minutos": 600,
+     "adicionalPorMil": 500,
+     "noturna": false
+    }
+   ],
+   "dsr": {
+    "diasUteis": 22,
+    "repousos": 6
+   },
+   "referencia": {
+    "ano": 2023,
+    "mes": 2
+   }
+  },
+  "esperado": {
+   "horaNormal": 1136,
+   "linhas": [
+    17045
+   ],
+   "horasExtras": 17045,
+   "dsr": 4649,
+   "total": 21694,
+   "decimoTerceiro": 1420,
+   "ferias": 1894,
+   "fgts": 1364
+  }
+ },
+ {
+  "nome": "horas de abril/2023: reflexos com o DSR (OJ 394 nova)",
+  "entrada": {
+   "salario": 250000,
+   "divisor": 220,
+   "lancamentos": [
+    {
+     "minutos": 600,
+     "adicionalPorMil": 500,
+     "noturna": false
+    }
+   ],
+   "dsr": {
+    "diasUteis": 23,
+    "repousos": 7
+   },
+   "referencia": {
+    "ano": 2023,
+    "mes": 4
+   }
+  },
+  "esperado": {
+   "horaNormal": 1136,
+   "linhas": [
+    17045
+   ],
+   "horasExtras": 17045,
+   "dsr": 5188,
+   "total": 22233,
+   "decimoTerceiro": 1853,
+   "ferias": 2470,
+   "fgts": 1779
+  }
+ },
+ {
+  "nome": "valores que exigem precisão: R$ 9.876,54, 1h07 noturna a 75%",
+  "entrada": {
+   "salario": 987654,
+   "adicionaisFixos": 12345,
+   "divisor": 220,
+   "lancamentos": [
+    {
+     "minutos": 67,
+     "adicionalPorMil": 750,
+     "noturna": true
+    }
+   ]
+  },
+  "esperado": {
+   "horaNormal": 4545,
+   "linhas": [
+    12182
+   ],
+   "horasExtras": 12182,
+   "dsr": 0,
+   "total": 12182,
+   "decimoTerceiro": 1015,
+   "ferias": 1354,
+   "fgts": 975
+  }
+ }
+]
