@@ -80,7 +80,7 @@ Um de cada vez.
 | ordem | artigo | de onde veio | buscas para printar | status |
 |---|---|---|---|---|
 | 1 | Loja pode cobrar mais caro no cartão? Preço no Pix, à vista e parcelado | `black friday`, modelos de IA (formas de pagamento, parcelamento) | `loja pode cobrar mais caro no cartão`; `preço diferente no pix e no cartão`; `valor mínimo no cartão` | **publicado em 23/10/2026** — [doc](artigos/loja-pode-cobrar-mais-caro-no-cartao.md), `/artigos/loja-pode-cobrar-mais-caro-no-cartao` |
-| 2 | Propaganda enganosa: o que é, exemplos e como denunciar | `black friday`, motores de busca ("propaganda enganosa black friday", 390/mês) | `propaganda enganosa`; `propaganda enganosa o que fazer`; `como denunciar propaganda enganosa` | em produção |
+| 2 | Propaganda enganosa: o que é, exemplos e como denunciar | `black friday`, motores de busca ("propaganda enganosa black friday", 390/mês) | `propaganda enganosa`; `propaganda enganosa o que fazer`; `como denunciar propaganda enganosa` | **publicado em 23/10/2026** — [doc](artigos/propaganda-enganosa.md), `/artigos/propaganda-enganosa` |
 
 ## Prints pendentes
 
@@ -106,6 +106,7 @@ Lembrar o Renato desta lista a cada entrega.
 | Multa de contrato de aluguel (`/artigos/multa-contrato-de-aluguel`), publicado em 23/10/2026 | `multa rescisão contrato aluguel`; `multa por quebra de contrato de aluguel como calcular`; `sair do aluguel antes do prazo` | **aguardando prints** |
 | Plano de saúde negou cobertura (`/artigos/plano-de-saude-negou-cobertura`), publicado em 23/10/2026 | `plano de saúde negou cobertura o que fazer`; `reclamar na ans`; `rol da ans` | **aguardando prints** |
 | Loja pode cobrar mais caro no cartão (`/artigos/loja-pode-cobrar-mais-caro-no-cartao`), publicado em 23/10/2026 | `loja pode cobrar mais caro no cartão`; `preço diferente no pix e no cartão`; `valor mínimo no cartão` | **aguardando prints** |
+| Propaganda enganosa (`/artigos/propaganda-enganosa`), publicado em 23/10/2026 | `propaganda enganosa`; `propaganda enganosa o que fazer`; `como denunciar propaganda enganosa` | **aguardando prints** |
 
 ## Temas-base (o ano todo)
 

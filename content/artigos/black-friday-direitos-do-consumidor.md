@@ -142,7 +142,7 @@ Em todos os casos, o dinheiro volta **com correção**. Na compra com cartão, o
 
 ## A Black Friday é enganação? Propaganda enganosa e desconto falso
 
-A data em si não é enganação, mas o desconto falso é. O truque mais conhecido é a **"metade do dobro"**: a loja sobe o preço dias antes e depois anuncia um "desconto" que só leva o produto de volta ao preço normal. Anunciar um preço ou um desconto falso é publicidade enganosa, proibida pelo CDC ([artigo 37](https://www2.camara.leg.br/legin/fed/lei/1990/lei-8078-11-setembro-1990-365086-normaatualizada-pl.html)), e a própria Senacon, do Ministério da Justiça, alerta para o "tudo pela metade do dobro" na sua [cartilha da Black Friday](https://www.gov.br/mj/pt-br/assuntos/arquivos-imprensa/senacon/cartilha-black-friday-senacon-2025).
+A data em si não é enganação, mas o desconto falso é. O truque mais conhecido é a **"metade do dobro"**: a loja sobe o preço dias antes e depois anuncia um "desconto" que só leva o produto de volta ao preço normal. Anunciar um preço ou um desconto falso é publicidade enganosa, proibida pelo CDC ([artigo 37](https://www2.camara.leg.br/legin/fed/lei/1990/lei-8078-11-setembro-1990-365086-normaatualizada-pl.html)), e a própria Senacon, do Ministério da Justiça, alerta para o "tudo pela metade do dobro" na sua [cartilha da Black Friday](https://www.gov.br/mj/pt-br/assuntos/arquivos-imprensa/senacon/cartilha-black-friday-senacon-2025). Veja [o que é propaganda enganosa e como denunciar](/artigos/propaganda-enganosa).
 
 Para não cair:
 
