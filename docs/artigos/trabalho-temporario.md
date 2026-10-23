@@ -28,6 +28,17 @@ Recebidos em 20/10/2026 (celular, 21h14–21h16), em
 | 13 PAA (seguro) | direitos do temporário; que contrato não dá seguro; o que recebo no fim; temporário cancela o seguro | coberto pelos H2 e pela FAQ |
 | 14–15 outras pesquisas (seguro) | trabalhei 9/12/8 meses; 6 meses; perde o seguro; FGTS; 40% do FGTS; aviso prévio; rescisão | FAQ "trabalhei 9 meses"; FAQ 40%; FAQ aviso prévio |
 
+### AnswerThePublic `trabalho temporário` (23/10/2026)
+
+Relatórios enviados pelo Renato em 23/10/2026, em `prints/trabalho-temporario/answerthepublic/`.
+
+| relatório | conteúdo | onde entrou |
+|---|---|---|
+| Motores de busca (680 buscas, com volume) | "trabalho temporário" (3,6 mil); "contrato(s) de trabalho temporário" (1,9 mil + 1,6 mil); cidades e agências (SP, Curitiba, RJ…); "legislação/lei" (480 + 390); "final de ano" (260); seguro-desemprego (140 + variações); "diferença entre trabalho temporário e por tempo determinado"; "suja a carteira"; "perde o Bolsa Família"; "estabilidade gestante"; "tem direito a décimo terceiro" | H2 novo "Qual a diferença entre trabalho temporário e contrato por prazo determinado?" (tabela; CLT, arts. 443, 445, 451, 452 e 479). Lei, seguro, 13º, gestante e fim de ano já cobertos. Cidades e agências: fora (vagas, não direito). "Suja a carteira" e Bolsa Família: fora (sem fonte) |
+| Perguntas do Google (PAA) | Como funciona? · Direitos? · Quem paga o salário? · Aparece na carteira digital? · 40% do FGTS? · Conta para a aposentadoria? · 9 meses dá seguro? · Aviso prévio? · Prazo limite? · Desvantagens? · **Diferença entre CLT e temporário?** · É CLT? · O que recebo no fim? · Valor da rescisão? | todas já tinham H2, H3, tabela ou FAQ, menos a diferença para CLT, que virou o H2 novo |
+| Modelos de IA | agências, vagas, currículo, setores (fora); direitos segundo a lei; diferença para contrato a termo | direitos já cobertos; diferença no H2 novo |
+
+
 ## Fontes confirmadas
 
 | fato | fonte | tipo |

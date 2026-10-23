@@ -4,6 +4,7 @@ tituloSeo: "Trabalho temporário de fim de ano: direitos, 13º e seguro"
 descricao: "Trabalho temporário de fim de ano tem carteira, 13º, férias com 1/3 e FGTS. Veja o que recebe no fim do contrato, se tem seguro-desemprego e o caso da gestante."
 categoria: trabalho
 publicadoEm: 2026-10-21
+atualizadoEm: 2026-10-23
 faq:
   - pergunta: "Quem paga o salário do trabalhador temporário?"
     resposta: "A agência, isto é, a empresa de trabalho temporário que assinou a sua carteira. A loja ou fábrica onde você trabalha responde se a agência não pagar (Lei 6.019, artigo 10, § 7º)."
@@ -126,6 +127,22 @@ A "nova lei" é a **Lei 13.429/2017**, que reescreveu a Lei 6.019. Desde ela ([L
 - é proibido contratar temporário para substituir quem está em greve.
 
 O trabalho temporário só vale para **substituir** empregados afastados (férias, licença) ou para **aumento de serviço** imprevisível ou sazonal, como o Natal ([Lei 6.019, artigo 2º, § 2º](https://www2.camara.leg.br/legin/fed/lei/1970-1979/lei-6019-3-janeiro-1974-357401-normaatualizada-pl.html)). Demanda contínua ou a abertura de uma filial não justificam o contrato ([Decreto 10.854, artigo 43](https://www2.camara.leg.br/legin/fed/decret/2021/decreto-10854-10-novembro-2021-791950-normaatualizada-pe.html)).
+
+## Qual a diferença entre trabalho temporário e contrato por prazo determinado?
+
+Os dois têm carteira assinada e data para acabar, mas são contratos diferentes:
+
+| | Trabalho temporário | Contrato por prazo determinado (CLT) |
+| --- | --- | --- |
+| Quem contrata | a **agência** de trabalho temporário, que coloca você na loja ou na fábrica | a **própria empresa** |
+| Lei | Lei 6.019/1974 | CLT, artigos 443 a 445 |
+| Quando pode ser usado | substituir empregado afastado ou aumento de serviço sazonal, como o Natal | serviço transitório, atividade transitória da empresa ou **contrato de experiência** |
+| Duração máxima | 180 dias, mais 90 de prorrogação | **2 anos**; o de experiência, **90 dias** |
+| Saída antes do prazo, sem justa causa | verbas do contrato, sem a indenização de metade dos dias que faltavam | a empresa paga **metade do que você receberia até o fim** do contrato (CLT, artigo 479) |
+
+Na CLT, o contrato por prazo determinado que for **prorrogado mais de uma vez** vira contrato **sem prazo** (artigo 451), e um novo contrato com prazo feito menos de 6 meses depois do anterior também é considerado sem prazo, salvo exceções (artigo 452) ([CLT](https://www2.camara.leg.br/legin/fed/declei/1940-1949/decreto-lei-5452-1-maio-1943-415500-normaatualizada-pe.html)).
+
+Já o contrato **sem prazo**, o "CLT comum", não tem data para acabar: na demissão sem justa causa, há aviso prévio e multa de 40% do FGTS; veja [o que recebe quem é demitido sem justa causa](/artigos/demissao-sem-justa-causa).
 
 ## O temporário pode ser efetivado?
 
