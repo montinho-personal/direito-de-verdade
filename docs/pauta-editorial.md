@@ -62,6 +62,16 @@ como no lote anterior. Um de cada vez, na ordem.
 | 1 | Pensão alimentícia: quanto se paga, como é calculada e como pedir | busca mais alta de Família o ano todo; o grupo só tinha a pensão no 13º; o mito dos 30% | `pensão alimentícia`; `quanto é a pensão alimentícia`; `pensão alimentícia desempregado` | **publicado em 23/10/2026 sem prints** — [doc](artigos/pensao-alimenticia.md), `/artigos/pensao-alimenticia` |
 | 2 | BPC/LOAS 2026: quem tem direito, renda e como pedir | busca alta o ano todo; segundo artigo de Previdência e INSS; liga com auxílio-doença | `bpc loas`; `bpc loas quem tem direito`; `bpc renda per capita` | **publicado em 23/10/2026 sem prints** — [doc](artigos/bpc-loas.md), `/artigos/bpc-loas` |
 
+## Próximos dois (pedidos em 23/10/2026, segundo lote)
+
+Pedido do Renato em 23/10/2026 ("Criar próximos 2 artigos"), sem prints. Um de
+cada vez, na ordem.
+
+| ordem | artigo | por que agora | buscas para printar | status |
+|---|---|---|---|---|
+| 1 | Multa por quebra de contrato de aluguel: como calcular e quando não paga | abre a categoria Moradia; busca alta o ano todo, mudanças no fim e no começo do ano | `multa rescisão contrato aluguel`; `multa por quebra de contrato de aluguel como calcular`; `sair do aluguel antes do prazo` | **publicado em 23/10/2026 sem prints** — [doc](artigos/multa-contrato-de-aluguel.md), `/artigos/multa-contrato-de-aluguel` |
+| 2 | Plano de saúde negou cobertura: o que fazer | Consumidor; busca alta o ano todo; liga com Procon e cobrança indevida | `plano de saúde negou cobertura o que fazer`; `reclamar na ans`; `rol da ans` | em produção |
+
 ## Prints pendentes
 
 Artigos publicados antes dos prints do Google, a pedido do Renato em
@@ -83,6 +93,7 @@ Lembrar o Renato desta lista a cada entrega.
 | Rescisão indireta (`/artigos/rescisao-indireta`), publicado em 22/10/2026 | `rescisão indireta`; `rescisão indireta o que recebe`; `salário atrasado o que fazer` | **prints recebidos e artigo revisado em 22/10/2026** |
 | Pensão alimentícia (`/artigos/pensao-alimenticia`), publicado em 23/10/2026 | `pensão alimentícia`; `quanto é a pensão alimentícia`; `pensão alimentícia desempregado` | **aguardando prints** |
 | BPC/LOAS 2026 (`/artigos/bpc-loas`), publicado em 23/10/2026 | `bpc loas`; `bpc loas quem tem direito`; `bpc renda per capita` | **aguardando prints** |
+| Multa de contrato de aluguel (`/artigos/multa-contrato-de-aluguel`), publicado em 23/10/2026 | `multa rescisão contrato aluguel`; `multa por quebra de contrato de aluguel como calcular`; `sair do aluguel antes do prazo` | **aguardando prints** |
 
 ## Temas-base (o ano todo)
 
@@ -120,7 +131,7 @@ Lembrar o Renato desta lista a cada entrega.
 - Plano de saúde que nega cobertura
 
 ### Moradia e Aluguel
-- Multa por sair antes do fim do contrato
+- ~~Multa por sair antes do fim do contrato~~ — **publicado em 23/10/2026** ([doc](artigos/multa-contrato-de-aluguel.md), `/artigos/multa-contrato-de-aluguel`)
 - Reajuste do aluguel
 - Fiador
 - Usucapião
@@ -162,3 +173,4 @@ Lembrar o Renato desta lista a cada entrega.
 - Cobrança indevida: valores do Juizado e tese do Tema 929 do STJ (julgado em 15/09/2026, a publicar) em `/artigos/cobranca-indevida`.
 - Pensão alimentícia: salário mínimo dos exemplos em `/artigos/pensao-alimenticia`; Pix Pensão em vigor em julho de 2027 (Lei 15.479/2026).
 - BPC/LOAS: salário mínimo, 1/4 e 1/2 do mínimo e auxílio-inclusão em `/artigos/bpc-loas`; regra final da biometria (CIN obrigatória, segundo o governo, a partir de 2028).
+- Multa de contrato de aluguel: valores do Juizado (20 salários mínimos) em `/artigos/multa-contrato-de-aluguel`.
