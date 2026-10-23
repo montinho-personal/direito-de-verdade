@@ -4,6 +4,7 @@ tituloSeo: "Pensão alimentícia no 13º salário: incide? O que diz o STJ"
 descricao: "Pensão alimentícia no 13º salário: em percentual do salário, incide sim (Tema 192 do STJ); em valor fixo, em regra não. Veja quanto descontar e o IR."
 categoria: familia
 publicadoEm: 2026-10-19
+atualizadoEm: 2026-10-23
 faq:
   - pergunta: "A pensão alimentícia também incide sobre as férias?"
     resposta: "Incide sobre o **terço constitucional de férias**, o adicional de 1/3 pago junto com as férias. É a mesma tese do STJ que vale para o 13º (Tema 192), e a mesma ressalva: vale para pensão fixada em percentual do salário, salvo se a decisão ou o acordo disser o contrário."
@@ -57,7 +58,7 @@ Por isso, a primeira coisa a fazer é **ler a decisão ou o acordo**. Ali está 
 
 ### Quem paga pensão e não tem carteira assinada
 
-Quem trabalha como autônomo ou MEI não recebe 13º, então não há 13º sobre o qual a pensão possa incidir. Vale o valor ou o critério que a decisão fixou.
+Quem trabalha como autônomo ou MEI não recebe 13º, então não há 13º sobre o qual a pensão possa incidir. Vale o valor ou o critério que a decisão fixou; veja [como o valor da pensão é calculado](/artigos/pensao-alimenticia) para autônomos e desempregados.
 
 ## Quanto descontar de pensão alimentícia no 13º salário?
 

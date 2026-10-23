@@ -52,6 +52,16 @@ Um de cada vez, na ordem, cada um só depois dos prints.
 | 2 | Auxílio-doença 2026 (auxílio por incapacidade): quem tem direito, valor e perícia | o grupo de Previdência e INSS ainda não tem nenhum artigo; busca alta o ano todo; liga com FGTS (afastamento sem depósito) e férias | `auxílio doença`; `auxílio doença valor 2026`; `perícia do inss` | **publicado em 22/10/2026 sem prints** — [doc](artigos/auxilio-doenca.md), `/artigos/auxilio-doenca` |
 | 3 | Cobrança indevida: devolução em dobro e como pedir | dezembro e janeiro têm faturas de cartão, contas e boletos de fim de ano; liga com estorno, nome sujo, Procon e golpes | `cobrança indevida`; `devolução em dobro cobrança indevida`; `cobrança indevida no cartão de crédito` | **publicado em 22/10/2026 sem prints** — [doc](artigos/cobranca-indevida.md), `/artigos/cobranca-indevida` |
 
+## Próximos dois (sugeridos em 23/10/2026)
+
+Pedido do Renato em 23/10/2026 ("Pode criar próximos 2 artigos"), sem prints,
+como no lote anterior. Um de cada vez, na ordem.
+
+| ordem | artigo | por que agora | buscas para printar | status |
+|---|---|---|---|---|
+| 1 | Pensão alimentícia: quanto se paga, como é calculada e como pedir | busca mais alta de Família o ano todo; o grupo só tinha a pensão no 13º; o mito dos 30% | `pensão alimentícia`; `quanto é a pensão alimentícia`; `pensão alimentícia desempregado` | **publicado em 23/10/2026 sem prints** — [doc](artigos/pensao-alimenticia.md), `/artigos/pensao-alimenticia` |
+| 2 | BPC/LOAS 2026: quem tem direito, renda e como pedir | busca alta o ano todo; segundo artigo de Previdência e INSS; liga com auxílio-doença | `bpc loas`; `bpc loas quem tem direito`; `bpc renda per capita` | em produção |
+
 ## Prints pendentes
 
 Artigos publicados antes dos prints do Google, a pedido do Renato em
@@ -71,6 +81,7 @@ Lembrar o Renato desta lista a cada entrega.
 | Cobrança indevida (`/artigos/cobranca-indevida`), publicado em 22/10/2026 | `cobrança indevida`; `devolução em dobro cobrança indevida`; `cobrança indevida no cartão de crédito` | **aguardando prints** |
 | Auxílio-doença 2026 (`/artigos/auxilio-doenca`), publicado em 22/10/2026 | `auxílio doença`; `auxílio doença valor 2026`; `perícia do inss` | **aguardando prints** |
 | Rescisão indireta (`/artigos/rescisao-indireta`), publicado em 22/10/2026 | `rescisão indireta`; `rescisão indireta o que recebe`; `salário atrasado o que fazer` | **prints recebidos e artigo revisado em 22/10/2026** |
+| Pensão alimentícia (`/artigos/pensao-alimenticia`), publicado em 23/10/2026 | `pensão alimentícia`; `quanto é a pensão alimentícia`; `pensão alimentícia desempregado` | **aguardando prints** |
 
 ## Temas-base (o ano todo)
 
@@ -92,7 +103,7 @@ Lembrar o Renato desta lista a cada entrega.
 - Benefício negado: como recorrer
 
 ### Família
-- Pensão alimentícia: quanto se paga
+- ~~Pensão alimentícia: quanto se paga~~ — **publicado em 23/10/2026** ([doc](artigos/pensao-alimenticia.md), `/artigos/pensao-alimenticia`)
 - Divórcio em cartório ou na Justiça
 - Guarda compartilhada
 - União estável: direitos
@@ -148,3 +159,4 @@ Lembrar o Renato desta lista a cada entrega.
 - Como reclamar no Procon: valores de 20 e 40 salários mínimos do Juizado em `/artigos/como-reclamar-procon`.
 - Auxílio-doença: salário mínimo e teto do INSS do ano, limite do Atestmed (90 dias temporários; revisar em set/2027) em `/artigos/auxilio-doenca`.
 - Cobrança indevida: valores do Juizado e tese do Tema 929 do STJ (julgado em 15/09/2026, a publicar) em `/artigos/cobranca-indevida`.
+- Pensão alimentícia: salário mínimo dos exemplos em `/artigos/pensao-alimenticia`; Pix Pensão em vigor em julho de 2027 (Lei 15.479/2026).
