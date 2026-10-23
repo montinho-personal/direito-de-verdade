@@ -4,7 +4,7 @@ tituloSeo: "Como contestar compra no cartão de crédito: prazo e estorno"
 descricao: "Como contestar compra no cartão de crédito no Nubank, Itaú, BB ou Caixa: avise 10 dias antes do vencimento e não pague o valor. Veja quanto demora o estorno."
 categoria: consumidor
 publicadoEm: 2026-10-21
-atualizadoEm: 2026-10-22
+atualizadoEm: 2026-10-23
 faq:
   - pergunta: "Como cancelar uma compra não reconhecida no cartão de crédito?"
     resposta: "Pelo app do banco: abra a fatura, toque na compra e escolha a opção de contestar ou de não reconhecer. Peça também o bloqueio do cartão e registre boletim de ocorrência, como orienta o Ministério da Justiça."
@@ -58,7 +58,7 @@ Em todos esses bancos, a contestação fica no **app**, na **fatura do cartão**
 
 Se o problema é com a loja (produto que não chegou, pedido cancelado), tente resolver com ela antes e guarde as conversas: elas entram como prova na contestação.
 
-## O que diz a lei sobre contestar compra no cartão
+## O que diz a lei do consumidor sobre estorno e contestação no cartão
 
 Desde 2021, o Código de Defesa do Consumidor proíbe o banco de ([artigo 54-G](https://www2.camara.leg.br/legin/fed/lei/1990/lei-8078-11-setembro-1990-365086-normaatualizada-pl.html)):
 
@@ -79,6 +79,16 @@ Desde 2021, o Código de Defesa do Consumidor proíbe o banco de ([artigo 54-G](
 
 - **A loja cancela a compra** (você desistiu, ela cancelou o pedido): a loja pede o estorno à operadora, e o valor volta como **crédito na fatura**. Quando você desiste de uma compra pela internet, a loja deve avisar o cartão **imediatamente** para a compra não ser lançada ou ser estornada ([Decreto 7.962/2013, artigo 5º](https://www2.camara.leg.br/legin/fed/decret/2013/decreto-7962-15-marco-2013-775557-publicacaooriginal-139266-pe.html)).
 - **Você contesta no banco**: a análise passa pelo banco e pela bandeira, e o prazo é o de cada um. O que a lei garante é que, contestando a tempo, você não paga o valor enquanto espera.
+
+### O estorno cai na hora?
+
+Em geral, não. Quando a loja cancela, ela pede o estorno à operadora, e o crédito aparece na fatura depois que a operadora processa o pedido; quando você contesta, há a análise do banco e da bandeira. Como **nenhuma lei fixa o prazo**, ele muda de banco para banco. O que você pode fazer é contestar antes do vencimento, para não pagar o valor enquanto espera.
+
+### Estorno de compra parcelada no cartão: como funciona?
+
+Quando uma compra parcelada é cancelada ou a contestação é aceita, **a compra inteira sai da sua conta**: as parcelas que você já pagou voltam como **crédito** e as parcelas futuras **não podem continuar sendo cobradas**. Na desistência de compra pela internet, a loja tem que avisar a operadora para que "a transação não seja lançada na fatura do consumidor" ou "seja efetivado o estorno do valor" ([Decreto 7.962/2013, artigo 5º, § 3º](https://www2.camara.leg.br/legin/fed/decret/2013/decreto-7962-15-marco-2013-775557-publicacaooriginal-139266-pe.html)).
+
+O jeito de mostrar isso na fatura muda de banco para banco. O que importa é a conta final: somando créditos e parcelas, **você não pode pagar nada** da compra cancelada. Se as parcelas continuarem aparecendo nas faturas seguintes, conteste cada uma e cobre a loja e o banco com o protocolo do cancelamento.
 
 ### Como saber se o estorno foi feito?
 

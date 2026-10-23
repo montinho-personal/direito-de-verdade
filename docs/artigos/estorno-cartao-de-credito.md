@@ -29,6 +29,10 @@ publicado em 21/10 sem prints; esta revisão o reorganizou pelas buscas reais.
 | 12 visão geral de IA | conferir se é fraude: razão social, cartão adicional, assinaturas | passo 1 do passo a passo |
 | 13 PAA | sou obrigado a pagar compra contestada; prazo para contestar não reconhecida; fiz o BO, procedimento da polícia; como cancelar compra não reconhecida | H3 "sou obrigado"; H3 prazo; FAQ "como cancelar". Procedimento da polícia: fora |
 | 14–15 outras pesquisas | dano moral; fizeram uma compra e não fui eu; BO; Bradesco; contestar no débito; contestar bloqueia cartão | H2 com "não fui eu"; FAQ bloqueio; FAQ débito |
+| 16 autocompletar `estorno cartão` (23/10/2026) | de crédito; como funciona; nubank quanto tempo; parcelado; compra parcelada; nubank; quanto tempo demora; mastercard | H3 novo "Estorno de compra parcelada no cartão: como funciona?" (Decreto 7.962, art. 5º, § 3º). Quanto tempo e Nubank já estavam cobertos. Mastercard: fora (regra de bandeira, sem fonte pública aberta) |
+| 17 visão geral de IA | estorno é devolução na fatura por cancelamento, erro, defeito ou fraude; procurar a loja e guardar protocolo; 7 dias de arrependimento; prazo de 1 a 2 ciclos de fatura | lead e H2 já cobriam; "1 a 2 ciclos" não entra (sem fonte oficial; a lei não fixa prazo) |
+| 18 PAA | O que acontece quando tem estorno? · Quanto tempo para cair? · O que diz a lei do consumidor sobre estorno? · O que fazer quando o estorno não é realizado? | H2 da lei renomeado para "O que diz a lei do consumidor sobre estorno e contestação no cartão"; H3 novo "O estorno cai na hora?"; os outros já tinham H2/H3 |
+| 19–20 outras pesquisas | quantos dias; fatura paga; compra parcelada; como funciona; nubank; maquininha; débito; cai na hora; stone; caixa; itaú; banco do brasil | "cai na hora" e "parcelada" nos H3 novos; fatura paga, débito e bancos já cobertos. Maquininha e Stone (lado do lojista): fora |
 
 ## Fontes confirmadas
 
