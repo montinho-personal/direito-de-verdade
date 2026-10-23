@@ -171,7 +171,7 @@ Fora da lista, um site também merece desconfiança quando não mostra **nome da
 
 Se o mesmo produto aparece com dois preços (na etiqueta e no caixa, no anúncio e no carrinho, na gôndola e no leitor de código de barras), **você paga o menor** ([Lei nº 10.962/2004, artigo 5º](https://www2.camara.leg.br/legin/fed/lei/2004/lei-10962-11-outubro-2004-534307-normaatualizada-pl.html)).
 
-A mesma lei manda a loja informar com clareza os descontos que dependem da forma de pagamento, como um preço menor no Pix do que no cartão.
+A mesma lei manda a loja informar com clareza os descontos que dependem da forma de pagamento, como um preço menor no Pix do que no cartão. Veja [quando a loja pode cobrar mais caro no cartão](/artigos/loja-pode-cobrar-mais-caro-no-cartao).
 
 ## Como reclamar se a loja não resolver
 

@@ -72,6 +72,16 @@ cada vez, na ordem.
 | 1 | Multa por quebra de contrato de aluguel: como calcular e quando não paga | abre a categoria Moradia; busca alta o ano todo, mudanças no fim e no começo do ano | `multa rescisão contrato aluguel`; `multa por quebra de contrato de aluguel como calcular`; `sair do aluguel antes do prazo` | **publicado em 23/10/2026 sem prints** — [doc](artigos/multa-contrato-de-aluguel.md), `/artigos/multa-contrato-de-aluguel` |
 | 2 | Plano de saúde negou cobertura: o que fazer | Consumidor; busca alta o ano todo; liga com Procon e cobrança indevida | `plano de saúde negou cobertura o que fazer`; `reclamar na ans`; `rol da ans` | **publicado em 23/10/2026 sem prints** — [doc](artigos/plano-de-saude-negou-cobertura.md), `/artigos/plano-de-saude-negou-cobertura` |
 
+## Ideias do AnswerThePublic (23/10/2026)
+
+Pedido do Renato: ao ler os relatórios, criar os artigos novos que aparecerem.
+Um de cada vez.
+
+| ordem | artigo | de onde veio | buscas para printar | status |
+|---|---|---|---|---|
+| 1 | Loja pode cobrar mais caro no cartão? Preço no Pix, à vista e parcelado | `black friday`, modelos de IA (formas de pagamento, parcelamento) | `loja pode cobrar mais caro no cartão`; `preço diferente no pix e no cartão`; `valor mínimo no cartão` | **publicado em 23/10/2026** — [doc](artigos/loja-pode-cobrar-mais-caro-no-cartao.md), `/artigos/loja-pode-cobrar-mais-caro-no-cartao` |
+| 2 | Propaganda enganosa: o que é, exemplos e como denunciar | `black friday`, motores de busca ("propaganda enganosa black friday", 390/mês) | `propaganda enganosa`; `propaganda enganosa o que fazer`; `como denunciar propaganda enganosa` | em produção |
+
 ## Prints pendentes
 
 Artigos publicados antes dos prints do Google, a pedido do Renato em
@@ -95,6 +105,7 @@ Lembrar o Renato desta lista a cada entrega.
 | BPC/LOAS 2026 (`/artigos/bpc-loas`), publicado em 23/10/2026 | `bpc loas`; `bpc loas quem tem direito`; `bpc renda per capita` | **aguardando prints** |
 | Multa de contrato de aluguel (`/artigos/multa-contrato-de-aluguel`), publicado em 23/10/2026 | `multa rescisão contrato aluguel`; `multa por quebra de contrato de aluguel como calcular`; `sair do aluguel antes do prazo` | **aguardando prints** |
 | Plano de saúde negou cobertura (`/artigos/plano-de-saude-negou-cobertura`), publicado em 23/10/2026 | `plano de saúde negou cobertura o que fazer`; `reclamar na ans`; `rol da ans` | **aguardando prints** |
+| Loja pode cobrar mais caro no cartão (`/artigos/loja-pode-cobrar-mais-caro-no-cartao`), publicado em 23/10/2026 | `loja pode cobrar mais caro no cartão`; `preço diferente no pix e no cartão`; `valor mínimo no cartão` | **aguardando prints** |
 
 ## Temas-base (o ano todo)
 
