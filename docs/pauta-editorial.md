@@ -70,7 +70,7 @@ cada vez, na ordem.
 | ordem | artigo | por que agora | buscas para printar | status |
 |---|---|---|---|---|
 | 1 | Multa por quebra de contrato de aluguel: como calcular e quando não paga | abre a categoria Moradia; busca alta o ano todo, mudanças no fim e no começo do ano | `multa rescisão contrato aluguel`; `multa por quebra de contrato de aluguel como calcular`; `sair do aluguel antes do prazo` | **publicado em 23/10/2026 sem prints** — [doc](artigos/multa-contrato-de-aluguel.md), `/artigos/multa-contrato-de-aluguel` |
-| 2 | Plano de saúde negou cobertura: o que fazer | Consumidor; busca alta o ano todo; liga com Procon e cobrança indevida | `plano de saúde negou cobertura o que fazer`; `reclamar na ans`; `rol da ans` | em produção |
+| 2 | Plano de saúde negou cobertura: o que fazer | Consumidor; busca alta o ano todo; liga com Procon e cobrança indevida | `plano de saúde negou cobertura o que fazer`; `reclamar na ans`; `rol da ans` | **publicado em 23/10/2026 sem prints** — [doc](artigos/plano-de-saude-negou-cobertura.md), `/artigos/plano-de-saude-negou-cobertura` |
 
 ## Prints pendentes
 
@@ -94,6 +94,7 @@ Lembrar o Renato desta lista a cada entrega.
 | Pensão alimentícia (`/artigos/pensao-alimenticia`), publicado em 23/10/2026 | `pensão alimentícia`; `quanto é a pensão alimentícia`; `pensão alimentícia desempregado` | **aguardando prints** |
 | BPC/LOAS 2026 (`/artigos/bpc-loas`), publicado em 23/10/2026 | `bpc loas`; `bpc loas quem tem direito`; `bpc renda per capita` | **aguardando prints** |
 | Multa de contrato de aluguel (`/artigos/multa-contrato-de-aluguel`), publicado em 23/10/2026 | `multa rescisão contrato aluguel`; `multa por quebra de contrato de aluguel como calcular`; `sair do aluguel antes do prazo` | **aguardando prints** |
+| Plano de saúde negou cobertura (`/artigos/plano-de-saude-negou-cobertura`), publicado em 23/10/2026 | `plano de saúde negou cobertura o que fazer`; `reclamar na ans`; `rol da ans` | **aguardando prints** |
 
 ## Temas-base (o ano todo)
 
@@ -128,7 +129,7 @@ Lembrar o Renato desta lista a cada entrega.
 - Produto com defeito: prazos de 30 e 90 dias
 - Cancelamento de internet/celular e multa de fidelidade
 - Voo atrasado ou cancelado
-- Plano de saúde que nega cobertura
+- ~~Plano de saúde que nega cobertura~~ — **publicado em 23/10/2026** ([doc](artigos/plano-de-saude-negou-cobertura.md), `/artigos/plano-de-saude-negou-cobertura`)
 
 ### Moradia e Aluguel
 - ~~Multa por sair antes do fim do contrato~~ — **publicado em 23/10/2026** ([doc](artigos/multa-contrato-de-aluguel.md), `/artigos/multa-contrato-de-aluguel`)

@@ -4,7 +4,7 @@ tituloSeo: "Como reclamar no Procon online e no Consumidor.gov.br"
 descricao: "Como reclamar no Procon online: com a conta gov.br prata ou ouro, sem sair de casa. Veja o passo a passo, os prazos de resposta e o que acontece depois."
 categoria: consumidor
 publicadoEm: 2026-10-21
-atualizadoEm: 2026-10-21
+atualizadoEm: 2026-10-23
 faq:
   - pergunta: "Qual é melhor: o Consumidor.gov.br ou o Reclame Aqui?"
     resposta: "O Consumidor.gov.br é o serviço público do governo federal: a empresa cadastrada tem até 10 dias para responder e os dados são acompanhados pela Senacon. O Reclame Aqui não é um serviço público. Se nenhum resolver, o caminho é o Procon ou o Juizado."
@@ -164,5 +164,5 @@ Esses setores têm agências que recebem reclamações. Fale **primeiro com a em
 
 - **Banco**: [Banco Central](https://www.bcb.gov.br/meubc/registrar_reclamacao), com conta gov.br prata ou ouro. A instituição responde em até 10 dias úteis, mas o Banco Central não resolve casos individuais: a reclamação serve para fiscalizar.
 - **Telefone, internet e TV**: Anatel, pelo [telefone 1331](https://www.gov.br/anatel/pt-br/canais_atendimento/telefone), de graça, em dias úteis.
-- **Plano de saúde**: ANS, pelo [Disque ANS 0800 701 9656](https://www.gov.br/ans/pt-br/canais_atendimento/canais-de-atendimento-ao-consumidor-1).
+- **Plano de saúde**: ANS, pelo [Disque ANS 0800 701 9656](https://www.gov.br/ans/pt-br/canais_atendimento/canais-de-atendimento-ao-consumidor-1); veja [o que fazer quando o plano nega cobertura](/artigos/plano-de-saude-negou-cobertura).
 - **Conta de luz**: a Aneel orienta [reclamar pelo Consumidor.gov.br](https://www.gov.br/aneel/pt-br/canais_atendimento/reclame-da-distribuidora) ou pelo aplicativo Aneel Consumidor.
