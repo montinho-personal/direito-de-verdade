@@ -33,6 +33,18 @@ Recebidos em 20/10/2026 (celular, 08h12–08h15). Prints em
 | Visão geral de IA `taxa das blusinhas` | sanção em 10/09/2026; ICMS continua; medicamentos | conferido no Senado; medicamentos: fora (regulamentação em até 180 dias) |
 | PAA `taxa das blusinhas` | o que é; como ficou; vai voltar em 2027; comprei 500 reais na Shein, posso ser taxado | H2 e H3 de cada uma |
 
+### AnswerThePublic `taxa das blusinhas` (23/10/2026)
+
+Relatórios enviados pelo Renato em 23/10/2026, em
+`prints/taxa-compras-internacionais/answerthepublic/`.
+
+| relatório | conteúdo | onde entrou |
+|---|---|---|
+| Motores de busca (640 buscas, com volume) | "taxa das blusinhas" (40,5 mil); "fim da taxa das blusinhas" (5,4 mil); **"quem criou a taxa das blusinhas"** (2,4 mil + 1,3 mil + variações); "vai acabar" (1,9 mil); "acabou" (1,6 mil); "o que é" (1,3 mil); "vai cair"; "vai voltar em 2027"; "quem votou a favor"; "arrecadação" | H3 novo "Quem criou a taxa das blusinhas?" (Lei 14.902/2024, emenda da Câmara, Senado manteve, sanção em 27/06/2024, cobrança desde agosto de 2024; Agência Senado). "Acabou", "fim", "o que é" e "vai voltar em 2027" já estavam no H2 e no H3 de vigência. "Quem votou a favor" e arrecadação: fora (sem lista oficial de votos aberta; arrecadação não é dúvida do consumidor) |
+| Perguntas do Google (PAA) | Fui taxado abaixo de US$ 50, o que fazer? · Comprei 500 reais na Shein, posso ser taxado? · Posso fazer várias compras de 50 dólares sem pagar? · Novas regras de 2026 · ICMS de produto importado · Calculadora | já cobertos (H2 da taxa da Shein, exemplo de R$ 500, cobrança indevida e reembolso, calculadora). "Várias compras de 50 dólares": fora (sem regra oficial aberta sobre fracionamento) |
+| Modelos de IA | perguntas sobre "taxa" de loja, frete e parcelamento de blusinhas (outra intenção); imposto de vestuário importado; onde pagar imposto de encomenda parada | já cobertos; o resto é fora do assunto |
+
+
 ## Fontes confirmadas
 
 | fato | fonte | tipo |

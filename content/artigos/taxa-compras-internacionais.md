@@ -26,6 +26,8 @@ fontes:
     url: "https://www.gov.br/receitafederal/pt-br/assuntos/aduana-e-comercio-exterior/manuais/remessas-postal-e-expressa/programa-remessa-conforme-o-que-e-como-funciona"
   - nome: "Receita Federal: empresas certificadas no Remessa Conforme"
     url: "https://www.gov.br/receitafederal/pt-br/assuntos/aduana-e-comercio-exterior/manuais/remessas-postal-e-expressa/empresas-certificadas-no-programa-remessa-conforme-prc"
+  - nome: "Agência Senado: Lula sanciona taxação de compra internacional e o Programa Mover (Lei nº 14.902/2024)"
+    url: "https://www12.senado.leg.br/noticias/materias/2024/06/28/lula-sanciona-taxacao-de-compra-internacional-e-criacao-do-programa-mover"
   - nome: "Receita Federal: Perguntas e Respostas sobre remessas, pergunta 13.3 (imposto cobrado indevidamente no Remessa Conforme)"
     url: "https://www.gov.br/receitafederal/pt-br/assuntos/aduana-e-comercio-exterior/manuais/remessas-postal-e-expressa/topicos/Perguntas_e_Respostas"
   - nome: "Agência Senado: sancionada a Lei 15.502, que autoriza zerar a taxa das blusinhas (11/09/2026)"
@@ -49,6 +51,10 @@ O que **não** acabou:
 - o **ICMS**, imposto dos estados, de 17% a 20%, em qualquer valor;
 - o imposto de importação acima de US$ 50, de 60% menos US$ 30;
 - o imposto de 60% em sites **fora** do Remessa Conforme, mesmo abaixo de US$ 50.
+
+### Quem criou a taxa das blusinhas?
+
+A taxa foi criada pela **Lei nº 14.902/2024**, a mesma lei que criou o Programa Mover, de incentivo à indústria automotiva. A cobrança de 20% sobre compras de até US$ 50 entrou no projeto por **emenda da Câmara dos Deputados**; no Senado, o relator tinha retirado o trecho, mas a maioria dos senadores votou para mantê-lo. A lei foi sancionada pelo presidente Lula em 27 de junho de 2024, e a cobrança começou em agosto de 2024 ([Agência Senado](https://www12.senado.leg.br/noticias/materias/2024/06/28/lula-sanciona-taxacao-de-compra-internacional-e-criacao-do-programa-mover)).
 
 ### A taxa das blusinhas está em vigor? Vai voltar em 2027?
 
