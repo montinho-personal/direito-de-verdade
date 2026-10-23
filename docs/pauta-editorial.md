@@ -60,7 +60,7 @@ como no lote anterior. Um de cada vez, na ordem.
 | ordem | artigo | por que agora | buscas para printar | status |
 |---|---|---|---|---|
 | 1 | Pensão alimentícia: quanto se paga, como é calculada e como pedir | busca mais alta de Família o ano todo; o grupo só tinha a pensão no 13º; o mito dos 30% | `pensão alimentícia`; `quanto é a pensão alimentícia`; `pensão alimentícia desempregado` | **publicado em 23/10/2026 sem prints** — [doc](artigos/pensao-alimenticia.md), `/artigos/pensao-alimenticia` |
-| 2 | BPC/LOAS 2026: quem tem direito, renda e como pedir | busca alta o ano todo; segundo artigo de Previdência e INSS; liga com auxílio-doença | `bpc loas`; `bpc loas quem tem direito`; `bpc renda per capita` | em produção |
+| 2 | BPC/LOAS 2026: quem tem direito, renda e como pedir | busca alta o ano todo; segundo artigo de Previdência e INSS; liga com auxílio-doença | `bpc loas`; `bpc loas quem tem direito`; `bpc renda per capita` | **publicado em 23/10/2026 sem prints** — [doc](artigos/bpc-loas.md), `/artigos/bpc-loas` |
 
 ## Prints pendentes
 
@@ -82,6 +82,7 @@ Lembrar o Renato desta lista a cada entrega.
 | Auxílio-doença 2026 (`/artigos/auxilio-doenca`), publicado em 22/10/2026 | `auxílio doença`; `auxílio doença valor 2026`; `perícia do inss` | **aguardando prints** |
 | Rescisão indireta (`/artigos/rescisao-indireta`), publicado em 22/10/2026 | `rescisão indireta`; `rescisão indireta o que recebe`; `salário atrasado o que fazer` | **prints recebidos e artigo revisado em 22/10/2026** |
 | Pensão alimentícia (`/artigos/pensao-alimenticia`), publicado em 23/10/2026 | `pensão alimentícia`; `quanto é a pensão alimentícia`; `pensão alimentícia desempregado` | **aguardando prints** |
+| BPC/LOAS 2026 (`/artigos/bpc-loas`), publicado em 23/10/2026 | `bpc loas`; `bpc loas quem tem direito`; `bpc renda per capita` | **aguardando prints** |
 
 ## Temas-base (o ano todo)
 
@@ -98,7 +99,7 @@ Lembrar o Renato desta lista a cada entrega.
 
 ### Previdência e INSS
 - Regras de aposentadoria 2026 (atualizar em janeiro para 2027)
-- BPC/LOAS: quem tem direito
+- ~~BPC/LOAS: quem tem direito~~ — **publicado em 23/10/2026** ([doc](artigos/bpc-loas.md), `/artigos/bpc-loas`)
 - ~~Auxílio por incapacidade (antigo auxílio-doença) e perícia~~ — **publicado em 22/10/2026** ([doc](artigos/auxilio-doenca.md), `/artigos/auxilio-doenca`)
 - Benefício negado: como recorrer
 
@@ -160,3 +161,4 @@ Lembrar o Renato desta lista a cada entrega.
 - Auxílio-doença: salário mínimo e teto do INSS do ano, limite do Atestmed (90 dias temporários; revisar em set/2027) em `/artigos/auxilio-doenca`.
 - Cobrança indevida: valores do Juizado e tese do Tema 929 do STJ (julgado em 15/09/2026, a publicar) em `/artigos/cobranca-indevida`.
 - Pensão alimentícia: salário mínimo dos exemplos em `/artigos/pensao-alimenticia`; Pix Pensão em vigor em julho de 2027 (Lei 15.479/2026).
+- BPC/LOAS: salário mínimo, 1/4 e 1/2 do mínimo e auxílio-inclusão em `/artigos/bpc-loas`; regra final da biometria (CIN obrigatória, segundo o governo, a partir de 2028).

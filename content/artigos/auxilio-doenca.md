@@ -4,6 +4,7 @@ tituloSeo: "Auxílio-doença 2026: quem tem direito, valor e perícia"
 descricao: "Auxílio-doença 2026: o INSS paga a partir do 16º dia de afastamento, 91% do salário de benefício, com mínimo de R$ 1.621. Veja carência, Atestmed e perícia."
 categoria: previdencia
 publicadoEm: 2026-10-22
+atualizadoEm: 2026-10-23
 faq:
   - pergunta: "Quem paga os primeiros 15 dias de afastamento?"
     resposta: "A empresa. Nos primeiros 15 dias seguidos de afastamento por doença, ela paga o salário integral; o INSS paga a partir do 16º dia (Lei 8.213/1991, artigo 60)."
@@ -73,7 +74,7 @@ Quem perdeu a qualidade de segurado e voltou a contribuir precisa de **metade da
 
 ### Quais doenças dispensam a carência?
 
-Não precisa das 12 contribuições em caso de **acidente de qualquer natureza**, doença profissional ou do trabalho, ou de uma das doenças da lista oficial (artigos 26 e 151): tuberculose ativa, hanseníase, transtorno mental grave com alienação mental, câncer (neoplasia maligna), cegueira, paralisia irreversível e incapacitante, cardiopatia grave, doença de Parkinson, espondilite anquilosante, nefropatia grave, doença de Paget em estado avançado, aids, contaminação por radiação, hepatopatia grave, esclerose múltipla, AVC agudo, abdome agudo cirúrgico e, desde julho de 2026, **gestação de alto risco** ([INSS](https://www.gov.br/inss/pt-br/direitos-e-deveres/beneficios-por-incapacidade/auxilio-por-incapacidade-temporaria); [Ministério da Previdência](https://www.gov.br/previdencia/pt-br/noticias/2026/agosto/gestacao-de-alto-risco-e-incluida-na-lista-de-doencas-que-garantem-beneficios-previdenciarios-sem-a-exigencia-de-carencia-minima)). Mesmo nesses casos, é preciso ter a qualidade de segurado.
+Não precisa das 12 contribuições em caso de **acidente de qualquer natureza**, doença profissional ou do trabalho, ou de uma das doenças da lista oficial (artigos 26 e 151): tuberculose ativa, hanseníase, transtorno mental grave com alienação mental, câncer (neoplasia maligna), cegueira, paralisia irreversível e incapacitante, cardiopatia grave, doença de Parkinson, espondilite anquilosante, nefropatia grave, doença de Paget em estado avançado, aids, contaminação por radiação, hepatopatia grave, esclerose múltipla, AVC agudo, abdome agudo cirúrgico e, desde julho de 2026, **gestação de alto risco** ([INSS](https://www.gov.br/inss/pt-br/direitos-e-deveres/beneficios-por-incapacidade/auxilio-por-incapacidade-temporaria); [Ministério da Previdência](https://www.gov.br/previdencia/pt-br/noticias/2026/agosto/gestacao-de-alto-risco-e-incluida-na-lista-de-doencas-que-garantem-beneficios-previdenciarios-sem-a-exigencia-de-carencia-minima)). Mesmo nesses casos, é preciso ter a qualidade de segurado. Quem nunca contribuiu, ou perdeu essa qualidade, e tem deficiência de longo prazo pode verificar se tem direito ao [BPC, o benefício assistencial que não exige contribuição](/artigos/bpc-loas).
 
 ## Qual o valor do auxílio-doença em 2026?
 
