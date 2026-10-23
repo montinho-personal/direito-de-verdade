@@ -4,7 +4,7 @@ tituloSeo: "Golpe do Pix: como recuperar o dinheiro (MED passo a passo)"
 descricao: "Golpe do Pix: conteste no app do banco já. O MED bloqueia o dinheiro do golpista, a análise leva até 7 dias e o prazo é de 80 dias. Veja o passo a passo."
 categoria: consumidor
 publicadoEm: 2026-10-20
-atualizadoEm: 2026-10-21
+atualizadoEm: 2026-10-23
 faq:
   - pergunta: "O banco pode exigir boletim de ocorrência para abrir o MED?"
     resposta: "Não para abrir. Pelas regras do Banco Central, o banco deve abrir o pedido de devolução logo depois do seu relato, sem analisar o mérito nem pedir documentos como o boletim de ocorrência. Depois de aberto, ele pode pedir provas para analisar o caso, e o boletim ajuda."
@@ -18,6 +18,14 @@ video:
   url: "https://youtu.be/81tP0pfstlE"
   titulo: "Vídeo: caí no golpe do Pix, como recuperar o dinheiro"
 fontes:
+  - nome: "Procon-SP: novo golpe que altera o QR Code do Pix (Agência SP)"
+    url: "https://www.agenciasp.sp.gov.br/procon-novo-golpe-que-altera-qr-code-pix/"
+  - nome: "Agência Brasil: entenda o golpe do Pix errado (11/07/2024)"
+    url: "https://agenciabrasil.ebc.com.br/economia/noticia/2024-07/entenda-o-golpe-do-pix-errado-e-saiba-como-nao-ser-enganado"
+  - nome: "TJDFT: condenação por fraude com Pix agendado e cancelado (11/02/2025)"
+    url: "https://www.tjdft.jus.br/institucional/imprensa/noticias/2025/fevereiro/tjdft-mantem-condenacao-por-fraude-com-pix-agendado-e-posteriormente-cancelado"
+  - nome: "Procon Goiás: alerta sobre o golpe do Pix agendado"
+    url: "https://goias.gov.br/procon/procon-goias-alerta-sobre-o-golpe-do-pix-agendado/"
   - nome: "Banco Central: Guia de implementação do Mecanismo Especial de Devolução (MED), versão 4.3"
     url: "https://www.bcb.gov.br/content/estabilidadefinanceira/pix/Guia_MED.pdf"
   - nome: "Banco Central: Fórum Pix, 28ª reunião plenária (26/03/2026), cronograma do MED 2.0 e do autoatendimento"
@@ -74,6 +82,23 @@ Tem, mas não é garantido. A devolução depende de os bancos **confirmarem a f
 ### O banco é obrigado a devolver o dinheiro em caso de golpe?
 
 Pelo MED, o banco devolve só o que conseguir recuperar das contas do golpista. Fora dele, a Justiça pode condenar o banco a ressarcir quando houve **falha na segurança**: a Súmula 479 do STJ diz que os bancos respondem por fraudes de terceiros ligadas às suas operações, e há decisões que mandam devolver quando o banco deixou passar transações muito fora do perfil do cliente ([TJDFT](https://www.tjdft.jus.br/consultas/jurisprudencia/jurisprudencia-em-temas/dano-moral-no-tjdft/servicos-bancarios/transferencia-via-pix)). Quando a própria vítima fez o Pix, enganada, as decisões variam caso a caso. Para avaliar o seu, procure um advogado ou a Defensoria Pública.
+
+## Quais os golpes mais comuns no Pix? Como é feito
+
+Conhecer o roteiro ajuda a não cair. Os mais comuns:
+
+- **Falsa central do banco:** alguém liga ou manda mensagem dizendo ser do banco, fala em "transação suspeita" ou "conta invadida" e pede um Pix para uma "conta segura" ou as suas senhas. O banco não pede Pix nem senha por telefone; veja [como funciona a falsa central e o golpe do motoboy](/artigos/golpes-de-fim-de-ano#falsa-central-do-banco-e-golpe-do-motoboy).
+- **Golpe do Pix errado:** o golpista faz um Pix de verdade para você, avisa que foi "por engano" e pede a devolução **para outra conta**. Depois, ele mesmo aciona o MED contra o Pix que fez, e você pode perder o dinheiro duas vezes ([Agência Brasil](https://agenciabrasil.ebc.com.br/economia/noticia/2024-07/entenda-o-golpe-do-pix-errado-e-saiba-como-nao-ser-enganado)).
+- **Pix agendado ou comprovante falso:** o "comprador" mostra um comprovante de Pix **agendado** para uma data futura (ou editado) e, depois de levar o produto, cancela o agendamento. A Justiça do DF condenou uma compradora por estelionato nesse golpe ([TJDFT](https://www.tjdft.jus.br/institucional/imprensa/noticias/2025/fevereiro/tjdft-mantem-condenacao-por-fraude-com-pix-agendado-e-posteriormente-cancelado)). A mesma ideia aparece como "Pix enviado por engano" agendado, pedindo devolução imediata ([Procon Goiás](https://goias.gov.br/procon/procon-goias-alerta-sobre-o-golpe-do-pix-agendado/)).
+- **QR Code adulterado:** um QR Code falso, colado sobre o verdadeiro ou mandado por mensagem, desvia o pagamento para a conta do golpista. O Procon-SP alertou para esse golpe em 2026 ([Agência SP](https://www.agenciasp.sp.gov.br/procon-novo-golpe-que-altera-qr-code-pix/)).
+
+### Recebi um Pix por engano: como devolver sem cair em golpe
+
+Devolva **pela própria transação**, no aplicativo do seu banco, usando a opção **"devolver"**. Ela manda o dinheiro de volta para a **mesma conta que fez o Pix**, e não para uma conta nova, como orienta o Banco Central ([Agência Brasil](https://agenciabrasil.ebc.com.br/economia/noticia/2024-07/entenda-o-golpe-do-pix-errado-e-saiba-como-nao-ser-enganado)). Nunca faça um Pix novo para a chave que a pessoa mandar por mensagem.
+
+### Vendi e recebi um comprovante de Pix: como conferir
+
+Antes de entregar o produto, confira se o dinheiro **entrou na sua conta**, no aplicativo do banco. Comprovante não é pagamento: um Pix **agendado** pode ser cancelado, e comprovantes podem ser editados.
 
 ## Quando o MED não vale: Pix errado e compra com problema
 

@@ -30,6 +30,10 @@ Recebidos em 20/10/2026 (celular, 08h40–08h42). Prints em
 | Autocompletar `site falso black friday` | sites black fraudes (poucas sugestões) | H2 do site falso |
 | Visão geral de IA (site falso) | URL alterada; preço absurdo; só Pix ou boleto | lista do H2, com a obrigação de CNPJ do Decreto 7.962 |
 | PAA (site falso) | golpes mais comuns; site oficial da Black Friday; como saber se o site é falso; desconto verdadeiro | H2; FAQ "site oficial" (não existe); link para o desconto falso no artigo da Black Friday |
+| 15 visão geral de IA `golpe pix` (23/10/2026) | tipos mais comuns: falsa central ou funcionário; "Pix errado" (golpista manda Pix, pede devolução para outra conta e aciona o MED) | H2 novo "Quais os golpes mais comuns no Pix? Como é feito" (falsa central com link para golpes de fim de ano, Febraban; Pix errado, Agência Brasil 2024). A IA não é fonte |
+| 16 autocompletar `golpe pix` | como recuperar; errado; estorno; falso; agendado; nubank; qr code; o que fazer | H2 novo: Pix errado, Pix agendado/comprovante falso (TJDFT 2025; Procon Goiás), QR Code adulterado (Procon-SP); H3 "Vendi e recebi um comprovante de Pix: como conferir". Recuperar, estorno, Nubank e o que fazer já estavam cobertos |
+| 17 PAA e outras pesquisas | Quais os golpes mais comuns no Pix? · Como é feito o golpe do Pix? · É possível estornar? · É possível recuperar? Outras: como recuperar; BO online; o que fazer; estorno; MED; banco central | H2 novo responde as duas primeiras; as outras já tinham H2, H3 ou FAQ |
+| 18–19 outras pesquisas e notícias | golpe do QR Code (Folha); nova regra do Pix (G1); advogado; denunciar golpe pix whatsapp; procon golpe pix; caí em golpe de pix o que fazer caixa; **golpe pix errado devolver**; MED devolução | H3 novo "Recebi um Pix por engano: como devolver sem cair em golpe" (botão "devolver", orientação do BC via Agência Brasil). Advogado, Procon e denúncia já cobertos. WhatsApp: fora (sem fonte oficial do canal) |
 
 ## Fontes confirmadas
 
