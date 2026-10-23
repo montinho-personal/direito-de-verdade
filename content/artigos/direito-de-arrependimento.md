@@ -4,7 +4,7 @@ tituloSeo: "Direito de arrependimento CDC: 7 dias corridos e loja física"
 descricao: "Direito de arrependimento: o artigo 49 do CDC dá 7 dias corridos para devolver compra online, com frete pago pela loja. Veja o passo a passo e a loja física."
 categoria: consumidor
 publicadoEm: 2026-10-21
-atualizadoEm: 2026-10-21
+atualizadoEm: 2026-10-23
 faq:
   - pergunta: "Passaram os 7 dias. Ainda posso devolver?"
     resposta: "Pelo direito de arrependimento, não. Depois dos 7 dias, a devolução depende de o produto ter defeito (30 ou 90 dias para reclamar) ou da política de troca da loja."
@@ -81,6 +81,16 @@ Se a loja não responder, reclame no [Consumidor.gov.br ou no Procon](/artigos/c
 ### E no Mercado Livre, na Shopee, na Amazon ou na Magazine Luiza?
 
 O direito vale do mesmo jeito. Use o botão de devolução ou de arrependimento do aplicativo, dentro dos 7 dias. Se o vendedor não resolver, a **plataforma também responde**: o Procon-SP afirma que as plataformas de intermediação de vendas "integram a cadeia de fornecimento e, portanto, respondem solidariamente por falhas" ([Procon-SP, 26/02/2026](https://www.procon.sp.gov.br/procon-sp-autua-empresa-responsavel-pela-shopee-em-r-14-mi-por-clausulas-abusivas-e-falhas-de-informacao-ao-consumidor/)).
+
+### Posso cancelar a compra online antes de o produto chegar?
+
+Pode. O artigo 49 conta os 7 dias "a contar de sua assinatura ou do ato de recebimento do produto": você pode desistir logo depois de comprar, mesmo antes da entrega, e o prazo só termina 7 dias depois de receber. O pedido é feito do mesmo jeito, pelo canal da compra, e a loja tem que devolver tudo o que você pagou.
+
+### Comprei online: posso devolver ou trocar na loja física?
+
+Para **desistir da compra**, a lei garante o **mesmo canal da compra** (site, aplicativo, chat), "sem prejuízo de outros meios disponibilizados" pela loja ([Decreto 7.962/2013, artigo 5º, § 1º](https://www2.camara.leg.br/legin/fed/decret/2013/decreto-7962-15-marco-2013-775557-publicacaooriginal-139266-pe.html)). Ou seja, a loja não pode obrigar você a ir até uma loja física para desistir; se ela oferecer a devolução na loja, é uma opção a mais.
+
+Já a **troca** por outro tamanho ou cor, fora da desistência, não está na lei: depende da política da loja, como em [a loja é obrigada a trocar produto?](/artigos/loja-e-obrigada-a-trocar-produto). Confira as regras de troca no site da loja antes de ir.
 
 ## Quem paga o frete da devolução?
 

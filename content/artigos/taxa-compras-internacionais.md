@@ -4,14 +4,14 @@ tituloSeo: "Taxa das blusinhas acabou? Imposto da Shein 2026 e cálculo"
 descricao: "Taxa das blusinhas: desde 12/05/2026, compra de até US$ 50 na Shein não paga imposto federal, só ICMS. Acima disso, 60% menos US$ 30. Calcule a sua."
 categoria: consumidor
 publicadoEm: 2026-10-20
-atualizadoEm: 2026-10-21
+atualizadoEm: 2026-10-23
 faq:
   - pergunta: "A Shein avisa quando o produto é taxado?"
     resposta: "Sim. Sites do Remessa Conforme, como a Shein, mostram e cobram os impostos no fechamento da compra. Se um site do programa não cobrar nada de imposto, a Receita recomenda recusar a compra: o pacote pode ser cobrado na chegada, sem o benefício."
   - pergunta: "Mercado Livre e Shopee cobram imposto de compra internacional?"
     resposta: "Só nos produtos vendidos e enviados do exterior. O Mercado Livre e a Shopee estão na lista do Remessa Conforme (consulta de 20/10/2026), e as regras são as mesmas: até US$ 50, só ICMS; acima, 60% menos US$ 30, mais ICMS. Produtos de vendedores no Brasil não têm esses impostos."
   - pergunta: "O que é a regra dos 1.000 dólares para compras no exterior?"
-    resposta: "É a cota de isenção de quem **viaja**: na volta de avião ou navio, cada viajante pode trazer até **US$ 1.000** em bens na bagagem sem imposto. Ela não vale para compras pela internet, que seguem as regras de remessa explicadas acima."
+    resposta: "É a cota de isenção de quem **viaja**: na volta de avião ou navio, cada viajante pode trazer até **US$ 1.000** em bens na bagagem sem imposto. Ela não vale para compras pela internet, que seguem as regras de remessa explicadas acima. Por terra, como na volta do Paraguai, a cota é de US$ 500: veja [as regras das compras no Paraguai](/artigos/compras-no-paraguai)."
   - pergunta: "A Receita pode cobrar imposto de uma compra antiga?"
     resposta: "Pode. Segundo a Receita, ela tem **5 anos** para revisar importações e cobrar impostos que não foram pagos, mesmo de pacotes que não foram fiscalizados na chegada."
 video:

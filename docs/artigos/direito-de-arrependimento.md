@@ -29,6 +29,18 @@ publicado em 21/10 sem prints; esta revisão o reorganizou pelas buscas reais.
 | 11 PAA | sou obrigado a pagar; quando o cliente paga; quem paga a taxa de devolução; frete no arrependimento | H3 "sou obrigado / quando o cliente paga" |
 | 12–13 outras pesquisas | devolução compra internet quem paga; art. 49 frete; nota de devolução; devolução nos Correios tem que pagar; trocas e devoluções; prazo de devolução de mercadoria | H2 do frete ("nem na postagem nos Correios"). Nota de devolução: fora (assunto de empresa) |
 
+### AnswerThePublic `compra online` (23/10/2026)
+
+Relatórios enviados pelo Renato em 23/10/2026, em
+`docs/artigos/prints/direito-de-arrependimento/answerthepublic/`.
+
+| relatório | conteúdo | onde entrou |
+|---|---|---|
+| Motores de busca (~1.300 buscas, com volume) | quase tudo é nome de loja ("compra online carrefour", "assaí"…); a parte jurídica: "arrependimento de compra online 30 dias" (320), "cancelamento de compra online" (320), "desistência" (170), "devolução" (170), "prazo para reembolso" (140), "lei do arrependimento" (110); dezenas de "compra online [Renner, Zara, Hering, Riachuelo, Centauro] pode trocar na loja física"; "cancelar compra online 24 horas"; "compra online com retirada na loja tem direito de arrependimento"; "compra online do Paraguai" (~2,7 mil somando variações) | H3 novo "Posso cancelar a compra online antes de o produto chegar?" (art. 49: assinatura ou recebimento); H3 novo "Comprei online: posso devolver ou trocar na loja física?" (Decreto 7.962, art. 5º, § 1º; troca depende da política). "30 dias" e reembolso já estavam cobertos. Retirada na loja: fora (sem fonte oficial). Paraguai: pauta de artigo novo |
+| Perguntas do Google (PAA) | sites e apps confiáveis; como saber se a loja é confiável pelo CNPJ; vantagens e desvantagens; como comprar pela primeira vez | CNPJ já está no artigo da Black Friday e no de golpes; o resto não é assunto jurídico |
+| Modelos de IA | política de devolução; fraudes; pagamento seguro; prazo de entrega; rastrear; compra danificada | já cobertos aqui e em compra que não chegou, produto com defeito e golpes |
+
+
 ## Fontes confirmadas
 
 | fato | fonte | tipo |

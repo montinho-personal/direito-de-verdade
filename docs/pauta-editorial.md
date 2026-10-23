@@ -81,6 +81,7 @@ Um de cada vez.
 |---|---|---|---|---|
 | 1 | Loja pode cobrar mais caro no cartão? Preço no Pix, à vista e parcelado | `black friday`, modelos de IA (formas de pagamento, parcelamento) | `loja pode cobrar mais caro no cartão`; `preço diferente no pix e no cartão`; `valor mínimo no cartão` | **publicado em 23/10/2026** — [doc](artigos/loja-pode-cobrar-mais-caro-no-cartao.md), `/artigos/loja-pode-cobrar-mais-caro-no-cartao` |
 | 2 | Propaganda enganosa: o que é, exemplos e como denunciar | `black friday`, motores de busca ("propaganda enganosa black friday", 390/mês) | `propaganda enganosa`; `propaganda enganosa o que fazer`; `como denunciar propaganda enganosa` | **publicado em 23/10/2026** — [doc](artigos/propaganda-enganosa.md), `/artigos/propaganda-enganosa` |
+| 3 | Compras no Paraguai 2026: cota de US$ 500, imposto e compra online pelos Correios | `compra online`, motores de busca ("compra online paraguai", ~2,7 mil somadas) | `compras no paraguai`; `cota paraguai`; `comprar do paraguai pela internet` | **publicado em 23/10/2026** — [doc](artigos/compras-no-paraguai.md), `/artigos/compras-no-paraguai` |
 
 ## Prints pendentes
 
@@ -107,6 +108,7 @@ Lembrar o Renato desta lista a cada entrega.
 | Plano de saúde negou cobertura (`/artigos/plano-de-saude-negou-cobertura`), publicado em 23/10/2026 | `plano de saúde negou cobertura o que fazer`; `reclamar na ans`; `rol da ans` | **aguardando prints** |
 | Loja pode cobrar mais caro no cartão (`/artigos/loja-pode-cobrar-mais-caro-no-cartao`), publicado em 23/10/2026 | `loja pode cobrar mais caro no cartão`; `preço diferente no pix e no cartão`; `valor mínimo no cartão` | **aguardando prints** |
 | Propaganda enganosa (`/artigos/propaganda-enganosa`), publicado em 23/10/2026 | `propaganda enganosa`; `propaganda enganosa o que fazer`; `como denunciar propaganda enganosa` | **aguardando prints** |
+| Compras no Paraguai (`/artigos/compras-no-paraguai`), publicado em 23/10/2026 | `compras no paraguai`; `cota paraguai`; `comprar do paraguai pela internet` | **aguardando prints** |
 
 ## Temas-base (o ano todo)
 
@@ -187,3 +189,4 @@ Lembrar o Renato desta lista a cada entrega.
 - Pensão alimentícia: salário mínimo dos exemplos em `/artigos/pensao-alimenticia`; Pix Pensão em vigor em julho de 2027 (Lei 15.479/2026).
 - BPC/LOAS: salário mínimo, 1/4 e 1/2 do mínimo e auxílio-inclusão em `/artigos/bpc-loas`; regra final da biometria (CIN obrigatória, segundo o governo, a partir de 2028).
 - Multa de contrato de aluguel: valores do Juizado (20 salários mínimos) em `/artigos/multa-contrato-de-aluguel`.
+- Compras no Paraguai: cota de viagem, limites e alíquotas da Receita; lojas do Correios Packet; taxa até US$ 50 (Lei 15.502) em `/artigos/compras-no-paraguai`.
