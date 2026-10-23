@@ -34,6 +34,19 @@ pessoas pesquisaram".
 | PAA e notícias `black friday procon` | Quais são os direitos do consumidor durante a Black Friday? · A Black Friday é considerada enganação? · Quais empresas estão na lista de não confiáveis do Procon? · Que dia é o dia do consumidor em 2026? Notícias: Procon-SP (consulta), Poder360, G1 (Procon de Suzano orienta monitorar preços contra falsas promoções) | lead (direitos); H2 "A Black Friday é enganação?"; H2 da lista do Procon. "Dia do consumidor" é outro assunto: ficou de fora |
 
 
+### AnswerThePublic (23/10/2026)
+
+Relatórios de `black friday` (Brasil, português) enviados pelo Renato em
+23/10/2026, em `docs/artigos/prints/black-friday-direitos-do-consumidor/answerthepublic/`
+(o XLSX dos motores de busca ficou de fora: é o mesmo conteúdo do CSV).
+
+| relatório | conteúdo | onde entrou |
+|---|---|---|
+| Motores de busca (CSV, ~3.100 buscas do Google e do Bing, com volume) | A data domina: "quando é black friday" (49,5 mil), "que dia é a black friday" (18,1 mil), "quando começa" (14,8 mil), "até quando vai" (2,4 mil), mais centenas de variações. Depois: significado (2,9 mil), lojas e marketplaces (Mercado Livre, Shopee, Shein, AliExpress), "propaganda enganosa black friday" (390), "black friday de verdade" (210), "procon black friday" (30) | H2 novo "Quando é a Black Friday 2026? Que dia começa e até quando vai", logo depois do lead (a oferta vale pelo prazo anunciado, CDC 30 e 35); data no `tituloSeo` e no H1; "propaganda enganosa" no H2 do desconto falso; link para a calculadora de taxa de importação nas dicas. Buscas de loja, produto, cupom e pronúncia ficaram de fora (não são assunto do site) |
+| Perguntas do Google (PAA) | Qual dia é considerado Black Friday? · Quantos dias dura? · Até quando vai? · O que significa? · A Black Friday realmente baixa os preços? · 11.11 da Shopee · melhor dia e hora para comprar | data e duração no H2 novo; significado em uma frase; "baixa os preços?" respondida no H2 do desconto falso. 11.11 e melhor hora ficaram de fora (sem fonte oficial, não é direito do consumidor) |
+| Modelos de IA (ChatGPT e Gemini, 50 prompts) | regras de devolução; ofertas falsas; golpes; formas de pagamento mais seguras; parcelamento; frete grátis; troca | FAQ nova "Qual a forma de pagamento mais segura?" (cartão: contestação; Pix: MED sem garantia), com fontes dos artigos de estorno e do golpe do Pix. A FAQ "Quando é a Black Friday 2026?" virou H2 e saiu da FAQ |
+
+
 ## Fontes confirmadas
 
 Abertas e lidas em 19/10/2026.

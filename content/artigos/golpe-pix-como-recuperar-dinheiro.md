@@ -102,7 +102,7 @@ O golpe do site falso, que copia o visual de lojas conhecidas e cobra no Pix, cr
 - **Desconfie de preço muito abaixo do normal** e de loja que só aceita Pix ou boleto.
 - **No Pix, confira o nome e o CNPJ** de quem vai receber antes de confirmar. Se o nome não for o da loja, não pague.
 
-Para saber se o desconto é verdadeiro e quais são seus direitos na compra, veja as [regras da Black Friday 2026](/artigos/black-friday-direitos-do-consumidor#a-black-friday-e-enganacao-como-identificar-o-desconto-falso). Comprando em site estrangeiro, confira também [o imposto da compra internacional](/artigos/taxa-compras-internacionais). A falsa taxa dos Correios, o boleto falso e a falsa central do banco estão em [golpes de compra no fim do ano](/artigos/golpes-de-fim-de-ano).
+Para saber se o desconto é verdadeiro e quais são seus direitos na compra, veja as [regras da Black Friday 2026](/artigos/black-friday-direitos-do-consumidor#a-black-friday-e-enganacao-propaganda-enganosa-e-desconto-falso). Comprando em site estrangeiro, confira também [o imposto da compra internacional](/artigos/taxa-compras-internacionais). A falsa taxa dos Correios, o boleto falso e a falsa central do banco estão em [golpes de compra no fim do ano](/artigos/golpes-de-fim-de-ano).
 
 ## Como denunciar um golpe do Pix
 

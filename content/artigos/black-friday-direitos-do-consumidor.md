@@ -1,13 +1,11 @@
 ---
-titulo: "Direitos do consumidor na Black Friday 2026: as 8 regras do CDC"
-tituloSeo: "Direitos do consumidor na Black Friday 2026: 8 regras do CDC"
-descricao: "Desistir em 7 dias, troca, entrega, preço anunciado e dinheiro de volta: o que o CDC garante na Black Friday 2026 e como fugir do desconto falso."
+titulo: "Black Friday 2026: quando é e os direitos do consumidor (as 8 regras do CDC)"
+tituloSeo: "Black Friday 2026 é dia 27/11: seus direitos pelo CDC"
+descricao: "Black Friday 2026 é sexta, 27/11. Veja até quando vale a oferta, os 7 dias para desistir, troca, entrega e como fugir do desconto falso e de golpes."
 categoria: consumidor
 publicadoEm: 2026-10-19
-atualizadoEm: 2026-10-21
+atualizadoEm: 2026-10-23
 faq:
-  - pergunta: "Quando é a Black Friday 2026?"
-    resposta: "Na **sexta-feira, 27 de novembro de 2026**, o dia seguinte ao Dia de Ação de Graças dos Estados Unidos. Muitas lojas começam as ofertas antes, mas os direitos são os mesmos em qualquer dia: valem as regras do Código de Defesa do Consumidor."
   - pergunta: "Preciso explicar por que desisti da compra online?"
     resposta: "Não. O direito de arrependimento não depende de motivo nem de defeito: basta pedir em até 7 dias corridos depois de receber o produto. Você pode abrir a embalagem e testar o produto, e a loja não pode recusar a devolução por isso."
   - pergunta: "O frete é devolvido quando eu desisto da compra?"
@@ -16,6 +14,8 @@ faq:
     resposta: "Pode. O direito de arrependimento vale para toda compra feita fora da loja física: site, aplicativo, telefone, WhatsApp, rede social ou vendedor que foi até a sua casa."
   - pergunta: "A loja pode devolver o dinheiro em crédito ou vale-compras?"
     resposta: "Só se você aceitar. Na desistência, na entrega que não chegou e no pedido cancelado pela loja, você tem direito ao dinheiro de volta, e ninguém é obrigado a aceitar crédito no lugar dele."
+  - pergunta: "Qual a forma de pagamento mais segura na Black Friday?"
+    resposta: "No **cartão de crédito**, dá para contestar a compra com o banco quando o produto não chega ou quando você não reconhece a compra; veja [como contestar e pedir o estorno](/artigos/estorno-cartao-de-credito). No **Pix**, o dinheiro sai na hora: em caso de golpe, o MED pode devolver, mas a devolução não é garantida. Em qualquer meio, pague dentro do site da loja e confira o nome e o CNPJ de quem vai receber."
   - pergunta: "Caí em um golpe na Black Friday. O que fazer?"
     resposta: "Avise o seu banco ou a operadora do cartão na hora, registre um boletim de ocorrência (em muitos estados dá para fazer pela delegacia eletrônica) e guarde prints, comprovantes e conversas. Se o pagamento foi por Pix, conteste no app do banco para acionar o MED, o mecanismo de devolução do Pix; o prazo é de 80 dias, mas quanto antes, melhor. Veja o [passo a passo para recuperar o dinheiro do golpe do Pix](/artigos/golpe-pix-como-recuperar-dinheiro)."
 video:
@@ -56,6 +56,14 @@ fontes:
 
 A Black Friday de 2026 é na **sexta-feira, 27 de novembro**, e não tem uma lei própria: valem as regras do Código de Defesa do Consumidor (CDC), na internet e na loja física. As principais: quem compra pela internet pode **desistir em até 7 dias** depois de receber o produto, com todo o dinheiro de volta; o **preço anunciado tem que ser cumprido**; e produto com defeito dá direito a **conserto, troca ou reembolso**.
 
+## Quando é a Black Friday 2026? Que dia começa e até quando vai
+
+A Black Friday de 2026 é na **sexta-feira, 27 de novembro**, o dia seguinte ao Dia de Ação de Graças dos Estados Unidos (quinta, 26). O nome, em inglês, quer dizer "sexta-feira negra".
+
+Não existe data oficial de começo nem de fim, e nenhuma lei regula a Black Friday: **cada loja decide** quando as ofertas começam e até quando vão, e há lojas que começam antes da sexta. O que a lei garante é que **a oferta anunciada obriga a loja** durante o prazo anunciado ([CDC, artigos 30 e 35](https://www2.camara.leg.br/legin/fed/lei/1990/lei-8078-11-setembro-1990-365086-normaatualizada-pl.html)). Se o anúncio diz "até domingo", o preço vale até domingo; tire print do anúncio com o prazo.
+
+Os seus direitos são os mesmos antes, durante e depois da Black Friday. E a 1ª parcela do 13º salário só precisa cair até **30 de novembro**, três dias depois.
+
 ## Quais são as regras da Black Friday?
 
 Não existe uma lei só da Black Friday. Valem três normas que protegem o consumidor o ano inteiro: o [Código de Defesa do Consumidor](https://www2.camara.leg.br/legin/fed/lei/1990/lei-8078-11-setembro-1990-365086-normaatualizada-pl.html), o decreto do comércio eletrônico ([Decreto nº 7.962/2013](https://www2.camara.leg.br/legin/fed/decret/2013/decreto-7962-15-marco-2013-775557-publicacaooriginal-139266-pe.html)) e a lei de informação de preços ([Lei nº 10.962/2004](https://www2.camara.leg.br/legin/fed/lei/2004/lei-10962-11-outubro-2004-534307-normaatualizada-pl.html)). Na prática, são estas 8 regras:
@@ -66,7 +74,7 @@ Não existe uma lei só da Black Friday. Valem três normas que protegem o consu
 4. **Produto com defeito tem conserto em até 30 dias.** Depois disso, você escolhe troca, dinheiro de volta ou desconto ([produto com defeito](#produto-com-defeito-conserto-troca-ou-dinheiro-de-volta)).
 5. **O prazo para reclamar de defeito é de 30 dias** para produtos não duráveis e de **90 dias** para duráveis.
 6. **A loja tem que mostrar quem é:** o site precisa informar nome da empresa, CNPJ, endereço e o preço total, com frete.
-7. **Desconto falso é publicidade enganosa**, proibida pelo CDC ([desconto falso](#a-black-friday-e-enganacao-como-identificar-o-desconto-falso)).
+7. **Desconto falso é publicidade enganosa**, proibida pelo CDC ([desconto falso](#a-black-friday-e-enganacao-propaganda-enganosa-e-desconto-falso)).
 8. **Com dois preços diferentes para o mesmo produto, você paga o menor** ([preço diferente](#preco-diferente-na-etiqueta-no-site-e-no-caixa)).
 
 Essas regras resolvem justamente os problemas mais comuns da data. Na Black Friday de 2025, o Procon-SP recebeu quase 3 mil reclamações. As campeãs foram **atraso ou falta de entrega** (31,6%), **pedido cancelado pela loja** (15,5%) e **produto com defeito ou diferente do comprado** (11,8%) ([balanço do Procon-SP](https://www.procon.sp.gov.br/black-friday-2025-procon-sp-recebe-mais-de-3-mil-interacoes-e-encontra-irregularidades-em-mais-de-340-estabelecimentos-em-todo-o-estado/)).
@@ -132,7 +140,7 @@ Em quatro situações principais:
 
 Em todos os casos, o dinheiro volta **com correção**. Na compra com cartão, o valor sai da fatura ou é estornado.
 
-## A Black Friday é enganação? Como identificar o desconto falso
+## A Black Friday é enganação? Propaganda enganosa e desconto falso
 
 A data em si não é enganação, mas o desconto falso é. O truque mais conhecido é a **"metade do dobro"**: a loja sobe o preço dias antes e depois anuncia um "desconto" que só leva o produto de volta ao preço normal. Anunciar um preço ou um desconto falso é publicidade enganosa, proibida pelo CDC ([artigo 37](https://www2.camara.leg.br/legin/fed/lei/1990/lei-8078-11-setembro-1990-365086-normaatualizada-pl.html)), e a própria Senacon, do Ministério da Justiça, alerta para o "tudo pela metade do dobro" na sua [cartilha da Black Friday](https://www.gov.br/mj/pt-br/assuntos/arquivos-imprensa/senacon/cartilha-black-friday-senacon-2025).
 
@@ -156,7 +164,7 @@ Fora da lista, um site também merece desconfiança quando não mostra **nome da
 - **Consulte a lista Evite esses sites** e veja se a loja mostra CNPJ e endereço.
 - **Não clique em links de mensagens.** Digite o endereço da loja no navegador: sites falsos copiam o visual das lojas conhecidas.
 - **No Pix, pague dentro da loja** e confira no aplicativo do banco o nome e o CNPJ de quem vai receber antes de confirmar. O Procon-SP alertou em 2026 para um golpe que troca o QR Code do Pix ([Agência SP](https://www.agenciasp.sp.gov.br/procon-novo-golpe-que-altera-qr-code-pix/)).
-- **Comprando em site estrangeiro, some os impostos.** Até US$ 50 em site do Remessa Conforme, só o ICMS; acima disso, há também imposto de importação. Veja [quanto de imposto paga uma compra na Shein ou no AliExpress](/artigos/taxa-compras-internacionais).
+- **Comprando em site estrangeiro, some os impostos.** Até US$ 50 em site do Remessa Conforme, só o ICMS; acima disso, há também imposto de importação. Veja [quanto de imposto paga uma compra na Shein ou no AliExpress](/artigos/taxa-compras-internacionais) ou faça a conta na [calculadora de taxa de importação](/calculadoras/taxa-de-importacao).
 - **Guarde as provas:** print do anúncio, comprovante, nota fiscal e conversas com a loja.
 
 ## Preço diferente na etiqueta, no site e no caixa
