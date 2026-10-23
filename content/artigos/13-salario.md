@@ -4,7 +4,7 @@ tituloSeo: "13º salário 2026: datas, antecipação e quanto você recebe"
 descricao: "13º salário 2026: a 1ª parcela cai até 30/11 e a 2ª foi antecipada para 18/12, porque o dia 20 é domingo. Veja quanto você recebe e o 13º dos aposentados."
 categoria: trabalho
 publicadoEm: 2026-10-19
-atualizadoEm: 2026-10-20
+atualizadoEm: 2026-10-23
 faq:
   - pergunta: "Quem ganha R$ 1.600 recebe quanto de décimo terceiro?"
     resposta: "Quem ganha R$ 1.600 por mês e trabalhou o ano todo tem R$ 1.600 de 13º bruto: **R$ 800 na 1ª parcela** e **R$ 680 na 2ª**, depois do desconto de R$ 120 de INSS. No total, caem R$ 1.480 na conta, sem imposto de renda."
@@ -205,7 +205,7 @@ O dia exato dependeu do final do número do benefício e do valor: quem ganha um
 
 Têm direito ao 13º do INSS os benefícios previdenciários: **aposentadoria, pensão por morte, auxílio por incapacidade temporária (o antigo auxílio-doença), auxílio-acidente, auxílio-reclusão e salário-maternidade.** Quem recebe o **BPC/LOAS** ou a Renda Mensal Vitalícia não tem 13º, por lei, porque são benefícios assistenciais.
 
-A antecipação não é um direito fixo: depende de um decreto do governo a cada ano.
+A antecipação não é um direito fixo: depende de um decreto do governo a cada ano. A tabela completa, por final do benefício, está em [13º dos aposentados do INSS 2026](/artigos/13-salario-aposentados-inss).
 
 ## E se a empresa não pagar o 13º no prazo?
 

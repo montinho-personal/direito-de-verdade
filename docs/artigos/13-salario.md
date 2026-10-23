@@ -33,6 +33,16 @@ blocos "Outras pessoas pesquisaram" nem as respostas abertas do PAA.
 | PAA `13 salário quem tem direito` | Quanto tempo precisa trabalhar? · Quando será pago o 13º do INSS em 2026? · Quem ganha 1.600…? · Como saber se tenho direito? | H3 "Quanto tempo precisa trabalhar…"; H2 dos aposentados; FAQ "Como saber se tenho direito ao 13º?" |
 | Resultado gov.br `13 salário quem tem direito` | comunicado de 09/07/2026 sobre quem começou a receber a partir de maio | parágrafo de quem recebe o 13º do INSS no fim do ano |
 
+### AnswerThePublic `13 salário` (23/10/2026)
+
+Relatórios enviados pelo Renato em 23/10/2026, em `prints/13-salario/answerthepublic/`.
+O bloco do INSS (tabela dos aposentados, antecipação, calendário; mais de 40 mil
+buscas somadas) virou o artigo próprio [13º dos aposentados do INSS](13-salario-aposentados-inss.md);
+a seção dos aposentados deste artigo ganhou link para ele. O resto (cálculo,
+datas, proporcional, descontos, quem tem direito, jovem aprendiz, estagiário) já
+estava coberto aqui e na calculadora.
+
+
 ## Fontes confirmadas
 
 | fato | fonte | tipo |

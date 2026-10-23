@@ -82,6 +82,7 @@ Um de cada vez.
 | 1 | Loja pode cobrar mais caro no cartão? Preço no Pix, à vista e parcelado | `black friday`, modelos de IA (formas de pagamento, parcelamento) | `loja pode cobrar mais caro no cartão`; `preço diferente no pix e no cartão`; `valor mínimo no cartão` | **publicado em 23/10/2026** — [doc](artigos/loja-pode-cobrar-mais-caro-no-cartao.md), `/artigos/loja-pode-cobrar-mais-caro-no-cartao` |
 | 2 | Propaganda enganosa: o que é, exemplos e como denunciar | `black friday`, motores de busca ("propaganda enganosa black friday", 390/mês) | `propaganda enganosa`; `propaganda enganosa o que fazer`; `como denunciar propaganda enganosa` | **publicado em 23/10/2026** — [doc](artigos/propaganda-enganosa.md), `/artigos/propaganda-enganosa` |
 | 3 | Compras no Paraguai 2026: cota de US$ 500, imposto e compra online pelos Correios | `compra online`, motores de busca ("compra online paraguai", ~2,7 mil somadas) | `compras no paraguai`; `cota paraguai`; `comprar do paraguai pela internet` | **publicado em 23/10/2026** — [doc](artigos/compras-no-paraguai.md), `/artigos/compras-no-paraguai` |
+| 4 | 13º dos aposentados do INSS 2026: tabela de pagamento e quem ainda recebe | `13 salário`, motores de busca ("tabela do 13 salário dos aposentados 2026", 12,1 mil; INSS e antecipação, +40 mil somadas) | `13 salário aposentados 2026`; `tabela do 13 salário dos aposentados 2026`; `13 salário inss` | **publicado em 23/10/2026** — [doc](artigos/13-salario-aposentados-inss.md), `/artigos/13-salario-aposentados-inss` |
 
 ## Prints pendentes
 
@@ -109,6 +110,7 @@ Lembrar o Renato desta lista a cada entrega.
 | Loja pode cobrar mais caro no cartão (`/artigos/loja-pode-cobrar-mais-caro-no-cartao`), publicado em 23/10/2026 | `loja pode cobrar mais caro no cartão`; `preço diferente no pix e no cartão`; `valor mínimo no cartão` | **aguardando prints** |
 | Propaganda enganosa (`/artigos/propaganda-enganosa`), publicado em 23/10/2026 | `propaganda enganosa`; `propaganda enganosa o que fazer`; `como denunciar propaganda enganosa` | **aguardando prints** |
 | Compras no Paraguai (`/artigos/compras-no-paraguai`), publicado em 23/10/2026 | `compras no paraguai`; `cota paraguai`; `comprar do paraguai pela internet` | **aguardando prints** |
+| 13º dos aposentados do INSS (`/artigos/13-salario-aposentados-inss`), publicado em 23/10/2026 | `13 salário aposentados 2026`; `tabela do 13 salário dos aposentados 2026`; `13 salário inss` | **aguardando prints** |
 
 ## Temas-base (o ano todo)
 
@@ -190,3 +192,4 @@ Lembrar o Renato desta lista a cada entrega.
 - BPC/LOAS: salário mínimo, 1/4 e 1/2 do mínimo e auxílio-inclusão em `/artigos/bpc-loas`; regra final da biometria (CIN obrigatória, segundo o governo, a partir de 2028).
 - Multa de contrato de aluguel: valores do Juizado (20 salários mínimos) em `/artigos/multa-contrato-de-aluguel`.
 - Compras no Paraguai: cota de viagem, limites e alíquotas da Receita; lojas do Correios Packet; taxa até US$ 50 (Lei 15.502) em `/artigos/compras-no-paraguai`.
+- 13º do INSS: decreto de antecipação e tabela de pagamentos do ano em `/artigos/13-salario-aposentados-inss` (janeiro).
