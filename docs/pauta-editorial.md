@@ -92,7 +92,7 @@ mando"), sem prints nem AnswerThePublic. Um de cada vez.
 | ordem | artigo | por que agora | buscas para o AnswerThePublic | status |
 |---|---|---|---|---|
 | 1 | Aposentadoria 2026: regras, idade mínima, pontos e quanto vou receber | busca mais alta de Previdência; completa o grupo (auxílio-doença, BPC, 13º do INSS) | `aposentadoria` | **publicado em 24/10/2026 sem prints** — [doc](artigos/aposentadoria-2026-regras.md), `/artigos/aposentadoria-2026-regras` |
-| 2 | Divórcio: como fazer em cartório ou na Justiça, quanto custa e quanto tempo leva | Família só tinha os dois de pensão | `divórcio` | em produção |
+| 2 | Divórcio: como fazer em cartório ou na Justiça, quanto custa e quanto tempo leva | Família só tinha os dois de pensão | `divórcio` | **publicado em 24/10/2026 sem prints** — [doc](artigos/divorcio.md), `/artigos/divorcio` |
 
 ## Prints pendentes
 
@@ -122,6 +122,7 @@ Lembrar o Renato desta lista a cada entrega.
 | Compras no Paraguai (`/artigos/compras-no-paraguai`), publicado em 23/10/2026 | `compras no paraguai`; `cota paraguai`; `comprar do paraguai pela internet` | **aguardando prints** |
 | 13º dos aposentados do INSS (`/artigos/13-salario-aposentados-inss`), publicado em 23/10/2026 | `13 salário aposentados 2026`; `tabela do 13 salário dos aposentados 2026`; `13 salário inss` | **aguardando prints** |
 | Aposentadoria 2026 (`/artigos/aposentadoria-2026-regras`), publicado em 24/10/2026 | AnswerThePublic `aposentadoria` | **aguardando prints** |
+| Divórcio (`/artigos/divorcio`), publicado em 24/10/2026 | AnswerThePublic `divórcio` | **aguardando prints** |
 
 ## Temas-base (o ano todo)
 
@@ -144,7 +145,7 @@ Lembrar o Renato desta lista a cada entrega.
 
 ### Família
 - ~~Pensão alimentícia: quanto se paga~~ — **publicado em 23/10/2026** ([doc](artigos/pensao-alimenticia.md), `/artigos/pensao-alimenticia`)
-- Divórcio em cartório ou na Justiça
+- ~~Divórcio em cartório ou na Justiça~~ — **publicado em 24/10/2026** ([doc](artigos/divorcio.md), `/artigos/divorcio`)
 - Guarda compartilhada
 - União estável: direitos
 - Inventário: prazo e custos

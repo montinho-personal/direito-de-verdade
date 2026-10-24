@@ -4,6 +4,7 @@ tituloSeo: "Pensão alimentícia: quanto se paga e como é calculada"
 descricao: "Pensão alimentícia: a lei não fixa 30%. O valor segue a necessidade de quem recebe e a renda de quem paga. Veja exemplos, desemprego, como pedir e cobrar."
 categoria: familia
 publicadoEm: 2026-10-23
+atualizadoEm: 2026-10-24
 faq:
   - pergunta: "A mãe ou o pai pode abrir mão da pensão do filho?"
     resposta: "Não. O Código Civil proíbe renunciar ao direito a alimentos (artigo 1.707). Quem recebe pode deixar de cobrar por um tempo, mas não pode abrir mão do direito, e um acordo que diga isso não vale para impedir o filho de pedir a pensão depois."
@@ -94,7 +95,7 @@ Quem trabalha por conta própria não tem salário para descontar em folha: paga
 Podem pedir pensão uns aos outros **os parentes, os cônjuges e os companheiros** (Código Civil, artigo 1.694). Na prática:
 
 - **Filhos:** é o caso mais comum. Pai e mãe devem sustentar os filhos, cada um na proporção da sua renda.
-- **Ex-cônjuge ou ex-companheiro:** quando, depois da separação, um deles não consegue se manter e o outro pode ajudar (artigos 1.694 e 1.695). Essa pensão acaba se quem recebe se casar ou passar a viver em união estável (artigo 1.708).
+- **Ex-cônjuge ou ex-companheiro:** quando, depois da separação, um deles não consegue se manter e o outro pode ajudar (artigos 1.694 e 1.695). Essa pensão acaba se quem recebe se casar ou passar a viver em união estável (artigo 1.708). Veja também [como fazer o divórcio e a partilha de bens](/artigos/divorcio).
 - **Pais idosos:** a obrigação é recíproca entre pais e filhos (artigo 1.696), então o filho também pode ter que pagar pensão ao pai ou à mãe que precisa.
 
 ### Os avós podem pagar pensão?
