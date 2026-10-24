@@ -84,6 +84,16 @@ Um de cada vez.
 | 3 | Compras no Paraguai 2026: cota de US$ 500, imposto e compra online pelos Correios | `compra online`, motores de busca ("compra online paraguai", ~2,7 mil somadas) | `compras no paraguai`; `cota paraguai`; `comprar do paraguai pela internet` | **publicado em 23/10/2026** — [doc](artigos/compras-no-paraguai.md), `/artigos/compras-no-paraguai` |
 | 4 | 13º dos aposentados do INSS 2026: tabela de pagamento e quem ainda recebe | `13 salário`, motores de busca ("tabela do 13 salário dos aposentados 2026", 12,1 mil; INSS e antecipação, +40 mil somadas) | `13 salário aposentados 2026`; `tabela do 13 salário dos aposentados 2026`; `13 salário inss` | **publicado em 23/10/2026** — [doc](artigos/13-salario-aposentados-inss.md), `/artigos/13-salario-aposentados-inss` |
 
+## Próximos dois (pedidos em 24/10/2026)
+
+Pedido do Renato em 24/10/2026 ("Quero criar mais 2 artigos" / "Pode seguir, depois
+mando"), sem prints nem AnswerThePublic. Um de cada vez.
+
+| ordem | artigo | por que agora | buscas para o AnswerThePublic | status |
+|---|---|---|---|---|
+| 1 | Aposentadoria 2026: regras, idade mínima, pontos e quanto vou receber | busca mais alta de Previdência; completa o grupo (auxílio-doença, BPC, 13º do INSS) | `aposentadoria` | **publicado em 24/10/2026 sem prints** — [doc](artigos/aposentadoria-2026-regras.md), `/artigos/aposentadoria-2026-regras` |
+| 2 | Divórcio: como fazer em cartório ou na Justiça, quanto custa e quanto tempo leva | Família só tinha os dois de pensão | `divórcio` | em produção |
+
 ## Prints pendentes
 
 Artigos publicados antes dos prints do Google, a pedido do Renato em
@@ -111,6 +121,7 @@ Lembrar o Renato desta lista a cada entrega.
 | Propaganda enganosa (`/artigos/propaganda-enganosa`), publicado em 23/10/2026 | `propaganda enganosa`; `propaganda enganosa o que fazer`; `como denunciar propaganda enganosa` | **aguardando prints** |
 | Compras no Paraguai (`/artigos/compras-no-paraguai`), publicado em 23/10/2026 | `compras no paraguai`; `cota paraguai`; `comprar do paraguai pela internet` | **aguardando prints** |
 | 13º dos aposentados do INSS (`/artigos/13-salario-aposentados-inss`), publicado em 23/10/2026 | `13 salário aposentados 2026`; `tabela do 13 salário dos aposentados 2026`; `13 salário inss` | **aguardando prints** |
+| Aposentadoria 2026 (`/artigos/aposentadoria-2026-regras`), publicado em 24/10/2026 | AnswerThePublic `aposentadoria` | **aguardando prints** |
 
 ## Temas-base (o ano todo)
 
@@ -126,7 +137,7 @@ Lembrar o Renato desta lista a cada entrega.
 - Licença-paternidade nova: 10 dias a partir de 2027 (publicar dez/jan)
 
 ### Previdência e INSS
-- Regras de aposentadoria 2026 (atualizar em janeiro para 2027)
+- ~~Regras de aposentadoria 2026 (atualizar em janeiro para 2027)~~ — **publicado em 24/10/2026** ([doc](artigos/aposentadoria-2026-regras.md), `/artigos/aposentadoria-2026-regras`)
 - ~~BPC/LOAS: quem tem direito~~ — **publicado em 23/10/2026** ([doc](artigos/bpc-loas.md), `/artigos/bpc-loas`)
 - ~~Auxílio por incapacidade (antigo auxílio-doença) e perícia~~ — **publicado em 22/10/2026** ([doc](artigos/auxilio-doenca.md), `/artigos/auxilio-doenca`)
 - Benefício negado: como recorrer
@@ -193,3 +204,4 @@ Lembrar o Renato desta lista a cada entrega.
 - Multa de contrato de aluguel: valores do Juizado (20 salários mínimos) em `/artigos/multa-contrato-de-aluguel`.
 - Compras no Paraguai: cota de viagem, limites e alíquotas da Receita; lojas do Correios Packet; taxa até US$ 50 (Lei 15.502) em `/artigos/compras-no-paraguai`.
 - 13º do INSS: decreto de antecipação e tabela de pagamentos do ano em `/artigos/13-salario-aposentados-inss` (janeiro).
+- Aposentadoria: pontos e idade da transição (1º de janeiro), mínimo e teto em `/artigos/aposentadoria-2026-regras`.

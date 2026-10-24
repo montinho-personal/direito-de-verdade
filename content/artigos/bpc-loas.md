@@ -4,9 +4,10 @@ tituloSeo: "BPC/LOAS 2026: quem tem direito, renda e como pedir"
 descricao: "BPC/LOAS 2026: um salário mínimo (R$ 1.621) para idoso de 65 anos ou pessoa com deficiência com renda de até R$ 405,25 por pessoa. Veja a conta e como pedir."
 categoria: previdencia
 publicadoEm: 2026-10-23
+atualizadoEm: 2026-10-24
 faq:
   - pergunta: "BPC é aposentadoria?"
-    resposta: "Não. O BPC é um benefício da **assistência social**: não exige contribuição ao INSS, mas também **não paga 13º** e **não deixa pensão por morte** para a família. O INSS só cuida do pedido e do pagamento."
+    resposta: "Não. O BPC é um benefício da **assistência social**: não exige contribuição ao INSS, mas também **não paga 13º** e **não deixa pensão por morte** para a família. O INSS só cuida do pedido e do pagamento. Para quem contribuiu, veja [as regras de aposentadoria de 2026](/artigos/aposentadoria-2026-regras)."
   - pergunta: "Dá para receber BPC e Bolsa Família ao mesmo tempo?"
     resposta: "Dá. A lei proíbe juntar o BPC com outro benefício da seguridade social, mas abre exceção para os programas de transferência de renda (Lei 8.742, artigo 20, § 4º). O Bolsa Família tem regras próprias, e a família precisa continuar cumprindo as dele."
   - pergunta: "Duas pessoas da mesma casa podem receber o BPC?"
