@@ -31,6 +31,7 @@ O Google leva semanas para mostrar um site novo: publicar antes do pico.
 | Voo atrasado ou cancelado e bagagem extraviada (regras novas da ANAC em 26/10/2026) | dezembro e janeiro (viagens de fim de ano) | **publicado em 21/10/2026** — [doc](artigos/voo-atrasado-ou-cancelado.md), `/artigos/voo-atrasado-ou-cancelado` |
 | Calculadora de FGTS 2026 (depósito, saldo, conferência, multa e saque) | o ano todo, pico em dezembro e janeiro (demissões) | **publicado em 22/10/2026** — [doc](calculadoras/fgts.md), `/calculadoras/fgts` |
 | Calculadora de cobrança indevida 2026 (restituição simples e em dobro, IPCA) | o ano todo; Black Friday e faturas de dezembro e janeiro | **publicado em 26/10/2026** (sem prints, prompt mestre do Renato) — [doc](calculadoras/cobranca-indevida.md), `/calculadoras/cobranca-indevida` |
+| Simulador de direitos em compras online (9 problemas, diagnóstico e plano de ação) | Black Friday, Natal e janeiro (trocas) | **publicado em 26/10/2026** (sem prints, prompt mestre do Renato) — [doc](calculadoras/simulador-direitos-compras-online.md), `/calculadoras/simulador-direitos-compras-online` |
 
 ## Próximos três (sugeridos em 21/10/2026)
 
@@ -137,6 +138,7 @@ Lembrar o Renato desta lista a cada entrega.
 | CNH sem autoescola (`/artigos/cnh-sem-autoescola`), publicado em 26/10/2026 | AnswerThePublic `cnh sem autoescola` | **aguardando prints** |
 | Guarda compartilhada (`/artigos/guarda-compartilhada`), publicado em 26/10/2026 | AnswerThePublic `guarda compartilhada` | **aguardando prints** |
 | Calculadora de cobrança indevida (`/calculadoras/cobranca-indevida`), publicada em 26/10/2026 | Google: `calculadora cobrança indevida`; `devolução em dobro`; AnswerThePublic `cobrança indevida` | **aguardando prints** |
+| Simulador de direitos em compras online (`/calculadoras/simulador-direitos-compras-online`), publicado em 26/10/2026 | Google: `direitos em compras online`; `comprei pela internet e não recebi` | **aguardando prints** |
 
 ## Temas-base (o ano todo)
 
@@ -196,6 +198,7 @@ Lembrar o Renato desta lista a cada entrega.
 
 ## Revisão anual (valores que mudam)
 
+- Simulador de compras online: `revisadoEm` em `src/lib/compras-online/regras.ts`, prazos do MED e do Consumidor.gov.br, Juizado em salários mínimos do ano.
 - Calculadora de cobrança indevida: IPCA mensal em `src/lib/cobranca-indevida/ipca.ts` (a cada divulgação do IBGE), Tema 929 do STJ (tese a publicar), Juizado em salários mínimos do ano e `revisadoEm` em `src/lib/cobranca-indevida/regras.ts`.
 - Calculadora de férias: tabela por salário e exemplos de `/calculadoras/ferias` (INSS, IR e salário mínimo do ano) e data de revisão no rodapé da ferramenta.
 

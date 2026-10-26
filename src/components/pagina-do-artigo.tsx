@@ -20,6 +20,7 @@ import { Conferir13 } from "@/components/conferir-13";
 import { ConferirHolerite } from "@/components/conferir-holerite";
 import { ConferirTrct } from "@/components/conferir-trct";
 import { Migalhas } from "@/components/migalhas";
+import { SimuladorComprasOnline } from "@/components/simulador-compras-online";
 import { VideoDoYoutube } from "@/components/video-do-youtube";
 import {
   artigosRelacionados,
@@ -54,6 +55,7 @@ const COMPONENTES_DAS_FERRAMENTAS: Record<
   "calculadora-horas-extras": CalculadoraHorasExtras,
   "calculadora-fgts": CalculadoraFgts,
   "calculadora-cobranca-indevida": CalculadoraCobrancaIndevida,
+  "simulador-compras-online": SimuladorComprasOnline,
 };
 
 function Ferramenta({ id, ...props }: PropsDaFerramenta & { id: IdDaFerramenta }) {

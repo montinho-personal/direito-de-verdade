@@ -4,7 +4,7 @@ tituloSeo: "Comprei e não chegou: o que fazer, prazo e como cancelar"
 descricao: "Comprei pela internet e não chegou: atraso na entrega é descumprimento de oferta. Exija o produto, outro igual ou o dinheiro de volta. Veja o passo a passo."
 categoria: consumidor
 publicadoEm: 2026-10-21
-atualizadoEm: 2026-10-21
+atualizadoEm: 2026-10-26
 faq:
   - pergunta: "A loja pode cobrar multa se eu cancelar por atraso na entrega?"
     resposta: "Não. O cancelamento por descumprimento da oferta, como a entrega fora do prazo, é imediato, a loja não pode cobrar nada e deve devolver o que você pagou (Procon-SP)."
@@ -45,6 +45,8 @@ Se você **comprou pela internet e não chegou** no prazo, a loja descumpriu a o
 2. **Reclame com a loja por escrito**, pelo chat, e-mail ou área de pedidos, e diga o que quer: a entrega, outro produto ou o cancelamento com reembolso. A loja deve responder em **até 5 dias** (artigo 4º do mesmo decreto). Se você ainda quer o produto, dá para combinar um novo prazo, por escrito ([Procon-SC](https://www.procon.sc.gov.br/comprou-pela-internet-e-o-produto-atrasou-veja-seus-direitos-e-o-que-fazer/)).
 3. **Guarde as provas:** prints do anúncio com o prazo, confirmação do pedido, comprovante de pagamento, rastreio e as conversas.
 4. **Se a loja não resolver**, reclame no [Consumidor.gov.br ou no Procon](/artigos/como-reclamar-procon) e, se pagou no cartão, [conteste a compra no banco](/artigos/estorno-cartao-de-credito).
+
+Para ver as opções do seu caso, com os prazos e os documentos, responda às perguntas do [simulador de direitos em compras online](/calculadoras/simulador-direitos-compras-online).
 
 O atraso na entrega de compras pela internet é o problema mais citado pelos consumidores no canal de denúncias do Procon-SC ([Procon-SC, 06/10/2026](https://www.procon.sc.gov.br/comprou-pela-internet-e-o-produto-atrasou-veja-seus-direitos-e-o-que-fazer/)).
 
