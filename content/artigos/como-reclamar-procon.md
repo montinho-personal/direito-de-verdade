@@ -4,7 +4,7 @@ tituloSeo: "Como reclamar no Procon online e no Consumidor.gov.br"
 descricao: "Como reclamar no Procon online: com a conta gov.br prata ou ouro, sem sair de casa. Veja o passo a passo, os prazos de resposta e o que acontece depois."
 categoria: consumidor
 publicadoEm: 2026-10-21
-atualizadoEm: 2026-10-23
+atualizadoEm: 2026-10-26
 faq:
   - pergunta: "Qual é melhor: o Consumidor.gov.br ou o Reclame Aqui?"
     resposta: "O Consumidor.gov.br é o serviço público do governo federal: a empresa cadastrada tem até 10 dias para responder e os dados são acompanhados pela Senacon. O Reclame Aqui não é um serviço público. Se nenhum resolver, o caminho é o Procon ou o Juizado."
@@ -15,7 +15,7 @@ faq:
   - pergunta: "Dá para renegociar dívida pelo Consumidor.gov.br?"
     resposta: "Os termos de uso proíbem usar o site para propor renegociação abaixo do valor principal da dívida, que é a soma a pagar sem o financiamento. Reclamar de uma cobrança da empresa cadastrada segue as regras de qualquer reclamação."
   - pergunta: "Quanto tempo o SAC tem para responder?"
-    resposta: "Sete dias corridos, contados do registro, com resposta clara e conclusiva. Em cobrança indevida, a empresa deve suspender a cobrança na hora (Decreto 11.034/2022, artigo 13)."
+    resposta: "Nos serviços regulados pelo governo federal, como bancos, operadoras de telefonia, internet e TV, distribuidoras de energia elétrica e planos de saúde, são sete dias corridos, contados do registro, e em cobrança indevida a empresa deve suspender a cobrança na hora (Decreto 11.034/2022, artigo 13). Nas compras pela internet, a loja tem até 5 dias para responder (Decreto 7.962/2013)."
 fontes:
   - nome: "Procon-SP: Carta de Serviços (Procon-SP Digital, reclamação, denúncia, Não Me Ligue, reclamações fundamentadas)"
     url: "https://www.procon.sp.gov.br/carta-de-servicos/"
@@ -50,11 +50,11 @@ fontes:
   - nome: "Aneel: reclame da distribuidora"
     url: "https://www.gov.br/aneel/pt-br/canais_atendimento/reclame-da-distribuidora"
 ---
-Para **reclamar no Procon online**, entre no site do Procon do seu estado ou da sua cidade. Em São Paulo, é o **[Procon-SP Digital](https://www.procon.sp.gov.br/carta-de-servicos/)**, com a conta **gov.br nível prata ou ouro**, aberto 24 horas. Outra opção é o **[Consumidor.gov.br](https://www.consumidor.gov.br/pages/conteudo/publico/1)**, do governo federal, onde a empresa tem **10 dias** para responder. Os dois são gratuitos. Antes, tente o **SAC** da empresa, que tem **7 dias** para responder. Para pedir **indenização**, o caminho é o **Juizado Especial Cível**: até 20 salários mínimos (R$ 32.420 em 2026), não precisa de advogado.
+Para **reclamar no Procon online**, entre no site do Procon do seu estado ou da sua cidade. Em São Paulo, é o **[Procon-SP Digital](https://www.procon.sp.gov.br/carta-de-servicos/)**, com a conta **gov.br nível prata ou ouro**, aberto 24 horas. Outra opção é o **[Consumidor.gov.br](https://www.consumidor.gov.br/pages/conteudo/publico/1)**, do governo federal, onde a empresa tem **10 dias** para responder. Os dois são gratuitos. Antes, tente o **SAC** da empresa: em bancos, telefonia, energia e planos de saúde, ele tem **7 dias** para responder; nas compras pela internet, a loja tem **5 dias**. Para pedir **indenização**, o caminho é o **Juizado Especial Cível**: até 20 salários mínimos (R$ 32.420 em 2026), não precisa de advogado.
 
 ## Antes de reclamar: o SAC da empresa
 
-O SAC é o primeiro passo, e as regras dele estão no [Decreto 11.034/2022](https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2022/decreto/D11034.htm):
+O SAC é o primeiro passo. Nos serviços regulados pelo governo federal, como bancos, operadoras de telefonia, internet e TV, distribuidoras de energia elétrica e planos de saúde, as regras dele estão no [Decreto 11.034/2022](https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2022/decreto/D11034.htm):
 
 - funciona **24 horas, 7 dias por semana**, com **atendimento humano** por telefone pelo menos 8 horas por dia, e o primeiro menu tem de ter as opções de reclamação e de cancelamento;
 - toda reclamação ganha um **número de protocolo**, e você pode pedir o histórico, que chega em até 5 dias, de graça;

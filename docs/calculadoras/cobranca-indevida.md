@@ -46,7 +46,7 @@ da sessão.
 | IPCA número-índice dez/2009 a set/2026 (3017,59 a 7695,82) | IBGE Sidra 1737, v. 2266; igual à série 433 do BCB nos 141 meses desde 2015 | oficial |
 | Telecom: dobro com correção e juros de 1% ao mês; índice da prestadora ou da Anatel (RGC, art. 64) | gov.br/anatel, "Cobrança" | oficial |
 | Luz: dobro corrigido pelo IPCA, salvo erro do consumidor | gov.br/aneel, "Como resolver" | oficial |
-| SAC: suspensão imediata da cobrança contestada; 7 dias para resposta | Decreto 11.034/2022 | oficial |
+| SAC: suspensão imediata da cobrança contestada; 7 dias para resposta; **só serviços regulados pelo Poder Executivo federal** (art. 1º); corrigido em 26/10/2026, antes citado como regra geral | Decreto 11.034/2022 | oficial |
 | Juizado: até 20 SM sem advogado; até 40 SM | Lei 9.099/1995, arts. 3º e 9º | oficial |
 
 ## Como a conta é feita (metodologia)

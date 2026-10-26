@@ -49,7 +49,7 @@ fontes:
     url: "https://www.planalto.gov.br/ccivil_03/leis/l9099.htm"
 ---
 
-Quem **pagou** uma cobrança indevida tem direito a receber de volta **o dobro do que pagou a mais**, com correção e juros, salvo se a empresa provar um **engano justificável** ([Código de Defesa do Consumidor, artigo 42](https://www.planalto.gov.br/ccivil_03/leis/l8078compilado.htm)). Desde 2021, o STJ não exige que o consumidor prove má-fé: basta que a cobrança contrarie a boa-fé. Peça primeiro no SAC, que deve suspender a cobrança na hora; se não resolver, vá ao Consumidor.gov.br, ao Procon ou ao Juizado Especial.
+Quem **pagou** uma cobrança indevida tem direito a receber de volta **o dobro do que pagou a mais**, com correção e juros, salvo se a empresa provar um **engano justificável** ([Código de Defesa do Consumidor, artigo 42](https://www.planalto.gov.br/ccivil_03/leis/l8078compilado.htm)). Desde 2021, o STJ não exige que o consumidor prove má-fé: basta que a cobrança contrarie a boa-fé. Peça primeiro no atendimento da empresa (em bancos, telefonia e energia, o SAC deve suspender a cobrança indevida na hora); se não resolver, vá ao Consumidor.gov.br, ao Procon ou ao Juizado Especial.
 
 ## O que diz a lei sobre cobrança indevida
 
@@ -78,7 +78,7 @@ Some o que você pagou **a mais** e multiplique por dois. Se pagou R$ 150 de uma
 ## Como pedir a devolução: passo a passo
 
 1. **Reúna as provas:** faturas, comprovantes de pagamento, contrato, prints, protocolos.
-2. **Reclame no SAC da empresa.** Ela tem **7 dias corridos** para responder e, quando a reclamação é de cobrança indevida ou de serviço não pedido, deve **suspender a cobrança imediatamente** ([Decreto 11.034/2022, artigo 13](https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2022/decreto/D11034.htm)). Anote o protocolo.
+2. **Reclame no SAC da empresa.** Nos serviços regulados pelo governo federal, como bancos, operadoras de telefonia, internet e TV, distribuidoras de energia elétrica e planos de saúde, ela tem **7 dias corridos** para responder e, quando a reclamação é de cobrança indevida ou de serviço não pedido, deve **suspender a cobrança imediatamente** ([Decreto 11.034/2022, artigo 13](https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2022/decreto/D11034.htm)). Anote o protocolo.
 3. **Peça o dobro por escrito**, citando o artigo 42 do CDC.
 4. **Sem solução, vá ao** [Consumidor.gov.br](https://www.consumidor.gov.br/pages/conteudo/sobre-servico) ou ao Procon. O passo a passo está em [como reclamar no Procon e no Consumidor.gov.br](/artigos/como-reclamar-procon).
 5. **Ainda sem solução, o Juizado Especial Cível:** até 20 salários mínimos (R$ 32.420 em 2026), sem advogado ([Lei 9.099/1995](https://www.planalto.gov.br/ccivil_03/leis/l9099.htm)).

@@ -747,19 +747,24 @@ function proximosPassos(
     </a>
   );
 
+  // O Decreto 11.034 (SAC) vale só para serviços regulados pelo governo federal
+  const regulado = tipo === "telecom" || tipo === "tarifa-bancaria" || tipo === "energia-agua";
+  const regraDoSac = regulado ? (
+    <>
+      {" "}
+      Em serviços regulados pelo governo federal, como bancos, telefonia, internet e energia elétrica, o SAC deve
+      suspender a cobrança indevida na hora e responder em até 7 dias corridos (
+      {fora(FONTES.sac, "Decreto 11.034/2022, artigo 13")}).
+    </>
+  ) : null;
   if (respostas.reclamou === "sim")
-    passos.push(
-      <>
-        Você já reclamou: guarde o número do protocolo. O SAC tem 7 dias corridos para responder e, em cobrança
-        indevida, deve suspender a cobrança na hora ({fora(FONTES.sac, "Decreto 11.034/2022, artigo 13")}).
-      </>,
-    );
+    passos.push(<>Você já reclamou: guarde o número do protocolo.{regraDoSac}</>);
   else
     passos.push(
       <>
-        Reclame no SAC da empresa{r.situacao === "com-excesso" ? " e peça a devolução por escrito, citando o artigo 42 do CDC" : ""}.
-        Em cobrança indevida, ela deve suspender a cobrança na hora e responder em até 7 dias corridos (
-        {fora(FONTES.sac, "Decreto 11.034/2022")}). Anote o protocolo.
+        Reclame por escrito no atendimento da empresa
+        {r.situacao === "com-excesso" ? " e peça a devolução, citando o artigo 42 do CDC" : ""}. Anote o protocolo.
+        {regraDoSac}
       </>,
     );
 

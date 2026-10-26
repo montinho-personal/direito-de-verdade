@@ -7,7 +7,7 @@ publicadoEm: 2026-10-26
 atualizadoEm: 2026-10-26
 faq:
   - pergunta: "Fui cobrado, mas não paguei. Tenho direito à devolução em dobro?"
-    resposta: "Não. A devolução, simples ou em dobro, é sobre o que você **pagou** a mais (CDC, artigo 42). Sem pagamento, o direito é contestar e ter a cobrança cancelada; no SAC, a empresa deve suspender a cobrança na hora."
+    resposta: "Não. A devolução, simples ou em dobro, é sobre o que você **pagou** a mais (CDC, artigo 42). Sem pagamento, o direito é contestar e ter a cobrança cancelada. Em bancos, telefonia, internet e energia elétrica, o SAC deve suspender a cobrança indevida na hora (Decreto 11.034/2022)."
   - pergunta: "A devolução em dobro é automática?"
     resposta: "Não. O dobro é a regra para quem pagou a mais, mas a empresa escapa dele se provar um **engano justificável**. Por isso a calculadora mostra os dois cenários, simples e em dobro, que não se somam."
   - pergunta: "A calculadora inclui juros?"
@@ -99,7 +99,7 @@ Por isso a calculadora pede o valor **cobrado**, o valor **correto** e o valor *
 ## Como pedir o dinheiro de volta
 
 1. **Separe as provas:** faturas, comprovantes de pagamento, contrato ou oferta, protocolos e prints.
-2. **Reclame no SAC.** Em cobrança indevida, a empresa deve **suspender a cobrança na hora** e tem **7 dias corridos** para responder ([Decreto 11.034/2022, artigo 13](https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2022/decreto/D11034.htm)). Peça a devolução em dobro por escrito, citando o artigo 42 do CDC, e anote o protocolo.
+2. **Reclame no SAC.** Nos serviços regulados pelo governo federal, como bancos, operadoras de telefonia, internet e TV, distribuidoras de energia elétrica e planos de saúde, a empresa deve **suspender a cobrança indevida na hora** e tem **7 dias corridos** para responder ([Decreto 11.034/2022, artigo 13](https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2022/decreto/D11034.htm)). Nas compras pela internet, a loja deve responder em até 5 dias (Decreto 7.962/2013, artigo 4º). Peça a devolução em dobro por escrito, citando o artigo 42 do CDC, e anote o protocolo.
 3. **Use o canal do setor:** a Anatel, para telefone, internet e TV; a Aneel, para a conta de luz ([Aneel](https://www.gov.br/aneel/pt-br/consumidores/como-resolver)); a ouvidoria e o Banco Central, para banco e cartão. Compra lançada duas vezes no cartão se contesta na fatura: veja [como pedir o estorno no cartão de crédito](/artigos/estorno-cartao-de-credito).
 4. **Registre no** [Consumidor.gov.br](https://www.consumidor.gov.br/pages/conteudo/sobre-servico) **ou no Procon**: o passo a passo está em [como abrir reclamação no Procon](/artigos/como-reclamar-procon).
 
