@@ -94,6 +94,16 @@ mando"), sem prints nem AnswerThePublic. Um de cada vez.
 | 1 | Aposentadoria 2026: regras, idade mínima, pontos e quanto vou receber | busca mais alta de Previdência; completa o grupo (auxílio-doença, BPC, 13º do INSS) | `aposentadoria` | **publicado em 24/10/2026 sem prints** — [doc](artigos/aposentadoria-2026-regras.md), `/artigos/aposentadoria-2026-regras` |
 | 2 | Divórcio: como fazer em cartório ou na Justiça, quanto custa e quanto tempo leva | Família só tinha os dois de pensão | `divórcio` | **publicado em 24/10/2026 sem prints** — [doc](artigos/divorcio.md), `/artigos/divorcio` |
 
+## Próximos dois (pedidos em 26/10/2026)
+
+Pedido do Renato em 26/10/2026 ("Criar próximos 2 artigos"), sem prints nem
+AnswerThePublic. Um de cada vez.
+
+| ordem | artigo | por que agora | buscas para o AnswerThePublic | status |
+|---|---|---|---|---|
+| 1 | CNH sem autoescola 2026: como tirar a carteira de motorista pelas regras novas | abre a categoria Trânsito; Resolução Contran 1.020/2025 | `cnh sem autoescola` | **publicado em 26/10/2026 sem prints** — [doc](artigos/cnh-sem-autoescola.md), `/artigos/cnh-sem-autoescola` |
+| 2 | Guarda compartilhada: como funciona, pensão e quem decide | completa Família (pensão, divórcio) | `guarda compartilhada` | em produção |
+
 ## Prints pendentes
 
 Artigos publicados antes dos prints do Google, a pedido do Renato em
@@ -123,6 +133,7 @@ Lembrar o Renato desta lista a cada entrega.
 | 13º dos aposentados do INSS (`/artigos/13-salario-aposentados-inss`), publicado em 23/10/2026 | `13 salário aposentados 2026`; `tabela do 13 salário dos aposentados 2026`; `13 salário inss` | **aguardando prints** |
 | Aposentadoria 2026 (`/artigos/aposentadoria-2026-regras`), publicado em 24/10/2026 | AnswerThePublic `aposentadoria` | **aguardando prints** |
 | Divórcio (`/artigos/divorcio`), publicado em 24/10/2026 | AnswerThePublic `divórcio` | **aguardando prints** |
+| CNH sem autoescola (`/artigos/cnh-sem-autoescola`), publicado em 26/10/2026 | AnswerThePublic `cnh sem autoescola` | **aguardando prints** |
 
 ## Temas-base (o ano todo)
 
@@ -167,7 +178,7 @@ Lembrar o Renato desta lista a cada entrega.
 - Barulho do vizinho e regras do condomínio
 
 ### Trânsito
-- CNH sem autoescola: como tirar a carteira em 2026
+- ~~CNH sem autoescola: como tirar a carteira em 2026~~ — **publicado em 26/10/2026** ([doc](artigos/cnh-sem-autoescola.md), `/artigos/cnh-sem-autoescola`)
 - Como recorrer de multa
 - Pontos e suspensão da CNH
 
@@ -206,3 +217,4 @@ Lembrar o Renato desta lista a cada entrega.
 - Compras no Paraguai: cota de viagem, limites e alíquotas da Receita; lojas do Correios Packet; taxa até US$ 50 (Lei 15.502) em `/artigos/compras-no-paraguai`.
 - 13º do INSS: decreto de antecipação e tabela de pagamentos do ano em `/artigos/13-salario-aposentados-inss` (janeiro).
 - Aposentadoria: pontos e idade da transição (1º de janeiro), mínimo e teto em `/artigos/aposentadoria-2026-regras`.
+- CNH sem autoescola: Resolução Contran 1.020/2025 (novas resoluções e decisões judiciais), toxicológico e manual do exame prático em `/artigos/cnh-sem-autoescola`.
