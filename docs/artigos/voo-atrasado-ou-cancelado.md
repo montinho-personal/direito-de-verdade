@@ -69,3 +69,9 @@ fazer`, `bagagem extraviada o que fazer`, `voo atrasado indenização`,
 
 Depois de 26/10/2026, tirar da tabela e da FAQ a menção à regra de 1 hora até
 25/10 quando ela não for mais buscada.
+
+## Revisão de 26/10/2026
+
+A Resolução ANAC 813/2026 entrou em vigor. Texto passado para o presente: descrição,
+FAQ de 1 hora, linha da tabela de 1 hora e H3 "O que mudou nas regras da ANAC em 26
+de outubro de 2026" (antes "O que muda"). Saíram as menções a "até 25/10/2026".

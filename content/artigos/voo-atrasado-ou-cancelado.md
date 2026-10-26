@@ -1,12 +1,13 @@
 ---
 titulo: "Voo atrasado ou cancelado: direitos do passageiro, regras novas da ANAC e bagagem extraviada"
 tituloSeo: "Voo atrasado ou cancelado: direitos e a regra nova da ANAC"
-descricao: "Voo atrasado ou cancelado: lanche após 2h, hotel e reembolso após 4h. Veja o que muda na ANAC em 26/10/2026, quando cabe indenização e o que fazer com a mala."
+descricao: "Voo atrasado ou cancelado: lanche após 2h, hotel e reembolso após 4h. Veja as regras novas da ANAC (desde 26/10/2026), a indenização e o que fazer com a mala."
 categoria: consumidor
 publicadoEm: 2026-10-21
+atualizadoEm: 2026-10-26
 faq:
   - pergunta: "Voo atrasado 1 hora: tenho direito a quê?"
-    resposta: "A ser informado do atraso e da nova previsão. Até 25/10/2026, a companhia também deve dar facilidades de comunicação (internet, telefone) depois de 1 hora; a partir de 26/10/2026, essa obrigação deixa de existir. A alimentação começa depois de 2 horas."
+    resposta: "A ser informado do atraso, da nova previsão e das suas opções. Desde 26/10/2026, a companhia não é mais obrigada a dar facilidades de comunicação (internet, telefone) depois de 1 hora. A alimentação começa depois de 2 horas."
   - pergunta: "Com quantas horas de atraso posso pedir reembolso?"
     resposta: "Com mais de 4 horas de atraso, ou em qualquer cancelamento, você pode escolher o reembolso integral, que deve sair em até 7 dias do pedido (Resolução ANAC 400, artigos 21 e 29)."
   - pergunta: "Voo cancelado por mau tempo: tenho direito a alguma coisa?"
@@ -18,7 +19,7 @@ faq:
 fontes:
   - nome: "Resolução ANAC nº 400/2016 (texto original, cópia oficial do Procon Goiás)"
     url: "https://goias.gov.br/procon/wp-content/uploads/sites/19/2017/03/resolucao-400-anac.pdf"
-  - nome: "Resolução ANAC nº 813/2026, que altera a Resolução 400 (em vigor em 26/10/2026)"
+  - nome: "Resolução ANAC nº 813/2026, que altera a Resolução 400 (em vigor desde 26/10/2026)"
     url: "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/resolucoes/2026/resolucao-813"
   - nome: "Ministério de Portos e Aeroportos: novas regras para atrasos e cancelamentos (23/09/2026)"
     url: "https://www.gov.br/portos-e-aeroportos/pt-br/assuntos/noticias/2026/09/atrasos-e-cancelamentos-novas-regras-ampliam-informacoes-aos-passageiros"
@@ -35,19 +36,19 @@ Os direitos crescem com o tempo de espera, contado do horário original do voo, 
 | espera | o que a companhia deve dar |
 | --- | --- |
 | desde o primeiro minuto | informação do atraso e da nova previsão, das opções de reacomodação e reembolso e de como pedir a assistência |
-| mais de 1 hora | facilidades de comunicação (internet, telefone) **só até 25/10/2026**; a partir de 26/10/2026, deixa de ser obrigatório |
+| mais de 1 hora | nada a mais: desde 26/10/2026, as facilidades de comunicação (internet, telefone) **deixaram de ser obrigatórias** |
 | mais de 2 horas | **alimentação**: refeição ou voucher, de acordo com o horário |
 | mais de 4 horas | **hotel**, se houver pernoite, e **transporte** de ida e volta; quem mora na cidade de origem pode receber só o transporte |
 | mais de 4 horas | escolha entre **reacomodação**, **reembolso integral** ou **outro meio de transporte** |
 
 Essa ajuda se chama **assistência material** e é de graça. Ela continua obrigatória mesmo quando o atraso vem de mau tempo ou de outro caso de força maior ([Ministério de Portos e Aeroportos](https://www.gov.br/portos-e-aeroportos/pt-br/assuntos/noticias/2026/09/atrasos-e-cancelamentos-novas-regras-ampliam-informacoes-aos-passageiros)). Se a companhia já souber que o voo vai atrasar mais de 4 horas, deve oferecer as opções na hora, sem esperar as 4 horas passarem ([Resolução 400, artigo 21](https://goias.gov.br/procon/wp-content/uploads/sites/19/2017/03/resolucao-400-anac.pdf)).
 
-### O que muda nas regras da ANAC em 26 de outubro de 2026
+### O que mudou nas regras da ANAC em 26 de outubro de 2026
 
-A [Resolução 813/2026](https://www.anac.gov.br/assuntos/legislacao/legislacao-1/resolucoes/2026/resolucao-813), publicada em 25/09/2026, altera a Resolução 400:
+A [Resolução 813/2026](https://www.anac.gov.br/assuntos/legislacao/legislacao-1/resolucoes/2026/resolucao-813), publicada em 25/09/2026 e em vigor desde 26/10/2026, alterou a Resolução 400:
 
-- **Sai** a obrigação de dar facilidades de comunicação depois de 1 hora.
-- **Ficam** a alimentação depois de 2 horas e o hotel com transporte depois de 4 horas.
+- **Saiu** a obrigação de dar facilidades de comunicação depois de 1 hora.
+- **Ficaram** a alimentação depois de 2 horas e o hotel com transporte depois de 4 horas.
 - A companhia deve avisar do atraso ou cancelamento pelos **canais digitais**, com a previsão de partida, as opções de reacomodação e reembolso e como pedir a assistência, e mostrar **a data e a hora da última atualização**.
 - Antes da compra, a companhia deve avisar que o voo pode atrasar ou ser cancelado por clima, segurança e outros fatores.
 - Quando falta estrutura no aeroporto ou não há fornecedor no local, a companhia pode, em vez de dar a assistência, **reembolsar** os gastos razoáveis com comida, transporte e hotel, em até **7 dias** depois de você mostrar os comprovantes. Guarde as notas.
