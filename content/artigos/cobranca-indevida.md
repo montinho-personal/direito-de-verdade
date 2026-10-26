@@ -4,6 +4,7 @@ tituloSeo: "Cobrança indevida: devolução em dobro e como pedir"
 descricao: "Cobrança indevida: quem pagou a mais tem direito a receber o dobro, com correção e juros, salvo engano justificável. Veja quando vale e como pedir."
 categoria: consumidor
 publicadoEm: 2026-10-22
+atualizadoEm: 2026-10-26
 faq:
   - pergunta: "Fui cobrado, mas não paguei. Tenho direito ao dobro?"
     resposta: "Não pelo Código de Defesa do Consumidor: o dobro é sobre o que você pagou a mais. Sem pagamento, o direito é cancelar a cobrança. Se a empresa entrar na Justiça para cobrar uma dívida já paga, o Código Civil prevê o pagamento em dobro do que ela cobrou (artigo 940)."
@@ -72,7 +73,7 @@ A exceção é a dívida cobrada **na Justiça** depois de paga: quem processa p
 
 ### Como calcular a devolução em dobro
 
-Some o que você pagou **a mais** e multiplique por dois. Se pagou R$ 150 de uma tarifa que não contratou, a devolução é de **R$ 300**, mais correção monetária e juros. Se o valor correto da conta era R$ 120 e você pagou R$ 180, o excesso é R$ 60, e a devolução é de R$ 120.
+Some o que você pagou **a mais** e multiplique por dois. Se pagou R$ 150 de uma tarifa que não contratou, a devolução é de **R$ 300**, mais correção monetária e juros. Se o valor correto da conta era R$ 120 e você pagou R$ 180, o excesso é R$ 60, e a devolução é de R$ 120. Para várias cobranças, com datas diferentes e a correção pelo IPCA, use a [calculadora de cobrança indevida](/calculadoras/cobranca-indevida), que mostra o cenário simples e o em dobro.
 
 ## Como pedir a devolução: passo a passo
 

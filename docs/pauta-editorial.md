@@ -30,6 +30,7 @@ O Google leva semanas para mostrar um site novo: publicar antes do pico.
 | Trabalho temporário de fim de ano: direitos, 13º, rescisão e seguro-desemprego | outubro a dezembro (contratação) e janeiro (fim dos contratos) | **publicado em 21/10/2026** — [doc](artigos/trabalho-temporario.md), `/artigos/trabalho-temporario` |
 | Voo atrasado ou cancelado e bagagem extraviada (regras novas da ANAC em 26/10/2026) | dezembro e janeiro (viagens de fim de ano) | **publicado em 21/10/2026** — [doc](artigos/voo-atrasado-ou-cancelado.md), `/artigos/voo-atrasado-ou-cancelado` |
 | Calculadora de FGTS 2026 (depósito, saldo, conferência, multa e saque) | o ano todo, pico em dezembro e janeiro (demissões) | **publicado em 22/10/2026** — [doc](calculadoras/fgts.md), `/calculadoras/fgts` |
+| Calculadora de cobrança indevida 2026 (restituição simples e em dobro, IPCA) | o ano todo; Black Friday e faturas de dezembro e janeiro | **publicado em 26/10/2026** (sem prints, prompt mestre do Renato) — [doc](calculadoras/cobranca-indevida.md), `/calculadoras/cobranca-indevida` |
 
 ## Próximos três (sugeridos em 21/10/2026)
 
@@ -135,6 +136,7 @@ Lembrar o Renato desta lista a cada entrega.
 | Divórcio (`/artigos/divorcio`), publicado em 24/10/2026 | AnswerThePublic `divórcio` | **aguardando prints** |
 | CNH sem autoescola (`/artigos/cnh-sem-autoescola`), publicado em 26/10/2026 | AnswerThePublic `cnh sem autoescola` | **aguardando prints** |
 | Guarda compartilhada (`/artigos/guarda-compartilhada`), publicado em 26/10/2026 | AnswerThePublic `guarda compartilhada` | **aguardando prints** |
+| Calculadora de cobrança indevida (`/calculadoras/cobranca-indevida`), publicada em 26/10/2026 | Google: `calculadora cobrança indevida`; `devolução em dobro`; AnswerThePublic `cobrança indevida` | **aguardando prints** |
 
 ## Temas-base (o ano todo)
 
@@ -194,6 +196,7 @@ Lembrar o Renato desta lista a cada entrega.
 
 ## Revisão anual (valores que mudam)
 
+- Calculadora de cobrança indevida: IPCA mensal em `src/lib/cobranca-indevida/ipca.ts` (a cada divulgação do IBGE), Tema 929 do STJ (tese a publicar), Juizado em salários mínimos do ano e `revisadoEm` em `src/lib/cobranca-indevida/regras.ts`.
 - Calculadora de férias: tabela por salário e exemplos de `/calculadoras/ferias` (INSS, IR e salário mínimo do ano) e data de revisão no rodapé da ferramenta.
 
 - Nome sujo: Tema 1264 do STJ (dívida prescrita), MP 1.393/2026 do Desenrola 3.0 (vence em 23/11/2026) e mínimo existencial em `/artigos/nome-sujo`.
