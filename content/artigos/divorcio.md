@@ -4,6 +4,7 @@ tituloSeo: "Divórcio: como fazer em cartório ou na Justiça"
 descricao: "Divórcio: não precisa separar antes nem esperar prazo. Em cartório, se for de acordo e com advogado, até com filhos menores. Veja documentos, custos e partilha."
 categoria: familia
 publicadoEm: 2026-10-24
+atualizadoEm: 2026-10-26
 faq:
   - pergunta: "Posso me divorciar se o outro não quiser?"
     resposta: "Pode. Desde a Emenda Constitucional 66/2010, o divórcio não depende de nenhum requisito além da vontade de se divorciar, segundo o STF. Sem acordo, o pedido é feito na Justiça; o que pode demorar é a discussão de bens, guarda e pensão, não o divórcio em si."
@@ -92,7 +93,7 @@ Se a divisão não for meio a meio, ou se um passar ao outro um bem que era só 
 
 ## Pensão e guarda dos filhos no divórcio
 
-O divórcio não muda o dever de sustentar os filhos. A pensão segue as regras de necessidade de quem recebe e possibilidade de quem paga: veja [quanto se paga de pensão alimentícia](/artigos/pensao-alimenticia). A guarda pode ser **unilateral ou compartilhada** (Código Civil, artigo 1.583) e é decidida pela Justiça quando há filhos menores, por acordo homologado ou pelo juiz.
+O divórcio não muda o dever de sustentar os filhos. A pensão segue as regras de necessidade de quem recebe e possibilidade de quem paga: veja [quanto se paga de pensão alimentícia](/artigos/pensao-alimenticia). A guarda pode ser **unilateral ou compartilhada** (Código Civil, artigo 1.583) e é decidida pela Justiça quando há filhos menores, por acordo homologado ou pelo juiz; veja [como funciona a guarda compartilhada](/artigos/guarda-compartilhada).
 
 ## Quanto custa o divórcio?
 

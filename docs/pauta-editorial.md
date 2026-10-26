@@ -102,7 +102,7 @@ AnswerThePublic. Um de cada vez.
 | ordem | artigo | por que agora | buscas para o AnswerThePublic | status |
 |---|---|---|---|---|
 | 1 | CNH sem autoescola 2026: como tirar a carteira de motorista pelas regras novas | abre a categoria Trânsito; Resolução Contran 1.020/2025 | `cnh sem autoescola` | **publicado em 26/10/2026 sem prints** — [doc](artigos/cnh-sem-autoescola.md), `/artigos/cnh-sem-autoescola` |
-| 2 | Guarda compartilhada: como funciona, pensão e quem decide | completa Família (pensão, divórcio) | `guarda compartilhada` | em produção |
+| 2 | Guarda compartilhada: como funciona, pensão e quem decide | completa Família (pensão, divórcio) | `guarda compartilhada` | **publicado em 26/10/2026 sem prints** — [doc](artigos/guarda-compartilhada.md), `/artigos/guarda-compartilhada` |
 
 ## Prints pendentes
 
@@ -134,6 +134,7 @@ Lembrar o Renato desta lista a cada entrega.
 | Aposentadoria 2026 (`/artigos/aposentadoria-2026-regras`), publicado em 24/10/2026 | AnswerThePublic `aposentadoria` | **aguardando prints** |
 | Divórcio (`/artigos/divorcio`), publicado em 24/10/2026 | AnswerThePublic `divórcio` | **aguardando prints** |
 | CNH sem autoescola (`/artigos/cnh-sem-autoescola`), publicado em 26/10/2026 | AnswerThePublic `cnh sem autoescola` | **aguardando prints** |
+| Guarda compartilhada (`/artigos/guarda-compartilhada`), publicado em 26/10/2026 | AnswerThePublic `guarda compartilhada` | **aguardando prints** |
 
 ## Temas-base (o ano todo)
 
@@ -157,7 +158,7 @@ Lembrar o Renato desta lista a cada entrega.
 ### Família
 - ~~Pensão alimentícia: quanto se paga~~ — **publicado em 23/10/2026** ([doc](artigos/pensao-alimenticia.md), `/artigos/pensao-alimenticia`)
 - ~~Divórcio em cartório ou na Justiça~~ — **publicado em 24/10/2026** ([doc](artigos/divorcio.md), `/artigos/divorcio`)
-- Guarda compartilhada
+- ~~Guarda compartilhada~~ — **publicado em 26/10/2026** ([doc](artigos/guarda-compartilhada.md), `/artigos/guarda-compartilhada`)
 - União estável: direitos
 - Inventário: prazo e custos
 
