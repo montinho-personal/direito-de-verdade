@@ -109,6 +109,17 @@ AnswerThePublic. Um de cada vez.
 | 1 | CNH sem autoescola 2026: como tirar a carteira de motorista pelas regras novas | abre a categoria Trânsito; Resolução Contran 1.020/2025 | `cnh sem autoescola` | **publicado em 26/10/2026 sem prints** — [doc](artigos/cnh-sem-autoescola.md), `/artigos/cnh-sem-autoescola` |
 | 2 | Guarda compartilhada: como funciona, pensão e quem decide | completa Família (pensão, divórcio) | `guarda compartilhada` | **publicado em 26/10/2026 sem prints** — [doc](artigos/guarda-compartilhada.md), `/artigos/guarda-compartilhada` |
 
+## Próximos três (sugeridos em 27/10/2026)
+
+Um de cada vez, na ordem, cada um só depois dos prints do Google e do
+AnswerThePublic.
+
+| ordem | artigo | por que agora | buscas para printar | AnswerThePublic | status |
+|---|---|---|---|---|---|
+| 1 | Licença-paternidade nova: quantos dias, desde quando e quem tem direito | já estava na lista de temas-base, para publicar em dez/jan | `licença paternidade`; `licença paternidade 2027`; `licença paternidade quantos dias` | `licença paternidade` | **aguardando prints** |
+| 2 | Cancelar internet ou celular: multa de fidelidade e como cancelar | Consumidor; mudanças e trocas de plano no fim do ano; liga com cobrança indevida e Procon | `cancelar internet multa`; `multa de fidelidade`; `como cancelar plano de celular` | `multa de fidelidade` | **aguardando prints** |
+| 3 | Benefício do INSS negado: como recorrer | completa Previdência (auxílio-doença, BPC, aposentadoria) | `benefício negado inss`; `como recorrer inss`; `recurso inss prazo` | `recurso inss` | **aguardando prints** |
+
 ## Prints pendentes
 
 Artigos publicados antes dos prints do Google, a pedido do Renato em
