@@ -22,6 +22,10 @@ Recebidos em 21/10/2026 (celular, 08h41–08h43), em
 | 03 PAA | direito quando não é entregue; o que fazer se ainda não chegou; o que a lei diz sobre prazo; valor dos danos morais | H2 "o que devo fazer"; H2 "qual o direito" (art. 35); H2 "o que a lei diz sobre prazo"; H3 do valor (sem valor tabelado) |
 | 04–05 outras pesquisas | posso processar; por Pix e não recebi; não recebi o código de rastreamento; Procon produto não entregue; Amazon; art. 35; dano moral; BO; restituição em dobro; posso cancelar | H2 "posso processar"; Pix na seção da loja que sumiu; H3 código de rastreamento; H3 "posso cancelar"; FAQ BO; FAQ dobro |
 | 06 autocompletar `entrega atrasada direitos do consumidor` | o que fazer; OAB; compra; encomenda | coberto pelos H2. OAB: fora |
+| 27/10/2026 autocompletar `comprei pela internet e não recebi` | o que fazer · o produto · no prazo · a nota fiscal · paguei e não recebi · posso processar · um celular | já cobertos (H1, H2 "posso processar"). Nota fiscal: fora (outra dúvida) |
+| 27/10/2026 PAA | O que fazer quando compra pela internet e não recebe? · É crime comprar um produto e não recebê-lo? · Como provar que não recebi o produto? · Como denunciar uma compra que não foi entregue? | H3 novo "Como provar que não recebi o produto?"; H2 da loja que sumiu virou "A loja sumiu: como denunciar a compra não entregue?", com Procon e Consumidor.gov.br. Crime: só o boletim de ocorrência quando há indício de golpe (Procon-SP); o texto não diz que não entregar é crime |
+| 27/10/2026 outras pesquisas (2 prints) | paguei e não recebi · posso processar · pelo WhatsApp · por Pix · não recebi o código de rastreamento · posso cancelar · Procon produto não entregue · indenização por atraso · dano moral | já cobertos. WhatsApp: pendente |
+| 27/10/2026 visão geral de IA | Consumidor.gov.br; artigo 35 com as três opções | confirma o texto |
 | 07 visão geral de IA | art. 35, três opções, restituição com frete e correção | texto literal do art. 35; "inclusive o frete" |
 | 08 PAA | quanto tempo de atraso gera indenização; art. 35; art. 42; o que fazer quando não cumpre o prazo | H3 "quanto tempo de atraso"; art. 35 literal; art. 42 na FAQ do dobro |
 | 09–11 relacionados e outras pesquisas | processar loja; cancelamento; indenização por atraso; pizza/comida; multa por atraso; Procon; móveis; Shopee; Mercado Livre; comprei paguei e não recebi | H3 "multa por atraso" (Procon multa a loja; CDC arts. 56-57). Delivery de comida e móveis: fora |
@@ -46,6 +50,8 @@ Recebidos em 21/10/2026 (celular, 08h41–08h43), em
 | Mero descumprimento contratual não gera dano moral, salvo situação excepcional | TJDFT, Jurisprudência em perguntas | oficial |
 
 ## Pendente
+
+- Compra pelo WhatsApp ou Instagram de vendedor pessoa física: quando vale o CDC (prints de 27/10/2026). Pista: Procon-SP sobre compras em redes sociais.
 
 - Responsabilidade da loja no "entregue a terceiro / entregue sem receber":
   base legal (arts. 7º e 25) confirmada; aplicação específica não confirmada

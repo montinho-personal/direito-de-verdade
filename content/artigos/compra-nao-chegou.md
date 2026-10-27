@@ -4,7 +4,7 @@ tituloSeo: "Comprei e não chegou: o que fazer, prazo e como cancelar"
 descricao: "Comprei pela internet e não chegou: atraso na entrega é descumprimento de oferta. Exija o produto, outro igual ou o dinheiro de volta. Veja o passo a passo."
 categoria: consumidor
 publicadoEm: 2026-10-21
-atualizadoEm: 2026-10-26
+atualizadoEm: 2026-10-27
 faq:
   - pergunta: "A loja pode cobrar multa se eu cancelar por atraso na entrega?"
     resposta: "Não. O cancelamento por descumprimento da oferta, como a entrega fora do prazo, é imediato, a loja não pode cobrar nada e deve devolver o que você pagou (Procon-SP)."
@@ -87,6 +87,10 @@ Vale para os Correios, para transportadoras e para pedidos da Amazon, da Shopee,
 3. **Reclame com a loja no mesmo dia**, por escrito, pela área de pedidos do app (opções como "não recebi meu pedido") ou pelo chat, e peça a **prova da entrega**: nome e documento de quem recebeu, assinatura ou foto. Às vezes o registro de "entregue" sai por erro e o pacote chega depois; a reclamação registrada protege você nos dois casos.
 4. Se a loja não provar a entrega a você, peça o **reenvio** ou o **reembolso**.
 
+### Como provar que não recebi o produto?
+
+Não dá para provar que algo não aconteceu, então junte o que mostra o seu lado: prints do **rastreio** e do **prazo prometido**, as **conversas** com a loja, o **protocolo** da reclamação e a resposta dela. E peça à loja a **prova da entrega** (nome e documento de quem recebeu, assinatura ou foto). Se ela não apresentar, use isso na reclamação no Procon e no Juizado.
+
 ### O que fazer quando a transportadora ou os Correios dizem que entregaram?
 
 Reclame com a **loja**, mesmo que o transporte seja dos Correios ou de uma transportadora. A loja escolheu e contratou quem faz a entrega, e o CDC torna responsáveis, juntos, todos os que causaram o problema ([CDC, artigos 7º e 25](https://www2.camara.leg.br/legin/fed/lei/1990/lei-8078-11-setembro-1990-365086-normaatualizada-pl.html)).
@@ -97,13 +101,14 @@ Abra a reclamação **pelo próprio aplicativo**, dentro do prazo de proteção 
 
 Na **Shein** e em outras lojas que mandam do exterior, a encomenda também pode estar parada na fiscalização: veja a seção da compra internacional abaixo.
 
-## A loja sumiu ou o site saiu do ar
+## A loja sumiu: como denunciar a compra não entregue?
 
 Pode ter sido golpe. O Procon-SP lista entre as queixas mais comuns contra sites que devem ser evitados "a não entrega do produto, [...] dificuldade em conseguir contato ou desaparecimento da empresa" ([Procon-SP](https://www.procon.sp.gov.br/compras-pela-internet-podem-esconder-golpes/)).
 
 - **Pagou no cartão:** conteste a compra no banco. Veja [como contestar compra no cartão](/artigos/estorno-cartao-de-credito).
 - **Comprei por Pix e não recebi:** se foi golpe, avise o banco na hora e peça a devolução pelo MED. Veja [caí no golpe do Pix](/artigos/golpe-pix-como-recuperar-dinheiro).
 - **Registre um boletim de ocorrência**, como orienta o Procon-SP quando há indício de crime.
+- **Denuncie a loja** no Procon do seu estado ou no Consumidor.gov.br, se ela ainda estiver ativa.
 
 Antes de comprar de uma loja desconhecida, consulte a lista [Evite esses sites](https://sistemas.procon.sp.gov.br/evitesite/list/evitesites.php) do Procon-SP.
 

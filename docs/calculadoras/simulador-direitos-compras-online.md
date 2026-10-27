@@ -23,8 +23,8 @@ Usei `/calculadoras/...`, padrão das ferramentas do site, e não `/simulador-..
 
 ## Prints recebidos
 
-Em `prints/simulador-direitos-compras-online/`. Ainda a printar: `direitos em compras
-online`, `comprei pela internet e não recebi`; AnswerThePublic `compra online` já
+Em `prints/simulador-direitos-compras-online/`. Os prints de `comprei pela internet e
+não recebi` (27/10/2026) foram para o artigo `compra-nao-chegou`, que é a página dessa busca; AnswerThePublic `compra online` já
 recebido em 23/10 (ver doc do arrependimento).
 
 | print | conteúdo | onde entrou |
@@ -33,6 +33,13 @@ recebido em 23/10 (ver doc do arrependimento).
 | Google, visão geral de IA | "simuladores de dopamina" (compras fictícias, Comprei Nada, DopaminaShop), jogos de e-commerce, simuladores de parcelamento | confirma a intenção diferente; nada entrou |
 | Google, "Outras pessoas pesquisaram" (2 prints) | precificação de produtos, Comprei Nada, sites de dopamina, preço de venda, Sebrae, preço de custo; simulador de supermercado, de mercado, de preço de venda; calculadora do Remessa Conforme (gov.br) nos resultados | nada; o resultado do gov.br é sobre imposto de importação, já coberto pela [calculadora de taxa de importação](taxa-de-importacao.md) |
 | AnswerThePublic `simulador de compras online` (27/10/2026), em `prints/simulador-direitos-compras-online/answerthepublic/` | motores de busca: só 2 termos ("supermercado online", 10/mês; "juego", 0). PAA: apps de compras, lista de supermercado, melhor site para comprar, site mais barato, marketplaces. Modelos de IA: planejar gastos, comparar preços, frete, parcelas, roupa e móveis virtuais | nada; confirma que a busca não é de direitos e tem volume quase nulo |
+| AnswerThePublic `direitos em compras online`, motores de busca (27/10/2026) | só "direitos do consumidor em compras online" (50/mês, Google e Bing) | `titulo`, `tituloSeo`, `descricao` e o primeiro H2 com "direitos do consumidor em compras online" |
+| AnswerThePublic, PAA | Qual o direito do consumidor quando compra um produto? · O que diz o artigo 49? · Tenho direito de me arrepender de uma compra presencial? · artigos 35, 39, 42, 43, 51 e 54 · garantia mínima · quando cabe indenização | H2 do arrependimento virou "O que diz o artigo 49 do CDC sobre o arrependimento?"; FAQ da compra presencial; os outros artigos do CDC ficam nos artigos próprios (oferta, cobrança indevida, nome sujo) |
+| AnswerThePublic, modelos de IA | cancelar antes do envio · garantia · prazos de devolução · entrega atrasada · fraudes · trocar por outro modelo · reembolso · produto diferente do anúncio · produto digital · preço diferente da loja física · onde reclamar | FAQ "Posso cancelar uma compra online antes do envio?" (artigo 49: prazo da compra ou do recebimento); o resto já está nos H2 e nos artigos linkados. Saiu da FAQ a pergunta do conserto (já respondida no H2 do defeito) |
+| Google `direitos em compras online`, "As pessoas também perguntam" (27/10/2026) | O que diz a lei sobre compras online? · Tenho direito a reembolso em compras online? · O que diz o artigo 42 do consumidor? · Qual o prazo de garantia para compras online? | H2 "O que diz a lei sobre compras online?" (era "Quais são os direitos..."); H2 "Tenho direito a reembolso em compras online?" (era "Como pedir o reembolso"), com o "de imediato" do artigo 49; H2 "Qual o prazo de garantia para compras online?" (era "Comprei online e veio com defeito"); FAQ do artigo 42 |
+| Google, "Outras pessoas pesquisaram" (3 prints) | compras pela internet direito do consumidor · compra não entregue · arrependimento de compra online 30 dias · produto com defeito o que fazer · prazo para reembolso · cancelamento antes da entrega · cancelamento pelo fornecedor · direito do consumidor cancelar compra · Reclame Aqui · deveres das empresas | FAQ "7 ou 30 dias?" (substituiu "Posso cancelar qualquer compra a qualquer momento?"); "antes da entrega" já na FAQ do envio; "pelo fornecedor" já linka `loja-cancelou-pedido`. Reclame Aqui: fora (não é canal oficial) |
+| Google, visão geral de IA (2 prints) | CDC e Decreto 7.962; artigo 49 com 7 dias corridos; reembolso total com o frete, e o frete da devolução por conta da empresa; garantia do artigo 26 | confirma o texto; frete da devolução entrou na lista do H2 da lei e saiu da FAQ |
+| Concorrentes nos prints | TRT4 "Compras pela Internet: Saiba quais são os seus direitos"; Procon-ES | ninguém tem simulador nem diagnóstico por caso; mantido o "Simulador Grátis" no título |
 
 ## Fontes confirmadas
 
@@ -127,6 +134,9 @@ pergunta; eventos sem dados pessoais.
   compra fictícia ("sites de dopamina"), jogo ou precificação de produto, não direitos do
   consumidor. A página **não** mira essa busca: o `tituloSeo` continua começando por
   "Direitos em Compras Online", e o texto não muda (sem subir `atualizadoEm`).
+- 27/10/2026, com o AnswerThePublic de `direitos em compras online`: `tituloSeo`
+  "Direitos do Consumidor em Compras Online: Simulador Grátis" (58), a única variação
+  com volume. Sem os prints do Google dessa busca, o título pode mudar de novo.
 
 - Uma pergunta por tela, com a contagem que se ajusta às respostas.
 - SoftwareApplication fora (sem avaliação real; mesmo motivo da cobrança indevida).

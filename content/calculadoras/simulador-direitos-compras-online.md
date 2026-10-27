@@ -1,19 +1,21 @@
 ---
-titulo: "Simulador de Direitos em Compras Online: descubra o que fazer"
-tituloSeo: "Direitos em Compras Online: Simulador Gratuito"
-descricao: "Teve problema com uma compra online? Descubra seus direitos em casos de atraso, defeito, cancelamento e reembolso. Simule grátis."
+titulo: "Direitos do consumidor em compras online: simulador gratuito"
+tituloSeo: "Direitos do Consumidor em Compras Online: Simulador Grátis"
+descricao: "Direitos do consumidor em compras online: 7 dias para desistir, entrega no prazo e garantia contra defeito. Simule seu caso e veja prazos e onde reclamar."
 categoria: consumidor
 publicadoEm: 2026-10-26
-atualizadoEm: 2026-10-26
+atualizadoEm: 2026-10-27
 faq:
-  - pergunta: "Posso cancelar qualquer compra online a qualquer momento?"
-    resposta: "Não. Sem motivo, a desistência vale por **7 dias** do recebimento, nas compras feitas fora da loja (CDC, artigo 49). Depois disso, a devolução depende de defeito, de produto diferente do anúncio, de atraso na entrega ou da política da loja."
+  - pergunta: "O arrependimento de compra online é de 7 ou de 30 dias?"
+    resposta: "De **7 dias**, sem precisar dar motivo (CDC, artigo 49). Os 30 dias são outra coisa: o prazo para reclamar de defeito em produto não durável, ou o prazo de troca que algumas lojas oferecem por conta própria. Depois dos 7 dias, a devolução depende de defeito, de produto diferente do anúncio, de atraso na entrega ou da política da loja."
   - pergunta: "Os 7 dias para desistir são úteis ou corridos?"
     resposta: "Corridos, contados a partir do dia seguinte ao recebimento, segundo o Procon-SP. Para não correr risco, faça o pedido de cancelamento dentro dos 7 dias e guarde o comprovante."
-  - pergunta: "Quem paga o frete da devolução?"
-    resposta: "Na desistência dentro dos 7 dias, a loja. O Procon-SP diz que ela não pode cobrar frete de devolução, e o frete pago na compra também volta."
-  - pergunta: "A loja pode consertar em vez de trocar um produto com defeito?"
-    resposta: "Pode. A loja e o fabricante têm até **30 dias** para consertar (CDC, artigo 18). Sem conserto nesse prazo, você escolhe a troca, o dinheiro de volta ou o abatimento. Em produto essencial, ou quando trocar a peça puder comprometer o produto, dá para pedir essas opções sem esperar."
+  - pergunta: "O que diz o artigo 42 do CDC?"
+    resposta: "Que o consumidor não pode ser exposto ao ridículo nem ameaçado na cobrança de uma dívida, e que quem pagou uma cobrança indevida tem direito a receber em dobro o que pagou a mais, com correção e juros, salvo engano justificável. Simule na [calculadora de cobrança indevida](/calculadoras/cobranca-indevida)."
+  - pergunta: "Posso cancelar uma compra online antes do envio?"
+    resposta: "Pode. Os 7 dias para desistir contam da compra ou do recebimento (CDC, artigo 49), então o pedido feito antes do envio está dentro do prazo. A loja devolve tudo o que você pagou, inclusive o frete."
+  - pergunta: "Tenho direito de me arrepender de uma compra presencial?"
+    resposta: "Não. O direito de arrependimento do artigo 49 do CDC vale só para compras feitas fora da loja, como pela internet ou por telefone. Na loja física, a troca sem defeito depende da política da loja: veja [quando a loja é obrigada a trocar](/artigos/loja-e-obrigada-a-trocar-produto)."
   - pergunta: "O simulador guarda as minhas respostas?"
     resposta: "Não. O simulador funciona no seu navegador, não pede nome, CPF nem endereço, e nada do que você responde é enviado ou guardado."
 fontes:
@@ -45,12 +47,12 @@ Quem compra pela internet tem quatro garantias básicas: **informação clara** 
 
 <!-- ferramenta: simulador-compras-online -->
 
-## Quais são os direitos em compras online?
+## O que diz a lei sobre compras online?
 
 - **Informação clara:** o site tem de mostrar, em destaque, o nome empresarial e o CNPJ, o endereço, as características do produto, o preço com todas as despesas (como o frete), o prazo de entrega e as restrições da oferta (Decreto 7.962/2013, artigo 2º).
 - **Oferta cumprida:** o anúncio obriga a loja e faz parte do contrato, inclusive o preço e o prazo (CDC, artigo 30).
 - **Atendimento:** a loja deve confirmar na hora o recebimento do pedido e das reclamações e responder em até **5 dias** (Decreto 7.962/2013, artigo 4º).
-- **Desistência em 7 dias**, sem motivo (CDC, artigo 49).
+- **Desistência em 7 dias**, sem motivo (CDC, artigo 49), com o frete da compra e o da devolução por conta da loja (Procon-SP).
 - **Garantia contra defeitos**, que vale mesmo sem termo de garantia (CDC, artigos 18, 24 e 26).
 
 Nas compras em **marketplace**, como Mercado Livre, Shopee e Amazon, a plataforma também responde: para o Procon-SP, ela integra a cadeia de fornecimento e responde junto com o vendedor por falhas ([Procon-SP](https://www.procon.sp.gov.br/procon-sp-autua-empresa-responsavel-pela-shopee-em-r-14-mi-por-clausulas-abusivas-e-falhas-de-informacao-ao-consumidor/)).
@@ -59,13 +61,13 @@ Nas compras em **marketplace**, como Mercado Livre, Shopee e Amazon, a plataform
 
 Se o prazo prometido passou, a loja descumpriu a oferta, e você escolhe entre **exigir a entrega**, **aceitar outro produto equivalente** ou **cancelar com o dinheiro de volta**, corrigido e com direito a perdas e danos ([CDC, artigo 35](https://www2.camara.leg.br/legin/fed/lei/1990/lei-8078-11-setembro-1990-365086-normaatualizada-pl.html)). O Procon-SP diz que, nesse caso, o cancelamento é imediato à solicitação ([Procon-SP](https://www.procon.sp.gov.br/compras-pela-internet/)). Reclame por escrito e guarde a previsão de entrega. O passo a passo, inclusive para pedido que consta como entregue, está em [comprei e não chegou: o que fazer](/artigos/compra-nao-chegou).
 
-## Como funciona o direito de arrependimento de 7 dias?
+## O que diz o artigo 49 do CDC sobre o arrependimento?
 
 Na compra feita **fora da loja** (site, aplicativo, telefone, rede social), você pode desistir em até **7 dias** da compra ou do recebimento, sem dar motivo, e recebe de volta tudo o que pagou, de imediato e corrigido (CDC, artigo 49). Os dias são corridos e contam a partir do dia seguinte ([Procon-SP](https://www.procon.sp.gov.br/perguntas-frequentes/)). O frete de devolução é da loja, e no cartão a compra deve ser estornada (Decreto 7.962/2013, artigo 5º).
 
 O direito **não vale** na compra feita dentro da loja física. Para produtos personalizados, feitos sob encomenda ou perecíveis, o Procon-SC entende que pode não valer, mas isso não está escrito na lei ([Procon-SC](https://www.procon.sc.gov.br/procon-sc-explica-direito-de-arrependimento-vale-por-7-dias-para-compras-online/)). Os detalhes estão em [direito de arrependimento: como desistir de uma compra](/artigos/direito-de-arrependimento).
 
-## Comprei online e veio com defeito: quais os direitos?
+## Qual o prazo de garantia para compras online?
 
 - **Até 7 dias do recebimento**, você pode simplesmente desistir da compra.
 - **Depois**, vale a garantia: a loja e o fabricante têm **30 dias para consertar**; sem conserto, você escolhe a **troca**, o **dinheiro de volta** ou o **abatimento** no preço (CDC, artigo 18).
@@ -73,7 +75,9 @@ O direito **não vale** na compra feita dentro da loja física. Para produtos pe
 
 Veja os prazos e a garantia estendida em [produto com defeito: o que fazer](/artigos/produto-com-defeito). Produto **diferente do anunciado** também é descumprimento da oferta: veja [propaganda enganosa](/artigos/propaganda-enganosa).
 
-## Como pedir o reembolso de uma compra online?
+## Tenho direito a reembolso em compras online?
+
+Tem, quando você desiste em até 7 dias, quando a entrega atrasa, quando o produto não corresponde ao anúncio e quando o defeito não é consertado em 30 dias. Na desistência, a lei manda devolver **de imediato** tudo o que você pagou, corrigido (CDC, artigo 49). Para pedir:
 
 1. **Peça por escrito**, pelo canal da loja ou da plataforma, dizendo o motivo (desistência, atraso, defeito) e o que você quer.
 2. **Guarde o protocolo** e a confirmação do cancelamento.

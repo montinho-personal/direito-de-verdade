@@ -152,7 +152,7 @@ Lembrar o Renato desta lista a cada entrega.
 | CNH sem autoescola (`/artigos/cnh-sem-autoescola`), publicado em 26/10/2026 | AnswerThePublic `cnh sem autoescola` | **aguardando prints** |
 | Guarda compartilhada (`/artigos/guarda-compartilhada`), publicado em 26/10/2026 | AnswerThePublic `guarda compartilhada` | **aguardando prints** |
 | Calculadora de cobrança indevida (`/calculadoras/cobranca-indevida`), publicada em 26/10/2026 | Google: `calculadora cobrança indevida`; `devolução em dobro`; AnswerThePublic `cobrança indevida` | **aguardando prints** |
-| Simulador de direitos em compras online (`/calculadoras/simulador-direitos-compras-online`), publicado em 26/10/2026 | Google: `direitos em compras online`; `comprei pela internet e não recebi` | **aguardando prints** |
+| Simulador de direitos em compras online (`/calculadoras/simulador-direitos-compras-online`), publicado em 26/10/2026 | Google: `direitos em compras online`; `comprei pela internet e não recebi` | **prints e AnswerThePublic recebidos e página revisada em 27/10/2026** |
 | Calculadora de juros abusivos (`/calculadoras/juros-abusivos`), publicada em 27/10/2026 | Google: `calculadora de juros abusivos`; `como saber se juros são abusivos`; `taxa média banco central financiamento` | **aguardando prints** |
 | Calculadora de multa de aluguel (`/calculadoras/multa-rescisao-aluguel`), publicada em 27/10/2026 | Google: `calculadora multa rescisão aluguel`; `multa proporcional aluguel`; `multa de 3 aluguéis proporcional` | **aguardando prints** |
 | Simulador de voo (`/calculadoras/simulador-direitos-voo-atrasado-cancelado`), publicado em 27/10/2026 | Google: `simulador direitos voo atrasado`; `voo atrasado 4 horas`; `overbooking direitos` | **aguardando prints** |
