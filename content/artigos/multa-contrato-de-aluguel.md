@@ -4,6 +4,7 @@ tituloSeo: "Multa de contrato de aluguel: cálculo e quando não paga"
 descricao: "Multa por sair antes do fim do contrato de aluguel: é proporcional ao tempo que falta (Lei 8.245). Veja a conta, o aviso de 30 dias e quando não paga."
 categoria: moradia
 publicadoEm: 2026-10-23
+atualizadoEm: 2026-10-27
 faq:
   - pergunta: "O proprietário pode pedir o imóvel antes do fim do contrato?"
     resposta: "Durante o prazo do contrato, **não**, salvo exceções da lei, como acordo, falta de pagamento, infração do contrato ou reparos urgentes exigidos pelo poder público (Lei 8.245, artigos 4º e 9º). Depois do prazo, com o contrato por tempo indeterminado, as regras de retomada mudam (artigos 46, 47 e 57)."
@@ -56,6 +57,8 @@ Exemplo: aluguel de **R$ 1.500**, contrato de **30 meses** e multa de **3 alugu�
 O STJ confirma o abatimento "proporcional ao período de contrato cumprido", com base no artigo 413 do Código Civil ([REsp 1.906.869](https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/15072022-Cabe-multa-compensatoria-por-devolucao-de-imovel-em-acao-de-despejo--confirma-Terceira-Turma.aspx)). Num caso de loja em shopping, porém, o tribunal disse que a redução deve seguir a equidade, que "não se confunde com a imposição de proporcionalidade matemática" ([STJ, 2018](https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias-antigas/2018/2018-05-28_06-59_Quarta-Turma-adota-equidade-para-fixar-clausula-penal-por-descumprimento-de-contrato-de-locacao-em-shopping.aspx)). Na prática, a conta da tabela é o ponto de partida para negociar; se a briga for à Justiça, o juiz pode chegar a um valor um pouco diferente.
 
 Os 3 aluguéis do exemplo são só um número para a conta: confira **a cláusula de multa do seu contrato**, que pode prever outro valor ou já dizer como fazer a proporção.
+
+Para fazer a conta com as datas do seu contrato, inclusive com meses incompletos, use a [calculadora de multa de aluguel](/calculadoras/multa-rescisao-aluguel).
 
 ## Quando o inquilino não paga multa
 

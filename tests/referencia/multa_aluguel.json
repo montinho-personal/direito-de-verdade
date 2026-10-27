@@ -1,0 +1,173 @@
+[
+ {
+  "nome": "exemplo do prompt: 2.000, 3 aluguéis, 30 meses, 20 cumpridos",
+  "aluguel": 200000,
+  "multa": 600000,
+  "inicio": "2024-01-10",
+  "termino": "2026-07-10",
+  "devolucao": "2025-09-10",
+  "prazo": [
+   30,
+   0,
+   31
+  ],
+  "restante": [
+   10,
+   0,
+   31
+  ],
+  "proporcional": 200000
+ },
+ {
+  "nome": "artigo: 1.500, 3 aluguéis, 30 meses, saída com 12",
+  "aluguel": 150000,
+  "multa": 450000,
+  "inicio": "2025-03-01",
+  "termino": "2027-09-01",
+  "devolucao": "2026-03-01",
+  "prazo": [
+   30,
+   0,
+   30
+  ],
+  "restante": [
+   18,
+   0,
+   30
+  ],
+  "proporcional": 270000
+ },
+ {
+  "nome": "mês incompleto: 15 dias de um mês de 30",
+  "aluguel": 300000,
+  "multa": 900000,
+  "inicio": "2026-04-01",
+  "termino": "2028-10-01",
+  "devolucao": "2026-04-16",
+  "prazo": [
+   30,
+   0,
+   31
+  ],
+  "restante": [
+   29,
+   15,
+   30
+  ],
+  "proporcional": 885000
+ },
+ {
+  "nome": "início em 31/01: fim de mês curto",
+  "aluguel": 250000,
+  "multa": 750000,
+  "inicio": "2025-01-31",
+  "termino": "2027-07-31",
+  "devolucao": "2026-02-28",
+  "prazo": [
+   30,
+   0,
+   31
+  ],
+  "restante": [
+   17,
+   3,
+   31
+  ],
+  "proporcional": 427419
+ },
+ {
+  "nome": "saída no primeiro dia: multa integral",
+  "aluguel": 180000,
+  "multa": 540000,
+  "inicio": "2026-01-05",
+  "termino": "2028-07-05",
+  "devolucao": "2026-01-05",
+  "prazo": [
+   30,
+   0,
+   31
+  ],
+  "restante": [
+   30,
+   0,
+   31
+  ],
+  "proporcional": 540000
+ },
+ {
+  "nome": "saída no último dia: sem multa",
+  "aluguel": 180000,
+  "multa": 540000,
+  "inicio": "2026-01-05",
+  "termino": "2028-07-05",
+  "devolucao": "2028-07-05",
+  "prazo": [
+   30,
+   0,
+   31
+  ],
+  "restante": [
+   0,
+   0,
+   30
+  ],
+  "proporcional": 0
+ },
+ {
+  "nome": "12 meses, multa fixa de R$ 5.000,01, arredondamento",
+  "aluguel": 100000,
+  "multa": 500001,
+  "inicio": "2026-02-14",
+  "termino": "2027-02-14",
+  "devolucao": "2026-08-31",
+  "prazo": [
+   12,
+   0,
+   28
+  ],
+  "restante": [
+   5,
+   14,
+   28
+  ],
+  "proporcional": 229167
+ },
+ {
+  "nome": "prazo de 1 mês",
+  "aluguel": 100000,
+  "multa": 300000,
+  "inicio": "2026-01-01",
+  "termino": "2026-02-01",
+  "devolucao": "2026-01-11",
+  "prazo": [
+   1,
+   0,
+   28
+  ],
+  "restante": [
+   0,
+   21,
+   31
+  ],
+  "proporcional": 203226
+ },
+ {
+  "nome": "valores extremos: 10 anos, aluguel de R$ 1 milhão",
+  "aluguel": 100000000,
+  "multa": 300000000,
+  "inicio": "2020-06-15",
+  "termino": "2030-06-15",
+  "devolucao": "2026-10-27",
+  "prazo": [
+   120,
+   0,
+   30
+  ],
+  "restante": [
+   43,
+   19,
+   31
+  ],
+  "proporcional": 109032258
+ }
+]

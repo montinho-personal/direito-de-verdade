@@ -33,6 +33,7 @@ O Google leva semanas para mostrar um site novo: publicar antes do pico.
 | Calculadora de cobrança indevida 2026 (restituição simples e em dobro, IPCA) | o ano todo; Black Friday e faturas de dezembro e janeiro | **publicado em 26/10/2026** (sem prints, prompt mestre do Renato) — [doc](calculadoras/cobranca-indevida.md), `/calculadoras/cobranca-indevida` |
 | Simulador de direitos em compras online (9 problemas, diagnóstico e plano de ação) | Black Friday, Natal e janeiro (trocas) | **publicado em 26/10/2026** (sem prints, prompt mestre do Renato) — [doc](calculadoras/simulador-direitos-compras-online.md), `/calculadoras/simulador-direitos-compras-online` |
 | Calculadora de juros abusivos 2026 (taxa do contrato x média do Banco Central) | o ano todo; janeiro e fevereiro (dívidas de fim de ano) | **publicado em 27/10/2026** (sem prints, prompt mestre do Renato) — [doc](calculadoras/juros-abusivos.md), `/calculadoras/juros-abusivos` |
+| Calculadora de multa por quebra de contrato de aluguel 2026 | o ano todo; pico em janeiro e fevereiro (mudanças) | **publicado em 27/10/2026** (sem prints, prompt mestre do Renato) — [doc](calculadoras/multa-rescisao-aluguel.md), `/calculadoras/multa-rescisao-aluguel` |
 
 ## Próximos três (sugeridos em 21/10/2026)
 
@@ -141,6 +142,7 @@ Lembrar o Renato desta lista a cada entrega.
 | Calculadora de cobrança indevida (`/calculadoras/cobranca-indevida`), publicada em 26/10/2026 | Google: `calculadora cobrança indevida`; `devolução em dobro`; AnswerThePublic `cobrança indevida` | **aguardando prints** |
 | Simulador de direitos em compras online (`/calculadoras/simulador-direitos-compras-online`), publicado em 26/10/2026 | Google: `direitos em compras online`; `comprei pela internet e não recebi` | **aguardando prints** |
 | Calculadora de juros abusivos (`/calculadoras/juros-abusivos`), publicada em 27/10/2026 | Google: `calculadora de juros abusivos`; `como saber se juros são abusivos`; `taxa média banco central financiamento` | **aguardando prints** |
+| Calculadora de multa de aluguel (`/calculadoras/multa-rescisao-aluguel`), publicada em 27/10/2026 | Google: `calculadora multa rescisão aluguel`; `multa proporcional aluguel`; `multa de 3 aluguéis proporcional` | **aguardando prints** |
 
 ## Temas-base (o ano todo)
 
