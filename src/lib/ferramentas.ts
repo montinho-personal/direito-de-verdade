@@ -21,6 +21,7 @@ export const FERRAMENTAS = [
   "calculadora-fgts",
   "calculadora-cobranca-indevida",
   "simulador-compras-online",
+  "calculadora-juros-abusivos",
 ] as const;
 
 export type IdDaFerramenta = (typeof FERRAMENTAS)[number];

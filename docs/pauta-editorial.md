@@ -32,6 +32,7 @@ O Google leva semanas para mostrar um site novo: publicar antes do pico.
 | Calculadora de FGTS 2026 (depósito, saldo, conferência, multa e saque) | o ano todo, pico em dezembro e janeiro (demissões) | **publicado em 22/10/2026** — [doc](calculadoras/fgts.md), `/calculadoras/fgts` |
 | Calculadora de cobrança indevida 2026 (restituição simples e em dobro, IPCA) | o ano todo; Black Friday e faturas de dezembro e janeiro | **publicado em 26/10/2026** (sem prints, prompt mestre do Renato) — [doc](calculadoras/cobranca-indevida.md), `/calculadoras/cobranca-indevida` |
 | Simulador de direitos em compras online (9 problemas, diagnóstico e plano de ação) | Black Friday, Natal e janeiro (trocas) | **publicado em 26/10/2026** (sem prints, prompt mestre do Renato) — [doc](calculadoras/simulador-direitos-compras-online.md), `/calculadoras/simulador-direitos-compras-online` |
+| Calculadora de juros abusivos 2026 (taxa do contrato x média do Banco Central) | o ano todo; janeiro e fevereiro (dívidas de fim de ano) | **publicado em 27/10/2026** (sem prints, prompt mestre do Renato) — [doc](calculadoras/juros-abusivos.md), `/calculadoras/juros-abusivos` |
 
 ## Próximos três (sugeridos em 21/10/2026)
 
@@ -139,6 +140,7 @@ Lembrar o Renato desta lista a cada entrega.
 | Guarda compartilhada (`/artigos/guarda-compartilhada`), publicado em 26/10/2026 | AnswerThePublic `guarda compartilhada` | **aguardando prints** |
 | Calculadora de cobrança indevida (`/calculadoras/cobranca-indevida`), publicada em 26/10/2026 | Google: `calculadora cobrança indevida`; `devolução em dobro`; AnswerThePublic `cobrança indevida` | **aguardando prints** |
 | Simulador de direitos em compras online (`/calculadoras/simulador-direitos-compras-online`), publicado em 26/10/2026 | Google: `direitos em compras online`; `comprei pela internet e não recebi` | **aguardando prints** |
+| Calculadora de juros abusivos (`/calculadoras/juros-abusivos`), publicada em 27/10/2026 | Google: `calculadora de juros abusivos`; `como saber se juros são abusivos`; `taxa média banco central financiamento` | **aguardando prints** |
 
 ## Temas-base (o ano todo)
 
@@ -198,6 +200,7 @@ Lembrar o Renato desta lista a cada entrega.
 
 ## Revisão anual (valores que mudam)
 
+- Calculadora de juros abusivos: **todo mês**, rodar `node scripts/atualizar-taxas-bcb.mjs` depois da divulgação das taxas de juros pelo BC e publicar; conferir Tema 1.474, Res. CMN 5.004/2022 e o teto do consignado INSS.
 - Simulador de compras online: `revisadoEm` em `src/lib/compras-online/regras.ts`, prazos do MED e do Consumidor.gov.br, Juizado em salários mínimos do ano.
 - Calculadora de cobrança indevida: IPCA mensal em `src/lib/cobranca-indevida/ipca.ts` (a cada divulgação do IBGE), Tema 929 do STJ (tese a publicar), Juizado em salários mínimos do ano e `revisadoEm` em `src/lib/cobranca-indevida/regras.ts`.
 - Calculadora de férias: tabela por salário e exemplos de `/calculadoras/ferias` (INSS, IR e salário mínimo do ano) e data de revisão no rodapé da ferramenta.

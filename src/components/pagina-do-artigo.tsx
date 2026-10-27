@@ -6,6 +6,7 @@ import { CalculadoraFerias } from "@/components/calculadora-ferias";
 import { CalculadoraFgts } from "@/components/calculadora-fgts";
 import { CalculadoraHorasExtras } from "@/components/calculadora-horas-extras";
 import { CalculadoraIrSalario } from "@/components/calculadora-ir-salario";
+import { CalculadoraJurosAbusivos } from "@/components/calculadora-juros-abusivos";
 import {
   CalculadoraAcordoDeDemissao,
   CalculadoraPedidoDeDemissao,
@@ -56,6 +57,7 @@ const COMPONENTES_DAS_FERRAMENTAS: Record<
   "calculadora-fgts": CalculadoraFgts,
   "calculadora-cobranca-indevida": CalculadoraCobrancaIndevida,
   "simulador-compras-online": SimuladorComprasOnline,
+  "calculadora-juros-abusivos": CalculadoraJurosAbusivos,
 };
 
 function Ferramenta({ id, ...props }: PropsDaFerramenta & { id: IdDaFerramenta }) {
