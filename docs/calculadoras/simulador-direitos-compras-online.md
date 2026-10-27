@@ -23,11 +23,15 @@ Usei `/calculadoras/...`, padrão das ferramentas do site, e não `/simulador-..
 
 ## Prints recebidos
 
-Nenhum ainda. A printar: `direitos em compras online`, `comprei pela internet e não
-recebi`; AnswerThePublic `compra online` já recebido em 23/10 (ver doc do arrependimento).
+Em `prints/simulador-direitos-compras-online/`. Ainda a printar: `direitos em compras
+online`, `comprei pela internet e não recebi`; AnswerThePublic `compra online` já
+recebido em 23/10 (ver doc do arrependimento).
 
 | print | conteúdo | onde entrou |
 |---|---|---|
+| Google `simulador de compras online`, autocompletar (27/10/2026) | juego · supermercado online · mercado livre · mercado pago · mercado · com desconto · com cartão de crédito | nada: a busca é de compra fictícia, jogo ou mercado, não de direitos |
+| Google, visão geral de IA | "simuladores de dopamina" (compras fictícias, Comprei Nada, DopaminaShop), jogos de e-commerce, simuladores de parcelamento | confirma a intenção diferente; nada entrou |
+| Google, "Outras pessoas pesquisaram" (2 prints) | precificação de produtos, Comprei Nada, sites de dopamina, preço de venda, Sebrae, preço de custo; simulador de supermercado, de mercado, de preço de venda; calculadora do Remessa Conforme (gov.br) nos resultados | nada; o resultado do gov.br é sobre imposto de importação, já coberto pela [calculadora de taxa de importação](taxa-de-importacao.md) |
 
 ## Fontes confirmadas
 
@@ -117,6 +121,11 @@ pergunta; eventos sem dados pessoais.
   outras calculadoras).
 
 ## Decisões
+
+- 27/10/2026: os prints de `simulador de compras online` mostram que quem busca isso quer
+  compra fictícia ("sites de dopamina"), jogo ou precificação de produto, não direitos do
+  consumidor. A página **não** mira essa busca: o `tituloSeo` continua começando por
+  "Direitos em Compras Online", e o texto não muda (sem subir `atualizadoEm`).
 
 - Uma pergunta por tela, com a contagem que se ajusta às respostas.
 - SoftwareApplication fora (sem avaliação real; mesmo motivo da cobrança indevida).
