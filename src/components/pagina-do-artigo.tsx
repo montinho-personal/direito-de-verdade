@@ -23,6 +23,7 @@ import { ConferirHolerite } from "@/components/conferir-holerite";
 import { ConferirTrct } from "@/components/conferir-trct";
 import { Migalhas } from "@/components/migalhas";
 import { SimuladorComprasOnline } from "@/components/simulador-compras-online";
+import { SimuladorVoo } from "@/components/simulador-voo";
 import { VideoDoYoutube } from "@/components/video-do-youtube";
 import {
   artigosRelacionados,
@@ -60,6 +61,7 @@ const COMPONENTES_DAS_FERRAMENTAS: Record<
   "simulador-compras-online": SimuladorComprasOnline,
   "calculadora-juros-abusivos": CalculadoraJurosAbusivos,
   "calculadora-multa-aluguel": CalculadoraMultaAluguel,
+  "simulador-voo": SimuladorVoo,
 };
 
 function Ferramenta({ id, ...props }: PropsDaFerramenta & { id: IdDaFerramenta }) {

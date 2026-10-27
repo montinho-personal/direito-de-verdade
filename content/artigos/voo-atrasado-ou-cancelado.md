@@ -1,10 +1,10 @@
 ---
 titulo: "Voo atrasado ou cancelado: direitos do passageiro, regras novas da ANAC e bagagem extraviada"
 tituloSeo: "Voo atrasado ou cancelado: direitos e a regra nova da ANAC"
-descricao: "Voo atrasado ou cancelado: lanche após 2h, hotel e reembolso após 4h. Veja as regras novas da ANAC (desde 26/10/2026), a indenização e o que fazer com a mala."
+descricao: "Voo atrasado ou cancelado: lanche após 2h, hotel e reembolso após 4h. Veja as regras novas da ANAC (26/10 e 25/11/2026), a indenização e o que fazer com a mala."
 categoria: consumidor
 publicadoEm: 2026-10-21
-atualizadoEm: 2026-10-26
+atualizadoEm: 2026-10-27
 faq:
   - pergunta: "Voo atrasado 1 hora: tenho direito a quê?"
     resposta: "A ser informado do atraso, da nova previsão e das suas opções. Desde 26/10/2026, a companhia não é mais obrigada a dar facilidades de comunicação (internet, telefone) depois de 1 hora. A alimentação começa depois de 2 horas."
@@ -21,17 +21,19 @@ fontes:
     url: "https://goias.gov.br/procon/wp-content/uploads/sites/19/2017/03/resolucao-400-anac.pdf"
   - nome: "Resolução ANAC nº 813/2026, que altera a Resolução 400 (em vigor desde 26/10/2026)"
     url: "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/resolucoes/2026/resolucao-813"
+  - nome: "Resolução ANAC nº 819/2026: as novas regras de informação valem a partir de 25/11/2026"
+    url: "https://www.anac.gov.br/assuntos/legislacao/legislacao-1/resolucoes/2026/resolucao-819"
   - nome: "Ministério de Portos e Aeroportos: novas regras para atrasos e cancelamentos (23/09/2026)"
     url: "https://www.gov.br/portos-e-aeroportos/pt-br/assuntos/noticias/2026/09/atrasos-e-cancelamentos-novas-regras-ampliam-informacoes-aos-passageiros"
   - nome: "Código Brasileiro de Aeronáutica (Lei nº 7.565/1986), texto atualizado (Câmara dos Deputados)"
     url: "https://www2.camara.leg.br/legin/fed/lei/1980-1987/lei-7565-19-dezembro-1986-368177-normaatualizada-pl.html"
 ---
 
-Com o **voo atrasado ou cancelado**, a companhia aérea deve dar **alimentação depois de 2 horas** de espera e **hotel com transporte depois de 4 horas**, se você precisar passar a noite. Com **mais de 4 horas** de atraso ou com o voo **cancelado**, você escolhe entre ir em **outro voo**, receber o **dinheiro de volta integral** ou seguir por **outro meio de transporte**. A partir de **26 de outubro de 2026**, a Resolução 400 da ANAC muda em alguns pontos: a companhia deixa de ser obrigada a oferecer internet e telefone depois de 1 hora, e a informação pelo celular fica mais detalhada ([Resolução ANAC 813/2026](https://www.anac.gov.br/assuntos/legislacao/legislacao-1/resolucoes/2026/resolucao-813)).
+Com o **voo atrasado ou cancelado**, a companhia aérea deve dar **alimentação depois de 2 horas** de espera e **hotel com transporte depois de 4 horas**, se você precisar passar a noite. Com **mais de 4 horas** de atraso ou com o voo **cancelado**, você escolhe entre ir em **outro voo**, receber o **dinheiro de volta integral** ou seguir por **outro meio de transporte**. Desde **26 de outubro de 2026**, a companhia deixa de ser obrigada a oferecer internet e telefone depois de 1 hora; as novas regras de informação pelo celular valem a partir de **25 de novembro de 2026** ([Resolução ANAC 813/2026](https://www.anac.gov.br/assuntos/legislacao/legislacao-1/resolucoes/2026/resolucao-813), com a vigência da [Resolução 819/2026](https://www.anac.gov.br/assuntos/legislacao/legislacao-1/resolucoes/2026/resolucao-819)). Para ver o que vale no seu caso, use o [simulador de direitos por voo atrasado ou cancelado](/calculadoras/simulador-direitos-voo-atrasado-cancelado).
 
 ## Voo atrasado: quais são os direitos do passageiro?
 
-Os direitos crescem com o tempo de espera, contado do horário original do voo, e valem também para quem está **dentro do avião com as portas abertas** ([Resolução ANAC 400, artigo 27](https://goias.gov.br/procon/wp-content/uploads/sites/19/2017/03/resolucao-400-anac.pdf)):
+Os direitos crescem com o tempo de espera, contado do horário original do voo, e a assistência é assegurada **no território nacional** ([Resolução ANAC 400, artigo 27](https://goias.gov.br/procon/wp-content/uploads/sites/19/2017/03/resolucao-400-anac.pdf), com a redação da [Resolução 813](https://www.anac.gov.br/assuntos/legislacao/legislacao-1/resolucoes/2026/resolucao-813)). O texto anterior dizia expressamente que ela valia também a bordo, com as portas abertas; o texto em vigor desde 26/10/2026 não repete essa frase, então peça a assistência mesmo dentro do avião e anote a resposta:
 
 | espera | o que a companhia deve dar |
 | --- | --- |
@@ -45,11 +47,11 @@ Essa ajuda se chama **assistência material** e é de graça. Ela continua obrig
 
 ### O que mudou nas regras da ANAC em 26 de outubro de 2026
 
-A [Resolução 813/2026](https://www.anac.gov.br/assuntos/legislacao/legislacao-1/resolucoes/2026/resolucao-813), publicada em 25/09/2026 e em vigor desde 26/10/2026, alterou a Resolução 400:
+A [Resolução 813/2026](https://www.anac.gov.br/assuntos/legislacao/legislacao-1/resolucoes/2026/resolucao-813), publicada em 25/09/2026, alterou a Resolução 400. A maior parte vale desde 26/10/2026; as novas regras de informação, só a partir de 25/11/2026, como definiu a [Resolução 819/2026](https://www.anac.gov.br/assuntos/legislacao/legislacao-1/resolucoes/2026/resolucao-819), publicada em 26/10/2026:
 
 - **Saiu** a obrigação de dar facilidades de comunicação depois de 1 hora.
 - **Ficaram** a alimentação depois de 2 horas e o hotel com transporte depois de 4 horas.
-- A companhia deve avisar do atraso ou cancelamento pelos **canais digitais**, com a previsão de partida, as opções de reacomodação e reembolso e como pedir a assistência, e mostrar **a data e a hora da última atualização**.
+- A partir de **25/11/2026**, a companhia deve avisar do atraso ou cancelamento também pelos **canais digitais**, com a previsão de partida, as opções de reacomodação e reembolso e como pedir a assistência, e mostrar **a data e a hora da última atualização**. Até lá, vale a regra antiga: informar imediatamente e atualizar a previsão no máximo a cada 30 minutos.
 - Antes da compra, a companhia deve avisar que o voo pode atrasar ou ser cancelado por clima, segurança e outros fatores.
 - Quando falta estrutura no aeroporto ou não há fornecedor no local, a companhia pode, em vez de dar a assistência, **reembolsar** os gastos razoáveis com comida, transporte e hotel, em até **7 dias** depois de você mostrar os comprovantes. Guarde as notas.
 - A norma deixa escrito que dar a assistência **não é** admitir culpa nem pagar indenização: uma coisa não substitui a outra.

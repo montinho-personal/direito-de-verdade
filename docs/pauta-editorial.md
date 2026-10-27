@@ -34,6 +34,7 @@ O Google leva semanas para mostrar um site novo: publicar antes do pico.
 | Simulador de direitos em compras online (9 problemas, diagnóstico e plano de ação) | Black Friday, Natal e janeiro (trocas) | **publicado em 26/10/2026** (sem prints, prompt mestre do Renato) — [doc](calculadoras/simulador-direitos-compras-online.md), `/calculadoras/simulador-direitos-compras-online` |
 | Calculadora de juros abusivos 2026 (taxa do contrato x média do Banco Central) | o ano todo; janeiro e fevereiro (dívidas de fim de ano) | **publicado em 27/10/2026** (sem prints, prompt mestre do Renato) — [doc](calculadoras/juros-abusivos.md), `/calculadoras/juros-abusivos` |
 | Calculadora de multa por quebra de contrato de aluguel 2026 | o ano todo; pico em janeiro e fevereiro (mudanças) | **publicado em 27/10/2026** (sem prints, prompt mestre do Renato) — [doc](calculadoras/multa-rescisao-aluguel.md), `/calculadoras/multa-rescisao-aluguel` |
+| Simulador de direitos por voo atrasado ou cancelado 2026 | dezembro e janeiro (viagens de fim de ano) | **publicado em 27/10/2026** (sem prints, prompt mestre do Renato) — [doc](calculadoras/simulador-direitos-voo-atrasado-cancelado.md), `/calculadoras/simulador-direitos-voo-atrasado-cancelado` |
 
 ## Próximos três (sugeridos em 21/10/2026)
 
@@ -143,6 +144,7 @@ Lembrar o Renato desta lista a cada entrega.
 | Simulador de direitos em compras online (`/calculadoras/simulador-direitos-compras-online`), publicado em 26/10/2026 | Google: `direitos em compras online`; `comprei pela internet e não recebi` | **aguardando prints** |
 | Calculadora de juros abusivos (`/calculadoras/juros-abusivos`), publicada em 27/10/2026 | Google: `calculadora de juros abusivos`; `como saber se juros são abusivos`; `taxa média banco central financiamento` | **aguardando prints** |
 | Calculadora de multa de aluguel (`/calculadoras/multa-rescisao-aluguel`), publicada em 27/10/2026 | Google: `calculadora multa rescisão aluguel`; `multa proporcional aluguel`; `multa de 3 aluguéis proporcional` | **aguardando prints** |
+| Simulador de voo (`/calculadoras/simulador-direitos-voo-atrasado-cancelado`), publicado em 27/10/2026 | Google: `simulador direitos voo atrasado`; `voo atrasado 4 horas`; `overbooking direitos` | **aguardando prints** |
 
 ## Temas-base (o ano todo)
 
@@ -202,6 +204,7 @@ Lembrar o Renato desta lista a cada entrega.
 
 ## Revisão anual (valores que mudam)
 
+- Simulador de voo e artigo de voo: em **25/11/2026** entram as novas regras de informação (Res. ANAC 819); conferir o texto compilado da Res. 400 quando a ANAC publicar.
 - Calculadora de juros abusivos: **todo mês**, rodar `node scripts/atualizar-taxas-bcb.mjs` depois da divulgação das taxas de juros pelo BC e publicar; conferir Tema 1.474, Res. CMN 5.004/2022 e o teto do consignado INSS.
 - Simulador de compras online: `revisadoEm` em `src/lib/compras-online/regras.ts`, prazos do MED e do Consumidor.gov.br, Juizado em salários mínimos do ano.
 - Calculadora de cobrança indevida: IPCA mensal em `src/lib/cobranca-indevida/ipca.ts` (a cada divulgação do IBGE), Tema 929 do STJ (tese a publicar), Juizado em salários mínimos do ano e `revisadoEm` em `src/lib/cobranca-indevida/regras.ts`.

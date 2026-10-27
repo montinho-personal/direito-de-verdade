@@ -23,6 +23,7 @@ export const FERRAMENTAS = [
   "simulador-compras-online",
   "calculadora-juros-abusivos",
   "calculadora-multa-aluguel",
+  "simulador-voo",
 ] as const;
 
 export type IdDaFerramenta = (typeof FERRAMENTAS)[number];
