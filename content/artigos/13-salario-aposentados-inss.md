@@ -1,20 +1,21 @@
 ---
-titulo: "13º dos aposentados do INSS 2026: tabela de pagamento e quem ainda recebe"
-tituloSeo: "13º do INSS 2026: tabela dos aposentados e quem recebe"
-descricao: "13º dos aposentados do INSS 2026 foi antecipado para abril e maio. Veja a tabela oficial por final do benefício e quem ainda recebe em novembro (24/11 a 7/12)."
+titulo: "13º dos aposentados 2026: tabela do INSS, calendário e quem ainda recebe"
+tituloSeo: "13º dos aposentados 2026: calendário e quem ainda recebe"
+descricao: "13º dos aposentados 2026: o INSS antecipou para abril e maio. Veja a tabela por final do benefício, o valor e quem ainda recebe de 24/11 a 7/12."
 categoria: previdencia
 publicadoEm: 2026-10-23
+atualizadoEm: 2026-10-27
 faq:
-  - pergunta: "O aposentado recebe 13º de novo em dezembro de 2026?"
+  - pergunta: "Quem já recebeu o 13º vai receber de novo no fim de 2026?"
     resposta: "Não, se já recebia o benefício antes de maio: o 13º de 2026 foi pago inteiro em abril, maio e junho. Só quem teve o benefício concedido **a partir de maio** recebe o 13º no fim do ano, no pagamento de novembro (de 24/11 a 7/12)."
   - pergunta: "Quem recebe BPC/LOAS tem 13º?"
     resposta: "Não. O BPC é um benefício **assistencial**, e o abono anual (o 13º do INSS) é só dos benefícios previdenciários, segundo o INSS. Veja as regras do [BPC/LOAS](/artigos/bpc-loas)."
   - pergunta: "Quem está de auxílio-doença recebe 13º do INSS?"
     resposta: "Recebe, proporcional ao período em que recebeu o benefício no ano, durante a vigência do auxílio, segundo o INSS. Os meses trabalhados no ano são pagos pela empresa; veja [o 13º de quem foi afastado](/artigos/13-salario#afastado-pelo-inss-ou-de-licenca-maternidade)."
-  - pergunta: "O 13º do INSS de 2027 vai ser antecipado?"
+  - pergunta: "Quando foi paga a segunda parcela do 13º dos aposentados em 2026?"
+    resposta: "De **25 de maio a 8 de junho de 2026**, conforme o final do benefício: de 25/05 a 08/06 para quem ganha até um salário mínimo e de 01/06 a 08/06 para quem ganha mais. Veja a data do seu final na tabela acima."
+  - pergunta: "Quando vai ser pago o 13º dos aposentados em 2027?"
     resposta: "Ainda não se sabe. A antecipação não é automática: depende de um decreto do governo a cada ano. Em 2026, ela foi feita pelo Decreto 12.884, de março."
-  - pergunta: "Como consultar o valor do meu 13º do INSS?"
-    resposta: "Pelo aplicativo ou site **Meu INSS**, no extrato de pagamento, ou pelo telefone **135**, de segunda a sábado, das 7h às 22h, informando o CPF."
 fontes:
   - nome: "INSS: tabela de pagamento de benefícios 2026 (PDF oficial)"
     url: "https://www.gov.br/inss/pt-br/assuntos/calendario-de-pagamentos-do-inss-de-2026-esta-disponivel/TabeladePagamentodeBenefcios20261.pdf"
@@ -32,7 +33,7 @@ fontes:
 
 O **13º dos aposentados e pensionistas do INSS de 2026 já foi pago**: o governo antecipou o abono para o primeiro semestre, com a **1ª parcela de 24 de abril a 8 de maio** e a **2ª de 25 de maio a 8 de junho**, conforme o final do número do benefício. Quem já recebia antes de maio **não recebe de novo no fim do ano**. A exceção é quem começou a receber **a partir de maio**: essa pessoa recebe o 13º proporcional no pagamento de novembro, **de 24 de novembro a 7 de dezembro** ([INSS](https://www.gov.br/inss/pt-br/assuntos/noticias/beneficiarios-que-comecaram-a-receber-apos-maio-terao-13o-salario-pago-em-novembro)).
 
-## Tabela do 13º dos aposentados do INSS 2026
+## Qual a tabela de pagamento do 13º do INSS em 2026?
 
 As datas seguem o **último número do cartão do benefício, sem o dígito depois do traço**. Quem ganha até um salário mínimo (R$ 1.621 em 2026) recebe antes. Datas da [tabela oficial do INSS](https://www.gov.br/inss/pt-br/assuntos/calendario-de-pagamentos-do-inss-de-2026-esta-disponivel/TabeladePagamentodeBenefcios20261.pdf):
 
@@ -63,17 +64,32 @@ As datas seguem o **último número do cartão do benefício, sem o dígito depo
 
 As datas da 2ª parcela são as mesmas divulgadas pela [Agência Brasil](https://agenciabrasil.ebc.com.br/economia/noticia/2026-05/inss-paga-segunda-parcela-do-13o-aposentados-e-pensionistas) em maio.
 
-## O 13º do INSS de 2026 foi antecipado?
+## O 13º dos aposentados vai ser antecipado?
 
-Foi, pelo **Decreto 12.884, de março de 2026**, para cerca de 35,2 milhões de benefícios ([Ministério da Previdência](https://www.gov.br/previdencia/pt-br/noticias/2026/marco/aposentados-e-pensionistas-do-inss-terao-o-13deg-salario-antecipado-para-os-meses-de-abril-e-maio); [Agência Brasil](https://agenciabrasil.ebc.com.br/economia/noticia/2026-04/aposentados-e-pensionistas-do-inss-podem-consultar-antecipacao-do-13o)). A maioria recebeu **metade do 13º na 1ª parcela**; quem começou a receber o benefício depois de janeiro teve valor proporcional.
+Em 2026, **já foi**: pelo **Decreto 12.884, de março de 2026**, para cerca de 35,2 milhões de benefícios ([Ministério da Previdência](https://www.gov.br/previdencia/pt-br/noticias/2026/marco/aposentados-e-pensionistas-do-inss-terao-o-13deg-salario-antecipado-para-os-meses-de-abril-e-maio); [Agência Brasil](https://agenciabrasil.ebc.com.br/economia/noticia/2026-04/aposentados-e-pensionistas-do-inss-podem-consultar-antecipacao-do-13o)). A maioria recebeu **metade do 13º na 1ª parcela**; quem começou a receber o benefício depois de janeiro teve valor proporcional.
 
-Por isso, a busca por "13º dos aposentados em novembro" confunde muita gente: **para quem já era aposentado ou pensionista antes de maio, não há 13º no fim de 2026.** O dinheiro já entrou no primeiro semestre.
+Por isso, a busca por "13º dos aposentados em novembro" confunde muita gente: **para quem já era aposentado ou pensionista antes de maio, não há 13º no fim de 2026.** O dinheiro já entrou no primeiro semestre. Para 2027, ainda não há decisão: a antecipação depende de um decreto novo a cada ano.
 
-## Quem ainda recebe o 13º do INSS no fim de 2026?
+## Quem ainda recebe o 13º do INSS em novembro de 2026?
 
 Quem teve o **benefício concedido a partir de maio** de 2026 não estava na folha da antecipação. Essa pessoa recebe o 13º **proporcional aos meses de benefício no ano**, no pagamento de novembro, que vai de **24/11 a 7/12** conforme o final do cartão (coluna "novembro" das tabelas acima) ([INSS, 09/07/2026](https://www.gov.br/inss/pt-br/assuntos/noticias/beneficiarios-que-comecaram-a-receber-apos-maio-terao-13o-salario-pago-em-novembro)).
 
 Nos benefícios temporários, como o **auxílio por incapacidade temporária** (o antigo auxílio-doença) e o **salário-maternidade**, o 13º também é proporcional ao período de recebimento e pago enquanto o benefício dura.
+
+## Qual o valor do 13º dos aposentados em 2026?
+
+Pela lei, o 13º do INSS é calculado como o 13º de quem trabalha com carteira, tendo como base o **valor mensal do benefício** ([Lei 8.213/1991, artigo 40](https://www.planalto.gov.br/ccivil_03/leis/l8213cons.htm)). Na prática:
+
+- quem recebeu o benefício **o ano inteiro** tem 13º igual a **uma renda mensal**. Quem ganha um salário mínimo, por exemplo, recebeu **R$ 1.621**, metade em cada parcela;
+- quem começou a receber **depois de janeiro** tem o 13º **proporcional** aos meses de benefício no ano;
+- nos benefícios temporários, como o auxílio-doença, o valor também é proporcional ao tempo de recebimento.
+
+A conta da empresa para quem trabalha com carteira, com os descontos, está na [calculadora do 13º salário](/calculadoras/13-salario).
+
+## Como consultar o 13º do INSS pelo CPF ou no Meu INSS?
+
+- **Meu INSS**, pelo aplicativo ou pelo [site](https://meu.inss.gov.br), na opção **"Extrato de Pagamento"**, que mostra a prévia do valor do 13º ([Agência Brasil](https://agenciabrasil.ebc.com.br/economia/noticia/2026-05/inss-paga-segunda-parcela-do-13o-aposentados-e-pensionistas)).
+- **Telefone 135**, de segunda a sábado, das 7h às 22h, informando o **CPF** e confirmando alguns dados ([Agência Brasil](https://agenciabrasil.ebc.com.br/economia/noticia/2026-04/aposentados-e-pensionistas-do-inss-podem-consultar-antecipacao-do-13o)).
 
 ## Quem tem direito ao 13º do INSS?
 

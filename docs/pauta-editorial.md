@@ -146,7 +146,7 @@ Lembrar o Renato desta lista a cada entrega.
 | Loja pode cobrar mais caro no cartão (`/artigos/loja-pode-cobrar-mais-caro-no-cartao`), publicado em 23/10/2026 | `loja pode cobrar mais caro no cartão`; `preço diferente no pix e no cartão`; `valor mínimo no cartão` | **aguardando prints** |
 | Propaganda enganosa (`/artigos/propaganda-enganosa`), publicado em 23/10/2026 | `propaganda enganosa`; `propaganda enganosa o que fazer`; `como denunciar propaganda enganosa` | **aguardando prints** |
 | Compras no Paraguai (`/artigos/compras-no-paraguai`), publicado em 23/10/2026 | `compras no paraguai`; `cota paraguai`; `comprar do paraguai pela internet` | **aguardando prints** |
-| 13º dos aposentados do INSS (`/artigos/13-salario-aposentados-inss`), publicado em 23/10/2026 | `13 salário aposentados 2026`; `tabela do 13 salário dos aposentados 2026`; `13 salário inss` | **aguardando prints** |
+| 13º dos aposentados do INSS (`/artigos/13-salario-aposentados-inss`), publicado em 23/10/2026 | `13 salário aposentados 2026`; `tabela do 13 salário dos aposentados 2026`; `13 salário inss` | **prints e AnswerThePublic recebidos e artigo revisado em 27/10/2026** |
 | Aposentadoria 2026 (`/artigos/aposentadoria-2026-regras`), publicado em 24/10/2026 | AnswerThePublic `aposentadoria` | **aguardando prints** |
 | Divórcio (`/artigos/divorcio`), publicado em 24/10/2026 | AnswerThePublic `divórcio` | **aguardando prints** |
 | CNH sem autoescola (`/artigos/cnh-sem-autoescola`), publicado em 26/10/2026 | AnswerThePublic `cnh sem autoescola` | **aguardando prints** |
