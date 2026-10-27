@@ -32,6 +32,7 @@ recebido em 23/10 (ver doc do arrependimento).
 | Google `simulador de compras online`, autocompletar (27/10/2026) | juego · supermercado online · mercado livre · mercado pago · mercado · com desconto · com cartão de crédito | nada: a busca é de compra fictícia, jogo ou mercado, não de direitos |
 | Google, visão geral de IA | "simuladores de dopamina" (compras fictícias, Comprei Nada, DopaminaShop), jogos de e-commerce, simuladores de parcelamento | confirma a intenção diferente; nada entrou |
 | Google, "Outras pessoas pesquisaram" (2 prints) | precificação de produtos, Comprei Nada, sites de dopamina, preço de venda, Sebrae, preço de custo; simulador de supermercado, de mercado, de preço de venda; calculadora do Remessa Conforme (gov.br) nos resultados | nada; o resultado do gov.br é sobre imposto de importação, já coberto pela [calculadora de taxa de importação](taxa-de-importacao.md) |
+| AnswerThePublic `simulador de compras online` (27/10/2026), em `prints/simulador-direitos-compras-online/answerthepublic/` | motores de busca: só 2 termos ("supermercado online", 10/mês; "juego", 0). PAA: apps de compras, lista de supermercado, melhor site para comprar, site mais barato, marketplaces. Modelos de IA: planejar gastos, comparar preços, frete, parcelas, roupa e móveis virtuais | nada; confirma que a busca não é de direitos e tem volume quase nulo |
 
 ## Fontes confirmadas
 
