@@ -120,6 +120,16 @@ AnswerThePublic.
 | 2 | Cancelar internet ou celular: multa de fidelidade e como cancelar | Consumidor; mudanças e trocas de plano no fim do ano; liga com cobrança indevida e Procon | `cancelar internet multa`; `multa de fidelidade`; `como cancelar plano de celular` | `multa de fidelidade` | **publicado em 29/10/2026 sem prints** — [doc](artigos/multa-de-fidelidade.md), `/artigos/multa-de-fidelidade` |
 | 3 | Benefício do INSS negado: como recorrer | completa Previdência (auxílio-doença, BPC, aposentadoria) | `benefício negado inss`; `como recorrer inss`; `recurso inss prazo` | `recurso inss` | **publicado em 29/10/2026 sem prints** — [doc](artigos/beneficio-inss-negado-como-recorrer.md), `/artigos/beneficio-inss-negado-como-recorrer` |
 
+## Próximos dois (pedidos em 29/10/2026)
+
+Pedido do Renato em 29/10/2026 ("Pode criar os dois próximos artigos aí"), sem prints.
+Um de cada vez.
+
+| ordem | artigo | por que agora | buscas para printar | status |
+|---|---|---|---|---|
+| 1 | Como recorrer de multa de trânsito: defesa prévia, JARI e Cetran | busca alta o ano todo; segundo artigo de Trânsito | `como recorrer de multa`; `defesa prévia multa`; `recurso jari prazo`; AnswerThePublic `recorrer multa` | **publicado em 29/10/2026 sem prints** — [doc](artigos/como-recorrer-de-multa-de-transito.md), `/artigos/como-recorrer-de-multa-de-transito` |
+| 2 | Reajuste do aluguel: índice, quando pode e como calcular | Moradia; reajustes e mudanças em janeiro | `reajuste aluguel`; `reajuste aluguel igpm ou ipca`; `calcular reajuste aluguel`; AnswerThePublic `reajuste aluguel` | **em produção** |
+
 ## Prints pendentes
 
 Artigos publicados antes dos prints do Google, a pedido do Renato em
@@ -154,6 +164,7 @@ Lembrar o Renato desta lista a cada entrega.
 | Licença-paternidade (`/artigos/licenca-paternidade`), publicado em 29/10/2026 | Google: `licença paternidade`; `licença paternidade 2027`; `licença paternidade quantos dias`; AnswerThePublic `licença paternidade` | **aguardando prints** |
 | Multa de fidelidade (`/artigos/multa-de-fidelidade`), publicado em 29/10/2026 | Google: `cancelar internet multa`; `multa de fidelidade`; `como cancelar plano de celular`; AnswerThePublic `multa de fidelidade` | **aguardando prints** |
 | Benefício do INSS negado (`/artigos/beneficio-inss-negado-como-recorrer`), publicado em 29/10/2026 | Google: `benefício negado inss`; `como recorrer inss`; `recurso inss prazo`; AnswerThePublic `recurso inss` | **aguardando prints** |
+| Como recorrer de multa de trânsito (`/artigos/como-recorrer-de-multa-de-transito`), publicado em 29/10/2026 | Google: `como recorrer de multa`; `defesa prévia multa`; `recurso jari prazo`; AnswerThePublic `recorrer multa` | **aguardando prints** |
 | Calculadora de cobrança indevida (`/calculadoras/cobranca-indevida`), publicada em 26/10/2026 | Google: `calculadora cobrança indevida`; `devolução em dobro`; AnswerThePublic `cobrança indevida` | **aguardando prints** |
 | Simulador de direitos em compras online (`/calculadoras/simulador-direitos-compras-online`), publicado em 26/10/2026 | Google: `direitos em compras online`; `comprei pela internet e não recebi` | **prints e AnswerThePublic recebidos e página revisada em 27/10/2026** |
 | Calculadora de juros abusivos (`/calculadoras/juros-abusivos`), publicada em 27/10/2026 | Google: `calculadora de juros abusivos`; `como saber se juros são abusivos`; `taxa média banco central financiamento` | **aguardando prints** |
@@ -204,7 +215,7 @@ Lembrar o Renato desta lista a cada entrega.
 
 ### Trânsito
 - ~~CNH sem autoescola: como tirar a carteira em 2026~~ — **publicado em 26/10/2026** ([doc](artigos/cnh-sem-autoescola.md), `/artigos/cnh-sem-autoescola`)
-- Como recorrer de multa
+- ~~Como recorrer de multa~~ — **publicado em 29/10/2026** ([doc](artigos/como-recorrer-de-multa-de-transito.md), `/artigos/como-recorrer-de-multa-de-transito`)
 - Pontos e suspensão da CNH
 
 ## De fora por enquanto
