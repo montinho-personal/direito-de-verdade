@@ -116,7 +116,7 @@ AnswerThePublic.
 
 | ordem | artigo | por que agora | buscas para printar | AnswerThePublic | status |
 |---|---|---|---|---|---|
-| 1 | Licença-paternidade nova: quantos dias, desde quando e quem tem direito | já estava na lista de temas-base, para publicar em dez/jan | `licença paternidade`; `licença paternidade 2027`; `licença paternidade quantos dias` | `licença paternidade` | **aguardando prints** |
+| 1 | Licença-paternidade nova: quantos dias, desde quando e quem tem direito | já estava na lista de temas-base, para publicar em dez/jan | `licença paternidade`; `licença paternidade 2027`; `licença paternidade quantos dias` | `licença paternidade` | **publicado em 29/10/2026 sem prints** — [doc](artigos/licenca-paternidade.md), `/artigos/licenca-paternidade` |
 | 2 | Cancelar internet ou celular: multa de fidelidade e como cancelar | Consumidor; mudanças e trocas de plano no fim do ano; liga com cobrança indevida e Procon | `cancelar internet multa`; `multa de fidelidade`; `como cancelar plano de celular` | `multa de fidelidade` | **aguardando prints** |
 | 3 | Benefício do INSS negado: como recorrer | completa Previdência (auxílio-doença, BPC, aposentadoria) | `benefício negado inss`; `como recorrer inss`; `recurso inss prazo` | `recurso inss` | **aguardando prints** |
 
@@ -151,6 +151,7 @@ Lembrar o Renato desta lista a cada entrega.
 | Divórcio (`/artigos/divorcio`), publicado em 24/10/2026 | AnswerThePublic `divórcio` | **aguardando prints** |
 | CNH sem autoescola (`/artigos/cnh-sem-autoescola`), publicado em 26/10/2026 | AnswerThePublic `cnh sem autoescola` | **aguardando prints** |
 | Guarda compartilhada (`/artigos/guarda-compartilhada`), publicado em 26/10/2026 | AnswerThePublic `guarda compartilhada` | **aguardando prints** |
+| Licença-paternidade (`/artigos/licenca-paternidade`), publicado em 29/10/2026 | Google: `licença paternidade`; `licença paternidade 2027`; `licença paternidade quantos dias`; AnswerThePublic `licença paternidade` | **aguardando prints** |
 | Calculadora de cobrança indevida (`/calculadoras/cobranca-indevida`), publicada em 26/10/2026 | Google: `calculadora cobrança indevida`; `devolução em dobro`; AnswerThePublic `cobrança indevida` | **aguardando prints** |
 | Simulador de direitos em compras online (`/calculadoras/simulador-direitos-compras-online`), publicado em 26/10/2026 | Google: `direitos em compras online`; `comprei pela internet e não recebi` | **prints e AnswerThePublic recebidos e página revisada em 27/10/2026** |
 | Calculadora de juros abusivos (`/calculadoras/juros-abusivos`), publicada em 27/10/2026 | Google: `calculadora de juros abusivos`; `como saber se juros são abusivos`; `taxa média banco central financiamento` | **aguardando prints** |
@@ -168,7 +169,7 @@ Lembrar o Renato desta lista a cada entrega.
 - Aviso prévio trabalhado ou indenizado (e os 3 dias por ano)
 - Horas extras e banco de horas
 - Adicional de insalubridade
-- Licença-paternidade nova: 10 dias a partir de 2027 (publicar dez/jan)
+- ~~Licença-paternidade nova~~ — **publicado em 29/10/2026** ([doc](artigos/licenca-paternidade.md), `/artigos/licenca-paternidade`)
 
 ### Previdência e INSS
 - ~~Regras de aposentadoria 2026 (atualizar em janeiro para 2027)~~ — **publicado em 24/10/2026** ([doc](artigos/aposentadoria-2026-regras.md), `/artigos/aposentadoria-2026-regras`)
@@ -215,6 +216,7 @@ Lembrar o Renato desta lista a cada entrega.
 
 ## Revisão anual (valores que mudam)
 
+- Licença-paternidade: 1º/01/2027 (Lei 15.371 em vigor; regulamento do salário-paternidade), 2028 e 2029 (20 dias condicionados à meta fiscal) em `/artigos/licenca-paternidade`.
 - Simulador de voo e artigo de voo: em **25/11/2026** entram as novas regras de informação (Res. ANAC 819); conferir o texto compilado da Res. 400 quando a ANAC publicar.
 - Calculadora de juros abusivos: **todo mês**, rodar `node scripts/atualizar-taxas-bcb.mjs` depois da divulgação das taxas de juros pelo BC e publicar; conferir Tema 1.474, Res. CMN 5.004/2022 e o teto do consignado INSS.
 - Simulador de compras online: `revisadoEm` em `src/lib/compras-online/regras.ts`, prazos do MED e do Consumidor.gov.br, Juizado em salários mínimos do ano.
