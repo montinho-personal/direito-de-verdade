@@ -118,7 +118,7 @@ AnswerThePublic.
 |---|---|---|---|---|---|
 | 1 | Licença-paternidade nova: quantos dias, desde quando e quem tem direito | já estava na lista de temas-base, para publicar em dez/jan | `licença paternidade`; `licença paternidade 2027`; `licença paternidade quantos dias` | `licença paternidade` | **publicado em 29/10/2026 sem prints** — [doc](artigos/licenca-paternidade.md), `/artigos/licenca-paternidade` |
 | 2 | Cancelar internet ou celular: multa de fidelidade e como cancelar | Consumidor; mudanças e trocas de plano no fim do ano; liga com cobrança indevida e Procon | `cancelar internet multa`; `multa de fidelidade`; `como cancelar plano de celular` | `multa de fidelidade` | **publicado em 29/10/2026 sem prints** — [doc](artigos/multa-de-fidelidade.md), `/artigos/multa-de-fidelidade` |
-| 3 | Benefício do INSS negado: como recorrer | completa Previdência (auxílio-doença, BPC, aposentadoria) | `benefício negado inss`; `como recorrer inss`; `recurso inss prazo` | `recurso inss` | **aguardando prints** |
+| 3 | Benefício do INSS negado: como recorrer | completa Previdência (auxílio-doença, BPC, aposentadoria) | `benefício negado inss`; `como recorrer inss`; `recurso inss prazo` | `recurso inss` | **publicado em 29/10/2026 sem prints** — [doc](artigos/beneficio-inss-negado-como-recorrer.md), `/artigos/beneficio-inss-negado-como-recorrer` |
 
 ## Prints pendentes
 
@@ -153,6 +153,7 @@ Lembrar o Renato desta lista a cada entrega.
 | Guarda compartilhada (`/artigos/guarda-compartilhada`), publicado em 26/10/2026 | AnswerThePublic `guarda compartilhada` | **aguardando prints** |
 | Licença-paternidade (`/artigos/licenca-paternidade`), publicado em 29/10/2026 | Google: `licença paternidade`; `licença paternidade 2027`; `licença paternidade quantos dias`; AnswerThePublic `licença paternidade` | **aguardando prints** |
 | Multa de fidelidade (`/artigos/multa-de-fidelidade`), publicado em 29/10/2026 | Google: `cancelar internet multa`; `multa de fidelidade`; `como cancelar plano de celular`; AnswerThePublic `multa de fidelidade` | **aguardando prints** |
+| Benefício do INSS negado (`/artigos/beneficio-inss-negado-como-recorrer`), publicado em 29/10/2026 | Google: `benefício negado inss`; `como recorrer inss`; `recurso inss prazo`; AnswerThePublic `recurso inss` | **aguardando prints** |
 | Calculadora de cobrança indevida (`/calculadoras/cobranca-indevida`), publicada em 26/10/2026 | Google: `calculadora cobrança indevida`; `devolução em dobro`; AnswerThePublic `cobrança indevida` | **aguardando prints** |
 | Simulador de direitos em compras online (`/calculadoras/simulador-direitos-compras-online`), publicado em 26/10/2026 | Google: `direitos em compras online`; `comprei pela internet e não recebi` | **prints e AnswerThePublic recebidos e página revisada em 27/10/2026** |
 | Calculadora de juros abusivos (`/calculadoras/juros-abusivos`), publicada em 27/10/2026 | Google: `calculadora de juros abusivos`; `como saber se juros são abusivos`; `taxa média banco central financiamento` | **aguardando prints** |
@@ -176,7 +177,7 @@ Lembrar o Renato desta lista a cada entrega.
 - ~~Regras de aposentadoria 2026 (atualizar em janeiro para 2027)~~ — **publicado em 24/10/2026** ([doc](artigos/aposentadoria-2026-regras.md), `/artigos/aposentadoria-2026-regras`)
 - ~~BPC/LOAS: quem tem direito~~ — **publicado em 23/10/2026** ([doc](artigos/bpc-loas.md), `/artigos/bpc-loas`)
 - ~~Auxílio por incapacidade (antigo auxílio-doença) e perícia~~ — **publicado em 22/10/2026** ([doc](artigos/auxilio-doenca.md), `/artigos/auxilio-doenca`)
-- Benefício negado: como recorrer
+- ~~Benefício negado: como recorrer~~ — **publicado em 29/10/2026** ([doc](artigos/beneficio-inss-negado-como-recorrer.md), `/artigos/beneficio-inss-negado-como-recorrer`)
 
 ### Família
 - ~~Pensão alimentícia: quanto se paga~~ — **publicado em 23/10/2026** ([doc](artigos/pensao-alimenticia.md), `/artigos/pensao-alimenticia`)
@@ -237,6 +238,7 @@ Lembrar o Renato desta lista a cada entrega.
 - Compras internacionais: alíquotas do Remessa Conforme (Portaria MF), desconto em dólar e ICMS dos estados; conferir a cada avaliação semestral da Fazenda (Lei 15.502/2026; a primeira, por volta de 10/12/2026), no artigo e em `/calculadoras/taxa-de-importacao` (tabelas e data de revisão no rodapé da ferramenta).
 - Seguro-desemprego: tabela nova em janeiro (faixas, piso e teto), em `src/lib/seguro-desemprego.ts` e no artigo `seguro-desemprego-2026` (exemplos e título com o ano).
 - Trabalho no feriado: calendário de fim de ano (portaria de pontos facultativos do MGI, dias da semana), tabela com o salário mínimo do ano e feriado bancário de 31/12 em `/artigos/trabalhar-no-feriado`.
+- Benefício do INSS negado: teto do Juizado Especial Federal (60 salários mínimos) em `/artigos/beneficio-inss-negado-como-recorrer`.
 - Como reclamar no Procon: valores de 20 e 40 salários mínimos do Juizado em `/artigos/como-reclamar-procon`.
 - Auxílio-doença: salário mínimo e teto do INSS do ano, limite do Atestmed (90 dias temporários; revisar em set/2027) em `/artigos/auxilio-doenca`.
 - Cobrança indevida: valores do Juizado e tese do Tema 929 do STJ (julgado em 15/09/2026, a publicar) em `/artigos/cobranca-indevida`.

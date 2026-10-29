@@ -4,7 +4,7 @@ tituloSeo: "Auxílio-doença 2026: quem tem direito, valor e perícia"
 descricao: "Auxílio-doença 2026: o INSS paga a partir do 16º dia de afastamento, 91% do salário de benefício, com mínimo de R$ 1.621. Veja carência, Atestmed e perícia."
 categoria: previdencia
 publicadoEm: 2026-10-22
-atualizadoEm: 2026-10-23
+atualizadoEm: 2026-10-29
 faq:
   - pergunta: "Quem paga os primeiros 15 dias de afastamento?"
     resposta: "A empresa. Nos primeiros 15 dias seguidos de afastamento por doença, ela paga o salário integral; o INSS paga a partir do 16º dia (Lei 8.213/1991, artigo 60)."
@@ -128,7 +128,7 @@ O INSS pode convocar para reavaliação a qualquer momento. Quem tem aids, Alzhe
 
 ## Auxílio-doença negado: como recorrer
 
-Você tem **30 dias**, contados de quando soube da decisão, para recorrer ao **Conselho de Recursos da Previdência Social**, pelo Meu INSS ou na agência, com agendamento pelo 135 ([INSS](https://www.gov.br/inss/pt-br/direitos-e-deveres/beneficios-por-incapacidade/auxilio-por-incapacidade-temporaria); [Decreto 3.048, artigo 305](https://www.planalto.gov.br/ccivil_03/decreto/d3048.htm)). Junte laudos e exames novos, se tiver. Outra saída é fazer um novo pedido, que, depois de uma negativa pelo Atestmed, só pode ser feito 30 dias após a decisão. A Defensoria Pública da União e advogados previdenciários orientam nos casos de recurso e de ação na Justiça Federal.
+Você tem **30 dias**, contados de quando soube da decisão, para recorrer ao **Conselho de Recursos da Previdência Social**, pelo Meu INSS ou na agência, com agendamento pelo 135 ([INSS](https://www.gov.br/inss/pt-br/direitos-e-deveres/beneficios-por-incapacidade/auxilio-por-incapacidade-temporaria); [Decreto 3.048, artigo 305](https://www.planalto.gov.br/ccivil_03/decreto/d3048.htm)). Junte laudos e exames novos, se tiver; o passo a passo está em [benefício do INSS negado: como recorrer](/artigos/beneficio-inss-negado-como-recorrer). Outra saída é fazer um novo pedido, que, depois de uma negativa pelo Atestmed, só pode ser feito 30 dias após a decisão. A Defensoria Pública da União e advogados previdenciários orientam nos casos de recurso e de ação na Justiça Federal.
 
 ## Auxílio-doença por acidente de trabalho: estabilidade e FGTS
 

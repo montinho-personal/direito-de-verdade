@@ -4,7 +4,7 @@ tituloSeo: "BPC/LOAS 2026: quem tem direito, renda e como pedir"
 descricao: "BPC/LOAS 2026: um salário mínimo (R$ 1.621) para idoso de 65 anos ou pessoa com deficiência com renda de até R$ 405,25 por pessoa. Veja a conta e como pedir."
 categoria: previdencia
 publicadoEm: 2026-10-23
-atualizadoEm: 2026-10-24
+atualizadoEm: 2026-10-29
 faq:
   - pergunta: "BPC é aposentadoria?"
     resposta: "Não. O BPC é um benefício da **assistência social**: não exige contribuição ao INSS, mas também **não paga 13º** e **não deixa pensão por morte** para a família. O INSS só cuida do pedido e do pagamento. Para quem contribuiu, veja [as regras de aposentadoria de 2026](/artigos/aposentadoria-2026-regras)."
@@ -91,7 +91,7 @@ Documentos: RG, Carteira de Identidade Nacional, CNH ou carteira de trabalho, e 
 
 ### BPC negado: o que fazer?
 
-A decisão do INSS diz o motivo da negativa. Se for o Cadastro Único desatualizado, a biometria ou um documento, corrija e peça de novo. Se você discorda da conta da renda ou da avaliação da deficiência, é possível recorrer nos canais do INSS (Meu INSS ou 135), no prazo informado na decisão, ou buscar a Justiça Federal; quem não pode pagar advogado pode procurar a **Defensoria Pública da União**.
+A decisão do INSS diz o motivo da negativa. Se for o Cadastro Único desatualizado, a biometria ou um documento, corrija e peça de novo. Se você discorda da conta da renda ou da avaliação da deficiência, é possível [recorrer ao INSS](/artigos/beneficio-inss-negado-como-recorrer) pelo Meu INSS ou pelo 135, em até 30 dias da decisão, ou buscar a Justiça Federal; quem não pode pagar advogado pode procurar a **Defensoria Pública da União**.
 
 ## Quem recebe BPC pode trabalhar?
 
