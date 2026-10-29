@@ -117,7 +117,7 @@ AnswerThePublic.
 | ordem | artigo | por que agora | buscas para printar | AnswerThePublic | status |
 |---|---|---|---|---|---|
 | 1 | Licença-paternidade nova: quantos dias, desde quando e quem tem direito | já estava na lista de temas-base, para publicar em dez/jan | `licença paternidade`; `licença paternidade 2027`; `licença paternidade quantos dias` | `licença paternidade` | **publicado em 29/10/2026 sem prints** — [doc](artigos/licenca-paternidade.md), `/artigos/licenca-paternidade` |
-| 2 | Cancelar internet ou celular: multa de fidelidade e como cancelar | Consumidor; mudanças e trocas de plano no fim do ano; liga com cobrança indevida e Procon | `cancelar internet multa`; `multa de fidelidade`; `como cancelar plano de celular` | `multa de fidelidade` | **aguardando prints** |
+| 2 | Cancelar internet ou celular: multa de fidelidade e como cancelar | Consumidor; mudanças e trocas de plano no fim do ano; liga com cobrança indevida e Procon | `cancelar internet multa`; `multa de fidelidade`; `como cancelar plano de celular` | `multa de fidelidade` | **publicado em 29/10/2026 sem prints** — [doc](artigos/multa-de-fidelidade.md), `/artigos/multa-de-fidelidade` |
 | 3 | Benefício do INSS negado: como recorrer | completa Previdência (auxílio-doença, BPC, aposentadoria) | `benefício negado inss`; `como recorrer inss`; `recurso inss prazo` | `recurso inss` | **aguardando prints** |
 
 ## Prints pendentes
@@ -152,6 +152,7 @@ Lembrar o Renato desta lista a cada entrega.
 | CNH sem autoescola (`/artigos/cnh-sem-autoescola`), publicado em 26/10/2026 | AnswerThePublic `cnh sem autoescola` | **aguardando prints** |
 | Guarda compartilhada (`/artigos/guarda-compartilhada`), publicado em 26/10/2026 | AnswerThePublic `guarda compartilhada` | **aguardando prints** |
 | Licença-paternidade (`/artigos/licenca-paternidade`), publicado em 29/10/2026 | Google: `licença paternidade`; `licença paternidade 2027`; `licença paternidade quantos dias`; AnswerThePublic `licença paternidade` | **aguardando prints** |
+| Multa de fidelidade (`/artigos/multa-de-fidelidade`), publicado em 29/10/2026 | Google: `cancelar internet multa`; `multa de fidelidade`; `como cancelar plano de celular`; AnswerThePublic `multa de fidelidade` | **aguardando prints** |
 | Calculadora de cobrança indevida (`/calculadoras/cobranca-indevida`), publicada em 26/10/2026 | Google: `calculadora cobrança indevida`; `devolução em dobro`; AnswerThePublic `cobrança indevida` | **aguardando prints** |
 | Simulador de direitos em compras online (`/calculadoras/simulador-direitos-compras-online`), publicado em 26/10/2026 | Google: `direitos em compras online`; `comprei pela internet e não recebi` | **prints e AnswerThePublic recebidos e página revisada em 27/10/2026** |
 | Calculadora de juros abusivos (`/calculadoras/juros-abusivos`), publicada em 27/10/2026 | Google: `calculadora de juros abusivos`; `como saber se juros são abusivos`; `taxa média banco central financiamento` | **aguardando prints** |
@@ -189,7 +190,7 @@ Lembrar o Renato desta lista a cada entrega.
 - Desconto indevido de consignado
 - Nome sujo: prazo de 5 anos e como limpar o nome
 - Produto com defeito: prazos de 30 e 90 dias
-- Cancelamento de internet/celular e multa de fidelidade
+- ~~Cancelamento de internet/celular e multa de fidelidade~~ — **publicado em 29/10/2026** ([doc](artigos/multa-de-fidelidade.md), `/artigos/multa-de-fidelidade`)
 - Voo atrasado ou cancelado
 - ~~Plano de saúde que nega cobertura~~ — **publicado em 23/10/2026** ([doc](artigos/plano-de-saude-negou-cobertura.md), `/artigos/plano-de-saude-negou-cobertura`)
 
