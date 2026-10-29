@@ -41,6 +41,40 @@ export default function Sobre() {
         <li>Revisar e atualizar os textos quando a lei mudar.</li>
       </ul>
 
+      <h2>Como produzimos o conteúdo</h2>
+      <ul>
+        <li>
+          <strong>Só fontes oficiais:</strong> cada informação vem da lei no
+          site do Planalto ou da Câmara, de órgãos públicos (gov.br, Receita
+          Federal, INSS, Procons, Banco Central) e de tribunais, ou de dois
+          veículos de imprensa independentes dizendo a mesma coisa. As fontes
+          ficam listadas no fim de cada página.
+        </li>
+        <li>
+          <strong>Nada inventado:</strong> não publicamos prazo, valor, número
+          de lei ou decisão de tribunal sem fonte. Quando a regra muda de lugar
+          para lugar ou não está definida, o texto diz isso e indica onde
+          conferir.
+        </li>
+        <li>
+          <strong>Perguntas reais:</strong> os temas e as perguntas de cada
+          artigo partem do que as pessoas procuram no Google sobre o assunto.
+        </li>
+        <li>
+          <strong>Calculadoras conferidas:</strong> as contas são testadas com
+          exemplos calculados à parte e, quando existem, com os exemplos
+          oficiais, como os da Receita Federal. Tudo é calculado no seu
+          navegador: nada do que você digita é enviado.
+        </li>
+        <li>
+          <strong>Data de atualização e correções:</strong> cada página mostra
+          quando foi atualizada pela última vez. Valores que mudam todo ano,
+          como o salário mínimo e as tabelas do INSS e do imposto de renda,
+          são revisados a cada ano. Quando encontramos um erro ou a lei muda,
+          corrigimos o texto e atualizamos a data.
+        </li>
+      </ul>
+
       <h2>O que não somos</h2>
       <p>
         O Direito de Verdade não é um escritório de advocacia nem um órgão
