@@ -130,6 +130,19 @@ Um de cada vez.
 | 1 | Como recorrer de multa de trânsito: defesa prévia, JARI e Cetran | busca alta o ano todo; segundo artigo de Trânsito | `como recorrer de multa`; `defesa prévia multa`; `recurso jari prazo`; AnswerThePublic `recorrer multa` | **publicado em 29/10/2026 sem prints** — [doc](artigos/como-recorrer-de-multa-de-transito.md), `/artigos/como-recorrer-de-multa-de-transito` |
 | 2 | Reajuste do aluguel: índice, quando pode e como calcular | Moradia; reajustes e mudanças em janeiro | `reajuste aluguel`; `reajuste aluguel igpm ou ipca`; `calcular reajuste aluguel`; AnswerThePublic `reajuste aluguel` | **publicado em 29/10/2026 sem prints** — [doc](artigos/reajuste-do-aluguel.md), `/artigos/reajuste-do-aluguel` |
 
+## Próximos seis (sugeridos e pedidos em 01/11/2026)
+
+Pedido do Renato em 01/11/2026 ("Pode criar todos esses aí"), sem prints. Um de cada vez.
+
+| ordem | artigo | por que agora | buscas para printar | status |
+|---|---|---|---|---|
+| 1 | 13º salário atrasado ou não pago | pico depois de 30/11 e 18/12 | `13 salário atrasado`; `empresa não pagou 13 salário`; `13 salário atrasado multa` | **publicado em 01/11/2026 sem prints** — [doc](artigos/13-salario-atrasado.md), `/artigos/13-salario-atrasado` |
+| 2 | Lista de material escolar: o que a escola não pode pedir | dezembro a fevereiro | `lista de material escolar o que não pode`; `material escolar proibido`; `escola pode pedir papel higiênico` | **em produção** |
+| 3 | Pontos na CNH: como consultar e quando suspende | completa o recurso de multa | `pontos na cnh`; `quantos pontos suspende a cnh`; `consultar pontos cnh` | **em produção** |
+| 4 | Desconto indevido no benefício do INSS | Previdência e Consumidor | `desconto indevido inss`; `desconto associação inss`; `como cancelar desconto inss` | **em produção** |
+| 5 | União estável: direitos e como registrar | Família | `união estável`; `união estável direitos`; `como fazer união estável` | **em produção** |
+| 6 | Adicional de insalubridade | Trabalho | `adicional de insalubridade`; `insalubridade valor`; `insalubridade grau` | **em produção** |
+
 ## Prints pendentes
 
 Artigos publicados antes dos prints do Google, a pedido do Renato em
@@ -166,6 +179,7 @@ Lembrar o Renato desta lista a cada entrega.
 | Benefício do INSS negado (`/artigos/beneficio-inss-negado-como-recorrer`), publicado em 29/10/2026 | Google: `benefício negado inss`; `como recorrer inss`; `recurso inss prazo`; AnswerThePublic `recurso inss` | **aguardando prints** |
 | Como recorrer de multa de trânsito (`/artigos/como-recorrer-de-multa-de-transito`), publicado em 29/10/2026 | Google: `como recorrer de multa`; `defesa prévia multa`; `recurso jari prazo`; AnswerThePublic `recorrer multa` | **aguardando prints** |
 | Reajuste do aluguel (`/artigos/reajuste-do-aluguel`), publicado em 29/10/2026 | Google: `reajuste aluguel`; `reajuste aluguel igpm ou ipca`; `calcular reajuste aluguel`; AnswerThePublic `reajuste aluguel` | **aguardando prints** |
+| 13º salário atrasado (`/artigos/13-salario-atrasado`), publicado em 01/11/2026 | Google: `13 salário atrasado`; `empresa não pagou 13 salário`; `13 salário atrasado multa`; AnswerThePublic `13 salário atrasado` | **aguardando prints** |
 | Calculadora de cobrança indevida (`/calculadoras/cobranca-indevida`), publicada em 26/10/2026 | Google: `calculadora cobrança indevida`; `devolução em dobro`; AnswerThePublic `cobrança indevida` | **aguardando prints** |
 | Simulador de direitos em compras online (`/calculadoras/simulador-direitos-compras-online`), publicado em 26/10/2026 | Google: `direitos em compras online`; `comprei pela internet e não recebi` | **prints e AnswerThePublic recebidos e página revisada em 27/10/2026** |
 | Calculadora de juros abusivos (`/calculadoras/juros-abusivos`), publicada em 27/10/2026 | Google: `calculadora de juros abusivos`; `como saber se juros são abusivos`; `taxa média banco central financiamento` | **aguardando prints** |

@@ -4,7 +4,7 @@ tituloSeo: "13º salário 2026: datas, antecipação e quanto você recebe"
 descricao: "13º salário 2026: a 1ª parcela cai até 30/11 e a 2ª foi antecipada para 18/12, porque o dia 20 é domingo. Veja quanto você recebe e o 13º dos aposentados."
 categoria: trabalho
 publicadoEm: 2026-10-19
-atualizadoEm: 2026-10-23
+atualizadoEm: 2026-11-01
 faq:
   - pergunta: "Quem ganha R$ 1.600 recebe quanto de décimo terceiro?"
     resposta: "Quem ganha R$ 1.600 por mês e trabalhou o ano todo tem R$ 1.600 de 13º bruto: **R$ 800 na 1ª parcela** e **R$ 680 na 2ª**, depois do desconto de R$ 120 de INSS. No total, caem R$ 1.480 na conta, sem imposto de renda."
@@ -217,3 +217,5 @@ Se o 13º não caiu na data:
 2. **Procure o seu sindicato,** que pode cobrar a empresa e orientar você.
 3. **Denuncie ao Ministério do Trabalho,** pelo canal de denúncias trabalhistas no gov.br.
 4. **Entre na Justiça do Trabalho** se nada resolver.
+
+O passo a passo, a denúncia sigilosa e o prazo para cobrar estão em [13º salário atrasado: o que fazer](/artigos/13-salario-atrasado).
