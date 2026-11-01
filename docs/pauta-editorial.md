@@ -139,7 +139,7 @@ Pedido do Renato em 01/11/2026 ("Pode criar todos esses aí"), sem prints. Um de
 | 1 | 13º salário atrasado ou não pago | pico depois de 30/11 e 18/12 | `13 salário atrasado`; `empresa não pagou 13 salário`; `13 salário atrasado multa` | **publicado em 01/11/2026 sem prints** — [doc](artigos/13-salario-atrasado.md), `/artigos/13-salario-atrasado` |
 | 2 | Lista de material escolar: o que a escola não pode pedir | dezembro a fevereiro | `lista de material escolar o que não pode`; `material escolar proibido`; `escola pode pedir papel higiênico` | **publicado em 01/11/2026 sem prints** — [doc](artigos/lista-de-material-escolar.md), `/artigos/lista-de-material-escolar` |
 | 3 | Pontos na CNH: como consultar e quando suspende | completa o recurso de multa | `pontos na cnh`; `quantos pontos suspende a cnh`; `consultar pontos cnh` | **publicado em 01/11/2026 sem prints** — [doc](artigos/pontos-na-cnh.md), `/artigos/pontos-na-cnh` |
-| 4 | Desconto indevido no benefício do INSS | Previdência e Consumidor | `desconto indevido inss`; `desconto associação inss`; `como cancelar desconto inss` | **em produção** |
+| 4 | Desconto indevido no benefício do INSS | Previdência e Consumidor | `desconto indevido inss`; `desconto associação inss`; `como cancelar desconto inss` | **publicado em 01/11/2026 sem prints** — [doc](artigos/desconto-indevido-inss.md), `/artigos/desconto-indevido-inss` |
 | 5 | União estável: direitos e como registrar | Família | `união estável`; `união estável direitos`; `como fazer união estável` | **em produção** |
 | 6 | Adicional de insalubridade | Trabalho | `adicional de insalubridade`; `insalubridade valor`; `insalubridade grau` | **em produção** |
 
@@ -182,6 +182,7 @@ Lembrar o Renato desta lista a cada entrega.
 | 13º salário atrasado (`/artigos/13-salario-atrasado`), publicado em 01/11/2026 | Google: `13 salário atrasado`; `empresa não pagou 13 salário`; `13 salário atrasado multa`; AnswerThePublic `13 salário atrasado` | **aguardando prints** |
 | Lista de material escolar (`/artigos/lista-de-material-escolar`), publicado em 01/11/2026 | Google: `lista de material escolar o que não pode`; `material escolar proibido`; `escola pode pedir papel higiênico`; AnswerThePublic `material escolar` | **aguardando prints** |
 | Pontos na CNH (`/artigos/pontos-na-cnh`), publicado em 01/11/2026 | Google: `pontos na cnh`; `quantos pontos suspende a cnh`; `consultar pontos cnh`; AnswerThePublic `pontos cnh` | **aguardando prints** |
+| Desconto indevido no INSS (`/artigos/desconto-indevido-inss`), publicado em 01/11/2026 | Google: `desconto indevido inss`; `desconto associação inss`; `como cancelar desconto inss`; AnswerThePublic `desconto inss` | **aguardando prints** |
 | Calculadora de cobrança indevida (`/calculadoras/cobranca-indevida`), publicada em 26/10/2026 | Google: `calculadora cobrança indevida`; `devolução em dobro`; AnswerThePublic `cobrança indevida` | **aguardando prints** |
 | Simulador de direitos em compras online (`/calculadoras/simulador-direitos-compras-online`), publicado em 26/10/2026 | Google: `direitos em compras online`; `comprei pela internet e não recebi` | **prints e AnswerThePublic recebidos e página revisada em 27/10/2026** |
 | Calculadora de juros abusivos (`/calculadoras/juros-abusivos`), publicada em 27/10/2026 | Google: `calculadora de juros abusivos`; `como saber se juros são abusivos`; `taxa média banco central financiamento` | **aguardando prints** |
@@ -216,7 +217,7 @@ Lembrar o Renato desta lista a cada entrega.
 
 ### Consumidor
 - ~~Cobrança indevida: devolução em dobro~~ — **publicado em 22/10/2026** ([doc](artigos/cobranca-indevida.md), `/artigos/cobranca-indevida`)
-- Desconto indevido de consignado
+- ~~Desconto indevido de consignado~~ — **publicado em 01/11/2026** ([doc](artigos/desconto-indevido-inss.md), `/artigos/desconto-indevido-inss`)
 - Nome sujo: prazo de 5 anos e como limpar o nome
 - Produto com defeito: prazos de 30 e 90 dias
 - ~~Cancelamento de internet/celular e multa de fidelidade~~ — **publicado em 29/10/2026** ([doc](artigos/multa-de-fidelidade.md), `/artigos/multa-de-fidelidade`)
