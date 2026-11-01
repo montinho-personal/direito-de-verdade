@@ -138,7 +138,7 @@ Pedido do Renato em 01/11/2026 ("Pode criar todos esses aí"), sem prints. Um de
 |---|---|---|---|---|
 | 1 | 13º salário atrasado ou não pago | pico depois de 30/11 e 18/12 | `13 salário atrasado`; `empresa não pagou 13 salário`; `13 salário atrasado multa` | **publicado em 01/11/2026 sem prints** — [doc](artigos/13-salario-atrasado.md), `/artigos/13-salario-atrasado` |
 | 2 | Lista de material escolar: o que a escola não pode pedir | dezembro a fevereiro | `lista de material escolar o que não pode`; `material escolar proibido`; `escola pode pedir papel higiênico` | **publicado em 01/11/2026 sem prints** — [doc](artigos/lista-de-material-escolar.md), `/artigos/lista-de-material-escolar` |
-| 3 | Pontos na CNH: como consultar e quando suspende | completa o recurso de multa | `pontos na cnh`; `quantos pontos suspende a cnh`; `consultar pontos cnh` | **em produção** |
+| 3 | Pontos na CNH: como consultar e quando suspende | completa o recurso de multa | `pontos na cnh`; `quantos pontos suspende a cnh`; `consultar pontos cnh` | **publicado em 01/11/2026 sem prints** — [doc](artigos/pontos-na-cnh.md), `/artigos/pontos-na-cnh` |
 | 4 | Desconto indevido no benefício do INSS | Previdência e Consumidor | `desconto indevido inss`; `desconto associação inss`; `como cancelar desconto inss` | **em produção** |
 | 5 | União estável: direitos e como registrar | Família | `união estável`; `união estável direitos`; `como fazer união estável` | **em produção** |
 | 6 | Adicional de insalubridade | Trabalho | `adicional de insalubridade`; `insalubridade valor`; `insalubridade grau` | **em produção** |
@@ -181,6 +181,7 @@ Lembrar o Renato desta lista a cada entrega.
 | Reajuste do aluguel (`/artigos/reajuste-do-aluguel`), publicado em 29/10/2026 | Google: `reajuste aluguel`; `reajuste aluguel igpm ou ipca`; `calcular reajuste aluguel`; AnswerThePublic `reajuste aluguel` | **aguardando prints** |
 | 13º salário atrasado (`/artigos/13-salario-atrasado`), publicado em 01/11/2026 | Google: `13 salário atrasado`; `empresa não pagou 13 salário`; `13 salário atrasado multa`; AnswerThePublic `13 salário atrasado` | **aguardando prints** |
 | Lista de material escolar (`/artigos/lista-de-material-escolar`), publicado em 01/11/2026 | Google: `lista de material escolar o que não pode`; `material escolar proibido`; `escola pode pedir papel higiênico`; AnswerThePublic `material escolar` | **aguardando prints** |
+| Pontos na CNH (`/artigos/pontos-na-cnh`), publicado em 01/11/2026 | Google: `pontos na cnh`; `quantos pontos suspende a cnh`; `consultar pontos cnh`; AnswerThePublic `pontos cnh` | **aguardando prints** |
 | Calculadora de cobrança indevida (`/calculadoras/cobranca-indevida`), publicada em 26/10/2026 | Google: `calculadora cobrança indevida`; `devolução em dobro`; AnswerThePublic `cobrança indevida` | **aguardando prints** |
 | Simulador de direitos em compras online (`/calculadoras/simulador-direitos-compras-online`), publicado em 26/10/2026 | Google: `direitos em compras online`; `comprei pela internet e não recebi` | **prints e AnswerThePublic recebidos e página revisada em 27/10/2026** |
 | Calculadora de juros abusivos (`/calculadoras/juros-abusivos`), publicada em 27/10/2026 | Google: `calculadora de juros abusivos`; `como saber se juros são abusivos`; `taxa média banco central financiamento` | **aguardando prints** |
@@ -232,7 +233,7 @@ Lembrar o Renato desta lista a cada entrega.
 ### Trânsito
 - ~~CNH sem autoescola: como tirar a carteira em 2026~~ — **publicado em 26/10/2026** ([doc](artigos/cnh-sem-autoescola.md), `/artigos/cnh-sem-autoescola`)
 - ~~Como recorrer de multa~~ — **publicado em 29/10/2026** ([doc](artigos/como-recorrer-de-multa-de-transito.md), `/artigos/como-recorrer-de-multa-de-transito`)
-- Pontos e suspensão da CNH
+- ~~Pontos e suspensão da CNH~~ — **publicado em 01/11/2026** ([doc](artigos/pontos-na-cnh.md), `/artigos/pontos-na-cnh`)
 
 ## De fora por enquanto
 

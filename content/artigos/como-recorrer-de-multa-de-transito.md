@@ -4,7 +4,7 @@ tituloSeo: "Como recorrer de multa de trânsito: prazos e passo a passo"
 descricao: "Como recorrer de multa de trânsito: defesa prévia em 30 dias, depois JARI e Cetran, sem pagar antes. Veja os prazos do CTB, quando a multa cai e o desconto."
 categoria: transito
 publicadoEm: 2026-10-29
-atualizadoEm: 2026-10-29
+atualizadoEm: 2026-11-01
 faq:
   - pergunta: "Preciso pagar a multa para recorrer?"
     resposta: "Não. O recurso pode ser apresentado sem pagar a multa (CTB, artigo 286). Enquanto o processo não termina, não pode haver juros nem bloqueio do licenciamento ou da transferência por causa dessa multa (artigo 284, § 3º)."
@@ -79,4 +79,4 @@ Indique o condutor em até **30 dias** da notificação da autuação, pelo form
 | média | 4 |
 | leve | 3 |
 
-A CNH é suspensa ao somar, em 12 meses, **20 pontos** com duas ou mais infrações gravíssimas, **30 pontos** com uma gravíssima ou **40 pontos** sem nenhuma gravíssima (artigos 259 e 261). Quem ainda tem a **Permissão para Dirigir** não recebe a CNH definitiva se cometer uma infração grave ou gravíssima ou repetir uma média no primeiro ano (artigo 148, § 3º); veja como funciona a [permissão para quem tira a CNH](/artigos/cnh-sem-autoescola). Por isso, recorrer pode valer a pena mesmo quando o valor da multa é baixo.
+A CNH é suspensa ao somar, em 12 meses, **20 pontos** com duas ou mais infrações gravíssimas, **30 pontos** com uma gravíssima ou **40 pontos** sem nenhuma gravíssima (artigos 259 e 261). Veja quanto tempo dura a suspensão e como consultar em [pontos na CNH](/artigos/pontos-na-cnh). Quem ainda tem a **Permissão para Dirigir** não recebe a CNH definitiva se cometer uma infração grave ou gravíssima ou repetir uma média no primeiro ano (artigo 148, § 3º); veja como funciona a [permissão para quem tira a CNH](/artigos/cnh-sem-autoescola). Por isso, recorrer pode valer a pena mesmo quando o valor da multa é baixo.
