@@ -141,7 +141,7 @@ Pedido do Renato em 01/11/2026 ("Pode criar todos esses aí"), sem prints. Um de
 | 3 | Pontos na CNH: como consultar e quando suspende | completa o recurso de multa | `pontos na cnh`; `quantos pontos suspende a cnh`; `consultar pontos cnh` | **publicado em 01/11/2026 sem prints** — [doc](artigos/pontos-na-cnh.md), `/artigos/pontos-na-cnh` |
 | 4 | Desconto indevido no benefício do INSS | Previdência e Consumidor | `desconto indevido inss`; `desconto associação inss`; `como cancelar desconto inss` | **publicado em 01/11/2026 sem prints** — [doc](artigos/desconto-indevido-inss.md), `/artigos/desconto-indevido-inss` |
 | 5 | União estável: direitos e como registrar | Família | `união estável`; `união estável direitos`; `como fazer união estável` | **publicado em 01/11/2026 sem prints** — [doc](artigos/uniao-estavel.md), `/artigos/uniao-estavel` |
-| 6 | Adicional de insalubridade | Trabalho | `adicional de insalubridade`; `insalubridade valor`; `insalubridade grau` | **em produção** |
+| 6 | Adicional de insalubridade | Trabalho | `adicional de insalubridade`; `insalubridade valor`; `insalubridade grau` | **publicado em 01/11/2026 sem prints** — [doc](artigos/adicional-de-insalubridade.md), `/artigos/adicional-de-insalubridade` |
 
 ## Prints pendentes
 
@@ -184,6 +184,7 @@ Lembrar o Renato desta lista a cada entrega.
 | Pontos na CNH (`/artigos/pontos-na-cnh`), publicado em 01/11/2026 | Google: `pontos na cnh`; `quantos pontos suspende a cnh`; `consultar pontos cnh`; AnswerThePublic `pontos cnh` | **aguardando prints** |
 | Desconto indevido no INSS (`/artigos/desconto-indevido-inss`), publicado em 01/11/2026 | Google: `desconto indevido inss`; `desconto associação inss`; `como cancelar desconto inss`; AnswerThePublic `desconto inss` | **aguardando prints** |
 | União estável (`/artigos/uniao-estavel`), publicado em 01/11/2026 | Google: `união estável`; `união estável direitos`; `como fazer união estável`; AnswerThePublic `união estável` | **aguardando prints** |
+| Adicional de insalubridade (`/artigos/adicional-de-insalubridade`), publicado em 01/11/2026 | Google: `adicional de insalubridade`; `insalubridade valor`; `insalubridade grau`; AnswerThePublic `insalubridade` | **aguardando prints** |
 | Calculadora de cobrança indevida (`/calculadoras/cobranca-indevida`), publicada em 26/10/2026 | Google: `calculadora cobrança indevida`; `devolução em dobro`; AnswerThePublic `cobrança indevida` | **aguardando prints** |
 | Simulador de direitos em compras online (`/calculadoras/simulador-direitos-compras-online`), publicado em 26/10/2026 | Google: `direitos em compras online`; `comprei pela internet e não recebi` | **prints e AnswerThePublic recebidos e página revisada em 27/10/2026** |
 | Calculadora de juros abusivos (`/calculadoras/juros-abusivos`), publicada em 27/10/2026 | Google: `calculadora de juros abusivos`; `como saber se juros são abusivos`; `taxa média banco central financiamento` | **aguardando prints** |
@@ -200,7 +201,7 @@ Lembrar o Renato desta lista a cada entrega.
 - ~~Seguro-desemprego 2026: quem tem direito, parcelas e valores~~ — **publicado em 19/10/2026** ([doc](artigos/seguro-desemprego-2026.md), `/artigos/seguro-desemprego-2026`)
 - Aviso prévio trabalhado ou indenizado (e os 3 dias por ano)
 - Horas extras e banco de horas
-- Adicional de insalubridade
+- ~~Adicional de insalubridade~~ — **publicado em 01/11/2026** ([doc](artigos/adicional-de-insalubridade.md), `/artigos/adicional-de-insalubridade`)
 - ~~Licença-paternidade nova~~ — **publicado em 29/10/2026** ([doc](artigos/licenca-paternidade.md), `/artigos/licenca-paternidade`)
 
 ### Previdência e INSS
@@ -269,6 +270,7 @@ Lembrar o Renato desta lista a cada entrega.
 - Seguro-desemprego: tabela nova em janeiro (faixas, piso e teto), em `src/lib/seguro-desemprego.ts` e no artigo `seguro-desemprego-2026` (exemplos e título com o ano).
 - Trabalho no feriado: calendário de fim de ano (portaria de pontos facultativos do MGI, dias da semana), tabela com o salário mínimo do ano e feriado bancário de 31/12 em `/artigos/trabalhar-no-feriado`.
 - Benefício do INSS negado: teto do Juizado Especial Federal (60 salários mínimos) em `/artigos/beneficio-inss-negado-como-recorrer`.
+- Adicional de insalubridade: valores com o salário mínimo do ano (tabela e descrição) em `/artigos/adicional-de-insalubridade`.
 - Como reclamar no Procon: valores de 20 e 40 salários mínimos do Juizado em `/artigos/como-reclamar-procon`.
 - Auxílio-doença: salário mínimo e teto do INSS do ano, limite do Atestmed (90 dias temporários; revisar em set/2027) em `/artigos/auxilio-doenca`.
 - Cobrança indevida: valores do Juizado e tese do Tema 929 do STJ (julgado em 15/09/2026, a publicar) em `/artigos/cobranca-indevida`.
