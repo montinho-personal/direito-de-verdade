@@ -150,7 +150,7 @@ Pedido do Renato em 03/11/2026 ("Pode criar próximos 3 artigos"), sem prints. U
 | ordem | artigo | por que agora | buscas para printar | status |
 |---|---|---|---|---|
 | 1 | Inventário: prazo, cartório ou Justiça e quem herda | Família; busca alta o ano todo | `inventário`; `inventário prazo`; `inventário em cartório` | **publicado em 03/11/2026 sem prints** — [doc](artigos/inventario.md), `/artigos/inventario` |
-| 2 | Fiador de aluguel: responsabilidades e como sair | Moradia; mudanças de janeiro | `fiador de aluguel`; `fiador pode perder a casa`; `como sair de fiador` | **em produção** |
+| 2 | Fiador de aluguel: responsabilidades e como sair | Moradia; mudanças de janeiro | `fiador de aluguel`; `fiador pode perder a casa`; `como sair de fiador` | **publicado em 03/11/2026 sem prints** — [doc](artigos/fiador.md), `/artigos/fiador` |
 | 3 | Usucapião: tipos, prazos e como pedir | Moradia; busca alta o ano todo | `usucapião`; `usucapião prazo`; `usucapião em cartório` | **em produção** |
 
 ## Prints pendentes
@@ -196,6 +196,7 @@ Lembrar o Renato desta lista a cada entrega.
 | União estável (`/artigos/uniao-estavel`), publicado em 01/11/2026 | Google: `união estável`; `união estável direitos`; `como fazer união estável`; AnswerThePublic `união estável` | **aguardando prints** |
 | Adicional de insalubridade (`/artigos/adicional-de-insalubridade`), publicado em 01/11/2026 | Google: `adicional de insalubridade`; `insalubridade valor`; `insalubridade grau`; AnswerThePublic `insalubridade` | **aguardando prints** |
 | Inventário (`/artigos/inventario`), publicado em 03/11/2026 | Google: `inventário`; `inventário prazo`; `inventário em cartório`; AnswerThePublic `inventário` | **aguardando prints** |
+| Fiador de aluguel (`/artigos/fiador`), publicado em 03/11/2026 | Google: `fiador de aluguel`; `fiador pode perder a casa`; `como sair de fiador`; AnswerThePublic `fiador` | **aguardando prints** |
 | Calculadora de cobrança indevida (`/calculadoras/cobranca-indevida`), publicada em 26/10/2026 | Google: `calculadora cobrança indevida`; `devolução em dobro`; AnswerThePublic `cobrança indevida` | **aguardando prints** |
 | Simulador de direitos em compras online (`/calculadoras/simulador-direitos-compras-online`), publicado em 26/10/2026 | Google: `direitos em compras online`; `comprei pela internet e não recebi` | **prints e AnswerThePublic recebidos e página revisada em 27/10/2026** |
 | Calculadora de juros abusivos (`/calculadoras/juros-abusivos`), publicada em 27/10/2026 | Google: `calculadora de juros abusivos`; `como saber se juros são abusivos`; `taxa média banco central financiamento` | **aguardando prints** |
@@ -240,7 +241,7 @@ Lembrar o Renato desta lista a cada entrega.
 ### Moradia e Aluguel
 - ~~Multa por sair antes do fim do contrato~~ — **publicado em 23/10/2026** ([doc](artigos/multa-contrato-de-aluguel.md), `/artigos/multa-contrato-de-aluguel`)
 - ~~Reajuste do aluguel~~ — **publicado em 29/10/2026** ([doc](artigos/reajuste-do-aluguel.md), `/artigos/reajuste-do-aluguel`)
-- Fiador
+- ~~Fiador~~ — **publicado em 03/11/2026** ([doc](artigos/fiador.md), `/artigos/fiador`)
 - Usucapião
 - Barulho do vizinho e regras do condomínio
 
