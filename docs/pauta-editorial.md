@@ -171,9 +171,9 @@ sem indicar escritório (ver doc da piloto). Piloto primeiro; as demais depois d
 | ordem | página | buscas | status |
 |---|---|---|---|
 | 1 | Advogado em Barueri e Alphaville (geral) | `advogado em alphaville`; `advogado em barueri`; `advogado gratuito barueri` | **publicado em 04/11/2026 (piloto, com prints)** — [doc](artigos/advogado-em-barueri-e-alphaville.md) |
-| 2 | Advogado trabalhista em Barueri e Alphaville | `advogado trabalhista barueri` (prints recebidos em 04/11/2026) | aguardando aval da piloto |
-| 3 | Advogado em Santana de Parnaíba e Aldeia da Serra (geral) | — | aguardando aval da piloto |
-| 4 | Demais áreas (previdenciário, família, criminal, consumidor, imobiliário, trânsito, civil) para cada região | — | aguardando aval da piloto |
+| 2 | Advogado trabalhista em Barueri e Alphaville | `advogado trabalhista barueri` | **publicado em 04/11/2026 (com prints e calculadoras)** — [doc](artigos/advogado-trabalhista-em-barueri-e-alphaville.md) |
+| 3 | Advogado em Santana de Parnaíba e Aldeia da Serra (geral) | `advogado santana de parnaíba`; `advogado aldeia da serra` | aguardando prints |
+| 4 | Demais áreas (previdenciário, família, criminal, consumidor, imobiliário, trânsito, civil) para cada região, com as calculadoras que encaixam | `advogado <área> barueri` | aguardando prints, uma de cada vez |
 
 ## Prints pendentes
 

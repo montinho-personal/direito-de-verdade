@@ -37,16 +37,16 @@ Para achar um **advogado em Barueri ou em Alphaville**, comece pelo tipo de prob
 
 | o problema | o especialista | para entender antes |
 | --- | --- | --- |
-| demissão, verbas da rescisão, horas extras, FGTS | **advogado trabalhista** | [demissão sem justa causa](/artigos/demissao-sem-justa-causa), [justa causa](/artigos/demissao-por-justa-causa), [rescisão indireta](/artigos/rescisao-indireta) |
+| demissão, verbas da rescisão, horas extras, FGTS | **advogado trabalhista** ([guia da região](/artigos/advogado-trabalhista-em-barueri-e-alphaville)) | [demissão sem justa causa](/artigos/demissao-sem-justa-causa), [justa causa](/artigos/demissao-por-justa-causa), [calculadora de rescisão](/calculadoras/rescisao), [calculadora de horas extras](/calculadoras/horas-extras) |
 | aposentadoria, auxílio-doença, BPC, benefício negado | **advogado previdenciário** | [benefício do INSS negado](/artigos/beneficio-inss-negado-como-recorrer), [aposentadoria 2026](/artigos/aposentadoria-2026-regras) |
 | divórcio, pensão, guarda, união estável, inventário | **advogado de família** | [divórcio](/artigos/divorcio), [pensão alimentícia](/artigos/pensao-alimenticia), [inventário](/artigos/inventario) |
 | prisão, inquérito, processo criminal | **advogado criminalista** | — |
-| compra com defeito, cobrança indevida, plano de saúde, banco | **advogado do consumidor** | [como reclamar no Procon](/artigos/como-reclamar-procon), [cobrança indevida](/artigos/cobranca-indevida) |
-| aluguel, compra de imóvel, condomínio, usucapião | **advogado imobiliário** | [multa do aluguel](/artigos/multa-contrato-de-aluguel), [usucapião](/artigos/usucapiao), [fiador](/artigos/fiador) |
+| compra com defeito, cobrança indevida, plano de saúde, banco | **advogado do consumidor** | [como reclamar no Procon](/artigos/como-reclamar-procon), [calculadora de cobrança indevida](/calculadoras/cobranca-indevida), [simulador de compras online](/calculadoras/simulador-direitos-compras-online) |
+| aluguel, compra de imóvel, condomínio, usucapião | **advogado imobiliário** | [calculadora da multa do aluguel](/calculadoras/multa-rescisao-aluguel), [usucapião](/artigos/usucapiao), [fiador](/artigos/fiador) |
 | multas, CNH suspensa | **advogado de trânsito** | [como recorrer de multa](/artigos/como-recorrer-de-multa-de-transito), [pontos na CNH](/artigos/pontos-na-cnh) |
-| contratos, dívidas, indenizações em geral | **advogado cível** | — |
+| contratos, dívidas, indenizações em geral | **advogado cível** | [calculadora de juros abusivos](/calculadoras/juros-abusivos) |
 
-Em muitos casos, vale ler o artigo antes da consulta: você chega sabendo o que perguntar e quais documentos levar.
+Em muitos casos, vale ler o artigo e fazer a conta na calculadora antes da consulta: você chega sabendo o que perguntar, quanto está em jogo e quais documentos levar. Todas as ferramentas estão em [calculadoras](/calculadoras).
 
 ## Como escolher um advogado?
 
