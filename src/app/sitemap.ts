@@ -14,7 +14,7 @@ import { site } from "@/lib/site";
 // Artigos, calculadoras e categorias entram sozinhos.
 const paginas = [
   { caminho: "", alteradaEm: "2026-10-19" },
-  { caminho: "/sobre", alteradaEm: "2026-10-19" },
+  { caminho: "/sobre", alteradaEm: "2026-10-29" },
   ...(site.emailContato
     ? [{ caminho: "/contato", alteradaEm: "2026-10-19" }]
     : []),
