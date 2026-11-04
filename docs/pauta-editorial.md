@@ -160,7 +160,7 @@ Pedido do Renato em 04/11/2026 ("Pode criar os próximos dois artigos"), sem pri
 | ordem | artigo | por que agora | buscas para printar | status |
 |---|---|---|---|---|
 | 1 | Barulho do vizinho: o que diz a lei e o que fazer | último tema-base de Moradia | `barulho do vizinho`; `lei do silêncio horário`; `vizinho barulhento o que fazer` | **publicado em 04/11/2026 sem prints** — [doc](artigos/barulho-do-vizinho.md), `/artigos/barulho-do-vizinho` |
-| 2 | Demissão por justa causa: motivos, o que recebe e como contestar | fecha o grupo de rescisão | `justa causa`; `demissão por justa causa o que recebe`; `motivos de justa causa` | **em produção** |
+| 2 | Demissão por justa causa: motivos, o que recebe e como contestar | fecha o grupo de rescisão | `justa causa`; `demissão por justa causa o que recebe`; `motivos de justa causa` | **publicado em 04/11/2026 sem prints** — [doc](artigos/demissao-por-justa-causa.md), `/artigos/demissao-por-justa-causa` |
 
 ## Prints pendentes
 
@@ -208,6 +208,7 @@ Lembrar o Renato desta lista a cada entrega.
 | Fiador de aluguel (`/artigos/fiador`), publicado em 03/11/2026 | Google: `fiador de aluguel`; `fiador pode perder a casa`; `como sair de fiador`; AnswerThePublic `fiador` | **aguardando prints** |
 | Usucapião (`/artigos/usucapiao`), publicado em 03/11/2026 | Google: `usucapião`; `usucapião prazo`; `usucapião em cartório`; AnswerThePublic `usucapião` | **aguardando prints** |
 | Barulho do vizinho (`/artigos/barulho-do-vizinho`), publicado em 04/11/2026 | Google: `barulho do vizinho`; `lei do silêncio horário`; `vizinho barulhento o que fazer`; AnswerThePublic `barulho vizinho` | **aguardando prints** |
+| Demissão por justa causa (`/artigos/demissao-por-justa-causa`), publicado em 04/11/2026 | Google: `justa causa`; `demissão por justa causa o que recebe`; `motivos de justa causa`; AnswerThePublic `justa causa` | **aguardando prints** |
 | Calculadora de cobrança indevida (`/calculadoras/cobranca-indevida`), publicada em 26/10/2026 | Google: `calculadora cobrança indevida`; `devolução em dobro`; AnswerThePublic `cobrança indevida` | **aguardando prints** |
 | Simulador de direitos em compras online (`/calculadoras/simulador-direitos-compras-online`), publicado em 26/10/2026 | Google: `direitos em compras online`; `comprei pela internet e não recebi` | **prints e AnswerThePublic recebidos e página revisada em 27/10/2026** |
 | Calculadora de juros abusivos (`/calculadoras/juros-abusivos`), publicada em 27/10/2026 | Google: `calculadora de juros abusivos`; `como saber se juros são abusivos`; `taxa média banco central financiamento` | **aguardando prints** |
