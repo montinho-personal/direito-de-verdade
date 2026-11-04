@@ -15,7 +15,7 @@ faq:
   - pergunta: "Onde fica a Justiça do Trabalho de Barueri?"
     resposta: "O Fórum Trabalhista de Barueri fica na Alameda Araguaia, 2096, em Alphaville Industrial. As cinco Varas do Trabalho atendem pelos telefones (11) 3468-7205, 7207, 7209, 7211 e 7213."
   - pergunta: "Moro em Santana de Parnaíba ou Aldeia da Serra. Uso o fórum de Barueri?"
-    resposta: "Nem sempre: Santana de Parnaíba tem fórum próprio, inclusive Vara do Trabalho. O fórum certo depende do endereço e do tipo de causa; confira nos sites do TJSP, do TRT-2 e da Justiça Federal."
+    resposta: "Nem sempre: Santana de Parnaíba tem fórum próprio, inclusive Vara do Trabalho. Veja os endereços em [advogado em Santana de Parnaíba e Aldeia da Serra](/artigos/advogado-em-santana-de-parnaiba-e-aldeia-da-serra). O fórum certo depende do endereço e do tipo de causa; confira nos sites do TJSP, do TRT-2 e da Justiça Federal."
 fontes:
   - nome: "TRT-2: telefones e endereços das Varas do Trabalho da Grande São Paulo (Barueri)"
     url: "https://ww2.trt2.jus.br/contato/telefones-e-enderecos/varas-do-trabalho-da-grande-sao-paulo-e-baixada-santista"
