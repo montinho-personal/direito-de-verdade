@@ -38,7 +38,7 @@ Para achar um **advogado em Barueri ou em Alphaville**, comece pelo tipo de prob
 | o problema | o especialista | para entender antes |
 | --- | --- | --- |
 | demissão, verbas da rescisão, horas extras, FGTS | **advogado trabalhista** ([guia da região](/artigos/advogado-trabalhista-em-barueri-e-alphaville)) | [demissão sem justa causa](/artigos/demissao-sem-justa-causa), [justa causa](/artigos/demissao-por-justa-causa), [calculadora de rescisão](/calculadoras/rescisao), [calculadora de horas extras](/calculadoras/horas-extras) |
-| aposentadoria, auxílio-doença, BPC, benefício negado | **advogado previdenciário** | [benefício do INSS negado](/artigos/beneficio-inss-negado-como-recorrer), [aposentadoria 2026](/artigos/aposentadoria-2026-regras) |
+| aposentadoria, auxílio-doença, BPC, benefício negado | **advogado previdenciário** ([guia da região](/artigos/advogado-previdenciario-em-barueri-e-alphaville)) | [benefício do INSS negado](/artigos/beneficio-inss-negado-como-recorrer), [aposentadoria 2026](/artigos/aposentadoria-2026-regras) |
 | divórcio, pensão, guarda, união estável, inventário | **advogado de família** | [divórcio](/artigos/divorcio), [pensão alimentícia](/artigos/pensao-alimenticia), [inventário](/artigos/inventario) |
 | prisão, inquérito, processo criminal | **advogado criminalista** | — |
 | compra com defeito, cobrança indevida, plano de saúde, banco | **advogado do consumidor** | [como reclamar no Procon](/artigos/como-reclamar-procon), [calculadora de cobrança indevida](/calculadoras/cobranca-indevida), [simulador de compras online](/calculadoras/simulador-direitos-compras-online) |
