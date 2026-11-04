@@ -153,6 +153,15 @@ Pedido do Renato em 03/11/2026 ("Pode criar próximos 3 artigos"), sem prints. U
 | 2 | Fiador de aluguel: responsabilidades e como sair | Moradia; mudanças de janeiro | `fiador de aluguel`; `fiador pode perder a casa`; `como sair de fiador` | **publicado em 03/11/2026 sem prints** — [doc](artigos/fiador.md), `/artigos/fiador` |
 | 3 | Usucapião: tipos, prazos e como pedir | Moradia; busca alta o ano todo | `usucapião`; `usucapião prazo`; `usucapião em cartório` | **publicado em 03/11/2026 sem prints** — [doc](artigos/usucapiao.md), `/artigos/usucapiao` |
 
+## Próximos dois (pedidos em 04/11/2026)
+
+Pedido do Renato em 04/11/2026 ("Pode criar os próximos dois artigos"), sem prints. Um de cada vez.
+
+| ordem | artigo | por que agora | buscas para printar | status |
+|---|---|---|---|---|
+| 1 | Barulho do vizinho: o que diz a lei e o que fazer | último tema-base de Moradia | `barulho do vizinho`; `lei do silêncio horário`; `vizinho barulhento o que fazer` | **publicado em 04/11/2026 sem prints** — [doc](artigos/barulho-do-vizinho.md), `/artigos/barulho-do-vizinho` |
+| 2 | Demissão por justa causa: motivos, o que recebe e como contestar | fecha o grupo de rescisão | `justa causa`; `demissão por justa causa o que recebe`; `motivos de justa causa` | **em produção** |
+
 ## Prints pendentes
 
 Artigos publicados antes dos prints do Google, a pedido do Renato em
@@ -198,6 +207,7 @@ Lembrar o Renato desta lista a cada entrega.
 | Inventário (`/artigos/inventario`), publicado em 03/11/2026 | Google: `inventário`; `inventário prazo`; `inventário em cartório`; AnswerThePublic `inventário` | **aguardando prints** |
 | Fiador de aluguel (`/artigos/fiador`), publicado em 03/11/2026 | Google: `fiador de aluguel`; `fiador pode perder a casa`; `como sair de fiador`; AnswerThePublic `fiador` | **aguardando prints** |
 | Usucapião (`/artigos/usucapiao`), publicado em 03/11/2026 | Google: `usucapião`; `usucapião prazo`; `usucapião em cartório`; AnswerThePublic `usucapião` | **aguardando prints** |
+| Barulho do vizinho (`/artigos/barulho-do-vizinho`), publicado em 04/11/2026 | Google: `barulho do vizinho`; `lei do silêncio horário`; `vizinho barulhento o que fazer`; AnswerThePublic `barulho vizinho` | **aguardando prints** |
 | Calculadora de cobrança indevida (`/calculadoras/cobranca-indevida`), publicada em 26/10/2026 | Google: `calculadora cobrança indevida`; `devolução em dobro`; AnswerThePublic `cobrança indevida` | **aguardando prints** |
 | Simulador de direitos em compras online (`/calculadoras/simulador-direitos-compras-online`), publicado em 26/10/2026 | Google: `direitos em compras online`; `comprei pela internet e não recebi` | **prints e AnswerThePublic recebidos e página revisada em 27/10/2026** |
 | Calculadora de juros abusivos (`/calculadoras/juros-abusivos`), publicada em 27/10/2026 | Google: `calculadora de juros abusivos`; `como saber se juros são abusivos`; `taxa média banco central financiamento` | **aguardando prints** |
@@ -244,7 +254,7 @@ Lembrar o Renato desta lista a cada entrega.
 - ~~Reajuste do aluguel~~ — **publicado em 29/10/2026** ([doc](artigos/reajuste-do-aluguel.md), `/artigos/reajuste-do-aluguel`)
 - ~~Fiador~~ — **publicado em 03/11/2026** ([doc](artigos/fiador.md), `/artigos/fiador`)
 - ~~Usucapião~~ — **publicado em 03/11/2026** ([doc](artigos/usucapiao.md), `/artigos/usucapiao`)
-- Barulho do vizinho e regras do condomínio
+- ~~Barulho do vizinho e regras do condomínio~~ — **publicado em 04/11/2026** ([doc](artigos/barulho-do-vizinho.md), `/artigos/barulho-do-vizinho`)
 
 ### Trânsito
 - ~~CNH sem autoescola: como tirar a carteira em 2026~~ — **publicado em 26/10/2026** ([doc](artigos/cnh-sem-autoescola.md), `/artigos/cnh-sem-autoescola`)
