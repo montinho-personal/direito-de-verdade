@@ -162,6 +162,19 @@ Pedido do Renato em 04/11/2026 ("Pode criar os próximos dois artigos"), sem pri
 | 1 | Barulho do vizinho: o que diz a lei e o que fazer | último tema-base de Moradia | `barulho do vizinho`; `lei do silêncio horário`; `vizinho barulhento o que fazer` | **publicado em 04/11/2026 sem prints** — [doc](artigos/barulho-do-vizinho.md), `/artigos/barulho-do-vizinho` |
 | 2 | Demissão por justa causa: motivos, o que recebe e como contestar | fecha o grupo de rescisão | `justa causa`; `demissão por justa causa o que recebe`; `motivos de justa causa` | **publicado em 04/11/2026 sem prints** — [doc](artigos/demissao-por-justa-causa.md), `/artigos/demissao-por-justa-causa` |
 
+## Páginas locais: advogado na região (pedido em 04/11/2026)
+
+Pedido do Renato: páginas para quem procura advogado em Barueri, Santana de Parnaíba, Aldeia
+da Serra e Alphaville. Formato acordado: página geral por região + uma por área para a região,
+sem indicar escritório (ver doc da piloto). Piloto primeiro; as demais depois do aval do Renato.
+
+| ordem | página | buscas | status |
+|---|---|---|---|
+| 1 | Advogado em Barueri e Alphaville (geral) | `advogado em alphaville`; `advogado em barueri`; `advogado gratuito barueri` | **publicado em 04/11/2026 (piloto, com prints)** — [doc](artigos/advogado-em-barueri-e-alphaville.md) |
+| 2 | Advogado trabalhista em Barueri e Alphaville | `advogado trabalhista barueri` (prints recebidos em 04/11/2026) | aguardando aval da piloto |
+| 3 | Advogado em Santana de Parnaíba e Aldeia da Serra (geral) | — | aguardando aval da piloto |
+| 4 | Demais áreas (previdenciário, família, criminal, consumidor, imobiliário, trânsito, civil) para cada região | — | aguardando aval da piloto |
+
 ## Prints pendentes
 
 Artigos publicados antes dos prints do Google, a pedido do Renato em

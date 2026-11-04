@@ -41,6 +41,12 @@ export const categorias: Categoria[] = [
     nome: "Trânsito",
     descricao: "Multas, CNH, recursos e acidentes de trânsito.",
   },
+  {
+    slug: "ajuda-juridica",
+    nome: "Onde buscar ajuda",
+    descricao:
+      "Como escolher um advogado e onde encontrar atendimento jurídico gratuito na sua região: Defensoria, OAB, Juizados e Justiça do Trabalho.",
+  },
 ];
 
 export function categoriaPorSlug(slug: string) {
