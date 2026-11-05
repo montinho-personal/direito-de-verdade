@@ -175,6 +175,7 @@ sem indicar escritório (ver doc da piloto). Piloto primeiro; as demais depois d
 | 3 | Advogado em Santana de Parnaíba e Aldeia da Serra (geral) | `advogado santana de parnaíba`; `advogado aldeia da serra` | **publicado em 04/11/2026 (com prints)** — [doc](artigos/advogado-em-santana-de-parnaiba-e-aldeia-da-serra.md) |
 | 4a | Advogado previdenciário em Barueri e Alphaville | `advogado previdenciário barueri` | **publicado em 04/11/2026 (com prints)** — [doc](artigos/advogado-previdenciario-em-barueri-e-alphaville.md) |
 | 4b | Advogado de família em Barueri e Alphaville | `advogado de família barueri` | **publicado em 05/11/2026 (sem prints próprios: aguardando)** — [doc](artigos/advogado-de-familia-em-barueri-e-alphaville.md) |
+| 4c | Advogado criminalista em Barueri e Alphaville | `advogado criminalista barueri` | **publicado em 05/11/2026 (sem prints próprios: aguardando)** — [doc](artigos/advogado-criminalista-em-barueri-e-alphaville.md) |
 | 4 | Demais áreas (previdenciário, família, criminal, consumidor, imobiliário, trânsito, civil) para cada região, com as calculadoras que encaixam | `advogado <área> barueri` | aguardando prints, uma de cada vez |
 
 ## Prints pendentes
