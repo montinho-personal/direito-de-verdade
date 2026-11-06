@@ -43,7 +43,7 @@ Para achar um **advogado em Barueri ou em Alphaville**, comece pelo tipo de prob
 | prisão, inquérito, processo criminal | **advogado criminalista** ([guia da região](/artigos/advogado-criminalista-em-barueri-e-alphaville)) | — |
 | compra com defeito, cobrança indevida, plano de saúde, banco | **advogado do consumidor** ([guia da região](/artigos/advogado-do-consumidor-em-barueri-e-alphaville)) | [como reclamar no Procon](/artigos/como-reclamar-procon), [calculadora de cobrança indevida](/calculadoras/cobranca-indevida), [simulador de compras online](/calculadoras/simulador-direitos-compras-online) |
 | aluguel, compra de imóvel, condomínio, usucapião | **advogado imobiliário** ([guia da região](/artigos/advogado-imobiliario-em-barueri-e-alphaville)) | [calculadora da multa do aluguel](/calculadoras/multa-rescisao-aluguel), [usucapião](/artigos/usucapiao), [fiador](/artigos/fiador) |
-| multas, CNH suspensa | **advogado de trânsito** | [como recorrer de multa](/artigos/como-recorrer-de-multa-de-transito), [pontos na CNH](/artigos/pontos-na-cnh) |
+| multas, CNH suspensa | **advogado de trânsito** ([guia da região](/artigos/advogado-de-transito-em-barueri-e-alphaville)) | [como recorrer de multa](/artigos/como-recorrer-de-multa-de-transito), [pontos na CNH](/artigos/pontos-na-cnh) |
 | contratos, dívidas, indenizações em geral | **advogado cível** | [calculadora de juros abusivos](/calculadoras/juros-abusivos) |
 
 Em muitos casos, vale ler o artigo e fazer a conta na calculadora antes da consulta: você chega sabendo o que perguntar, quanto está em jogo e quais documentos levar. Todas as ferramentas estão em [calculadoras](/calculadoras).
