@@ -8,13 +8,18 @@ Página de serviço público local (2ª rodada de SEO local, 06/11/2026). Quem b
 
 | print | conteúdo | onde entrou |
 |---|---|---|
-| — | **aguardando**: `fórum trabalhista barueri`; `justiça do trabalho barueri telefone`; `vara do trabalho barueri` | revisar título, H2 e FAQ quando chegarem |
+| `fórum trabalhista barueri`, autocompletar (06/11/2026) | endereço · consulta processo · sp · telefone · fotos · estacionamento | tituloSeo com telefone e e-mail; H2 da consulta do processo. Fotos e estacionamento: sem fonte, fora |
+| PAA | Onde fica o Fórum Trabalhista de Barueri? · Onde consultar processo trabalhista? · Qual é o número de telefone do Fórum de Barueri? · Como falar com a Justiça do Trabalho? | quatro H2/FAQ; nota de que o Fórum de Barueri estadual é outro prédio |
+| "Outras pessoas pesquisaram" | 3ª e 4ª Vara do Trabalho de Barueri · fórum Ruy Barbosa, Osasco, Mogi, 47ª VT SP (fora) | tabela com telefone e e-mail de cada vara |
+| visão geral de IA | e-mails "vtbarueriNN@trtsp.jus.br" | não é fonte; a lista oficial do TRT-2 traz **@trt2.jus.br**, que foi o usado |
 
 ## Ferramentas
 
 Calculadora de rescisão, dentro do texto.
 
 ## Fontes confirmadas (06/11/2026)
+
+- Revisão com prints: e-mails vtbarueri01 a 05, cejuscbarueri e pa.barueri.ciao @trt2.jus.br (lista oficial de e-mails do TRT-2; também vtsantana01/02 para Santana); atendimento 11h30–18h, sem agendamento (TRT-2, Atendimento ao Público, atualizado em 03/04/2025); Balcão Virtual e consulta processual/Consulta Cidadão (Carta de Serviços do TRT-2, abril de 2026). (oficial)
 
 | fato | fonte | tipo |
 |---|---|---|
@@ -26,7 +31,6 @@ Calculadora de rescisão, dentro do texto.
 
 ## Pendente
 
-- Horário de atendimento ao público das varas e balcão virtual do TRT-2: não conferidos; a página manda ligar.
 - Jurisdição exata (municípios) das varas de Barueri: os atos do TRT-2 encontrados são antigos; a página usa a regra do art. 651.
 
 ## Para medir

@@ -33,7 +33,7 @@ Quem procura **advogado trabalhista em Santana de Parnaíba**, na **Aldeia da Se
 
 | onde você trabalhou | onde entra a ação |
 | --- | --- |
-| Santana de Parnaíba, inclusive o lado de Santana da Aldeia da Serra e de Alphaville | **Fórum Trabalhista de Santana de Parnaíba**: Rua Treze de Maio, 222, Centro. 1ª Vara: (11) 3468-7340; 2ª Vara: (11) 3468-7342 |
+| Santana de Parnaíba, inclusive o lado de Santana da Aldeia da Serra e de Alphaville | **Fórum Trabalhista de Santana de Parnaíba**: Rua Treze de Maio, 222, Centro. 1ª Vara: (11) 3468-7340, vtsantana01@trt2.jus.br; 2ª Vara: (11) 3468-7342, vtsantana02@trt2.jus.br |
 | Barueri, inclusive o lado de Barueri de Alphaville e da Aldeia da Serra | **Fórum Trabalhista de Barueri**: Alameda Araguaia, 2096, Alphaville Industrial. Veja [advogado trabalhista em Barueri e Alphaville](/artigos/advogado-trabalhista-em-barueri-e-alphaville) |
 | outra cidade | a Vara do Trabalho dessa cidade, no [site do TRT-2](https://ww2.trt2.jus.br/contato/telefones-e-enderecos/varas-do-trabalho-da-grande-sao-paulo-e-baixada-santista) |
 
@@ -60,7 +60,7 @@ Quanto cobra um advogado trabalhista, o risco de pagar honorários se perder e s
 
 1. **Confira o prazo:** até **2 anos** depois da saída, cobrando os **últimos 5 anos** ([Constituição, artigo 7º, XXIX](https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm)).
 2. **Junte os documentos:** carteira de trabalho, holerites, termo de rescisão, extrato do FGTS, cartões de ponto, mensagens e nomes de testemunhas.
-3. **Ligue para a vara** antes de ir, para saber o horário de atendimento ao público.
+3. **Atendimento ao público:** das 11h30 às 18h, de segunda a sexta, sem agendamento, como em todas as unidades do TRT-2 ([TRT-2](https://ww2.trt2.jus.br/contato/atendimento-ao-publico)). Também dá para falar com a vara por e-mail ou pelo **Balcão Virtual**, por videoconferência: veja [Fórum Trabalhista de Barueri](/artigos/forum-trabalhista-de-barueri).
 
 Problemas comuns: [demissão sem justa causa](/artigos/demissao-sem-justa-causa), [justa causa](/artigos/demissao-por-justa-causa), [rescisão indireta](/artigos/rescisao-indireta) e [13º atrasado](/artigos/13-salario-atrasado). Para outras áreas na cidade, veja [advogado em Santana de Parnaíba e Aldeia da Serra](/artigos/advogado-em-santana-de-parnaiba-e-aldeia-da-serra).
 
