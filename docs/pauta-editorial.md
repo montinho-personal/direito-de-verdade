@@ -193,6 +193,19 @@ sem indicar escritório (ver doc da piloto). Piloto primeiro; as demais depois d
 | 5a | Advogado trabalhista em Santana de Parnaíba e Aldeia da Serra | `advogado trabalhista santana de parnaíba` (autocompletar de 04/11/2026) | **publicado em 06/11/2026** — [doc](artigos/advogado-trabalhista-em-santana-de-parnaiba.md) |
 | 5b | Advogado criminalista em Santana de Parnaíba e Aldeia da Serra | `advogado criminalista santana de parnaíba` (autocompletar de 04/11/2026) | **publicado em 06/11/2026** — [doc](artigos/advogado-criminalista-em-santana-de-parnaiba.md) |
 
+## Páginas locais, 2ª rodada (pedido em 06/11/2026)
+
+Pedido do Renato em 06/11/2026: "Pode criar essas três, depois mando os prints. E cria também mais três de advogado [...] em Barueri, Santana de Parnaíba, Alphaville. Eu acho que é bom a gente entrar com o termo Alphaville também." Sem prints; um de cada vez.
+
+| ordem | página | buscas para printar | status |
+|---|---|---|---|
+| 1 | Procon Barueri | `procon barueri`; `procon barueri telefone`; `procon barueri agendamento` | **publicado em 06/11/2026 sem prints** — [doc](artigos/procon-barueri.md), `/artigos/procon-barueri` |
+| 2 | Recurso de multa em Barueri (SEMURB/JARI) | `multa semurb barueri`; `recurso multa barueri`; `jari barueri` | a fazer |
+| 3 | Fórum Trabalhista de Barueri | `fórum trabalhista barueri`; `justiça do trabalho barueri telefone`; `vara do trabalho barueri` | a fazer |
+| 4 | Advogado de condomínio em Alphaville | `advogado condomínio alphaville`; `taxa associação alphaville`; `advogado condominial barueri` | a fazer |
+| 5 | Advogado de plano de saúde em Barueri e Alphaville | `advogado plano de saúde barueri`; `advogado plano de saúde alphaville` | a fazer |
+| 6 | Advogado de inventário em Alphaville e Barueri | `advogado inventário barueri`; `advogado inventário alphaville` | a fazer |
+
 ## Prints pendentes
 
 Artigos publicados antes dos prints do Google, a pedido do Renato em
