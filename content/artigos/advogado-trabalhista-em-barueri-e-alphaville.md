@@ -4,7 +4,7 @@ tituloSeo: "Advogado trabalhista em Barueri: gratuito, valor e ação"
 descricao: "Advogado trabalhista em Barueri e Alphaville: onde achar ajuda gratuita, quanto cobra, quando vale entrar com ação e calculadoras do que você tem a receber."
 categoria: ajuda-juridica
 publicadoEm: 2026-11-04
-atualizadoEm: 2026-11-04
+atualizadoEm: 2026-11-06
 faq:
   - pergunta: "Dá para entrar com ação trabalhista sem advogado?"
     resposta: "Dá. O empregado pode reclamar pessoalmente na Justiça do Trabalho (CLT, artigo 791), e a reclamação pode até ser verbal, reduzida a termo pela Vara (artigo 840). Mas as regras do processo são técnicas, e um advogado ou o sindicato ajudam a não perder pedidos."
@@ -74,6 +74,8 @@ E confira se a empresa depositou os 8% do FGTS todo mês, comparando com o extra
 Se a empresa ainda não pagou o que deve, mas você continua trabalhando nela, veja a [rescisão indireta](/artigos/rescisao-indireta), a "justa causa do patrão".
 
 ## Endereço da Justiça do Trabalho em Barueri e Alphaville
+
+O que levar, o dia da audiência e como acompanhar o processo estão em [Fórum Trabalhista de Barueri](/artigos/forum-trabalhista-de-barueri).
 
 | onde | endereço e contato |
 | --- | --- |
