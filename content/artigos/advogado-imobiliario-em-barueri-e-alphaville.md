@@ -1,7 +1,7 @@
 ---
 titulo: "Advogado imobiliário em Barueri e Alphaville: o que faz, quanto custa e onde achar ajuda gratuita"
 tituloSeo: "Advogado imobiliário em Barueri: valor, gratuito e o que faz"
-descricao: "Advogado imobiliário em Barueri e Alphaville: o que faz na compra, no aluguel e na usucapião, quanto custa, como conseguir de graça e a calculadora da multa do aluguel."
+descricao: "Advogado imobiliário em Barueri e Alphaville: o que faz na compra, no aluguel e na usucapião, quanto custa, como conseguir de graça e a multa do aluguel."
 categoria: ajuda-juridica
 publicadoEm: 2026-11-06
 atualizadoEm: 2026-11-06
