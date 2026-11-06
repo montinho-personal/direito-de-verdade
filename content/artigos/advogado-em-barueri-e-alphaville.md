@@ -4,7 +4,7 @@ tituloSeo: "Advogado em Barueri e Alphaville: como escolher e onde achar"
 descricao: "Advogado em Barueri e Alphaville: veja qual especialista procurar, como conferir o registro na OAB, quanto custa e onde há atendimento gratuito na região."
 categoria: ajuda-juridica
 publicadoEm: 2026-11-04
-atualizadoEm: 2026-11-05
+atualizadoEm: 2026-11-06
 faq:
   - pergunta: "Tem advogado gratuito em Barueri?"
     resposta: "Quem não pode pagar advogado pode procurar a Defensoria Pública do Estado de São Paulo, que tem convênio com a OAB-SP para atendimento por advogados em parte das áreas. Nas causas de até 20 salários mínimos no Juizado Especial Cível, e nas ações trabalhistas, também dá para entrar sem advogado."
@@ -42,7 +42,7 @@ Para achar um **advogado em Barueri ou em Alphaville**, comece pelo tipo de prob
 | divórcio, pensão, guarda, união estável, inventário | **advogado de família** ([guia da região](/artigos/advogado-de-familia-em-barueri-e-alphaville)) | [divórcio](/artigos/divorcio), [pensão alimentícia](/artigos/pensao-alimenticia), [inventário](/artigos/inventario) |
 | prisão, inquérito, processo criminal | **advogado criminalista** ([guia da região](/artigos/advogado-criminalista-em-barueri-e-alphaville)) | — |
 | compra com defeito, cobrança indevida, plano de saúde, banco | **advogado do consumidor** ([guia da região](/artigos/advogado-do-consumidor-em-barueri-e-alphaville)) | [como reclamar no Procon](/artigos/como-reclamar-procon), [calculadora de cobrança indevida](/calculadoras/cobranca-indevida), [simulador de compras online](/calculadoras/simulador-direitos-compras-online) |
-| aluguel, compra de imóvel, condomínio, usucapião | **advogado imobiliário** | [calculadora da multa do aluguel](/calculadoras/multa-rescisao-aluguel), [usucapião](/artigos/usucapiao), [fiador](/artigos/fiador) |
+| aluguel, compra de imóvel, condomínio, usucapião | **advogado imobiliário** ([guia da região](/artigos/advogado-imobiliario-em-barueri-e-alphaville)) | [calculadora da multa do aluguel](/calculadoras/multa-rescisao-aluguel), [usucapião](/artigos/usucapiao), [fiador](/artigos/fiador) |
 | multas, CNH suspensa | **advogado de trânsito** | [como recorrer de multa](/artigos/como-recorrer-de-multa-de-transito), [pontos na CNH](/artigos/pontos-na-cnh) |
 | contratos, dívidas, indenizações em geral | **advogado cível** | [calculadora de juros abusivos](/calculadoras/juros-abusivos) |
 

@@ -177,7 +177,8 @@ sem indicar escritório (ver doc da piloto). Piloto primeiro; as demais depois d
 | 4b | Advogado de família em Barueri e Alphaville | `advogado de família barueri` | **publicado em 05/11/2026; revisado com prints em 06/11/2026** — [doc](artigos/advogado-de-familia-em-barueri-e-alphaville.md) |
 | 4c | Advogado criminalista em Barueri e Alphaville | `advogado criminalista barueri` | **publicado em 05/11/2026; revisado com prints em 06/11/2026** — [doc](artigos/advogado-criminalista-em-barueri-e-alphaville.md) |
 | 4d | Advogado do consumidor em Barueri e Alphaville | `advogado do consumidor barueri` | **publicado em 05/11/2026; revisado com prints em 06/11/2026** — [doc](artigos/advogado-do-consumidor-em-barueri-e-alphaville.md) |
-| 4 | Demais áreas (imobiliário, trânsito, civil) para cada região, com as calculadoras que encaixam | `advogado <área> barueri` | aguardando prints, uma de cada vez |
+| 4e | Advogado imobiliário em Barueri e Alphaville | `advogado imobiliário barueri` | **publicado em 06/11/2026 (com prints)** — [doc](artigos/advogado-imobiliario-em-barueri-e-alphaville.md) |
+| 4 | Demais áreas (trânsito, civil) para cada região, com as calculadoras que encaixam | `advogado <área> barueri` | aguardando prints, uma de cada vez |
 
 ## Prints pendentes
 
