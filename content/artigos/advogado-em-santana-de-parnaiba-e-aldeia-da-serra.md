@@ -4,7 +4,7 @@ tituloSeo: "Advogado em Santana de Parnaíba: gratuito, fórum e golpes"
 descricao: "Advogado em Santana de Parnaíba e Aldeia da Serra: como achar pelo nome na OAB, onde há atendimento gratuito, endereços do fórum e como não cair em golpe."
 categoria: ajuda-juridica
 publicadoEm: 2026-11-04
-atualizadoEm: 2026-11-04
+atualizadoEm: 2026-11-06
 faq:
   - pergunta: "Tem advogado gratuito em Santana de Parnaíba?"
     resposta: "Quem não pode pagar pode procurar a Defensoria Pública do Estado de São Paulo, que tem convênio com a OAB-SP para atendimento por advogados em parte das áreas. Nas causas de até 20 salários mínimos no Juizado Especial Cível, e nas ações trabalhistas, dá para entrar sem advogado."
@@ -45,7 +45,7 @@ Para achar um **advogado em Santana de Parnaíba**, na **Aldeia da Serra** ou na
 
 | se o problema é | procure um advogado | entenda antes |
 | --- | --- | --- |
-| demissão, verbas, horas extras | **trabalhista** | [advogado trabalhista na região](/artigos/advogado-trabalhista-em-barueri-e-alphaville), [calculadora de rescisão](/calculadoras/rescisao) |
+| demissão, verbas, horas extras | **trabalhista** | [advogado trabalhista em Santana de Parnaíba](/artigos/advogado-trabalhista-em-santana-de-parnaiba), [calculadora de rescisão](/calculadoras/rescisao) |
 | aposentadoria, benefício do INSS negado | **previdenciário** | [como recorrer do benefício negado](/artigos/beneficio-inss-negado-como-recorrer) |
 | imóvel, aluguel, condomínio, usucapião | **imobiliário** | [usucapião](/artigos/usucapiao), [calculadora da multa do aluguel](/calculadoras/multa-rescisao-aluguel) |
 | prisão, inquérito, processo criminal | **criminalista** | — |
