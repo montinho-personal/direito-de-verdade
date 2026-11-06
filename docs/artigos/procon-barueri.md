@@ -8,13 +8,19 @@ Página de serviço público local (2ª rodada de SEO local, pedido do Renato em
 
 | print | conteúdo | onde entrou |
 |---|---|---|
-| — | **aguardando**: `procon barueri`; `procon barueri telefone`; `procon barueri agendamento` | revisar título, H2 e FAQ quando chegarem |
+| `procon barueri`, autocompletar (06/11/2026) | online · agendamento · agendamento online · telefone · sp · horário funcionamento · email | tituloSeo com telefone, horário e agendamento online; H2 do agendamento e do online |
+| `procon barueri telefone`, autocompletar | email · horário funcionamento | tabela de contato |
+| PAA (2 prints) | Tem como falar com o Procon pelo WhatsApp? · Como agendar um horário no Procon em Barueri? · Como devo fazer uma reclamação no Procon? · Quais os problemas que o Procon resolve? · Qual é o telefone do Procon de Barueri? | cinco H2 com as perguntas; WhatsApp: as páginas oficiais não citam |
+| "Outras pessoas pesquisaram" (3 prints) | Procon Carapicuíba, Jandira, Santana de Parnaíba, Osasco · agendamento Barueri · Procon reclamação · Procon online · Procon SP · Procon Ganha Tempo · "procon municipal barueri fotos" | FAQ e seção online: o Procon de Barueri exige residência em Barueri; outras cidades vão ao Procon-SP Digital ou ao consumidor.gov.br |
+| visão geral de IA | e-mails procon1 e gt.procon1; 8h–17h com presencial 8h–16h | não é fonte; gt.procon1 está numa notícia da Prefeitura de 2020 (canal de denúncias): fora, para não confundir |
 
 ## Ferramentas
 
 Simulador de direitos em compras online, dentro do texto.
 
 ## Fontes confirmadas (06/11/2026)
+
+- Ganha Tempo, serviço PROCON - Registro de Reclamações: canais eletrônicos (Procon-SP e consumidor.gov.br, resposta em até 15 dias); requisito de residir em Barueri com comprovante de até 90 dias; documentos impressos (RG/CPF ou CNH, vínculo com o fornecedor, 6 faturas do cartão, extrato de consignados do INSS e da conta, extrato SPC/Serasa de até 90 dias, procuração sem firma reconhecida); gratuito. Agendamento online do Ganha Tempo lista o serviço (setor amarelo). (oficial)
 
 | fato | fonte | tipo |
 |---|---|---|
@@ -27,7 +33,6 @@ Simulador de direitos em compras online, dentro do texto.
 ## Pendente
 
 - Horário: prefeitura diz 8h–17h; Procon-SP (2019) diz 8h–16h. A página dá o da prefeitura e manda ligar antes.
-- Agendamento online do Ganha Tempo: não conferido.
 
 ## Para medir
 
