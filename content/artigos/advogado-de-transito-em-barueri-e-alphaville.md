@@ -43,7 +43,7 @@ Nas **rodovias**, como a Castello Branco e o Rodoanel, as multas são de **outro
 4. **Entregue** pelo site da Prefeitura (consulta de multas e processos de recursos), no **Ganha Tempo**, pessoalmente ou pelos Correios no Protocolo da SEMURB: **Rua da Prata, 725, Jardim dos Camargos, CEP 06410-000**.
 5. **Acompanhe** pelos telefones (11) 4199-1414 ou (11) 4063-3181, ou pelo e-mail semurb.recurso@barueri.sp.gov.br. O resultado é enviado pelos Correios para o endereço do CRLV ([Prefeitura de Barueri](https://portal.barueri.sp.gov.br/secretarias/mobilidade-urbana/recurso-jari)).
 
-Os prazos de cada etapa, quando a multa cai sozinha e como escrever a defesa estão em [como recorrer de multa de trânsito](/artigos/como-recorrer-de-multa-de-transito).
+O passo a passo completo, com a segunda instância (Cetran) e como pedir o dinheiro de volta, está em [recurso de multa em Barueri](/artigos/recurso-de-multa-em-barueri). Os prazos de cada etapa, quando a multa cai sozinha e como escrever a defesa estão em [como recorrer de multa de trânsito](/artigos/como-recorrer-de-multa-de-transito).
 
 ## O que faz um advogado de trânsito?
 

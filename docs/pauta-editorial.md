@@ -200,7 +200,7 @@ Pedido do Renato em 06/11/2026: "Pode criar essas três, depois mando os prints.
 | ordem | página | buscas para printar | status |
 |---|---|---|---|
 | 1 | Procon Barueri | `procon barueri`; `procon barueri telefone`; `procon barueri agendamento` | **publicado em 06/11/2026 sem prints** — [doc](artigos/procon-barueri.md), `/artigos/procon-barueri` |
-| 2 | Recurso de multa em Barueri (SEMURB/JARI) | `multa semurb barueri`; `recurso multa barueri`; `jari barueri` | a fazer |
+| 2 | Recurso de multa em Barueri (SEMURB/JARI) | `multa semurb barueri`; `recurso multa barueri`; `jari barueri` | **publicado em 06/11/2026 sem prints** — [doc](artigos/recurso-de-multa-em-barueri.md), `/artigos/recurso-de-multa-em-barueri` |
 | 3 | Fórum Trabalhista de Barueri | `fórum trabalhista barueri`; `justiça do trabalho barueri telefone`; `vara do trabalho barueri` | a fazer |
 | 4 | Advogado de condomínio em Alphaville | `advogado condomínio alphaville`; `taxa associação alphaville`; `advogado condominial barueri` | a fazer |
 | 5 | Advogado de plano de saúde em Barueri e Alphaville | `advogado plano de saúde barueri`; `advogado plano de saúde alphaville` | a fazer |
