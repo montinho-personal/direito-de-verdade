@@ -162,6 +162,16 @@ Pedido do Renato em 04/11/2026 ("Pode criar os próximos dois artigos"), sem pri
 | 1 | Barulho do vizinho: o que diz a lei e o que fazer | último tema-base de Moradia | `barulho do vizinho`; `lei do silêncio horário`; `vizinho barulhento o que fazer` | **publicado em 04/11/2026 sem prints** — [doc](artigos/barulho-do-vizinho.md), `/artigos/barulho-do-vizinho` |
 | 2 | Demissão por justa causa: motivos, o que recebe e como contestar | fecha o grupo de rescisão | `justa causa`; `demissão por justa causa o que recebe`; `motivos de justa causa` | **publicado em 04/11/2026 sem prints** — [doc](artigos/demissao-por-justa-causa.md), `/artigos/demissao-por-justa-causa` |
 
+## Próximos três (pedidos em 06/11/2026)
+
+Pedido do Renato em 06/11/2026 ("Pode criar os três próximos artigos aí e vai anotando tudo que eu depois eu vou te mandando os prints do que falta"), sem prints. Um de cada vez; os prints entram depois, na revisão.
+
+| ordem | artigo | por que agora | buscas para printar | status |
+|---|---|---|---|---|
+| 1 | Estabilidade da gestante: até quando vai, demissão grávida e o que fazer | tema trabalhista de alta procura que faltava | `estabilidade gestante`; `demitida grávida o que fazer`; `grávida pode pedir demissão` | **publicado em 06/11/2026 sem prints** — [doc](artigos/estabilidade-da-gestante.md), `/artigos/estabilidade-da-gestante` |
+| 2 | Licença-maternidade | par da licença-paternidade | `licença maternidade`; `licença maternidade quantos dias`; `salário maternidade valor` | a fazer |
+| 3 | Faltas justificadas e atestado médico | dúvida diária de quem trabalha | `faltas justificadas clt`; `atestado médico empresa pode recusar`; `quantos dias de folga por falecimento` | a fazer |
+
 ## Páginas locais: advogado na região (pedido em 04/11/2026)
 
 Pedido do Renato: páginas para quem procura advogado em Barueri, Santana de Parnaíba, Aldeia
@@ -230,6 +240,7 @@ Lembrar o Renato desta lista a cada entrega.
 | Usucapião (`/artigos/usucapiao`), publicado em 03/11/2026 | Google: `usucapião`; `usucapião prazo`; `usucapião em cartório`; AnswerThePublic `usucapião` | **aguardando prints** |
 | Barulho do vizinho (`/artigos/barulho-do-vizinho`), publicado em 04/11/2026 | Google: `barulho do vizinho`; `lei do silêncio horário`; `vizinho barulhento o que fazer`; AnswerThePublic `barulho vizinho` | **aguardando prints** |
 | Demissão por justa causa (`/artigos/demissao-por-justa-causa`), publicado em 04/11/2026 | Google: `justa causa`; `demissão por justa causa o que recebe`; `motivos de justa causa`; AnswerThePublic `justa causa` | **aguardando prints** |
+| Estabilidade da gestante (`/artigos/estabilidade-da-gestante`), publicado em 06/11/2026 | Google: `estabilidade gestante`; `demitida grávida o que fazer`; `grávida pode pedir demissão`; AnswerThePublic `estabilidade gestante` | **aguardando prints** |
 | Calculadora de cobrança indevida (`/calculadoras/cobranca-indevida`), publicada em 26/10/2026 | Google: `calculadora cobrança indevida`; `devolução em dobro`; AnswerThePublic `cobrança indevida` | **aguardando prints** |
 | Simulador de direitos em compras online (`/calculadoras/simulador-direitos-compras-online`), publicado em 26/10/2026 | Google: `direitos em compras online`; `comprei pela internet e não recebi` | **prints e AnswerThePublic recebidos e página revisada em 27/10/2026** |
 | Calculadora de juros abusivos (`/calculadoras/juros-abusivos`), publicada em 27/10/2026 | Google: `calculadora de juros abusivos`; `como saber se juros são abusivos`; `taxa média banco central financiamento` | **aguardando prints** |
