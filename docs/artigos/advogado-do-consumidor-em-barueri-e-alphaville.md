@@ -11,7 +11,8 @@ apareceu nos prints recebidos até aqui (o consumidor entrou na tabela da págin
 
 | print | conteúdo | onde entrou |
 |---|---|---|
-| prints próprios de `advogado do consumidor barueri` | **ainda não recebidos** | revisar título, H2 e FAQ quando chegarem; conferir se a busca tem volume |
+| `advogado do consumidor barueri`, autocompletar (06/11/2026) | direito do consumidor barueri · vagas/concurso (fora: emprego) · trabalhista | "advogado de direito do consumidor" no lead |
+| PAA | Quanto cobra um advogado do consumidor? · Como conseguir um advogado gratuito em Barueri? · Quanto tempo demora um processo de direito do consumidor? · Quais são os 7 direitos de um consumidor? | quatro H2 novos; os "7 direitos" respondidos com o art. 6º do CDC (são mais de 7) |
 
 ## Ferramentas
 
@@ -28,7 +29,7 @@ calculadora de cobrança indevida e simulador de voo atrasado ou cancelado.
 
 ## Pendente
 
-- Prints do Google de `advogado do consumidor barueri`.
+- Tempo médio de processo: sem número oficial conferido; a página não dá prazo.
 - Endereço exato do JEC no Fórum de Barueri (o TJSP traz endereços diferentes).
 
 ## Para medir

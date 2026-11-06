@@ -13,7 +13,8 @@ pesquisaram" e "Encontre produtos e serviços" nos prints de `advogado em alphav
 | print | conteúdo | onde entrou |
 |---|---|---|
 | `advogado em alphaville` e `advogado trabalhista barueri`, "Outras pessoas pesquisaram"/"Encontre produtos" (04/11/2026) | advogado familiar barueri | existência da página |
-| prints próprios de `advogado de família barueri` | **ainda não recebidos** | revisar título, H2 e FAQ quando chegarem |
+| `advogado de familia barueri`, autocompletar (06/11/2026) | gratuito · gratuito online · família em barueri · familiar barueri | tituloSeo com "gratuito"; "familiar" no H2 do valor; nota sobre atendimento online (conferir no site da Defensoria) |
+| PAA | Qual o valor de um advogado familiar? · Onde conseguir advogado gratuito em Barueri? · O CRAS oferece advogado gratuito? · Como escolher um bom advogado em Direito de Família? | H2 do valor e do gratuito renomeados; H3 do CRAS (fonte: Prefeitura de SP); H2 novo "Como escolher" |
 
 ## Ferramentas
 
@@ -33,7 +34,6 @@ rendimentos líquidos usa o líquido como base (artigo de pensão, STJ Informati
 
 ## Pendente
 
-- Prints do Google de `advogado de família barueri`.
 - Endereço exato das varas de família do Fórum de Barueri (o TJSP traz endereços diferentes); a página diz "Vila Porto" e manda conferir.
 - Divórcio em cartório com filhos menores: há notícia de mudança em norma do CNJ, não conferida; a página fica na regra do CPC.
 

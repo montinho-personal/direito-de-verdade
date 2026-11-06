@@ -14,7 +14,9 @@ autocompletar de Santana.
 | print | conteúdo | onde entrou |
 |---|---|---|
 | prints de 04/11/2026 das outras páginas locais | criminalista barueri / alphaville / santana de parnaíba; "advogado preso em alphaville" (notícia) | existência da página. A notícia ficou de fora |
-| prints próprios de `advogado criminalista barueri` | **ainda não recebidos** | revisar título, H2 e FAQ quando chegarem |
+| `advogado criminalista barueri`, autocompletar (06/11/2026) | criminalista barueri · criminal barueri sp | — |
+| PAA | Qual o valor de um advogado criminalista? · Tem advogado criminalista de graça? · Como saber se um advogado criminalista é bom? · Como conseguir um advogado gratuito em Barueri? | H2 "Qual o valor", H2 "de graça" (renomeado), H2 novo "Como saber se é bom"; tituloSeo e descrição com valor e "de graça" |
+| visão geral de IA | lista escritórios (fora: não indicamos); direito ao silêncio; evitar promessas de "resolver rápido" com pagamentos informais; documentos úteis (pessoais, residência, trabalho, intimações e BO) | lista de documentos ampliada; item "desconfie de promessas fáceis" (não é fonte: só pauta) |
 
 ## Ferramentas
 
@@ -36,7 +38,6 @@ pontos na CNH (crimes de trânsito) e o golpe do falso advogado.
 
 ## Pendente
 
-- Prints do Google de `advogado criminalista barueri`.
 - Endereço das varas criminais do Fórum de Barueri e das delegacias: não conferidos; a página remete ao TJSP.
 - A redação de 2026 do art. 310 fala em audiência de custódia por videoconferência; a página não entra no formato.
 

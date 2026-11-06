@@ -1,10 +1,10 @@
 ---
 titulo: "Advogado de família em Barueri e Alphaville: divórcio, pensão, guarda e atendimento gratuito"
-tituloSeo: "Advogado de família em Barueri: divórcio, pensão e gratuito"
-descricao: "Advogado de família em Barueri e Alphaville: quando é obrigatório, onde há atendimento gratuito, a conciliação do fórum e o cálculo da pensão."
+tituloSeo: "Advogado de família em Barueri: gratuito, valor e divórcio"
+descricao: "Advogado de família em Barueri: onde conseguir gratuito, quanto cobra um advogado familiar, como escolher, a conciliação do fórum e o cálculo da pensão."
 categoria: ajuda-juridica
 publicadoEm: 2026-11-05
-atualizadoEm: 2026-11-05
+atualizadoEm: 2026-11-06
 faq:
   - pergunta: "Dá para fazer divórcio sem advogado?"
     resposta: "Não. Mesmo o divórcio consensual no cartório exige advogado ou defensor público, que assina a escritura (CPC, artigo 733, § 2º). Na Justiça, as partes também vão à audiência acompanhadas de advogado ou defensor (artigo 695, § 4º)."
@@ -23,6 +23,8 @@ fontes:
     url: "https://www.tjsp.jus.br/Download/Conciliacao/Nucleo/Enderecos_Cejusc.pdf"
   - nome: "TJSP: termo de convênio entre a Defensoria Pública e a OAB-SP (assistência judiciária)"
     url: "https://www.tjsp.jus.br/Download/SPI/Downloads/TermoConvenioDefensoriaOAB.pdf"
+  - nome: "Prefeitura de São Paulo: o que são o CRAS e o CREAS"
+    url: "https://prefeitura.sp.gov.br/assistencia_social/cras/"
   - nome: "TJSP: inaugurado novo fórum de Barueri"
     url: "https://www.tjsp.jus.br/Noticias/Noticia?codigoNoticia=56448"
 ---
@@ -46,15 +48,28 @@ O **advogado de família em Barueri e Alphaville** cuida de divórcio, pensão a
 - **No cartório:** o divórcio (e o fim da união estável) **consensual**, sem nascituro nem filhos incapazes, pode ser feito por **escritura pública**, que vale sem passar por juiz. O tabelião só faz a escritura se o casal estiver assistido por **advogado ou defensor público** (CPC, artigo 733, §§ 1º e 2º).
 - **Na Justiça:** é o caminho quando não há acordo ou quando há filhos menores ou incapazes. A lei manda buscar a **solução consensual** nas ações de família, e as partes vão à audiência de mediação **com advogado ou defensor** (CPC, artigos 694 e 695, § 4º).
 
-## Tem advogado de família gratuito em Barueri?
+## Onde conseguir advogado de família gratuito em Barueri?
 
 - **Defensoria Pública do Estado de São Paulo:** atende quem não pode pagar advogado, e a área de família está entre as cobertas pelo **convênio com a OAB-SP**, pelo qual advogados particulares atendem de forma suplementar, pagos pelo Estado ([termo de convênio, TJSP](https://www.tjsp.jus.br/Download/SPI/Downloads/TermoConvenioDefensoriaOAB.pdf)). Confira o atendimento e o critério de renda no site da Defensoria (defensoria.sp.def.br).
 - **Gratuidade da justiça:** quem não pode pagar custas e honorários tem direito a ela (CPC, artigo 98). Peça na própria ação.
 - **CEJUSC de Barueri:** atende casos **pré-processuais de família e cíveis**, para tentar um acordo antes de existir processo (endereço abaixo).
 
-## Quanto custa um advogado de família?
+Quem busca atendimento **gratuito online** deve conferir no site da Defensoria os canais de atendimento disponíveis antes de ir a uma unidade.
+
+### O CRAS oferece advogado gratuito?
+
+O **CRAS** é a porta de entrada da **assistência social** do município: oferece serviços, programas e benefícios da proteção social básica, como o acompanhamento de famílias ([Prefeitura de São Paulo](https://prefeitura.sp.gov.br/assistencia_social/cras/)). Ele não é um serviço de advocacia. Para assistência jurídica gratuita em família, o caminho é a **Defensoria Pública**.
+
+## Qual o valor de um advogado familiar?
 
 Não há preço fixo por lei. A **OAB-SP publica uma tabela de honorários** que serve de referência para divórcio, alimentos, guarda e inventário. Em geral, o **consensual** custa menos que o **litigioso**, e o inventário costuma ser cobrado em **porcentagem do valor dos bens**. No divórcio e no inventário em cartório, há ainda as **taxas do cartório** e, na herança, o **ITCMD**. Peça o orçamento e o contrato **por escrito**.
+
+## Como escolher um bom advogado de direito de família?
+
+1. **Confira o registro** no Cadastro Nacional dos Advogados (cna.oab.org.br).
+2. **Pergunte sobre a experiência** em casos como o seu: divórcio com partilha, guarda, pensão, inventário.
+3. **Veja se ele tenta o acordo primeiro**: a lei manda buscar a solução consensual nas ações de família (CPC, artigo 694), e o acordo costuma ser mais rápido e mais barato.
+4. **Peça contrato por escrito** e desconfie de quem garante o resultado.
 
 ## Pensão: quanto é o salário líquido de quem paga?
 

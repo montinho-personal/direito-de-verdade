@@ -1,10 +1,10 @@
 ---
 titulo: "Advogado do consumidor em Barueri e Alphaville: Procon, Juizado sem advogado e quando contratar"
-tituloSeo: "Advogado do consumidor em Barueri: Procon e Juizado"
-descricao: "Advogado do consumidor em Barueri e Alphaville: muito caso com loja e banco se resolve no Procon ou no Juizado sem advogado. Veja quando contratar e simule."
+tituloSeo: "Advogado do consumidor em Barueri: quanto cobra e gratuito"
+descricao: "Advogado do consumidor em Barueri: quanto cobra, como conseguir de graça, quanto demora o processo e quando o Procon ou o Juizado resolvem sem advogado."
 categoria: ajuda-juridica
 publicadoEm: 2026-11-05
-atualizadoEm: 2026-11-05
+atualizadoEm: 2026-11-06
 faq:
   - pergunta: "Onde fica o Procon de Barueri?"
     resposta: "No Ganha Tempo Municipal, na Avenida Henriqueta Mendes Guerra, 550, Centro. Telefone (11) 4199-1324, de segunda a sexta, das 8h às 17h. Leve notas fiscais, contratos, comprovantes e protocolos."
@@ -23,11 +23,15 @@ fontes:
     url: "https://www.planalto.gov.br/ccivil_03/leis/l9099.htm"
   - nome: "Código de Defesa do Consumidor (Lei nº 8.078/1990), Planalto"
     url: "https://www.planalto.gov.br/ccivil_03/leis/l8078compilado.htm"
+  - nome: "Código de Defesa do Consumidor, artigo 6º, texto atualizado (Câmara dos Deputados)"
+    url: "https://www2.camara.leg.br/legin/fed/lei/1990/lei-8078-11-setembro-1990-365086-normaatualizada-pl.html"
+  - nome: "TJSP: termo de convênio entre a Defensoria Pública e a OAB-SP (assistência judiciária)"
+    url: "https://www.tjsp.jus.br/Download/SPI/Downloads/TermoConvenioDefensoriaOAB.pdf"
   - nome: "TJSP: inaugurado novo fórum de Barueri"
     url: "https://www.tjsp.jus.br/Noticias/Noticia?codigoNoticia=56448"
 ---
 
-O **advogado do consumidor em Barueri e Alphaville** cuida de problemas com lojas, bancos, planos de saúde, companhias aéreas e prestadores de serviço. Mas boa parte desses casos se resolve **sem advogado**: a reclamação no **Procon de Barueri**, no Ganha Tempo, e no **consumidor.gov.br** é gratuita, e o **Juizado Especial Cível** aceita causas de até **20 salários mínimos** sem advogado ([Lei 9.099/1995](https://www.planalto.gov.br/ccivil_03/leis/l9099.htm)). O advogado faz diferença nos casos maiores, mais complexos ou com dano grave. Este site não indica escritórios.
+O **advogado do consumidor em Barueri e Alphaville**, ou advogado de direito do consumidor, cuida de problemas com lojas, bancos, planos de saúde, companhias aéreas e prestadores de serviço. Mas boa parte desses casos se resolve **sem advogado**: a reclamação no **Procon de Barueri**, no Ganha Tempo, e no **consumidor.gov.br** é gratuita, e o **Juizado Especial Cível** aceita causas de até **20 salários mínimos** sem advogado ([Lei 9.099/1995](https://www.planalto.gov.br/ccivil_03/leis/l9099.htm)). O advogado faz diferença nos casos maiores, mais complexos ou com dano grave. Este site não indica escritórios.
 
 ## Preciso de advogado ou resolvo sozinho?
 
@@ -70,9 +74,34 @@ O passo a passo completo está em [como reclamar no Procon](/artigos/como-reclam
 
 Serviços **bancários, financeiros, de crédito e de seguro** também estão no Código de Defesa do Consumidor ([CDC, artigo 3º, § 2º](https://www.planalto.gov.br/ccivil_03/leis/l8078compilado.htm)).
 
-### Quanto custa?
+## Quanto cobra um advogado do consumidor?
 
 Não há preço fixo por lei. A **OAB-SP publica uma tabela de honorários** que serve de referência, e em ações de indenização é comum o advogado cobrar uma **porcentagem do que for ganho**. Combine tudo **por escrito** e desconfie de quem garante o valor da indenização.
+
+## Como conseguir um advogado gratuito em Barueri?
+
+- **Defensoria Pública do Estado de São Paulo:** atende quem não pode pagar advogado, e as causas de consumo estão entre as cobertas pelo **convênio com a OAB-SP**, que exclui só as áreas trabalhista, previdenciária, eleitoral e administrativa ([termo de convênio, TJSP](https://www.tjsp.jus.br/Download/SPI/Downloads/TermoConvenioDefensoriaOAB.pdf)). Confira o atendimento no site da Defensoria (defensoria.sp.def.br).
+- **Sem advogado:** o Procon e o consumidor.gov.br são gratuitos, e o Juizado Especial Cível aceita causas de até 20 salários mínimos sem advogado.
+
+## Quanto tempo demora um processo de direito do consumidor?
+
+Não há prazo fixo: depende da vara, das provas e dos recursos. O **Juizado Especial Cível** foi feito para ser mais simples e rápido, com o processo guiado pela **simplicidade e celeridade** e buscando o **acordo** sempre que possível ([Lei 9.099/1995, artigo 2º](https://www.planalto.gov.br/ccivil_03/leis/l9099.htm)). A primeira etapa é uma **audiência de conciliação**: muitas empresas fazem acordo ali. Antes do processo, a reclamação no **Procon** ou no **consumidor.gov.br** costuma ter resposta mais rápida.
+
+## Quais são os direitos básicos do consumidor?
+
+Não são 7: o Código de Defesa do Consumidor lista os direitos básicos no artigo 6º, em vários incisos ([CDC](https://www2.camara.leg.br/legin/fed/lei/1990/lei-8078-11-setembro-1990-365086-normaatualizada-pl.html)). Os principais:
+
+1. **proteção da vida, da saúde e da segurança** contra produtos e serviços perigosos;
+2. **educação para o consumo**, com liberdade de escolha e igualdade nas contratações;
+3. **informação clara** sobre o produto ou serviço, inclusive preço, tributos e riscos;
+4. **proteção contra publicidade enganosa ou abusiva** e contra práticas e cláusulas abusivas;
+5. **revisão de cláusulas** desproporcionais ou que se tornaram excessivamente onerosas;
+6. **prevenção e reparação de danos**, materiais e morais;
+7. **acesso à Justiça e aos órgãos administrativos**, com proteção aos necessitados;
+8. **facilitação da defesa**, inclusive com a **inversão do ônus da prova** quando o juiz entender cabível;
+9. **serviços públicos** adequados e eficazes;
+10. **crédito responsável** e tratamento do **superendividamento**, preservado o mínimo existencial;
+11. **preço por unidade de medida**, como por quilo ou por litro.
 
 ## Juizado Especial Cível de Barueri
 

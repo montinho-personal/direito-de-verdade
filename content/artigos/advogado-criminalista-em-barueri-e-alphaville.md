@@ -1,10 +1,10 @@
 ---
 titulo: "Advogado criminalista em Barueri e Alphaville: prisão, delegacia e defesa gratuita"
-tituloSeo: "Advogado criminalista em Barueri: prisão e defesa gratuita"
-descricao: "Advogado criminalista em Barueri e Alphaville: o que fazer se alguém for preso, quando ir à delegacia com advogado, defesa gratuita e como a vítima pode atuar."
+tituloSeo: "Advogado criminalista em Barueri: valor e defesa de graça"
+descricao: "Advogado criminalista em Barueri e Alphaville: o que fazer se alguém for preso, onde há defesa de graça, quanto custa e como saber se o advogado é bom."
 categoria: ajuda-juridica
 publicadoEm: 2026-11-05
-atualizadoEm: 2026-11-05
+atualizadoEm: 2026-11-06
 faq:
   - pergunta: "Quem foi preso tem direito a advogado?"
     resposta: "Tem. O preso deve ser informado dos seus direitos, entre eles o de ficar calado, e tem assegurada a assistência da família e de advogado (Constituição, artigo 5º, LXIII). Se não tiver advogado, a Defensoria Pública recebe cópia do auto de prisão em flagrante em até 24 horas (CPP, artigo 306, § 1º)."
@@ -38,7 +38,7 @@ O **advogado criminalista em Barueri e Alphaville** defende quem foi preso, inve
 1. **Descubra onde a pessoa está.** A prisão e o local têm de ser comunicados ao juiz e à **família do preso** ou a quem ele indicar (Constituição, artigo 5º, LXII; CPP, artigo 306).
 2. **Oriente a pessoa a usar o direito de ficar calado** até falar com um advogado ou defensor.
 3. **Procure um advogado criminalista ou a Defensoria Pública.** Se o preso não indicar advogado, a Defensoria recebe cópia do auto de prisão em flagrante em até 24 horas (CPP, artigo 306, § 1º).
-4. **Junte documentos** que ajudam na audiência de custódia: comprovante de endereço, de trabalho ou estudo, e documentos de filhos ou dependentes.
+4. **Junte documentos** que ajudam na audiência de custódia: documentos pessoais do preso, comprovante de endereço, de trabalho ou estudo, documentos de filhos ou dependentes e cópias de intimações ou boletins de ocorrência.
 5. **Acompanhe a audiência de custódia**, que deve ocorrer em até 24 horas da prisão. Nela, o juiz pode **relaxar** a prisão ilegal, convertê-la em **preventiva** ou conceder **liberdade provisória** (CPP, artigo 310).
 
 **Cuidado com o golpe do falso advogado:** criminosos usam dados reais de processos para pedir **Pix** à família. Confirme a identidade do advogado pelo **ConfirmADV** da OAB antes de pagar qualquer coisa ([CNJ](https://www.cnj.jus.br/cnj-apoia-campanha-da-oab-para-evitar-golpes-aplicados-por-falsos-advogados/)).
@@ -47,7 +47,7 @@ O **advogado criminalista em Barueri e Alphaville** defende quem foi preso, inve
 
 Não é obrigatório, mas é um direito: o advogado pode **acompanhar o cliente investigado** durante a investigação, e o interrogatório feito sem permitir essa assistência é nulo ([Estatuto da Advocacia, artigo 7º, XXI](https://www2.camara.leg.br/legin/fed/lei/1994/lei-8906-4-julho-1994-349751-normaatualizada-pl.html)). Se você é suspeito, vá acompanhado. Se é testemunha, leve a intimação e documentos, e fale a verdade sobre o que sabe.
 
-## Tem advogado criminalista gratuito em Barueri?
+## Tem advogado criminalista de graça em Barueri?
 
 - **Defensoria Pública do Estado de São Paulo:** atende quem não pode pagar advogado, e a área criminal está entre as cobertas pelo **convênio com a OAB-SP**, pelo qual advogados particulares atendem de forma suplementar ([termo de convênio, TJSP](https://www.tjsp.jus.br/Download/SPI/Downloads/TermoConvenioDefensoriaOAB.pdf)). Confira o atendimento no site da Defensoria (defensoria.sp.def.br).
 - **Defensor nomeado pelo juiz:** quem responde a processo sem advogado recebe um defensor nomeado e pode trocar por um de sua confiança a qualquer momento. Quem não é pobre paga os honorários fixados pelo juiz (CPP, artigo 263).
@@ -56,9 +56,16 @@ Não é obrigatório, mas é um direito: o advogado pode **acompanhar o cliente 
 
 O **boletim de ocorrência** pode ser registrado sem advogado, na delegacia ou pela delegacia eletrônica. No processo, quem acusa é o **Ministério Público**, mas a vítima pode atuar ao lado dele como **assistente de acusação**, propondo provas e perguntas, com advogado (CPP, artigo 268). O advogado também pode pedir **indenização** pelos danos na Justiça cível.
 
-## Quanto custa um advogado criminalista?
+## Qual o valor de um advogado criminalista?
 
-Não há preço fixo por lei. A **OAB-SP publica uma tabela de honorários** que serve de referência por fase: acompanhamento na delegacia, audiência de custódia, pedido de liberdade, defesa no processo, júri e recursos. Combine **por escrito** o que está incluído em cada fase e desconfie de quem **garante a soltura** ou o resultado.
+Não há preço fixo por lei. A **OAB-SP publica uma tabela de honorários** que serve de referência por fase: acompanhamento na delegacia, audiência de custódia, pedido de liberdade, defesa no processo, júri e recursos. Por isso, o valor muda muito de um caso para outro. Combine **por escrito** o que está incluído em cada fase e se há cobrança à parte por recursos ou plantão.
+
+## Como saber se um advogado criminalista é bom?
+
+1. **Confira o registro** no Cadastro Nacional dos Advogados (cna.oab.org.br) e, se o contato veio por mensagem, a identidade pelo **ConfirmADV** da OAB.
+2. **Pergunte sobre a experiência na área criminal**: casos parecidos, júri, audiências de custódia e se atende em plantão, nos fins de semana.
+3. **Peça contrato por escrito**, com o que cada fase inclui.
+4. **Desconfie de promessas fáceis**: quem garante a soltura ou o resultado, ou pede pagamentos informais para "resolver rápido", por Pix em nome de terceiros.
 
 ## Onde fica a Justiça criminal em Barueri?
 
