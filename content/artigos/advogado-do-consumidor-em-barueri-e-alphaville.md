@@ -67,7 +67,7 @@ O passo a passo completo está em [como reclamar no Procon](/artigos/como-reclam
 
 ## Quando vale contratar um advogado do consumidor?
 
-- **Plano de saúde** que negou cirurgia, internação ou tratamento urgente: veja [plano de saúde negou cobertura](/artigos/plano-de-saude-negou-cobertura).
+- **Plano de saúde** que negou cirurgia, internação ou tratamento urgente: veja [advogado de plano de saúde em Barueri e Alphaville](/artigos/advogado-de-plano-de-saude-em-barueri-e-alphaville) e [plano de saúde negou cobertura](/artigos/plano-de-saude-negou-cobertura).
 - **Banco** com fraude, empréstimo não contratado ou juros abusivos de valor alto.
 - **Imóvel na planta**, construtora ou contrato de valor alto.
 - **Danos graves**, como acidente de consumo ou negativação indevida com prejuízo sério.

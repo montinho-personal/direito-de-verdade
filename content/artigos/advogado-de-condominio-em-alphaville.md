@@ -1,7 +1,7 @@
 ---
 titulo: "Advogado de condomínio em Alphaville: taxa, multas, associação de moradores e conflitos com vizinhos"
 tituloSeo: "Advogado de condomínio em Alphaville: taxa e associação"
-descricao: "Advogado de condomínio em Alphaville, Barueri e Santana de Parnaíba: quando a taxa da associação é devida, multas, dívida de condomínio e onde resolver sem processo."
+descricao: "Advogado de condomínio em Alphaville, Barueri e Santana de Parnaíba: quando a taxa da associação é devida, multas, dívida de condomínio e acordo sem processo."
 categoria: ajuda-juridica
 publicadoEm: 2026-11-06
 atualizadoEm: 2026-11-06
