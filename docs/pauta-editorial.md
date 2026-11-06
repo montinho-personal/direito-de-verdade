@@ -204,7 +204,7 @@ Pedido do Renato em 06/11/2026: "Pode criar essas três, depois mando os prints.
 | 3 | Fórum Trabalhista de Barueri | `fórum trabalhista barueri`; `justiça do trabalho barueri telefone`; `vara do trabalho barueri` | **publicado em 06/11/2026 sem prints** — [doc](artigos/forum-trabalhista-de-barueri.md), `/artigos/forum-trabalhista-de-barueri` |
 | 4 | Advogado de condomínio em Alphaville | `advogado condomínio alphaville`; `taxa associação alphaville`; `advogado condominial barueri` | **publicado em 06/11/2026 sem prints** — [doc](artigos/advogado-de-condominio-em-alphaville.md), `/artigos/advogado-de-condominio-em-alphaville` |
 | 5 | Advogado de plano de saúde em Barueri e Alphaville | `advogado plano de saúde barueri`; `advogado plano de saúde alphaville` | **publicado em 06/11/2026 sem prints** — [doc](artigos/advogado-de-plano-de-saude-em-barueri-e-alphaville.md), `/artigos/advogado-de-plano-de-saude-em-barueri-e-alphaville` |
-| 6 | Advogado de inventário em Alphaville e Barueri | `advogado inventário barueri`; `advogado inventário alphaville` | a fazer |
+| 6 | Advogado de inventário em Alphaville e Barueri | `advogado inventário barueri`; `advogado inventário alphaville`; `multa itcmd sp atraso inventário` | **publicado em 06/11/2026 sem prints** — [doc](artigos/advogado-de-inventario-em-alphaville-e-barueri.md), `/artigos/advogado-de-inventario-em-alphaville-e-barueri` |
 
 ## Prints pendentes
 

@@ -69,6 +69,8 @@ Não há preço fixo por lei. A **OAB-SP publica uma tabela de honorários** que
 
 ## Endereços da Justiça em Barueri e Alphaville
 
+Guias de cada serviço: [Procon Barueri](/artigos/procon-barueri), [Fórum Trabalhista de Barueri](/artigos/forum-trabalhista-de-barueri) e [recurso de multa em Barueri](/artigos/recurso-de-multa-em-barueri). Outros temas na região: [condomínio e associação de moradores em Alphaville](/artigos/advogado-de-condominio-em-alphaville), [plano de saúde](/artigos/advogado-de-plano-de-saude-em-barueri-e-alphaville) e [inventário](/artigos/advogado-de-inventario-em-alphaville-e-barueri).
+
 | onde | endereço e contato |
 | --- | --- |
 | **Fórum Trabalhista de Barueri** (1ª a 5ª Varas do Trabalho) | Alameda Araguaia, 2096, Alphaville Industrial, Barueri. Telefones: (11) 3468-7205, 3468-7207, 3468-7209, 3468-7211 e 3468-7213; CEJUSC-JT (conciliação), (11) 3468-7217, 4º andar ([TRT-2](https://ww2.trt2.jus.br/contato/telefones-e-enderecos/varas-do-trabalho-da-grande-sao-paulo-e-baixada-santista)) |

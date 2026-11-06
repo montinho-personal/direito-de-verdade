@@ -39,7 +39,7 @@ O **advogado de família em Barueri e Alphaville** cuida de divórcio, pensão a
 | pensão | pedido, revisão, exoneração e cobrança de pensão atrasada | [pensão alimentícia](/artigos/pensao-alimenticia), [pensão sobre o 13º](/artigos/pensao-alimenticia-13-salario) |
 | filhos | guarda, convivência (visitas) | — |
 | união estável | reconhecimento, dissolução e partilha | [união estável](/artigos/uniao-estavel) |
-| herança | inventário no cartório ou na Justiça | [inventário](/artigos/inventario) |
+| herança | inventário no cartório ou na Justiça | [advogado de inventário em Alphaville e Barueri](/artigos/advogado-de-inventario-em-alphaville-e-barueri), [inventário](/artigos/inventario) |
 
 ## Divórcio precisa de advogado?
 
