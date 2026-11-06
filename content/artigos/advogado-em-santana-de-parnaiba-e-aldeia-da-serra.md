@@ -48,7 +48,7 @@ Para achar um **advogado em Santana de Parnaíba**, na **Aldeia da Serra** ou na
 | demissão, verbas, horas extras | **trabalhista** | [advogado trabalhista em Santana de Parnaíba](/artigos/advogado-trabalhista-em-santana-de-parnaiba), [calculadora de rescisão](/calculadoras/rescisao) |
 | aposentadoria, benefício do INSS negado | **previdenciário** | [como recorrer do benefício negado](/artigos/beneficio-inss-negado-como-recorrer) |
 | imóvel, aluguel, condomínio, usucapião | **imobiliário** | [usucapião](/artigos/usucapiao), [calculadora da multa do aluguel](/calculadoras/multa-rescisao-aluguel) |
-| prisão, inquérito, processo criminal | **criminalista** | — |
+| prisão, inquérito, processo criminal, violência doméstica | **criminalista** | [advogado criminalista em Santana de Parnaíba](/artigos/advogado-criminalista-em-santana-de-parnaiba) |
 | divórcio, pensão, inventário | **de família** | [divórcio](/artigos/divorcio), [inventário](/artigos/inventario) |
 | contratos, dívidas, cobranças, indenizações | **cível** | [cobrança indevida](/artigos/cobranca-indevida), [calculadora de juros abusivos](/calculadoras/juros-abusivos) |
 
