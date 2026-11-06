@@ -17,6 +17,8 @@ faq:
   - pergunta: "Tem advogado gratuito para processar o plano de saúde em Barueri?"
     resposta: "A Defensoria Pública atende quem não pode pagar advogado, e as causas de consumo estão no convênio dela com a OAB-SP. Nas causas de até 20 salários mínimos, o Juizado Especial Cível aceita a ação sem advogado."
 fontes:
+  - nome: "Prefeitura de Barueri, Ganha Tempo: OAB, assistência judiciária gratuita (renda até 3 salários mínimos)"
+    url: "https://www.barueri.sp.gov.br/ganhatempo/Servicos.aspx?setor=verde&servico=663"
   - nome: "Lei nº 9.656/1998 (planos de saúde), artigos 10, 11, 12 e 35-C (Câmara dos Deputados)"
     url: "https://www2.camara.leg.br/legin/fed/lei/1998/lei-9656-3-junho-1998-353439-normaatualizada-pl.html"
   - nome: "STF: critérios para cobertura de tratamentos fora do rol da ANS, ADI 7265 (notícia de 18/09/2025)"
@@ -70,6 +72,7 @@ Não há preço fixo por lei. A **OAB-SP publica uma tabela de honorários** que
 
 ## Advogado gratuito em Barueri
 
+- **Assistência judiciária gratuita da OAB no Ganha Tempo de Barueri:** atendimento jurídico **gratuito** para quem tem **renda familiar de até 3 salários mínimos**, com **agendamento** (as vagas do dia são liberadas das 8h30 às 10h45), de segunda a sexta, na Avenida Henriqueta Mendes Guerra, 550, Centro. Telefones (11) 4199-1323, 4199-1320 ou 4199-1333 (ramais 190, 204 ou 144); e-mail ganhatempo@oabbarueri.org.br; dúvidas pelo WhatsApp oficial da OAB, 9-3747-5791, opção 1 ([Prefeitura de Barueri](https://www.barueri.sp.gov.br/ganhatempo/Servicos.aspx?setor=verde&servico=663)). Confirme no agendamento se o seu tipo de caso é atendido.
 - **Defensoria Pública do Estado de São Paulo:** atende quem não pode pagar advogado, e as causas de consumo estão entre as cobertas pelo **convênio com a OAB-SP** ([termo de convênio, TJSP](https://www.tjsp.jus.br/Download/SPI/Downloads/TermoConvenioDefensoriaOAB.pdf)). Em urgência, diga isso logo no primeiro atendimento.
 - **Juizado Especial Cível:** no Fórum de Barueri, na Vila Porto, causas de até **20 salários mínimos sem advogado**.
 

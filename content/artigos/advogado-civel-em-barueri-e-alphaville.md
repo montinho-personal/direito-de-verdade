@@ -17,6 +17,8 @@ faq:
   - pergunta: "Moro em Jandira ou Santana de Parnaíba. Uso o fórum de Barueri?"
     resposta: "Depende da comarca do seu endereço. Santana de Parnaíba tem fórum próprio (veja os endereços na página da cidade); para Jandira e outras cidades, confira no site do TJSP qual fórum atende o seu endereço."
 fontes:
+  - nome: "Prefeitura de Barueri, Ganha Tempo: OAB, assistência judiciária gratuita (renda até 3 salários mínimos)"
+    url: "https://www.barueri.sp.gov.br/ganhatempo/Servicos.aspx?setor=verde&servico=663"
   - nome: "Código Civil, artigos 205, 206 e 927, texto atualizado (Câmara dos Deputados)"
     url: "https://www2.camara.leg.br/legin/fed/lei/2002/lei-10406-10-janeiro-2002-432893-normaatualizada-pl.html"
   - nome: "Lei nº 9.099/1995 (Juizados Especiais), texto atualizado (Câmara dos Deputados)"
@@ -70,6 +72,7 @@ Não há preço fixo por lei. A **OAB-SP publica uma tabela de honorários** que
 
 ## Como conseguir um advogado gratuito em Barueri?
 
+- **Assistência judiciária gratuita da OAB no Ganha Tempo de Barueri:** atendimento jurídico **gratuito** para quem tem **renda familiar de até 3 salários mínimos**, com **agendamento** (as vagas do dia são liberadas das 8h30 às 10h45), de segunda a sexta, na Avenida Henriqueta Mendes Guerra, 550, Centro. Telefones (11) 4199-1323, 4199-1320 ou 4199-1333 (ramais 190, 204 ou 144); e-mail ganhatempo@oabbarueri.org.br; dúvidas pelo WhatsApp oficial da OAB, 9-3747-5791, opção 1 ([Prefeitura de Barueri](https://www.barueri.sp.gov.br/ganhatempo/Servicos.aspx?setor=verde&servico=663)). Confirme no agendamento se o seu tipo de caso é atendido.
 - **Defensoria Pública do Estado de São Paulo:** atende quem não pode pagar advogado, e as causas cíveis estão entre as cobertas pelo **convênio com a OAB-SP**, que exclui só as áreas trabalhista, previdenciária, eleitoral e administrativa ([termo de convênio, TJSP](https://www.tjsp.jus.br/Download/SPI/Downloads/TermoConvenioDefensoriaOAB.pdf)). Confira o atendimento no site da Defensoria (defensoria.sp.def.br).
 - **Juizado Especial Cível:** causas de até **20 salários mínimos sem advogado**, no Fórum de Barueri, na Vila Porto.
 - **CEJUSC de Barueri:** tenta um **acordo antes do processo** em casos cíveis e de família. Rua Ministro Raphael de Barros Monteiro, 110, Jardim dos Camargos; (11) 3164-1036; cejusc.barueri@tjsp.jus.br; das 9h às 17h ([TJSP](https://www.tjsp.jus.br/Download/Conciliacao/Nucleo/Enderecos_Cejusc.pdf)).

@@ -17,6 +17,8 @@ faq:
   - pergunta: "Comprei imóvel na planta e quero desistir. Quem ajuda?"
     resposta: "A compra de imóvel na planta de uma construtora é relação de consumo: dá para reclamar no Procon e, se não resolver, ir à Justiça. Como os valores costumam ser altos, vale a orientação de um advogado ou da Defensoria."
 fontes:
+  - nome: "Prefeitura de Barueri, Ganha Tempo: OAB, assistência judiciária gratuita (renda até 3 salários mínimos)"
+    url: "https://www.barueri.sp.gov.br/ganhatempo/Servicos.aspx?setor=verde&servico=663"
   - nome: "Código Civil, artigos 108 e 1.245, texto atualizado (Câmara dos Deputados)"
     url: "https://www2.camara.leg.br/legin/fed/lei/2002/lei-10406-10-janeiro-2002-432893-normaatualizada-pl.html"
   - nome: "Lei nº 9.099/1995 (Juizados Especiais), artigo 3º, texto atualizado (Câmara dos Deputados)"
@@ -56,6 +58,7 @@ Um dos casos mais comuns é o inquilino que quer **sair antes do fim do contrato
 
 ## Como conseguir um advogado imobiliário gratuito?
 
+- **Assistência judiciária gratuita da OAB no Ganha Tempo de Barueri:** atendimento jurídico **gratuito** para quem tem **renda familiar de até 3 salários mínimos**, com **agendamento** (as vagas do dia são liberadas das 8h30 às 10h45), de segunda a sexta, na Avenida Henriqueta Mendes Guerra, 550, Centro. Telefones (11) 4199-1323, 4199-1320 ou 4199-1333 (ramais 190, 204 ou 144); e-mail ganhatempo@oabbarueri.org.br; dúvidas pelo WhatsApp oficial da OAB, 9-3747-5791, opção 1 ([Prefeitura de Barueri](https://www.barueri.sp.gov.br/ganhatempo/Servicos.aspx?setor=verde&servico=663)). Confirme no agendamento se o seu tipo de caso é atendido.
 - **Defensoria Pública do Estado de São Paulo:** atende quem não pode pagar advogado, e as questões de moradia estão entre as cobertas pelo **convênio com a OAB-SP**, que exclui só as áreas trabalhista, previdenciária, eleitoral e administrativa ([termo de convênio, TJSP](https://www.tjsp.jus.br/Download/SPI/Downloads/TermoConvenioDefensoriaOAB.pdf)). Confira o atendimento no site da Defensoria (defensoria.sp.def.br).
 - **Juizado Especial Cível, sem advogado até 20 salários mínimos:** julga causas de menor valor, a **ação de despejo para uso próprio** e as **ações possessórias** de imóveis de valor até 40 salários mínimos ([Lei 9.099/1995, artigo 3º](https://www2.camara.leg.br/legin/fed/lei/1995/lei-9099-26-setembro-1995-348608-normaatualizada-pl.html)).
 - **Procon:** para problemas com **construtora** e **imobiliária**, que são relação de consumo. Veja o [advogado do consumidor na região](/artigos/advogado-do-consumidor-em-barueri-e-alphaville).

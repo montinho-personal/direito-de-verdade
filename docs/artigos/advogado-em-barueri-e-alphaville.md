@@ -41,6 +41,10 @@ Alphaville; o formato vai ser conferido pelo Renato antes das próximas.
 | CNA em cna.oab.org.br | guias e notícias (TJCE recomenda o CNA) | 2 veículos |
 | Publicidade informativa e sóbria | Provimento 205/2021, art. 3º (resumos de OAB-SP e outros) | oficial |
 
+## Atualização de 06/11/2026
+
+- **Advogado gratuito em Barueri:** a página do Ganha Tempo (Prefeitura de Barueri, serviço "OAB", setor verde) informa assistência judiciária gratuita da OAB para renda familiar de até 3 SM, com agendamento (vagas das 8h30 às 10h45), seg. a sex. 8h–17h, telefones 4199-1323/4199-1320/4199-1333 (ramais 190, 204, 144), ganhatempo@oabbarueri.org.br, WhatsApp da OAB 9-3747-5791 opção 1. Entrou nesta página (FAQ e seção do gratuito) e nas páginas de família, criminalista, consumidor, imobiliário, cível, trânsito, plano de saúde, inventário e condomínio. Não entrou em trabalhista e previdenciário (o convênio Defensoria–OAB exclui essas áreas); o texto manda confirmar no agendamento se o caso é atendido.
+
 ## Pendente
 
 - **Endereço do Juizado Especial Cível e das varas do Fórum de Barueri:** o TJSP lista endereços diferentes (Rua Des. Celso Luiz Limongi, 84; Av. Henriqueta Mendes Guerra, 550; Rua Ministro Rafael de Barros Monteiro, 110). A página diz só "Vila Porto" e manda conferir no TJSP.

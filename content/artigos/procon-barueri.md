@@ -1,7 +1,7 @@
 ---
 titulo: "Procon Barueri: telefone, endereço, horário, agendamento online e como reclamar"
 tituloSeo: "Procon Barueri: telefone, horário e agendamento online"
-descricao: "Procon Barueri: telefone (11) 4199-1324, no Ganha Tempo, das 8h às 17h. Veja como agendar online, os documentos impressos exigidos e como reclamar sem sair de casa."
+descricao: "Procon Barueri: telefone (11) 4199-1324, no Ganha Tempo, das 8h às 17h. Veja como agendar online, os documentos impressos exigidos e como reclamar de casa."
 categoria: ajuda-juridica
 publicadoEm: 2026-11-06
 atualizadoEm: 2026-11-06

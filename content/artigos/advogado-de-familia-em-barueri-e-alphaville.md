@@ -17,6 +17,8 @@ faq:
   - pergunta: "Moro em Santana de Parnaíba ou na Aldeia da Serra. Qual fórum uso?"
     resposta: "O fórum da cidade do seu endereço. Santana de Parnaíba tem fórum e CEJUSC próprios; veja os endereços em advogado em Santana de Parnaíba e Aldeia da Serra."
 fontes:
+  - nome: "Prefeitura de Barueri, Ganha Tempo: OAB, assistência judiciária gratuita (renda até 3 salários mínimos)"
+    url: "https://www.barueri.sp.gov.br/ganhatempo/Servicos.aspx?setor=verde&servico=663"
   - nome: "Código de Processo Civil, artigos 98, 529, 694, 695 e 733, texto atualizado (Câmara dos Deputados)"
     url: "https://www2.camara.leg.br/legin/fed/lei/2015/lei-13105-16-marco-2015-780273-normaatualizada-pl.html"
   - nome: "TJSP: endereços dos CEJUSCs (Barueri)"
@@ -50,6 +52,7 @@ O **advogado de família em Barueri e Alphaville** cuida de divórcio, pensão a
 
 ## Onde conseguir advogado de família gratuito em Barueri?
 
+- **Assistência judiciária gratuita da OAB no Ganha Tempo de Barueri:** atendimento jurídico **gratuito** para quem tem **renda familiar de até 3 salários mínimos**, com **agendamento** (as vagas do dia são liberadas das 8h30 às 10h45), de segunda a sexta, na Avenida Henriqueta Mendes Guerra, 550, Centro. Telefones (11) 4199-1323, 4199-1320 ou 4199-1333 (ramais 190, 204 ou 144); e-mail ganhatempo@oabbarueri.org.br; dúvidas pelo WhatsApp oficial da OAB, 9-3747-5791, opção 1 ([Prefeitura de Barueri](https://www.barueri.sp.gov.br/ganhatempo/Servicos.aspx?setor=verde&servico=663)). Confirme no agendamento se o seu tipo de caso é atendido.
 - **Defensoria Pública do Estado de São Paulo:** atende quem não pode pagar advogado, e a área de família está entre as cobertas pelo **convênio com a OAB-SP**, pelo qual advogados particulares atendem de forma suplementar, pagos pelo Estado ([termo de convênio, TJSP](https://www.tjsp.jus.br/Download/SPI/Downloads/TermoConvenioDefensoriaOAB.pdf)). Confira o atendimento e o critério de renda no site da Defensoria (defensoria.sp.def.br).
 - **Gratuidade da justiça:** quem não pode pagar custas e honorários tem direito a ela (CPC, artigo 98). Peça na própria ação.
 - **CEJUSC de Barueri:** atende casos **pré-processuais de família e cíveis**, para tentar um acordo antes de existir processo (endereço abaixo).

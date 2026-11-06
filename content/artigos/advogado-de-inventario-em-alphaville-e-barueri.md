@@ -17,6 +17,8 @@ faq:
   - pergunta: "Tem advogado de inventário gratuito em Barueri?"
     resposta: "A Defensoria Pública atende quem não pode pagar advogado, e a área de família e sucessões está no convênio dela com a OAB-SP. Na Justiça, quem não pode pagar custas pode pedir gratuidade (CPC, artigo 98)."
 fontes:
+  - nome: "Prefeitura de Barueri, Ganha Tempo: OAB, assistência judiciária gratuita (renda até 3 salários mínimos)"
+    url: "https://www.barueri.sp.gov.br/ganhatempo/Servicos.aspx?setor=verde&servico=663"
   - nome: "Código de Processo Civil, artigos 48, 98, 610, 611 e 664, texto atualizado (Câmara dos Deputados)"
     url: "https://www2.camara.leg.br/legin/fed/lei/2015/lei-13105-16-marco-2015-780273-normaatualizada-pl.html"
   - nome: "Lei estadual nº 10.705/2000 (ITCMD de São Paulo), artigos 16, 17 e 21 (Assembleia Legislativa de SP)"
@@ -68,6 +70,7 @@ Na Justiça, quando os bens valem até **1.000 salários mínimos**, o inventár
 
 ## Advogado de inventário gratuito e acordo entre herdeiros
 
+- **Assistência judiciária gratuita da OAB no Ganha Tempo de Barueri:** atendimento jurídico **gratuito** para quem tem **renda familiar de até 3 salários mínimos**, com **agendamento** (as vagas do dia são liberadas das 8h30 às 10h45), de segunda a sexta, na Avenida Henriqueta Mendes Guerra, 550, Centro. Telefones (11) 4199-1323, 4199-1320 ou 4199-1333 (ramais 190, 204 ou 144); e-mail ganhatempo@oabbarueri.org.br; dúvidas pelo WhatsApp oficial da OAB, 9-3747-5791, opção 1 ([Prefeitura de Barueri](https://www.barueri.sp.gov.br/ganhatempo/Servicos.aspx?setor=verde&servico=663)). Confirme no agendamento se o seu tipo de caso é atendido.
 - **Defensoria Pública do Estado de São Paulo:** atende quem não pode pagar advogado, e a área de família e sucessões está entre as cobertas pelo **convênio com a OAB-SP** ([termo de convênio, TJSP](https://www.tjsp.jus.br/Download/SPI/Downloads/TermoConvenioDefensoriaOAB.pdf)).
 - **CEJUSC:** quando os herdeiros brigam, a conciliação **antes do processo** pode destravar a partilha. **Barueri:** Rua Ministro Raphael de Barros Monteiro, 110, Jardim dos Camargos, (11) 3164-1036. **Santana de Parnaíba:** Rua Professor Eugênio Teani, 215, (11) 4322-9833 ([TJSP](https://www.tjsp.jus.br/Download/Conciliacao/Nucleo/Enderecos_Cejusc.pdf)).
 

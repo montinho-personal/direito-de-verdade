@@ -7,7 +7,7 @@ publicadoEm: 2026-11-04
 atualizadoEm: 2026-11-06
 faq:
   - pergunta: "Tem advogado gratuito em Barueri?"
-    resposta: "Quem não pode pagar advogado pode procurar a Defensoria Pública do Estado de São Paulo, que tem convênio com a OAB-SP para atendimento por advogados em parte das áreas. Nas causas de até 20 salários mínimos no Juizado Especial Cível, e nas ações trabalhistas, também dá para entrar sem advogado."
+    resposta: "Tem. A OAB oferece assistência judiciária gratuita no Ganha Tempo de Barueri, com agendamento, para quem tem renda familiar de até 3 salários mínimos; telefones (11) 4199-1323, 4199-1320 ou 4199-1333. Também há a Defensoria Pública e, nas causas de até 20 salários mínimos no Juizado Especial Cível e nas ações trabalhistas, dá para entrar sem advogado."
   - pergunta: "Qual o valor de uma consulta com advogado?"
     resposta: "Não há preço fixo por lei. A OAB-SP publica uma tabela de honorários que serve de referência, e o valor é combinado com o advogado. Peça o orçamento e o contrato de honorários por escrito antes de começar."
   - pergunta: "Como saber se o advogado é bom e se é advogado de verdade?"
@@ -17,6 +17,8 @@ faq:
   - pergunta: "Moro em Santana de Parnaíba ou Aldeia da Serra. Uso o fórum de Barueri?"
     resposta: "Nem sempre: Santana de Parnaíba tem fórum próprio, inclusive Vara do Trabalho. Veja os endereços em [advogado em Santana de Parnaíba e Aldeia da Serra](/artigos/advogado-em-santana-de-parnaiba-e-aldeia-da-serra). O fórum certo depende do endereço e do tipo de causa; confira nos sites do TJSP, do TRT-2 e da Justiça Federal."
 fontes:
+  - nome: "Prefeitura de Barueri, Ganha Tempo: OAB, assistência judiciária gratuita (renda até 3 salários mínimos)"
+    url: "https://www.barueri.sp.gov.br/ganhatempo/Servicos.aspx?setor=verde&servico=663"
   - nome: "TRT-2: telefones e endereços das Varas do Trabalho da Grande São Paulo (Barueri)"
     url: "https://ww2.trt2.jus.br/contato/telefones-e-enderecos/varas-do-trabalho-da-grande-sao-paulo-e-baixada-santista"
   - nome: "Justiça Federal de São Paulo: 44ª Subseção Judiciária, Barueri (portaria com endereço)"
@@ -62,6 +64,7 @@ Não há preço fixo por lei. A **OAB-SP publica uma tabela de honorários** que
 
 ## Onde achar atendimento jurídico gratuito na região?
 
+- **Assistência judiciária gratuita da OAB no Ganha Tempo de Barueri:** atendimento jurídico **gratuito** para quem tem **renda familiar de até 3 salários mínimos**, com **agendamento** (as vagas do dia são liberadas das 8h30 às 10h45), de segunda a sexta, na Avenida Henriqueta Mendes Guerra, 550, Centro. Telefones (11) 4199-1323, 4199-1320 ou 4199-1333 (ramais 190, 204 ou 144); e-mail ganhatempo@oabbarueri.org.br; dúvidas pelo WhatsApp oficial da OAB, 9-3747-5791, opção 1 ([Prefeitura de Barueri](https://www.barueri.sp.gov.br/ganhatempo/Servicos.aspx?setor=verde&servico=663)). Confirme no agendamento se o seu tipo de caso é atendido.
 - **Defensoria Pública do Estado de São Paulo:** presta assistência jurídica gratuita a quem não pode pagar advogado. Ela tem um **convênio com a OAB-SP** pelo qual advogados particulares atendem de forma suplementar, pagos pelo Estado; esse convênio **não cobre** as áreas trabalhista, previdenciária, eleitoral e administrativa ([termo de convênio, TJSP](https://www.tjsp.jus.br/Download/SPI/Downloads/TermoConvenioDefensoriaOAB.pdf)). Confira o atendimento e o critério de renda no site da Defensoria (defensoria.sp.def.br).
 - **Juizado Especial Cível (Fórum de Barueri, na Vila Porto):** causas de até **20 salários mínimos** podem ser apresentadas **sem advogado**; de 20 a 40, com advogado ([Lei 9.099/1995](https://www.planalto.gov.br/ccivil_03/leis/l9099.htm)). Confirme o endereço e o horário no site do TJSP antes de ir.
 - **Justiça do Trabalho:** o empregado pode entrar com a reclamação **sem advogado** na Vara do Trabalho (CLT, artigo 791). O **sindicato da categoria** também costuma orientar e indicar advogados.

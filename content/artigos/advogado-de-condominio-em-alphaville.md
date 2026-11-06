@@ -17,6 +17,8 @@ faq:
   - pergunta: "O síndico pode multar o morador?"
     resposta: "Pode, conforme a convenção e o regimento: cabe ao síndico fazer cumprir as regras e cobrar as multas devidas (Código Civil, artigo 1.348). Multas maiores, de até 5 ou 10 vezes a taxa, dependem de decisão da assembleia (artigo 1.337)."
 fontes:
+  - nome: "Prefeitura de Barueri, Ganha Tempo: OAB, assistência judiciária gratuita (renda até 3 salários mínimos)"
+    url: "https://www.barueri.sp.gov.br/ganhatempo/Servicos.aspx?setor=verde&servico=663"
   - nome: "STF, Tema 492 (RE 695.911): cobrança por associação de moradores em loteamento"
     url: "https://portal.stf.jus.br/jurisprudenciaRepercussao/verAndamentoProcesso.asp?incidente=4262142&numeroProcesso=695911&classeProcesso=RE&numeroTema=492"
   - nome: "Código Civil, artigos 1.336, 1.337, 1.345, 1.348 e 1.358-A, texto atualizado (Câmara dos Deputados)"
@@ -63,6 +65,7 @@ O **síndico** faz cumprir a convenção e o regimento e aplica as multas (Códi
 
 ## Onde resolver sem processo
 
+- **Assistência judiciária gratuita da OAB no Ganha Tempo de Barueri:** atendimento jurídico **gratuito** para quem tem **renda familiar de até 3 salários mínimos**, com **agendamento** (as vagas do dia são liberadas das 8h30 às 10h45), de segunda a sexta, na Avenida Henriqueta Mendes Guerra, 550, Centro. Telefones (11) 4199-1323, 4199-1320 ou 4199-1333 (ramais 190, 204 ou 144); e-mail ganhatempo@oabbarueri.org.br; dúvidas pelo WhatsApp oficial da OAB, 9-3747-5791, opção 1 ([Prefeitura de Barueri](https://www.barueri.sp.gov.br/ganhatempo/Servicos.aspx?setor=verde&servico=663)). Confirme no agendamento se o seu tipo de caso é atendido.
 - **CEJUSC de Barueri:** conciliação **pré-processual** de casos cíveis, como dívidas de condomínio e conflitos de vizinhança. Rua Ministro Raphael de Barros Monteiro, 110, Jardim dos Camargos; (11) 3164-1036; cejusc.barueri@tjsp.jus.br ([TJSP](https://www.tjsp.jus.br/Download/Conciliacao/Nucleo/Enderecos_Cejusc.pdf)).
 - **CEJUSC de Santana de Parnaíba:** Rua Professor Eugênio Teani, 215; (11) 4322-9833; cejusc.parnaiba@tjsp.jus.br.
 - **Juizado Especial Cível:** causas de até **20 salários mínimos sem advogado** ([Lei 9.099/1995](https://www2.camara.leg.br/legin/fed/lei/1995/lei-9099-26-setembro-1995-348608-normaatualizada-pl.html)), como cobrança de valores pequenos ou dano causado por vizinho.

@@ -17,6 +17,8 @@ faq:
   - pergunta: "Banco e plano de saúde também entram no Código de Defesa do Consumidor?"
     resposta: "Sim. Serviços bancários, financeiros, de crédito e de seguro estão na definição de serviço do CDC (artigo 3º, § 2º). Para planos de saúde, há também as regras da ANS."
 fontes:
+  - nome: "Prefeitura de Barueri, Ganha Tempo: OAB, assistência judiciária gratuita (renda até 3 salários mínimos)"
+    url: "https://www.barueri.sp.gov.br/ganhatempo/Servicos.aspx?setor=verde&servico=663"
   - nome: "Prefeitura de Barueri: Procon Barueri (endereço, telefone e horário)"
     url: "https://portal.barueri.sp.gov.br/cidadao/procon-barueri/procon"
   - nome: "Lei nº 9.099/1995 (Juizados Especiais), Planalto"
@@ -80,6 +82,7 @@ Não há preço fixo por lei. A **OAB-SP publica uma tabela de honorários** que
 
 ## Como conseguir um advogado gratuito em Barueri?
 
+- **Assistência judiciária gratuita da OAB no Ganha Tempo de Barueri:** atendimento jurídico **gratuito** para quem tem **renda familiar de até 3 salários mínimos**, com **agendamento** (as vagas do dia são liberadas das 8h30 às 10h45), de segunda a sexta, na Avenida Henriqueta Mendes Guerra, 550, Centro. Telefones (11) 4199-1323, 4199-1320 ou 4199-1333 (ramais 190, 204 ou 144); e-mail ganhatempo@oabbarueri.org.br; dúvidas pelo WhatsApp oficial da OAB, 9-3747-5791, opção 1 ([Prefeitura de Barueri](https://www.barueri.sp.gov.br/ganhatempo/Servicos.aspx?setor=verde&servico=663)). Confirme no agendamento se o seu tipo de caso é atendido.
 - **Defensoria Pública do Estado de São Paulo:** atende quem não pode pagar advogado, e as causas de consumo estão entre as cobertas pelo **convênio com a OAB-SP**, que exclui só as áreas trabalhista, previdenciária, eleitoral e administrativa ([termo de convênio, TJSP](https://www.tjsp.jus.br/Download/SPI/Downloads/TermoConvenioDefensoriaOAB.pdf)). Confira o atendimento no site da Defensoria (defensoria.sp.def.br).
 - **Sem advogado:** o Procon e o consumidor.gov.br são gratuitos, e o Juizado Especial Cível aceita causas de até 20 salários mínimos sem advogado.
 
