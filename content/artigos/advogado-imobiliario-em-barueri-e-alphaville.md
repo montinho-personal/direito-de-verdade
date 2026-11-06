@@ -38,7 +38,7 @@ O **advogado imobiliário em Barueri e Alphaville** cuida de compra e venda de i
 | compra e venda | confere matrícula, certidões e dívidas do imóvel e do vendedor; revisa o contrato; acompanha escritura e registro | — |
 | aluguel | revisa o contrato, negocia a saída antecipada, cobra aluguéis, entra com o despejo | [multa por sair antes do prazo](/artigos/multa-contrato-de-aluguel), [reajuste do aluguel](/artigos/reajuste-do-aluguel), [fiador](/artigos/fiador) |
 | posse sem documento | usucapião no cartório ou na Justiça | [usucapião](/artigos/usucapiao) |
-| condomínio | cobrança de taxas, multas, conflitos com vizinhos | [barulho do vizinho](/artigos/barulho-do-vizinho) |
+| condomínio | cobrança de taxas, multas, conflitos com vizinhos, associação de moradores | [advogado de condomínio em Alphaville](/artigos/advogado-de-condominio-em-alphaville), [barulho do vizinho](/artigos/barulho-do-vizinho) |
 | imóvel na planta | atraso de obra, distrato, vícios de construção | [como reclamar no Procon](/artigos/como-reclamar-procon) |
 | herança | inventário e partilha do imóvel | [inventário](/artigos/inventario) |
 

@@ -1,7 +1,7 @@
 ---
 titulo: "Fórum Trabalhista de Barueri: endereço em Alphaville, telefones das varas e como entrar com ação"
 tituloSeo: "Fórum Trabalhista de Barueri: endereço e telefones"
-descricao: "Fórum Trabalhista de Barueri fica na Alameda Araguaia, 2096, Alphaville Industrial. Veja os telefones das 5 varas e da conciliação, quem é atendido lá e o que levar."
+descricao: "Fórum Trabalhista de Barueri fica na Alameda Araguaia, 2096, Alphaville Industrial. Veja os telefones das 5 varas e da conciliação, quem atende e o que levar."
 categoria: ajuda-juridica
 publicadoEm: 2026-11-06
 atualizadoEm: 2026-11-06
