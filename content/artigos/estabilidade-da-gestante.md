@@ -59,6 +59,6 @@ Pode, se cometer uma das **faltas graves** listadas na CLT, como abandono de emp
 
 ## Estabilidade da gestante e licença-maternidade
 
-A **licença-maternidade** é de **120 dias**, sem prejuízo do emprego e do salário, e pode começar até 28 dias antes do parto, com atestado médico (CLT, artigo 392). A estabilidade continua depois da licença, até completar **5 meses após o parto**. O pai também passa a ter estabilidade a partir de 2027, com a nova [licença-paternidade](/artigos/licenca-paternidade).
+A **licença-maternidade** é de **120 dias**, sem prejuízo do emprego e do salário, e pode começar até 28 dias antes do parto, com atestado médico (CLT, artigo 392). A estabilidade continua depois da licença, até completar **5 meses após o parto**. Veja como pedir os 180 dias e quem paga em [licença-maternidade](/artigos/licenca-maternidade). O pai também passa a ter estabilidade a partir de 2027, com a nova [licença-paternidade](/artigos/licenca-paternidade).
 
 Este conteúdo é informativo e não substitui a orientação de um advogado, do sindicato ou da Defensoria Pública.
