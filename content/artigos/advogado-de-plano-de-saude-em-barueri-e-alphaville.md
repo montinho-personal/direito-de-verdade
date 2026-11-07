@@ -1,10 +1,10 @@
 ---
 titulo: "Advogado de plano de saúde em Barueri e Alphaville: negativa de cobertura, urgência e onde reclamar"
-tituloSeo: "Advogado de plano de saúde em Barueri e Alphaville"
-descricao: "Advogado de plano de saúde em Barueri e Alphaville: o que fazer antes, quando a negativa é abusiva, urgência e liminar, quanto custa e onde há ajuda gratuita."
+tituloSeo: "Advogado de plano de saúde em Barueri: custo e como processar"
+descricao: "Advogado de plano de saúde em Barueri e Alphaville: quanto custa, onde conseguir de graça, como entrar na Justiça contra o plano e quando a negativa é abusiva."
 categoria: ajuda-juridica
 publicadoEm: 2026-11-06
-atualizadoEm: 2026-11-06
+atualizadoEm: 2026-11-07
 faq:
   - pergunta: "Preciso de advogado para reclamar do plano de saúde?"
     resposta: "Não para reclamar: a ANS recebe reclamações de graça, pelo site ou pelo Disque ANS 0800 701 9656, e o Procon também atende, porque o Código de Defesa do Consumidor vale para os planos, salvo os de autogestão (Súmula 608 do STJ). O advogado entra quando é preciso ir à Justiça."
@@ -27,6 +27,10 @@ fontes:
     url: "https://www.gov.br/ans/pt-br/arquivos/assuntos/espaco-da-operadora-de-plano-de-saude/atendimento-ao-beneficiario/FAQ_RN_623__17.09.25.pdf"
   - nome: "gov.br: reclamar sobre plano de saúde na ANS"
     url: "https://www.gov.br/pt-br/servicos/receber-reclamacoes-sobre-possiveis-praticas-irregulares-de-operadoras-de-planos-privados-de-assistencia-a-saude-inclusive-administradoras-de-beneficios"
+  - nome: "Código de Processo Civil, artigo 300 (tutela de urgência), texto atualizado (Câmara dos Deputados)"
+    url: "https://www2.camara.leg.br/legin/fed/lei/2015/lei-13105-16-marco-2015-780273-normaatualizada-pl.html"
+  - nome: "Código de Defesa do Consumidor, artigo 101, I, texto atualizado (Câmara dos Deputados)"
+    url: "https://www2.camara.leg.br/legin/fed/lei/1990/lei-8078-11-setembro-1990-365086-normaatualizada-pl.html"
   - nome: "STJ: Súmula 302 (internação sem limite de tempo)"
     url: "https://scon.stj.jus.br/SCON/sumstj/toc.jsp?livre=%27302%27.num."
   - nome: "STJ: Súmula 608 (CDC nos planos de saúde)"
@@ -55,6 +59,15 @@ O passo a passo completo, com os prazos da ANS, está em [plano de saúde negou 
 - **doença preexistente** depois de 24 meses de contrato (Lei 9.656, artigo 11);
 - **tratamento fora do rol** que cumpre, ao mesmo tempo, os requisitos do STF: indicação médica, sem alternativa no rol, comprovação científica, registro na Anvisa e sem negativa expressa da ANS ([STF, ADI 7265](https://noticias.stf.jus.br/postsnoticias/stf-fixa-criterios-para-que-planos-de-saude-cubram-tratamentos-fora-da-lista-da-ans/)).
 
+## Como entrar na Justiça contra um plano de saúde?
+
+1. **Reúna os documentos:** contrato ou carteirinha, a **negativa por escrito**, o **relatório médico**, os **protocolos** de atendimento, a reclamação na ANS, se houver, e comprovantes de pagamento.
+2. **Escolha o caminho:** causas simples de até **20 salários mínimos** podem ir ao **Juizado Especial Cível sem advogado**. Casos urgentes, caros ou que pedem prova técnica costumam ir à **Justiça comum**, com advogado ou com a **Defensoria Pública**.
+3. **Peça a decisão urgente, se for o caso:** o juiz pode conceder a **tutela de urgência** (a "liminar") quando houver probabilidade do direito e perigo de dano ([CPC, artigo 300](https://www2.camara.leg.br/legin/fed/lei/2015/lei-13105-16-marco-2015-780273-normaatualizada-pl.html)). O relatório médico explicando a urgência é a peça principal.
+4. **Onde entrar:** como o caso é de consumo, a ação pode ser proposta no **seu domicílio**, em Barueri ou em Santana de Parnaíba, mesmo que o plano tenha sede em outra cidade ([CDC, artigo 101, I](https://www2.camara.leg.br/legin/fed/lei/1990/lei-8078-11-setembro-1990-365086-normaatualizada-pl.html)).
+
+O site não indica planos de saúde nem compara operadoras: antes de contratar, consulte a situação da operadora no site da **ANS**.
+
 ## Quando vale contratar um advogado de plano de saúde?
 
 | situação | por quê |
@@ -66,11 +79,11 @@ O passo a passo completo, com os prazos da ANS, está em [plano de saúde negou 
 
 Casos simples e de valor menor podem ir ao **Juizado Especial Cível**, sem advogado, até 20 salários mínimos. O Código de Defesa do Consumidor vale para os planos de saúde, salvo os de **autogestão** ([Súmula 608 do STJ](https://scon.stj.jus.br/SCON/sumstj/toc.jsp?livre=%27608%27.num.)).
 
-## Quanto custa um advogado de plano de saúde?
+## Quanto custa um advogado para plano de saúde?
 
 Não há preço fixo por lei. A **OAB-SP publica uma tabela de honorários** que serve de referência. É comum o advogado cobrar um **valor fixo** pela ação, às vezes com **porcentagem** sobre o que for recuperado em reembolso ou indenização. Combine **por escrito** e desconfie de quem garante a liminar ou o resultado.
 
-## Advogado gratuito em Barueri
+## Onde conseguir advogado gratuito em Barueri?
 
 - **Assistência judiciária gratuita da OAB no Ganha Tempo de Barueri:** atendimento jurídico **gratuito** para quem tem **renda familiar de até 3 salários mínimos**, com **agendamento** (as vagas do dia são liberadas das 8h30 às 10h45), de segunda a sexta, na Avenida Henriqueta Mendes Guerra, 550, Centro. Telefones (11) 4199-1323, 4199-1320 ou 4199-1333 (ramais 190, 204 ou 144); e-mail ganhatempo@oabbarueri.org.br; dúvidas pelo WhatsApp oficial da OAB, 9-3747-5791, opção 1 ([Prefeitura de Barueri](https://www.barueri.sp.gov.br/ganhatempo/Servicos.aspx?setor=verde&servico=663)). Confirme no agendamento se o seu tipo de caso é atendido.
 - **Defensoria Pública do Estado de São Paulo:** atende quem não pode pagar advogado, e as causas de consumo estão entre as cobertas pelo **convênio com a OAB-SP** ([termo de convênio, TJSP](https://www.tjsp.jus.br/Download/SPI/Downloads/TermoConvenioDefensoriaOAB.pdf)). Em urgência, diga isso logo no primeiro atendimento.

@@ -8,7 +8,10 @@ Pedido do Renato em 06/11/2026: mais páginas de advogado na região, "entrar co
 
 | print | conteúdo | onde entrou |
 |---|---|---|
-| — | **aguardando**: `advogado condomínio alphaville`; `taxa associação alphaville`; `advogado condominial barueri`; `associação de moradores é obrigado a pagar` | revisar título, H2 e FAQ quando chegarem |
+| `advogado condomínio alphaville`, autocompletar (07/11/2026) | barueri · sp · são paulo · administração · endereço · telefone | "condominial" e Barueri na descrição; diferença entre advogado e administradora. Endereço/telefone de escritórios: fora |
+| PAA | Como se chama um advogado de condomínio? · Quanto custa uma consulta com advogado imobiliário? · Quem resolve problemas de condomínio? · O que um advogado condominial faz? | FAQ "como se chama"; H2 "O que um advogado condominial faz?" e "Quem resolve problemas de condomínio?" (síndico, assembleia, CEJUSC, Justiça); H2 do custo renomeado |
+| resultados e "Outras pessoas pesquisaram" | escritórios que atendem condomínios de Alphaville (cobrança de inadimplência, assessoria a síndicos) | tabela "para quem" com condomínio e síndico. Nomes de escritórios: fora |
+| ainda pendente | `taxa associação alphaville`; `associação de moradores é obrigado a pagar` | — |
 
 ## Ferramentas
 
@@ -22,7 +25,8 @@ Nenhuma calculadora encaixa (o CDC não se aplica à taxa de condomínio); não 
 | Dever de contribuir; multa de até 2% + correção e juros | Código Civil, art. 1.336, I e § 1º (Câmara) | oficial |
 | Multas de até 5x e 10x | Código Civil, art. 1.337 | oficial |
 | Adquirente responde por débitos do alienante | Código Civil, art. 1.345 | oficial |
-| Competências do síndico | Código Civil, art. 1.348 | oficial |
+| Competências do síndico; delegação das funções administrativas com aprovação da assembleia (§ 2º) | Código Civil, art. 1.348 | oficial |
+| Destituição do síndico; assembleia anual; convocação por 1/4 | Código Civil, arts. 1.349, 1.350 e 1.355 | oficial |
 | Condomínio de lotes | Código Civil, art. 1.358-A | oficial |
 | Taxa de condomínio edilício é título executivo | CPC, art. 784, X (Câmara) | oficial |
 | CEJUSCs de Barueri e Santana | TJSP | oficial |
