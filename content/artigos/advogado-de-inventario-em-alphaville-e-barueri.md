@@ -1,10 +1,10 @@
 ---
 titulo: "Advogado de inventário em Alphaville e Barueri: prazo, cartório ou Justiça, ITCMD e custos"
-tituloSeo: "Advogado de inventário em Alphaville: prazo, ITCMD e custos"
-descricao: "Advogado de inventário em Alphaville e Barueri: abra em 60 dias para evitar multa no ITCMD de SP, veja cartório ou Justiça, os custos e onde há ajuda gratuita."
+tituloSeo: "Advogado de inventário em Barueri: valor, ITCMD e gratuito"
+descricao: "Advogado de inventário em Barueri e Alphaville: quanto cobra, quanto custa inventariar um imóvel de R$ 200 mil, a multa do ITCMD-SP e onde há ajuda gratuita."
 categoria: ajuda-juridica
 publicadoEm: 2026-11-06
-atualizadoEm: 2026-11-06
+atualizadoEm: 2026-11-07
 faq:
   - pergunta: "Precisa de advogado para fazer inventário?"
     resposta: "Precisa, tanto no cartório quanto na Justiça. No cartório, todos os herdeiros devem estar assistidos por advogado ou defensor público, e um mesmo advogado pode atender a todos (CPC, artigo 610)."
@@ -21,7 +21,7 @@ fontes:
     url: "https://www.barueri.sp.gov.br/ganhatempo/Servicos.aspx?setor=verde&servico=663"
   - nome: "Código de Processo Civil, artigos 48, 98, 610, 611 e 664, texto atualizado (Câmara dos Deputados)"
     url: "https://www2.camara.leg.br/legin/fed/lei/2015/lei-13105-16-marco-2015-780273-normaatualizada-pl.html"
-  - nome: "Lei estadual nº 10.705/2000 (ITCMD de São Paulo), artigos 16, 17 e 21 (Assembleia Legislativa de SP)"
+  - nome: "Lei estadual nº 10.705/2000 (ITCMD de São Paulo), artigos 9º, 13, 16, 17 e 21 (Assembleia Legislativa de SP)"
     url: "https://www.al.sp.gov.br/repositorio/legislacao/lei/2000/lei-10705-28.12.2000.html"
   - nome: "CNJ autoriza inventário e partilha extrajudicial mesmo com menores de idade (Resolução 571/2024)"
     url: "https://www.cnj.jus.br/cnj-autoriza-divorcio-inventario-e-partilha-extrajudicial-mesmo-com-menores-de-idade/"
@@ -48,6 +48,9 @@ Por isso, procure o advogado **logo nas primeiras semanas**, mesmo que a famíli
 
 ## Inventário em cartório ou na Justiça?
 
+Atenção: muitos textos ainda dizem que herdeiro **menor** ou **testamento** obrigam a ir à Justiça. Desde 2024, o CNJ permite o cartório nesses casos, com as condições abaixo.
+
+
 | | **cartório** (escritura) | **Justiça** |
 | --- | --- | --- |
 | quando | todos os herdeiros **concordam** com a partilha | há **briga** entre herdeiros, ou o caso não cabe no cartório |
@@ -60,15 +63,29 @@ Na Justiça, quando os bens valem até **1.000 salários mínimos**, o inventár
 
 ## Quanto custa um inventário em São Paulo?
 
+### Exemplo: inventário de um imóvel de R$ 200 mil
+
+Em São Paulo, a base do ITCMD é o **valor de mercado** do bem na data da morte, e, no imóvel urbano, nunca menos que o valor usado para o **IPTU** (Lei 10.705/2000, artigos 9º e 13). Se a base de um imóvel for **R$ 200 mil**:
+
+| item | valor |
+| --- | --- |
+| ITCMD (4%), inventário aberto em até 60 dias | **R$ 8.000** |
+| com atraso de mais de 60 dias (multa de 10% sobre o imposto) | R$ 8.800 |
+| com atraso de mais de 180 dias (multa de 20%) | R$ 9.600 |
+
+A conta acima é só do **imposto**. Somam-se a ela as **taxas do cartório** (escritura e registro, pela tabela do estado) e os **honorários do advogado**, combinados com ele. Na Justiça, há as **custas judiciais** no lugar da escritura.
+
+### Os custos, um a um
+
 - **ITCMD:** **4%** sobre a base de cálculo (Lei 10.705/2000, artigo 16), mais multa se houver atraso. Confira isenções e o cálculo na **Secretaria da Fazenda de SP**.
 - **Cartório:** no inventário extrajudicial, a escritura segue a **tabela de custas** do estado, em geral conforme o valor dos bens.
 - **Custas judiciais:** no inventário na Justiça; quem não pode pagar pode pedir **gratuidade** (CPC, artigo 98).
 - **Registro:** cada imóvel é transferido no **Cartório de Registro de Imóveis** com a escritura ou a sentença.
-- **Advogado:** não há preço fixo por lei. A **OAB-SP publica uma tabela de honorários** que serve de referência; é comum a cobrança de uma **porcentagem do valor dos bens**. Combine tudo **por escrito**.
+- **Advogado (qual o valor de um advogado para inventário?):** não há preço fixo por lei. A **OAB-SP publica uma tabela de honorários** que serve de referência; é comum a cobrança de uma **porcentagem do valor dos bens**. Combine tudo **por escrito**.
 
 **As dívidas do falecido não passam do valor da herança:** cada herdeiro responde só na proporção do que recebeu (Código Civil, artigos 1.792 e 1.997).
 
-## Advogado de inventário gratuito e acordo entre herdeiros
+## Tem advogado gratuito para inventário?
 
 - **Assistência judiciária gratuita da OAB no Ganha Tempo de Barueri:** atendimento jurídico **gratuito** para quem tem **renda familiar de até 3 salários mínimos**, com **agendamento** (as vagas do dia são liberadas das 8h30 às 10h45), de segunda a sexta, na Avenida Henriqueta Mendes Guerra, 550, Centro. Telefones (11) 4199-1323, 4199-1320 ou 4199-1333 (ramais 190, 204 ou 144); e-mail ganhatempo@oabbarueri.org.br; dúvidas pelo WhatsApp oficial da OAB, 9-3747-5791, opção 1 ([Prefeitura de Barueri](https://www.barueri.sp.gov.br/ganhatempo/Servicos.aspx?setor=verde&servico=663)). Confirme no agendamento se o seu tipo de caso é atendido.
 - **Defensoria Pública do Estado de São Paulo:** atende quem não pode pagar advogado, e a área de família e sucessões está entre as cobertas pelo **convênio com a OAB-SP** ([termo de convênio, TJSP](https://www.tjsp.jus.br/Download/SPI/Downloads/TermoConvenioDefensoriaOAB.pdf)).
