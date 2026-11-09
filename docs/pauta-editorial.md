@@ -193,6 +193,15 @@ sem indicar escritório (ver doc da piloto). Piloto primeiro; as demais depois d
 | 5a | Advogado trabalhista em Santana de Parnaíba e Aldeia da Serra | `advogado trabalhista santana de parnaíba` (autocompletar de 04/11/2026) | **publicado em 06/11/2026** — [doc](artigos/advogado-trabalhista-em-santana-de-parnaiba.md) |
 | 5b | Advogado criminalista em Santana de Parnaíba e Aldeia da Serra | `advogado criminalista santana de parnaíba` (autocompletar de 04/11/2026) | **publicado em 06/11/2026** — [doc](artigos/advogado-criminalista-em-santana-de-parnaiba.md) |
 
+## Próximos dois (pedidos em 09/11/2026, segundo lote)
+
+Pedido do Renato em 09/11/2026 ("Criar próximos 2 artigos"), sem prints. Um de cada vez.
+
+| ordem | artigo | por que agora | buscas para printar | status |
+|---|---|---|---|---|
+| 1 | Auxílio-acidente do INSS: quem tem direito, valor, como pedir e se dá para trabalhar | par do auxílio-doença; muita dúvida | `auxílio acidente`; `auxílio acidente quem tem direito`; `auxílio acidente valor` | **publicado em 09/11/2026 sem prints** — [doc](artigos/auxilio-acidente.md), `/artigos/auxilio-acidente` |
+| 2 | Vale-transporte: desconto de 6% e regras | dúvida trabalhista diária | `vale transporte desconto 6%`; `vale transporte em dinheiro`; `vale transporte é obrigatório` | a fazer |
+
 ## Próximos dois (pedidos em 09/11/2026)
 
 Pedido do Renato em 09/11/2026 ("Criar proximos 2 artigos"), sem prints. Um de cada vez; prints anotados para depois.
@@ -267,6 +276,7 @@ Lembrar o Renato desta lista a cada entrega.
 | Faltas justificadas (`/artigos/faltas-justificadas`), publicado em 06/11/2026 | Google: `faltas justificadas clt`; `atestado médico empresa pode recusar`; `quantos dias de folga por falecimento`; AnswerThePublic `faltas justificadas` | **aguardando prints** |
 | Pensão por morte do INSS (`/artigos/pensao-por-morte-inss`), publicado em 09/11/2026 | Google: `pensão por morte`; `pensão por morte valor`; `pensão por morte quanto tempo dura`; AnswerThePublic `pensão por morte` | **aguardando prints** |
 | Adicional noturno (`/artigos/adicional-noturno`), publicado em 09/11/2026 | Google: `adicional noturno`; `adicional noturno como calcular`; `hora noturna reduzida`; AnswerThePublic `adicional noturno` | **aguardando prints** |
+| Auxílio-acidente (`/artigos/auxilio-acidente`), publicado em 09/11/2026 | Google: `auxílio acidente`; `auxílio acidente quem tem direito`; `auxílio acidente valor`; AnswerThePublic `auxílio acidente` | **aguardando prints** |
 | Calculadora de cobrança indevida (`/calculadoras/cobranca-indevida`), publicada em 26/10/2026 | Google: `calculadora cobrança indevida`; `devolução em dobro`; AnswerThePublic `cobrança indevida` | **aguardando prints** |
 | Simulador de direitos em compras online (`/calculadoras/simulador-direitos-compras-online`), publicado em 26/10/2026 | Google: `direitos em compras online`; `comprei pela internet e não recebi` | **prints e AnswerThePublic recebidos e página revisada em 27/10/2026** |
 | Calculadora de juros abusivos (`/calculadoras/juros-abusivos`), publicada em 27/10/2026 | Google: `calculadora de juros abusivos`; `como saber se juros são abusivos`; `taxa média banco central financiamento` | **aguardando prints** |
