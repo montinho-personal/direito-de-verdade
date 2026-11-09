@@ -1,7 +1,7 @@
 ---
 titulo: "Vale-transporte: desconto de 6%, quem tem direito e se pode pagar em dinheiro"
 tituloSeo: "Vale-transporte: desconto de 6%, regras e dinheiro"
-descricao: "Vale-transporte: a empresa desconta até 6% do salário básico e paga o resto. Veja quem tem direito, a conta do desconto, se pode ser em dinheiro e se vale para aplicativo."
+descricao: "Vale-transporte: a empresa desconta até 6% do salário básico e paga o resto. Veja quem tem direito, a conta, se pode ser em dinheiro e se vale para aplicativo."
 categoria: trabalho
 publicadoEm: 2026-11-09
 atualizadoEm: 2026-11-09
