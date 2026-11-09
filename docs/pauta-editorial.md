@@ -193,6 +193,15 @@ sem indicar escritório (ver doc da piloto). Piloto primeiro; as demais depois d
 | 5a | Advogado trabalhista em Santana de Parnaíba e Aldeia da Serra | `advogado trabalhista santana de parnaíba` (autocompletar de 04/11/2026) | **publicado em 06/11/2026** — [doc](artigos/advogado-trabalhista-em-santana-de-parnaiba.md) |
 | 5b | Advogado criminalista em Santana de Parnaíba e Aldeia da Serra | `advogado criminalista santana de parnaíba` (autocompletar de 04/11/2026) | **publicado em 06/11/2026** — [doc](artigos/advogado-criminalista-em-santana-de-parnaiba.md) |
 
+## Próximos dois (pedidos em 09/11/2026)
+
+Pedido do Renato em 09/11/2026 ("Criar proximos 2 artigos"), sem prints. Um de cada vez; prints anotados para depois.
+
+| ordem | artigo | por que agora | buscas para printar | status |
+|---|---|---|---|---|
+| 1 | Pensão por morte do INSS: quem tem direito, valor, quanto tempo dura e como pedir | tema previdenciário de alta procura que faltava | `pensão por morte`; `pensão por morte valor`; `pensão por morte quanto tempo dura` | **publicado em 09/11/2026 sem prints** — [doc](artigos/pensao-por-morte-inss.md), `/artigos/pensao-por-morte-inss` |
+| 2 | Adicional noturno | dúvida trabalhista de alta procura que faltava | `adicional noturno`; `adicional noturno como calcular`; `hora noturna reduzida` | a fazer |
+
 ## Páginas locais, 2ª rodada (pedido em 06/11/2026)
 
 Pedido do Renato em 06/11/2026: "Pode criar essas três, depois mando os prints. E cria também mais três de advogado [...] em Barueri, Santana de Parnaíba, Alphaville. Eu acho que é bom a gente entrar com o termo Alphaville também." Sem prints; um de cada vez.
@@ -256,6 +265,7 @@ Lembrar o Renato desta lista a cada entrega.
 | Estabilidade da gestante (`/artigos/estabilidade-da-gestante`), publicado em 06/11/2026 | Google: `estabilidade gestante`; `demitida grávida o que fazer`; `grávida pode pedir demissão`; AnswerThePublic `estabilidade gestante` | **aguardando prints** |
 | Licença-maternidade (`/artigos/licenca-maternidade`), publicado em 06/11/2026 | Google: `licença maternidade`; `licença maternidade quantos dias`; `salário maternidade valor`; AnswerThePublic `licença maternidade` | **aguardando prints** |
 | Faltas justificadas (`/artigos/faltas-justificadas`), publicado em 06/11/2026 | Google: `faltas justificadas clt`; `atestado médico empresa pode recusar`; `quantos dias de folga por falecimento`; AnswerThePublic `faltas justificadas` | **aguardando prints** |
+| Pensão por morte do INSS (`/artigos/pensao-por-morte-inss`), publicado em 09/11/2026 | Google: `pensão por morte`; `pensão por morte valor`; `pensão por morte quanto tempo dura`; AnswerThePublic `pensão por morte` | **aguardando prints** |
 | Calculadora de cobrança indevida (`/calculadoras/cobranca-indevida`), publicada em 26/10/2026 | Google: `calculadora cobrança indevida`; `devolução em dobro`; AnswerThePublic `cobrança indevida` | **aguardando prints** |
 | Simulador de direitos em compras online (`/calculadoras/simulador-direitos-compras-online`), publicado em 26/10/2026 | Google: `direitos em compras online`; `comprei pela internet e não recebi` | **prints e AnswerThePublic recebidos e página revisada em 27/10/2026** |
 | Calculadora de juros abusivos (`/calculadoras/juros-abusivos`), publicada em 27/10/2026 | Google: `calculadora de juros abusivos`; `como saber se juros são abusivos`; `taxa média banco central financiamento` | **aguardando prints** |
