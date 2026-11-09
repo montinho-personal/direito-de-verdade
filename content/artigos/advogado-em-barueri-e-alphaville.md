@@ -4,7 +4,7 @@ tituloSeo: "Advogado em Barueri e Alphaville: como escolher e onde achar"
 descricao: "Advogado em Barueri e Alphaville: veja qual especialista procurar, como conferir o registro na OAB, quanto custa e onde há atendimento gratuito na região."
 categoria: ajuda-juridica
 publicadoEm: 2026-11-04
-atualizadoEm: 2026-11-06
+atualizadoEm: 2026-11-09
 faq:
   - pergunta: "Tem advogado gratuito em Barueri?"
     resposta: "Tem. A OAB oferece assistência judiciária gratuita no Ganha Tempo de Barueri, com agendamento, para quem tem renda familiar de até 3 salários mínimos; telefones (11) 4199-1323, 4199-1320 ou 4199-1333. Também há a Defensoria Pública e, nas causas de até 20 salários mínimos no Juizado Especial Cível e nas ações trabalhistas, dá para entrar sem advogado."
@@ -40,7 +40,7 @@ Para achar um **advogado em Barueri ou em Alphaville**, comece pelo tipo de prob
 | o problema | o especialista | para entender antes |
 | --- | --- | --- |
 | demissão, verbas da rescisão, horas extras, FGTS | **advogado trabalhista** ([guia da região](/artigos/advogado-trabalhista-em-barueri-e-alphaville)) | [demissão sem justa causa](/artigos/demissao-sem-justa-causa), [justa causa](/artigos/demissao-por-justa-causa), [calculadora de rescisão](/calculadoras/rescisao), [calculadora de horas extras](/calculadoras/horas-extras) |
-| aposentadoria, auxílio-doença, BPC, benefício negado | **advogado previdenciário** ([guia da região](/artigos/advogado-previdenciario-em-barueri-e-alphaville)) | [benefício do INSS negado](/artigos/beneficio-inss-negado-como-recorrer), [aposentadoria 2026](/artigos/aposentadoria-2026-regras) |
+| aposentadoria, auxílio-doença, BPC, benefício negado | **advogado previdenciário** ([guia da região](/artigos/advogado-previdenciario-em-barueri-e-alphaville)) | [benefício do INSS negado](/artigos/beneficio-inss-negado-como-recorrer), [aposentadoria 2026](/artigos/aposentadoria-2026-regras), [atendimento do INSS no Ganha Tempo](/artigos/inss-em-barueri) |
 | divórcio, pensão, guarda, união estável, inventário | **advogado de família** ([guia da região](/artigos/advogado-de-familia-em-barueri-e-alphaville)) | [divórcio](/artigos/divorcio), [pensão alimentícia](/artigos/pensao-alimenticia), [inventário](/artigos/inventario) |
 | prisão, inquérito, processo criminal | **advogado criminalista** ([guia da região](/artigos/advogado-criminalista-em-barueri-e-alphaville)) | — |
 | compra com defeito, cobrança indevida, plano de saúde, banco | **advogado do consumidor** ([guia da região](/artigos/advogado-do-consumidor-em-barueri-e-alphaville)) | [como reclamar no Procon](/artigos/como-reclamar-procon), [calculadora de cobrança indevida](/calculadoras/cobranca-indevida), [simulador de compras online](/calculadoras/simulador-direitos-compras-online) |

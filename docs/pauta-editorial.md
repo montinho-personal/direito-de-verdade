@@ -224,6 +224,14 @@ Pedido do Renato em 06/11/2026: "Pode criar essas três, depois mando os prints.
 | 5 | Advogado de plano de saúde em Barueri e Alphaville | `advogado plano de saúde barueri`; `advogado plano de saúde alphaville` | **publicado em 06/11/2026 sem prints** — [doc](artigos/advogado-de-plano-de-saude-em-barueri-e-alphaville.md), `/artigos/advogado-de-plano-de-saude-em-barueri-e-alphaville` |
 | 6 | Advogado de inventário em Alphaville e Barueri | `advogado inventário barueri`; `advogado inventário alphaville`; `multa itcmd sp atraso inventário` | **publicado em 06/11/2026 sem prints** — [doc](artigos/advogado-de-inventario-em-alphaville-e-barueri.md), `/artigos/advogado-de-inventario-em-alphaville-e-barueri` |
 
+## Páginas locais, 3ª rodada (pedido em 09/11/2026)
+
+Pedido do Renato em 09/11/2026: "Pode criar próximos 3 artigos de seo local". Sem prints; um de cada vez. Serviços públicos com fato local próprio, para não virar página-porta.
+
+| ordem | página | buscas para printar | status |
+|---|---|---|---|
+| 1 | INSS em Barueri (Ganha Tempo) | `inss barueri`; `inss barueri agendamento`; `inss ganha tempo barueri` | **publicado em 09/11/2026 sem prints** — [doc](artigos/inss-em-barueri.md), `/artigos/inss-em-barueri` |
+
 ## Prints pendentes
 
 Artigos publicados antes dos prints do Google, a pedido do Renato em
@@ -278,6 +286,7 @@ Lembrar o Renato desta lista a cada entrega.
 | Adicional noturno (`/artigos/adicional-noturno`), publicado em 09/11/2026 | Google: `adicional noturno`; `adicional noturno como calcular`; `hora noturna reduzida`; AnswerThePublic `adicional noturno` | **aguardando prints** |
 | Auxílio-acidente (`/artigos/auxilio-acidente`), publicado em 09/11/2026 | Google: `auxílio acidente`; `auxílio acidente quem tem direito`; `auxílio acidente valor`; AnswerThePublic `auxílio acidente` | **aguardando prints** |
 | Vale-transporte (`/artigos/vale-transporte`), publicado em 09/11/2026 | Google: `vale transporte desconto 6%`; `vale transporte em dinheiro`; `vale transporte é obrigatório`; AnswerThePublic `vale transporte` | **aguardando prints** |
+| INSS em Barueri (`/artigos/inss-em-barueri`), publicado em 09/11/2026 | Google: `inss barueri`; `inss barueri agendamento`; `inss ganha tempo barueri` | **aguardando prints** |
 | Calculadora de cobrança indevida (`/calculadoras/cobranca-indevida`), publicada em 26/10/2026 | Google: `calculadora cobrança indevida`; `devolução em dobro`; AnswerThePublic `cobrança indevida` | **aguardando prints** |
 | Simulador de direitos em compras online (`/calculadoras/simulador-direitos-compras-online`), publicado em 26/10/2026 | Google: `direitos em compras online`; `comprei pela internet e não recebi` | **prints e AnswerThePublic recebidos e página revisada em 27/10/2026** |
 | Calculadora de juros abusivos (`/calculadoras/juros-abusivos`), publicada em 27/10/2026 | Google: `calculadora de juros abusivos`; `como saber se juros são abusivos`; `taxa média banco central financiamento` | **aguardando prints** |

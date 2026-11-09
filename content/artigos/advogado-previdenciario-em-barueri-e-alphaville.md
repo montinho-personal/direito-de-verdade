@@ -4,7 +4,7 @@ tituloSeo: "Advogado previdenciário em Barueri: valor e de graça"
 descricao: "Advogado previdenciário em Barueri: pedir e recorrer ao INSS não exige advogado, e há ajuda gratuita. Veja quanto cobra, como escolher e o endereço do JEF."
 categoria: ajuda-juridica
 publicadoEm: 2026-11-04
-atualizadoEm: 2026-11-04
+atualizadoEm: 2026-11-09
 faq:
   - pergunta: "Preciso de advogado para pedir aposentadoria ao INSS?"
     resposta: "Não. O pedido e o recurso ao INSS são gratuitos e podem ser feitos pelo Meu INSS ou pelo telefone 135, sem advogado. Ele ajuda nos casos com períodos difíceis de provar, perícia ou ação na Justiça."
@@ -86,7 +86,7 @@ Mensalidades de associações e empréstimos que você não contratou, descontad
 | --- | --- |
 | **Justiça Federal e Juizado Especial Federal de Barueri** (44ª Subseção) | Avenida Piracema, 1362, Tamboré, Barueri. PABX: (11) 4568-9000 ([Justiça Federal](https://www.jfsp.jus.br/documentos/subsecoes/barueri/SEI-TRF3_-_11557900_-_Portaria.pdf)) |
 | **cidades atendidas** | Araçariguama, Barueri, Itapevi, Jandira, Pirapora do Bom Jesus, Santana de Parnaíba, São Roque e Vargem Grande Paulista ([TRF3](https://www.trf3.jus.br/scaj/foruns-e-juizados/jurisdicoes-das-varas-e-jefs/jurisdicao-por-subsecoes-secao-judiciaria-de-sao-paulo/barueri-44a-subsecao/)) |
-| **INSS** | Meu INSS (aplicativo ou gov.br/meuinss) e telefone 135, que também agenda o atendimento na agência |
+| **INSS** | Meu INSS (aplicativo ou gov.br/meuinss) e telefone 135, que também agenda o atendimento na agência; quem mora em Barueri também pode abrir o pedido no Ganha Tempo ([INSS em Barueri: documentos e agendamento](/artigos/inss-em-barueri)) |
 
 Para outros tipos de problema, veja [advogado em Barueri e Alphaville](/artigos/advogado-em-barueri-e-alphaville) e [advogado trabalhista na região](/artigos/advogado-trabalhista-em-barueri-e-alphaville).
 
