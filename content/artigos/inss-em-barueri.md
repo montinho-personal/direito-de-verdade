@@ -107,6 +107,6 @@ Dúvidas sobre o Ganha Tempo: telefone **(11) 4199-1333**.
 
 ## E se o INSS negar o benefício?
 
-Você pode **recorrer em 30 dias**, de graça e sem advogado, pelo Meu INSS ou pelo 135 ([gov.br](https://www.gov.br/pt-br/servicos/apresentar-recurso-ordinario-inicial)). Veja o passo a passo em [benefício do INSS negado: como recorrer](/artigos/beneficio-inss-negado-como-recorrer). Para ir à Justiça, a região tem o **Juizado Especial Federal de Barueri**, na Avenida Piracema, 1362, Tamboré, e quem precisa de ajuda pode ver [quando vale contratar um advogado previdenciário em Barueri](/artigos/advogado-previdenciario-em-barueri-e-alphaville) e [onde há atendimento jurídico gratuito na cidade](/artigos/advogado-gratuito-em-barueri).
+Você pode **recorrer em 30 dias**, de graça e sem advogado, pelo Meu INSS ou pelo 135 ([gov.br](https://www.gov.br/pt-br/servicos/apresentar-recurso-ordinario-inicial)). Veja o passo a passo em [benefício do INSS negado: como recorrer](/artigos/beneficio-inss-negado-como-recorrer). Para ir à Justiça, a região tem o [Juizado Especial Federal de Barueri](/artigos/juizado-especial-federal-de-barueri), na Avenida Piracema, 1362, Tamboré, e quem precisa de ajuda pode ver [quando vale contratar um advogado previdenciário em Barueri](/artigos/advogado-previdenciario-em-barueri-e-alphaville) e [onde há atendimento jurídico gratuito na cidade](/artigos/advogado-gratuito-em-barueri).
 
 Este conteúdo é informativo e não substitui o atendimento do INSS ou a orientação de um advogado.

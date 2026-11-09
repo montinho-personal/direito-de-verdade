@@ -84,7 +84,7 @@ Mensalidades de associações e empréstimos que você não contratou, descontad
 
 | onde | endereço e contato |
 | --- | --- |
-| **Justiça Federal e Juizado Especial Federal de Barueri** (44ª Subseção) | Avenida Piracema, 1362, Tamboré, Barueri. PABX: (11) 4568-9000 ([Justiça Federal](https://www.jfsp.jus.br/documentos/subsecoes/barueri/SEI-TRF3_-_11557900_-_Portaria.pdf)) |
+| **Justiça Federal e Juizado Especial Federal de Barueri** (44ª Subseção; [como funciona o JEF de Barueri](/artigos/juizado-especial-federal-de-barueri)) | Avenida Piracema, 1362, Tamboré, Barueri. PABX: (11) 4568-9000 ([Justiça Federal](https://www.jfsp.jus.br/documentos/subsecoes/barueri/SEI-TRF3_-_11557900_-_Portaria.pdf)) |
 | **cidades atendidas** | Araçariguama, Barueri, Itapevi, Jandira, Pirapora do Bom Jesus, Santana de Parnaíba, São Roque e Vargem Grande Paulista ([TRF3](https://www.trf3.jus.br/scaj/foruns-e-juizados/jurisdicoes-das-varas-e-jefs/jurisdicao-por-subsecoes-secao-judiciaria-de-sao-paulo/barueri-44a-subsecao/)) |
 | **INSS** | Meu INSS (aplicativo ou gov.br/meuinss) e telefone 135, que também agenda o atendimento na agência; quem mora em Barueri também pode abrir o pedido no Ganha Tempo ([INSS em Barueri: documentos e agendamento](/artigos/inss-em-barueri)) |
 
