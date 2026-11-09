@@ -200,7 +200,7 @@ Pedido do Renato em 09/11/2026 ("Criar próximos 2 artigos"), sem prints. Um de 
 | ordem | artigo | por que agora | buscas para printar | status |
 |---|---|---|---|---|
 | 1 | Auxílio-acidente do INSS: quem tem direito, valor, como pedir e se dá para trabalhar | par do auxílio-doença; muita dúvida | `auxílio acidente`; `auxílio acidente quem tem direito`; `auxílio acidente valor` | **publicado em 09/11/2026 sem prints** — [doc](artigos/auxilio-acidente.md), `/artigos/auxilio-acidente` |
-| 2 | Vale-transporte: desconto de 6% e regras | dúvida trabalhista diária | `vale transporte desconto 6%`; `vale transporte em dinheiro`; `vale transporte é obrigatório` | a fazer |
+| 2 | Vale-transporte: desconto de 6%, quem tem direito e se pode pagar em dinheiro | dúvida trabalhista diária | `vale transporte desconto 6%`; `vale transporte em dinheiro`; `vale transporte é obrigatório` | **publicado em 09/11/2026 sem prints** — [doc](artigos/vale-transporte.md), `/artigos/vale-transporte` |
 
 ## Próximos dois (pedidos em 09/11/2026)
 
@@ -277,6 +277,7 @@ Lembrar o Renato desta lista a cada entrega.
 | Pensão por morte do INSS (`/artigos/pensao-por-morte-inss`), publicado em 09/11/2026 | Google: `pensão por morte`; `pensão por morte valor`; `pensão por morte quanto tempo dura`; AnswerThePublic `pensão por morte` | **aguardando prints** |
 | Adicional noturno (`/artigos/adicional-noturno`), publicado em 09/11/2026 | Google: `adicional noturno`; `adicional noturno como calcular`; `hora noturna reduzida`; AnswerThePublic `adicional noturno` | **aguardando prints** |
 | Auxílio-acidente (`/artigos/auxilio-acidente`), publicado em 09/11/2026 | Google: `auxílio acidente`; `auxílio acidente quem tem direito`; `auxílio acidente valor`; AnswerThePublic `auxílio acidente` | **aguardando prints** |
+| Vale-transporte (`/artigos/vale-transporte`), publicado em 09/11/2026 | Google: `vale transporte desconto 6%`; `vale transporte em dinheiro`; `vale transporte é obrigatório`; AnswerThePublic `vale transporte` | **aguardando prints** |
 | Calculadora de cobrança indevida (`/calculadoras/cobranca-indevida`), publicada em 26/10/2026 | Google: `calculadora cobrança indevida`; `devolução em dobro`; AnswerThePublic `cobrança indevida` | **aguardando prints** |
 | Simulador de direitos em compras online (`/calculadoras/simulador-direitos-compras-online`), publicado em 26/10/2026 | Google: `direitos em compras online`; `comprei pela internet e não recebi` | **prints e AnswerThePublic recebidos e página revisada em 27/10/2026** |
 | Calculadora de juros abusivos (`/calculadoras/juros-abusivos`), publicada em 27/10/2026 | Google: `calculadora de juros abusivos`; `como saber se juros são abusivos`; `taxa média banco central financiamento` | **aguardando prints** |

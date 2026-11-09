@@ -1,7 +1,7 @@
 ---
 titulo: "Auxílio-acidente do INSS: quem tem direito, valor, como pedir e se dá para trabalhar"
 tituloSeo: "Auxílio-acidente INSS: quem tem direito, valor e como pedir"
-descricao: "Auxílio-acidente é uma indenização do INSS de 50% do salário de benefício para quem ficou com sequela que reduz a capacidade de trabalho. Dá para trabalhar e receber."
+descricao: "Auxílio-acidente é a indenização do INSS de 50% do salário de benefício para quem ficou com sequela que reduz a capacidade de trabalho. Dá para trabalhar e receber."
 categoria: previdencia
 publicadoEm: 2026-11-09
 atualizadoEm: 2026-11-09
