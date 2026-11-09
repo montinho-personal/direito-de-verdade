@@ -200,7 +200,7 @@ Pedido do Renato em 09/11/2026 ("Criar proximos 2 artigos"), sem prints. Um de c
 | ordem | artigo | por que agora | buscas para printar | status |
 |---|---|---|---|---|
 | 1 | Pensão por morte do INSS: quem tem direito, valor, quanto tempo dura e como pedir | tema previdenciário de alta procura que faltava | `pensão por morte`; `pensão por morte valor`; `pensão por morte quanto tempo dura` | **publicado em 09/11/2026 sem prints** — [doc](artigos/pensao-por-morte-inss.md), `/artigos/pensao-por-morte-inss` |
-| 2 | Adicional noturno | dúvida trabalhista de alta procura que faltava | `adicional noturno`; `adicional noturno como calcular`; `hora noturna reduzida` | a fazer |
+| 2 | Adicional noturno: quanto é, horário, hora reduzida e como calcular | dúvida trabalhista de alta procura que faltava | `adicional noturno`; `adicional noturno como calcular`; `hora noturna reduzida` | **publicado em 09/11/2026 sem prints** — [doc](artigos/adicional-noturno.md), `/artigos/adicional-noturno` |
 
 ## Páginas locais, 2ª rodada (pedido em 06/11/2026)
 
@@ -266,6 +266,7 @@ Lembrar o Renato desta lista a cada entrega.
 | Licença-maternidade (`/artigos/licenca-maternidade`), publicado em 06/11/2026 | Google: `licença maternidade`; `licença maternidade quantos dias`; `salário maternidade valor`; AnswerThePublic `licença maternidade` | **aguardando prints** |
 | Faltas justificadas (`/artigos/faltas-justificadas`), publicado em 06/11/2026 | Google: `faltas justificadas clt`; `atestado médico empresa pode recusar`; `quantos dias de folga por falecimento`; AnswerThePublic `faltas justificadas` | **aguardando prints** |
 | Pensão por morte do INSS (`/artigos/pensao-por-morte-inss`), publicado em 09/11/2026 | Google: `pensão por morte`; `pensão por morte valor`; `pensão por morte quanto tempo dura`; AnswerThePublic `pensão por morte` | **aguardando prints** |
+| Adicional noturno (`/artigos/adicional-noturno`), publicado em 09/11/2026 | Google: `adicional noturno`; `adicional noturno como calcular`; `hora noturna reduzida`; AnswerThePublic `adicional noturno` | **aguardando prints** |
 | Calculadora de cobrança indevida (`/calculadoras/cobranca-indevida`), publicada em 26/10/2026 | Google: `calculadora cobrança indevida`; `devolução em dobro`; AnswerThePublic `cobrança indevida` | **aguardando prints** |
 | Simulador de direitos em compras online (`/calculadoras/simulador-direitos-compras-online`), publicado em 26/10/2026 | Google: `direitos em compras online`; `comprei pela internet e não recebi` | **prints e AnswerThePublic recebidos e página revisada em 27/10/2026** |
 | Calculadora de juros abusivos (`/calculadoras/juros-abusivos`), publicada em 27/10/2026 | Google: `calculadora de juros abusivos`; `como saber se juros são abusivos`; `taxa média banco central financiamento` | **aguardando prints** |
