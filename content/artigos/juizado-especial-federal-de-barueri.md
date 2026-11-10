@@ -1,20 +1,22 @@
 ---
-titulo: "Juizado Especial Federal de Barueri: endereço, o que julga e como entrar sem advogado"
-tituloSeo: "Juizado Especial Federal de Barueri: endereço e sem advogado"
+titulo: "Juizado Especial Federal de Barueri: endereço, telefone, como entrar com a ação e se é gratuito"
+tituloSeo: "JEF Barueri: endereço, telefone e como entrar sem advogado"
 descricao: "Juizado Especial Federal de Barueri: Av. Piracema, 1362, Tamboré. Julga ações contra INSS, Caixa e União de até 60 mínimos, sem advogado. Veja as cidades."
 categoria: ajuda-juridica
 publicadoEm: 2026-11-09
-atualizadoEm: 2026-11-09
+atualizadoEm: 2026-11-10
 faq:
   - pergunta: "Onde fica o Juizado Especial Federal de Barueri?"
     resposta: "Na Avenida Piracema, 1362, Tamboré, Barueri, no prédio da Justiça Federal (44ª Subseção). O PABX é (11) 4568-9000."
   - pergunta: "Quais cidades são atendidas pela Justiça Federal de Barueri?"
     resposta: "Araçariguama, Barueri, Itapevi, Jandira, Pirapora do Bom Jesus, Santana de Parnaíba, São Roque e Vargem Grande Paulista, segundo o TRF3."
+  - pergunta: "Tem Justiça Federal em Barueri?"
+    resposta: "Tem. Barueri é sede da 44ª Subseção Judiciária: a Justiça Federal e o Juizado Especial Federal ficam na Avenida Piracema, 1362, Tamboré, e atendem oito cidades da região."
   - pergunta: "Precisa de advogado no Juizado Especial Federal?"
     resposta: "Não. Nas causas de até 60 salários mínimos, a pessoa pode entrar sozinha ou indicar por escrito um representante, advogado ou não (Lei 10.259/2001, artigos 3º e 10)."
   - pergunta: "Quanto tempo o INSS tem para pagar depois que eu ganho no JEF?"
     resposta: "Depois do trânsito em julgado, o pagamento de até 60 salários mínimos sai em 60 dias da requisição do juiz, sem precatório (Lei 10.259/2001, artigo 17)."
-  - pergunta: "Paga custas para entrar no Juizado Especial Federal?"
+  - pergunta: "O Juizado Especial Federal é gratuito?"
     resposta: "Não na primeira instância: o acesso ao Juizado não depende de custas, e quem perde a sentença de primeiro grau não paga honorários, salvo má-fé (Lei 9.099/1995, artigos 54 e 55, aplicada ao JEF pelo artigo 1º da Lei 10.259/2001)."
 fontes:
   - nome: "Lei nº 10.259/2001 (Juizados Especiais Federais), artigos 1º, 3º, 6º, 9º, 10, 12, 13 e 17, texto atualizado (Câmara dos Deputados)"
@@ -37,15 +39,18 @@ fontes:
 
 O **Juizado Especial Federal de Barueri** fica na **Avenida Piracema, 1362, Tamboré**, no prédio da Justiça Federal, perto de **Alphaville**; o PABX é **(11) 4568-9000** ([Justiça Federal](https://www.jfsp.jus.br/documentos/subsecoes/barueri/SEI-TRF3_-_11557900_-_Portaria.pdf)). Ele julga ações contra o **INSS**, a **Caixa**, a **União** e outros órgãos federais de até **60 salários mínimos**, e a pessoa pode entrar **sem advogado** ([Lei 10.259/2001, artigos 3º e 10](https://www2.camara.leg.br/legin/fed/lei/2001/lei-10259-12-julho-2001-330060-normaatualizada-pl.html)). Atende quem mora em **Barueri, Santana de Parnaíba** e outras seis cidades da região. Na primeira instância, **não há custas**.
 
-## Onde fica e quais cidades atende
+## Tem Justiça Federal em Barueri? Endereço, telefone e cidades
 
 | item | dado |
 | --- | --- |
-| **endereço** | Avenida Piracema, 1362, Tamboré, Barueri (44ª Subseção Judiciária) |
+| **o que há** | Justiça Federal e Juizado Especial Federal da **44ª Subseção Judiciária** |
+| **endereço** | Avenida Piracema, 1362, **Tamboré**, Barueri |
 | **telefone** | PABX (11) 4568-9000 |
 | **cidades atendidas** | Araçariguama, Barueri, Itapevi, Jandira, Pirapora do Bom Jesus, Santana de Parnaíba, São Roque e Vargem Grande Paulista ([TRF3](https://www.trf3.jus.br/scaj/foruns-e-juizados/jurisdicoes-das-varas-e-jefs/jurisdicao-por-subsecoes-secao-judiciaria-de-sao-paulo/barueri-44a-subsecao/)) |
 
-Quem mora em **Alphaville** ou na **Aldeia da Serra** é atendido aqui, dos dois lados da divisa, porque Barueri e Santana de Parnaíba estão na mesma subseção. Não confunda com o **Fórum de Barueri** (Justiça Estadual) nem com o [Fórum Trabalhista de Barueri](/artigos/forum-trabalhista-de-barueri), em Alphaville Industrial.
+Quem mora em **Alphaville** ou na **Aldeia da Serra** é atendido aqui, dos dois lados da divisa, porque Barueri e Santana de Parnaíba estão na mesma subseção. Não confunda com o **Juizado Especial Cível** (Justiça Estadual), que fica no Fórum de Barueri e julga causas contra empresas e pessoas, nem com o [Fórum Trabalhista de Barueri](/artigos/forum-trabalhista-de-barueri), em Alphaville Industrial. Para saber onde procurar ajuda em cada caso, veja [advogado gratuito em Barueri](/artigos/advogado-gratuito-em-barueri).
+
+**Consulta processual:** quem já tem processo acompanha pelo site da Justiça Federal (jfsp.jus.br), com o número do processo.
 
 ## O que o Juizado Especial Federal julga?
 
@@ -67,9 +72,9 @@ Podem **entrar com a ação** as **pessoas físicas** e as **microempresas e emp
 
 Quando o pedido envolve **parcelas que ainda vão vencer**, como um benefício mensal, a **soma de 12 parcelas** não pode passar do limite (artigo 3º, § 2º). Onde há Juizado Federal instalado, como em Barueri, as causas dentro do limite **têm de ir para ele** (artigo 3º, § 3º).
 
-## Precisa de advogado no JEF?
+## Como entrar com uma ação no Juizado Especial Federal?
 
-**Não.** A pessoa pode entrar **sozinha** ou indicar, **por escrito**, um representante para a causa, **advogado ou não** (Lei 10.259/2001, artigo 10). Mesmo assim, um advogado ou a **Defensoria Pública da União**, que atua na Justiça Federal ([Lei Complementar 80/1994, artigo 14](https://www2.camara.leg.br/legin/fed/leicom/1994/leicomplementar-80-12-janeiro-1994-363035-normaatualizada-pl.pdf)), podem ajudar nos casos com perícia ou períodos difíceis de provar. Veja [advogado previdenciário em Barueri](/artigos/advogado-previdenciario-em-barueri-e-alphaville) e [onde há advogado gratuito na cidade](/artigos/advogado-gratuito-em-barueri).
+**Precisa de advogado? Não.** A pessoa pode entrar **sozinha** ou indicar, **por escrito**, um representante para a causa, **advogado ou não** (Lei 10.259/2001, artigo 10). Mesmo assim, um advogado ou a **Defensoria Pública da União**, que atua na Justiça Federal ([Lei Complementar 80/1994, artigo 14](https://www2.camara.leg.br/legin/fed/leicom/1994/leicomplementar-80-12-janeiro-1994-363035-normaatualizada-pl.pdf)), podem ajudar nos casos com perícia ou períodos difíceis de provar. Veja [advogado previdenciário em Barueri](/artigos/advogado-previdenciario-em-barueri-e-alphaville) e [onde há advogado gratuito na cidade](/artigos/advogado-gratuito-em-barueri).
 
 **Como entrar sem advogado:** o pedido feito pela própria pessoa se chama **atermação**. Confira o canal de atendimento e o horário no site da Justiça Federal (jfsp.jus.br) ou pelo PABX antes de ir.
 
@@ -80,7 +85,7 @@ Quando o pedido envolve **parcelas que ainda vão vencer**, como um benefício m
 - a **carta de indeferimento** ou a decisão do órgão;
 - no caso do INSS, o **CNIS** (extrato de contribuições do Meu INSS), a carteira de trabalho e os **laudos médicos**, se o caso for de incapacidade.
 
-## Quanto custa e quanto tempo demora?
+## O Juizado Especial Federal é gratuito? Custos e prazos
 
 - **Custas:** nenhuma na primeira instância, e quem perde a sentença **não paga honorários** do outro lado, salvo má-fé ([Lei 9.099/1995, artigos 54 e 55](https://www2.camara.leg.br/legin/fed/lei/1995/lei-9099-26-setembro-1995-348608-normaatualizada-pl.html)), aplicada ao JEF pelo artigo 1º da Lei 10.259/2001.
 - **Perícia:** quando precisa, o **juiz nomeia** o perito, e o laudo sai até 5 dias antes da audiência (Lei 10.259/2001, artigo 12).

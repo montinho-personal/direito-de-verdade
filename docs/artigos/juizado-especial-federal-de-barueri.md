@@ -6,9 +6,14 @@
 
 ## Prints recebidos
 
+Arquivos em `prints/juizado-especial-federal-de-barueri/` (10/11/2026).
+
 | print | conteúdo | onde entrou |
 |---|---|---|
-| — | aguardando: `juizado especial federal barueri`; `justiça federal barueri`; `jef barueri telefone`; `atermação jef` | — |
+| `juizado especial federal barueri`, autocompletar (1) | endereço · cível de barueri · justiça federal em barueri · fotos · consulta · telefone · consulta processual | tituloSeo "JEF Barueri: endereço, telefone e como entrar sem advogado"; nota da consulta processual; fotos: fora |
+| "Outras pessoas pesquisaram" (2, 4) | endereço · consulta processual · telefone · juizado especial de barueri · TRF3 Barueri · JEF Tamboré · Juizado Especial Cível Barueri endereço/telefone · 1ª e 2ª Vara Federal de Barueri e-mail/telefone · JEF Osasco | Tamboré destacado na tabela; diferença para o Juizado Especial Cível estadual. E-mail e telefone das varas: sem fonte lida (TRF3 fora do ar), Pendente |
+| PAA (3) | Como entrar com uma ação no Juizado Especial Federal? · Tem Justiça Federal em Barueri? · O Juizado Especial Federal é gratuito? · Como acessar o Juizado Especial Federal? | três H2 renomeados para essas perguntas; FAQ "Tem Justiça Federal em Barueri?" e "O JEF é gratuito?" |
+| trecho de notícia de 2014 (4) | município receberia duas varas federais e JEF para oito municípios | não usado: número de varas sem fonte lida |
 
 ## Ferramentas
 
@@ -32,6 +37,8 @@ Calculadora de cobrança indevida, na seção de custos (desconto indevido no be
 | Ação judicial = desistência do recurso administrativo | INSS, dúvidas frequentes | oficial |
 
 ## Pendente
+
+- E-mails e telefones da 1ª e 2ª Vara Federal e do JEF de Barueri, e o caminho da consulta processual: TRF3/JFSP inacessíveis em 10/11/2026.
 
 - Canal e horário da atermação no JEF de Barueri e o Serviço de Atermação Online (SAO) do TRF3: trf3.jus.br respondeu 503 em 09/11/2026; a página manda conferir no site da JFSP. Revisar quando o site voltar.
 - Advogado obrigatório no recurso do JEF: não afirmado (a Lei 10.259 não diz; tema com divergência).
