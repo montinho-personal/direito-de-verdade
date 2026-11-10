@@ -4,7 +4,7 @@ tituloSeo: "Advogado criminalista em Barueri: valor e defesa de graça"
 descricao: "Advogado criminalista em Barueri e Alphaville: o que fazer se alguém for preso, onde há defesa de graça, quanto custa e como saber se o advogado é bom."
 categoria: ajuda-juridica
 publicadoEm: 2026-11-05
-atualizadoEm: 2026-11-06
+atualizadoEm: 2026-11-10
 faq:
   - pergunta: "Quem foi preso tem direito a advogado?"
     resposta: "Tem. O preso deve ser informado dos seus direitos, entre eles o de ficar calado, e tem assegurada a assistência da família e de advogado (Constituição, artigo 5º, LXIII). Se não tiver advogado, a Defensoria Pública recebe cópia do auto de prisão em flagrante em até 24 horas (CPP, artigo 306, § 1º)."
@@ -51,7 +51,7 @@ Não é obrigatório, mas é um direito: o advogado pode **acompanhar o cliente 
 
 ## Tem advogado criminalista de graça em Barueri?
 
-- **Assistência judiciária gratuita da OAB no Ganha Tempo de Barueri:** atendimento jurídico **gratuito** para quem tem **renda familiar de até 3 salários mínimos**, com **agendamento** (as vagas do dia são liberadas das 8h30 às 10h45), de segunda a sexta, na Avenida Henriqueta Mendes Guerra, 550, Centro. Telefones (11) 4199-1323, 4199-1320 ou 4199-1333 (ramais 190, 204 ou 144); e-mail ganhatempo@oabbarueri.org.br; dúvidas pelo WhatsApp oficial da OAB, 9-3747-5791, opção 1 ([Prefeitura de Barueri](https://www.barueri.sp.gov.br/ganhatempo/Servicos.aspx?setor=verde&servico=663)). Confirme no agendamento se o seu tipo de caso é atendido.
+- **Assistência judiciária gratuita da OAB no Ganha Tempo de Barueri:** para quem tem **renda familiar de até 3 salários mínimos**, com agendamento, na Avenida Henriqueta Mendes Guerra, 550. Veja [como agendar e o WhatsApp da OAB](/artigos/advogado-gratuito-em-barueri).
 - **Defensoria Pública do Estado de São Paulo:** atende quem não pode pagar advogado, e a área criminal está entre as cobertas pelo **convênio com a OAB-SP**, pelo qual advogados particulares atendem de forma suplementar ([termo de convênio, TJSP](https://www.tjsp.jus.br/Download/SPI/Downloads/TermoConvenioDefensoriaOAB.pdf)). Confira o atendimento no site da Defensoria (defensoria.sp.def.br).
 - **Defensor nomeado pelo juiz:** quem responde a processo sem advogado recebe um defensor nomeado e pode trocar por um de sua confiança a qualquer momento. Quem não é pobre paga os honorários fixados pelo juiz (CPP, artigo 263).
 

@@ -4,7 +4,7 @@ tituloSeo: "Advogado de trânsito em Barueri: valor, gratuito e multas"
 descricao: "Advogado de trânsito em Barueri e Alphaville: recorrer de multa é grátis e sem advogado. Veja quem cuida do trânsito na cidade, quanto cobra e quando contratar."
 categoria: ajuda-juridica
 publicadoEm: 2026-11-06
-atualizadoEm: 2026-11-06
+atualizadoEm: 2026-11-10
 faq:
   - pergunta: "Preciso de advogado para recorrer de multa?"
     resposta: "Não. A defesa prévia e os recursos à JARI e ao Cetran são gratuitos e podem ser feitos pelo próprio motorista. Se alguém recorrer por você, como advogado ou despachante, precisa de procuração."
@@ -64,7 +64,7 @@ Não há preço fixo por lei. A **OAB-SP publica uma tabela de honorários** que
 ## Como conseguir um advogado gratuito em Barueri?
 
 - **Recurso de multa:** não precisa de advogado; é gratuito.
-- **Assistência judiciária gratuita da OAB no Ganha Tempo de Barueri:** atendimento jurídico **gratuito** para quem tem **renda familiar de até 3 salários mínimos**, com **agendamento** (as vagas do dia são liberadas das 8h30 às 10h45), de segunda a sexta, na Avenida Henriqueta Mendes Guerra, 550, Centro. Telefones (11) 4199-1323, 4199-1320 ou 4199-1333 (ramais 190, 204 ou 144); e-mail ganhatempo@oabbarueri.org.br; dúvidas pelo WhatsApp oficial da OAB, 9-3747-5791, opção 1 ([Prefeitura de Barueri](https://www.barueri.sp.gov.br/ganhatempo/Servicos.aspx?setor=verde&servico=663)). Confirme no agendamento se o seu tipo de caso é atendido.
+- **Assistência judiciária gratuita da OAB no Ganha Tempo de Barueri:** para quem tem **renda familiar de até 3 salários mínimos**, com agendamento, na Avenida Henriqueta Mendes Guerra, 550. Veja [telefones e agendamento da assistência judiciária](/artigos/advogado-gratuito-em-barueri).
 - **Defensoria Pública do Estado de São Paulo:** atende quem não pode pagar advogado em processos criminais e cíveis, como indenização por acidente. Confira o atendimento no site da Defensoria (defensoria.sp.def.br).
 - **Juizado Especial Cível:** pedidos de indenização por acidente de até **20 salários mínimos** sem advogado ([Lei 9.099/1995](https://www2.camara.leg.br/legin/fed/lei/1995/lei-9099-26-setembro-1995-348608-normaatualizada-pl.html)).
 

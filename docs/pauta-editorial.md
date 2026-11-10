@@ -234,6 +234,16 @@ Pedido do Renato em 09/11/2026: "Pode criar próximos 3 artigos de seo local". S
 | 2 | Advogado gratuito em Barueri | `advogado gratuito barueri`; `defensoria pública barueri`; `oab barueri atendimento gratuito`; `justiça gratuita` | **publicado em 09/11/2026; revisado com prints em 10/11/2026** — [doc](artigos/advogado-gratuito-em-barueri.md), `/artigos/advogado-gratuito-em-barueri` |
 | 3 | Juizado Especial Federal de Barueri | `juizado especial federal barueri`; `justiça federal barueri`; `jef barueri telefone` | **publicado em 09/11/2026; revisado com prints em 10/11/2026** — [doc](artigos/juizado-especial-federal-de-barueri.md), `/artigos/juizado-especial-federal-de-barueri` |
 
+## Search Console: análise de 10/11/2026
+
+Export "Rastreada, mas não indexada no momento" (10 URLs, rastreadas em 07/11): 6 páginas "advogado [área] em [cidade]" (trânsito, família, criminalista e plano de saúde em Barueri; trabalhista e criminalista em Santana), recurso de multa em Barueri, licença-maternidade e 2 arquivos de fonte (`.woff2`, sem importância). Páginas de serviço com fatos próprios (Procon, Fórum Trabalhista, condomínio, inventário) não aparecem.
+
+Diagnóstico: domínio novo (dados desde 18/10) com publicação rápida, e molde repetido nas páginas de área (20% a 32% das frases de 8 palavras aparecem em outra página; as de Santana têm ~560 palavras e repetem 17% a 19% das de Barueri).
+
+Feito em 10/11/2026: bloco longo da OAB trocado por uma linha com link para [advogado gratuito em Barueri](artigos/advogado-gratuito-em-barueri.md) nas 4 páginas de Barueri recusadas; títulos e descrições das categorias; nota de método editorial abaixo das fontes, com link para "Como produzimos o conteúdo" (sem advogado revisor, confirmado pelo Renato).
+
+Decidido: não criar novas páginas "advogado [área] em [cidade]"; página local só com fato próprio. Pendente: decisão do Renato sobre juntar as duas de Santana na página geral de Santana; exports de "Página com redirecionamento", "Detectada, mas não indexada" e Desempenho.
+
 ## Prints pendentes
 
 Artigos publicados antes dos prints do Google, a pedido do Renato em

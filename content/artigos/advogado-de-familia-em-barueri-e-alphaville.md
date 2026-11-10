@@ -4,7 +4,7 @@ tituloSeo: "Advogado de família em Barueri: gratuito, valor e divórcio"
 descricao: "Advogado de família em Barueri: onde conseguir gratuito, quanto cobra um advogado familiar, como escolher, a conciliação do fórum e o cálculo da pensão."
 categoria: ajuda-juridica
 publicadoEm: 2026-11-05
-atualizadoEm: 2026-11-06
+atualizadoEm: 2026-11-10
 faq:
   - pergunta: "Dá para fazer divórcio sem advogado?"
     resposta: "Não. Mesmo o divórcio consensual no cartório exige advogado ou defensor público, que assina a escritura (CPC, artigo 733, § 2º). Na Justiça, as partes também vão à audiência acompanhadas de advogado ou defensor (artigo 695, § 4º)."
@@ -52,7 +52,7 @@ O **advogado de família em Barueri e Alphaville** cuida de divórcio, pensão a
 
 ## Onde conseguir advogado de família gratuito em Barueri?
 
-- **Assistência judiciária gratuita da OAB no Ganha Tempo de Barueri:** atendimento jurídico **gratuito** para quem tem **renda familiar de até 3 salários mínimos**, com **agendamento** (as vagas do dia são liberadas das 8h30 às 10h45), de segunda a sexta, na Avenida Henriqueta Mendes Guerra, 550, Centro. Telefones (11) 4199-1323, 4199-1320 ou 4199-1333 (ramais 190, 204 ou 144); e-mail ganhatempo@oabbarueri.org.br; dúvidas pelo WhatsApp oficial da OAB, 9-3747-5791, opção 1 ([Prefeitura de Barueri](https://www.barueri.sp.gov.br/ganhatempo/Servicos.aspx?setor=verde&servico=663)). Confirme no agendamento se o seu tipo de caso é atendido.
+- **Assistência judiciária gratuita da OAB no Ganha Tempo de Barueri:** para quem tem **renda familiar de até 3 salários mínimos**, com agendamento, na Avenida Henriqueta Mendes Guerra, 550. Veja [o passo a passo do atendimento gratuito](/artigos/advogado-gratuito-em-barueri).
 - **Defensoria Pública do Estado de São Paulo:** atende quem não pode pagar advogado, e a área de família está entre as cobertas pelo **convênio com a OAB-SP**, pelo qual advogados particulares atendem de forma suplementar, pagos pelo Estado ([termo de convênio, TJSP](https://www.tjsp.jus.br/Download/SPI/Downloads/TermoConvenioDefensoriaOAB.pdf)). Confira o atendimento e o critério de renda no site da Defensoria (defensoria.sp.def.br).
 - **Gratuidade da justiça:** quem não pode pagar custas e honorários tem direito a ela (CPC, artigo 98). Peça na própria ação.
 - **CEJUSC de Barueri:** atende casos **pré-processuais de família e cíveis**, para tentar um acordo antes de existir processo (endereço abaixo).

@@ -4,7 +4,7 @@ tituloSeo: "Advogado de plano de saúde em Barueri: custo e como processar"
 descricao: "Advogado de plano de saúde em Barueri e Alphaville: quanto custa, onde conseguir de graça, como entrar na Justiça contra o plano e quando a negativa é abusiva."
 categoria: ajuda-juridica
 publicadoEm: 2026-11-06
-atualizadoEm: 2026-11-07
+atualizadoEm: 2026-11-10
 faq:
   - pergunta: "Preciso de advogado para reclamar do plano de saúde?"
     resposta: "Não para reclamar: a ANS recebe reclamações de graça, pelo site ou pelo Disque ANS 0800 701 9656, e o Procon também atende, porque o Código de Defesa do Consumidor vale para os planos, salvo os de autogestão (Súmula 608 do STJ). O advogado entra quando é preciso ir à Justiça."
@@ -85,7 +85,7 @@ Não há preço fixo por lei. A **OAB-SP publica uma tabela de honorários** que
 
 ## Onde conseguir advogado gratuito em Barueri?
 
-- **Assistência judiciária gratuita da OAB no Ganha Tempo de Barueri:** atendimento jurídico **gratuito** para quem tem **renda familiar de até 3 salários mínimos**, com **agendamento** (as vagas do dia são liberadas das 8h30 às 10h45), de segunda a sexta, na Avenida Henriqueta Mendes Guerra, 550, Centro. Telefones (11) 4199-1323, 4199-1320 ou 4199-1333 (ramais 190, 204 ou 144); e-mail ganhatempo@oabbarueri.org.br; dúvidas pelo WhatsApp oficial da OAB, 9-3747-5791, opção 1 ([Prefeitura de Barueri](https://www.barueri.sp.gov.br/ganhatempo/Servicos.aspx?setor=verde&servico=663)). Confirme no agendamento se o seu tipo de caso é atendido.
+- **Assistência judiciária gratuita da OAB no Ganha Tempo de Barueri:** para quem tem **renda familiar de até 3 salários mínimos**, com agendamento, na Avenida Henriqueta Mendes Guerra, 550. Veja [quem tem direito e como agendar](/artigos/advogado-gratuito-em-barueri).
 - **Defensoria Pública do Estado de São Paulo:** atende quem não pode pagar advogado, e as causas de consumo estão entre as cobertas pelo **convênio com a OAB-SP** ([termo de convênio, TJSP](https://www.tjsp.jus.br/Download/SPI/Downloads/TermoConvenioDefensoriaOAB.pdf)). Em urgência, diga isso logo no primeiro atendimento.
 - **Juizado Especial Cível:** no Fórum de Barueri, na Vila Porto, causas de até **20 salários mínimos sem advogado**.
 
