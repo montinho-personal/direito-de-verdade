@@ -23,7 +23,7 @@ export async function generateMetadata({
   const categoria = categoriaPorSlug(slug);
   if (!categoria) return {};
   return metadadosDaPagina({
-    titulo: `${categoria.nome}: seus direitos explicados`,
+    titulo: categoria.tituloSeo,
     descricao: categoria.descricao,
     caminho: `/categoria/${categoria.slug}`,
   });

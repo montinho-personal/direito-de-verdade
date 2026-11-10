@@ -41,7 +41,7 @@ export default function Sobre() {
         <li>Revisar e atualizar os textos quando a lei mudar.</li>
       </ul>
 
-      <h2>Como produzimos o conteúdo</h2>
+      <h2 id="como-produzimos">Como produzimos o conteúdo</h2>
       <ul>
         <li>
           <strong>Só fontes oficiais:</strong> cada informação vem da lei no

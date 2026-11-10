@@ -310,6 +310,18 @@ export function PaginaDoArtigo({ artigo }: { artigo: Artigo }) {
                   </li>
                 ))}
               </ul>
+              <p className="mt-4 text-sm leading-6 text-muted">
+                Cada informação desta página foi conferida nas fontes acima:
+                leis, órgãos públicos e tribunais, ou dois veículos de imprensa
+                independentes. Veja{" "}
+                <Link
+                  href="/sobre#como-produzimos"
+                  className="text-accent underline underline-offset-4 hover:no-underline"
+                >
+                  como produzimos o conteúdo
+                </Link>
+                .
+              </p>
             </section>
           )}
 
