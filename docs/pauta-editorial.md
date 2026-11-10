@@ -231,7 +231,7 @@ Pedido do Renato em 09/11/2026: "Pode criar próximos 3 artigos de seo local". S
 | ordem | página | buscas para printar | status |
 |---|---|---|---|
 | 1 | INSS em Barueri (Ganha Tempo) | `inss barueri`; `inss barueri agendamento`; `inss ganha tempo barueri` | **publicado em 09/11/2026; revisado com prints em 09/11/2026** — [doc](artigos/inss-em-barueri.md), `/artigos/inss-em-barueri` |
-| 2 | Advogado gratuito em Barueri | `advogado gratuito barueri`; `defensoria pública barueri`; `oab barueri atendimento gratuito`; `justiça gratuita` | **publicado em 09/11/2026 sem prints** — [doc](artigos/advogado-gratuito-em-barueri.md), `/artigos/advogado-gratuito-em-barueri` |
+| 2 | Advogado gratuito em Barueri | `advogado gratuito barueri`; `defensoria pública barueri`; `oab barueri atendimento gratuito`; `justiça gratuita` | **publicado em 09/11/2026; revisado com prints em 10/11/2026** — [doc](artigos/advogado-gratuito-em-barueri.md), `/artigos/advogado-gratuito-em-barueri` |
 | 3 | Juizado Especial Federal de Barueri | `juizado especial federal barueri`; `justiça federal barueri`; `jef barueri telefone` | **publicado em 09/11/2026 sem prints** — [doc](artigos/juizado-especial-federal-de-barueri.md), `/artigos/juizado-especial-federal-de-barueri` |
 
 ## Prints pendentes
@@ -288,7 +288,6 @@ Lembrar o Renato desta lista a cada entrega.
 | Adicional noturno (`/artigos/adicional-noturno`), publicado em 09/11/2026 | Google: `adicional noturno`; `adicional noturno como calcular`; `hora noturna reduzida`; AnswerThePublic `adicional noturno` | **aguardando prints** |
 | Auxílio-acidente (`/artigos/auxilio-acidente`), publicado em 09/11/2026 | Google: `auxílio acidente`; `auxílio acidente quem tem direito`; `auxílio acidente valor`; AnswerThePublic `auxílio acidente` | **aguardando prints** |
 | Vale-transporte (`/artigos/vale-transporte`), publicado em 09/11/2026 | Google: `vale transporte desconto 6%`; `vale transporte em dinheiro`; `vale transporte é obrigatório`; AnswerThePublic `vale transporte` | **aguardando prints** |
-| Advogado gratuito em Barueri (`/artigos/advogado-gratuito-em-barueri`), publicado em 09/11/2026 | Google: `advogado gratuito barueri`; `defensoria pública barueri`; `oab barueri atendimento gratuito` | **aguardando prints** |
 | Juizado Especial Federal de Barueri (`/artigos/juizado-especial-federal-de-barueri`), publicado em 09/11/2026 | Google: `juizado especial federal barueri`; `justiça federal barueri`; `jef barueri telefone` | **aguardando prints** |
 | Calculadora de cobrança indevida (`/calculadoras/cobranca-indevida`), publicada em 26/10/2026 | Google: `calculadora cobrança indevida`; `devolução em dobro`; AnswerThePublic `cobrança indevida` | **aguardando prints** |
 | Simulador de direitos em compras online (`/calculadoras/simulador-direitos-compras-online`), publicado em 26/10/2026 | Google: `direitos em compras online`; `comprei pela internet e não recebi` | **prints e AnswerThePublic recebidos e página revisada em 27/10/2026** |
