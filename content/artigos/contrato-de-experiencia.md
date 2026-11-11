@@ -61,7 +61,7 @@ Os mesmos de qualquer empregado com carteira:
 - **horas extras**, **adicional noturno**, descanso semanal e [vale-transporte](/artigos/vale-transporte);
 - **13º salário** e **férias** proporcionais, pagos na saída.
 
-A experiência não é "período sem registro" nem "teste sem pagamento". Trabalhar sem carteira nos primeiros meses é irregular.
+A experiência não é "período sem registro" nem "teste sem pagamento". Trabalhar sem carteira nos primeiros meses é irregular. Também não se confunde com estágio, que segue outra lei: veja os [direitos do estagiário](/artigos/estagio-direitos).
 
 ## O que recebe no fim do contrato de experiência?
 

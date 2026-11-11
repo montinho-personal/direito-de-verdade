@@ -241,6 +241,7 @@ Pedido do Renato em 11/11/2026: "Pode criar os dois próximos artigos de conteú
 | ordem | artigo | buscas para printar | status |
 |---|---|---|---|
 | 1 | Contrato de experiência | `contrato de experiência`; `contrato de experiência 45 dias`; `rescisão contrato de experiência`; `contrato de experiência seguro desemprego` | **publicado em 11/11/2026 sem prints** — [doc](artigos/contrato-de-experiencia.md), `/artigos/contrato-de-experiencia` |
+| 2 | Direitos do estagiário (Lei do Estágio) | `direitos do estagiário`; `lei do estágio`; `estagiário tem direito a férias`; `carga horária estágio` | **publicado em 11/11/2026 sem prints** — [doc](artigos/estagio-direitos.md), `/artigos/estagio-direitos` |
 
 ## Search Console: análise de 10/11/2026
 
@@ -307,6 +308,7 @@ Lembrar o Renato desta lista a cada entrega.
 | Auxílio-acidente (`/artigos/auxilio-acidente`), publicado em 09/11/2026 | Google: `auxílio acidente`; `auxílio acidente quem tem direito`; `auxílio acidente valor`; AnswerThePublic `auxílio acidente` | **aguardando prints** |
 | Vale-transporte (`/artigos/vale-transporte`), publicado em 09/11/2026 | Google: `vale transporte desconto 6%`; `vale transporte em dinheiro`; `vale transporte é obrigatório`; AnswerThePublic `vale transporte` | **aguardando prints** |
 | Contrato de experiência (`/artigos/contrato-de-experiencia`), publicado em 11/11/2026 | Google: `contrato de experiência`; `contrato de experiência 45 dias`; `rescisão contrato de experiência` | **aguardando prints** |
+| Direitos do estagiário (`/artigos/estagio-direitos`), publicado em 11/11/2026 | Google: `direitos do estagiário`; `lei do estágio`; `estagiário tem direito a férias` | **aguardando prints** |
 | Calculadora de cobrança indevida (`/calculadoras/cobranca-indevida`), publicada em 26/10/2026 | Google: `calculadora cobrança indevida`; `devolução em dobro`; AnswerThePublic `cobrança indevida` | **aguardando prints** |
 | Simulador de direitos em compras online (`/calculadoras/simulador-direitos-compras-online`), publicado em 26/10/2026 | Google: `direitos em compras online`; `comprei pela internet e não recebi` | **prints e AnswerThePublic recebidos e página revisada em 27/10/2026** |
 | Calculadora de juros abusivos (`/calculadoras/juros-abusivos`), publicada em 27/10/2026 | Google: `calculadora de juros abusivos`; `como saber se juros são abusivos`; `taxa média banco central financiamento` | **aguardando prints** |

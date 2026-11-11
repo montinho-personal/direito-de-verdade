@@ -4,7 +4,7 @@ tituloSeo: "Trabalho temporário de fim de ano: direitos, 13º e seguro"
 descricao: "Trabalho temporário de fim de ano tem carteira, 13º, férias com 1/3 e FGTS. Veja o que recebe no fim do contrato, se tem seguro-desemprego e o caso da gestante."
 categoria: trabalho
 publicadoEm: 2026-10-21
-atualizadoEm: 2026-10-23
+atualizadoEm: 2026-11-11
 faq:
   - pergunta: "Quem paga o salário do trabalhador temporário?"
     resposta: "A agência, isto é, a empresa de trabalho temporário que assinou a sua carteira. A loja ou fábrica onde você trabalha responde se a agência não pagar (Lei 6.019, artigo 10, § 7º)."
@@ -140,7 +140,7 @@ Os dois têm carteira assinada e data para acabar, mas são contratos diferentes
 | Duração máxima | 180 dias, mais 90 de prorrogação | **2 anos**; o de experiência, **90 dias** |
 | Saída antes do prazo, sem justa causa | verbas do contrato, sem a indenização de metade dos dias que faltavam | a empresa paga **metade do que você receberia até o fim** do contrato (CLT, artigo 479) |
 
-Na CLT, o contrato por prazo determinado que for **prorrogado mais de uma vez** vira contrato **sem prazo** (artigo 451), e um novo contrato com prazo feito menos de 6 meses depois do anterior também é considerado sem prazo, salvo exceções (artigo 452) ([CLT](https://www2.camara.leg.br/legin/fed/declei/1940-1949/decreto-lei-5452-1-maio-1943-415500-normaatualizada-pe.html)).
+Prazos, prorrogação e o que se recebe na saída da experiência estão no guia do [contrato de experiência](/artigos/contrato-de-experiencia). Na CLT, o contrato por prazo determinado que for **prorrogado mais de uma vez** vira contrato **sem prazo** (artigo 451), e um novo contrato com prazo feito menos de 6 meses depois do anterior também é considerado sem prazo, salvo exceções (artigo 452) ([CLT](https://www2.camara.leg.br/legin/fed/declei/1940-1949/decreto-lei-5452-1-maio-1943-415500-normaatualizada-pe.html)).
 
 Já o contrato **sem prazo**, o "CLT comum", não tem data para acabar: na demissão sem justa causa, há aviso prévio e multa de 40% do FGTS; veja [o que recebe quem é demitido sem justa causa](/artigos/demissao-sem-justa-causa).
 
