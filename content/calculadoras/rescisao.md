@@ -4,7 +4,7 @@ tituloSeo: "Calculadora rescisão CLT 2026: com FGTS e multa de 40%"
 descricao: "Calculadora de rescisão trabalhista 2026: veja quanto recebe na demissão, no pedido, no acordo ou na justa causa, com FGTS e multa, e confira o seu TRCT."
 categoria: trabalho
 publicadoEm: 2026-10-19
-atualizadoEm: 2026-10-22
+atualizadoEm: 2026-11-11
 faq:
   - pergunta: "Qual o prazo para receber a rescisão?"
     resposta: "A empresa tem **10 dias** depois do fim do contrato para pagar e entregar os documentos, em qualquer tipo de rescisão. Se atrasar, paga ao trabalhador uma multa no valor de um salário (CLT, artigo 477)."
@@ -116,7 +116,7 @@ A multa não vem junto com a rescisão: a empresa deposita na sua conta do FGTS.
 
 A calculadora é para contrato **sem prazo**. No contrato de experiência encerrado pela empresa antes do fim, não há aviso prévio: a empresa paga uma **indenização de metade dos salários** que faltavam até o fim do contrato, sem INSS, mais saldo de salário, 13º e férias proporcionais com 1/3 ([CLT, artigo 479](https://www2.camara.leg.br/legin/fed/declei/1940-1949/decreto-lei-5452-1-maio-1943-415500-normaatualizada-pe.html)).
 
-Exemplo: experiência de 90 dias, salário de R$ 2.000, saída no 45º dia. Os 45 dias que faltavam valeriam R$ 3.000; a indenização é de **R$ 1.500**.
+Exemplo: experiência de 90 dias, salário de R$ 2.000, saída no 45º dia. Os 45 dias que faltavam valeriam R$ 3.000; a indenização é de **R$ 1.500**. Prazos, prorrogação e seguro-desemprego estão em [contrato de experiência: direitos e rescisão](/artigos/contrato-de-experiencia).
 
 ## Contrato temporário e trabalho sem carteira assinada
 

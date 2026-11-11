@@ -4,7 +4,7 @@ tituloSeo: "Demissão sem justa causa: o que recebe e cálculo 2026"
 descricao: "Demissão sem justa causa: veja o que você recebe (aviso prévio, 13º, férias, multa de 40% do FGTS e seguro-desemprego) e calcule a sua rescisão de 2026."
 categoria: trabalho
 publicadoEm: 2026-10-19
-atualizadoEm: 2026-10-21
+atualizadoEm: 2026-11-11
 faq:
   - pergunta: "Qual o prazo para a empresa pagar a rescisão?"
     resposta: "**10 dias** contados do fim do contrato, para pagar as verbas e entregar os documentos. Se atrasar, a empresa paga ao trabalhador uma multa no valor de um salário, além da multa administrativa (CLT, artigo 477, §§ 6º e 8º)."
@@ -130,7 +130,7 @@ Recebe o **13º proporcional**: 1/12 por mês trabalhado no ano, contando os mes
 
 ## Eu trabalhei 45 dias e fui demitido. Quanto vou receber?
 
-Com 45 dias, quase sempre o contrato é **de experiência**, e a regra é outra. Se a empresa encerrar antes do fim combinado, paga uma **indenização de metade dos salários** que você receberia até o fim do contrato ([CLT, artigo 479](https://www2.camara.leg.br/legin/fed/declei/1940-1949/decreto-lei-5452-1-maio-1943-415500-normaatualizada-pe.html)), além do saldo de salário, do 13º proporcional e das férias proporcionais com 1/3.
+Com 45 dias, quase sempre o contrato é **de experiência**, e a regra é outra (veja o guia do [contrato de experiência](/artigos/contrato-de-experiencia)). Se a empresa encerrar antes do fim combinado, paga uma **indenização de metade dos salários** que você receberia até o fim do contrato ([CLT, artigo 479](https://www2.camara.leg.br/legin/fed/declei/1940-1949/decreto-lei-5452-1-maio-1943-415500-normaatualizada-pe.html)), além do saldo de salário, do 13º proporcional e das férias proporcionais com 1/3.
 
 Exemplo: contrato de experiência de 90 dias, salário de R$ 2.000, demissão no 45º dia. Faltavam 45 dias, que valeriam R$ 3.000; a indenização é a metade, **R$ 1.500**, sem INSS.
 

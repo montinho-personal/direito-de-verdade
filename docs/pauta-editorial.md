@@ -234,6 +234,14 @@ Pedido do Renato em 09/11/2026: "Pode criar próximos 3 artigos de seo local". S
 | 2 | Advogado gratuito em Barueri | `advogado gratuito barueri`; `defensoria pública barueri`; `oab barueri atendimento gratuito`; `justiça gratuita` | **publicado em 09/11/2026; revisado com prints em 10/11/2026** — [doc](artigos/advogado-gratuito-em-barueri.md), `/artigos/advogado-gratuito-em-barueri` |
 | 3 | Juizado Especial Federal de Barueri | `juizado especial federal barueri`; `justiça federal barueri`; `jef barueri telefone` | **publicado em 09/11/2026; revisado com prints em 10/11/2026** — [doc](artigos/juizado-especial-federal-de-barueri.md), `/artigos/juizado-especial-federal-de-barueri` |
 
+## Próximos dois de conteúdo (pedido em 11/11/2026)
+
+Pedido do Renato em 11/11/2026: "Pode criar os dois próximos artigos de conteúdo aí." Sem prints; um de cada vez.
+
+| ordem | artigo | buscas para printar | status |
+|---|---|---|---|
+| 1 | Contrato de experiência | `contrato de experiência`; `contrato de experiência 45 dias`; `rescisão contrato de experiência`; `contrato de experiência seguro desemprego` | **publicado em 11/11/2026 sem prints** — [doc](artigos/contrato-de-experiencia.md), `/artigos/contrato-de-experiencia` |
+
 ## Search Console: análise de 10/11/2026
 
 Export "Rastreada, mas não indexada no momento" (10 URLs, rastreadas em 07/11): 6 páginas "advogado [área] em [cidade]" (trânsito, família, criminalista e plano de saúde em Barueri; trabalhista e criminalista em Santana), recurso de multa em Barueri, licença-maternidade e 2 arquivos de fonte (`.woff2`, sem importância). Páginas de serviço com fatos próprios (Procon, Fórum Trabalhista, condomínio, inventário) não aparecem.
@@ -298,6 +306,7 @@ Lembrar o Renato desta lista a cada entrega.
 | Adicional noturno (`/artigos/adicional-noturno`), publicado em 09/11/2026 | Google: `adicional noturno`; `adicional noturno como calcular`; `hora noturna reduzida`; AnswerThePublic `adicional noturno` | **aguardando prints** |
 | Auxílio-acidente (`/artigos/auxilio-acidente`), publicado em 09/11/2026 | Google: `auxílio acidente`; `auxílio acidente quem tem direito`; `auxílio acidente valor`; AnswerThePublic `auxílio acidente` | **aguardando prints** |
 | Vale-transporte (`/artigos/vale-transporte`), publicado em 09/11/2026 | Google: `vale transporte desconto 6%`; `vale transporte em dinheiro`; `vale transporte é obrigatório`; AnswerThePublic `vale transporte` | **aguardando prints** |
+| Contrato de experiência (`/artigos/contrato-de-experiencia`), publicado em 11/11/2026 | Google: `contrato de experiência`; `contrato de experiência 45 dias`; `rescisão contrato de experiência` | **aguardando prints** |
 | Calculadora de cobrança indevida (`/calculadoras/cobranca-indevida`), publicada em 26/10/2026 | Google: `calculadora cobrança indevida`; `devolução em dobro`; AnswerThePublic `cobrança indevida` | **aguardando prints** |
 | Simulador de direitos em compras online (`/calculadoras/simulador-direitos-compras-online`), publicado em 26/10/2026 | Google: `direitos em compras online`; `comprei pela internet e não recebi` | **prints e AnswerThePublic recebidos e página revisada em 27/10/2026** |
 | Calculadora de juros abusivos (`/calculadoras/juros-abusivos`), publicada em 27/10/2026 | Google: `calculadora de juros abusivos`; `como saber se juros são abusivos`; `taxa média banco central financiamento` | **aguardando prints** |
