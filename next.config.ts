@@ -12,6 +12,17 @@ const nextConfig: NextConfig = {
         destination: "/calculadoras/13-salario",
         permanent: true,
       },
+      // Páginas de Santana juntadas na página geral da cidade (11/11/2026)
+      {
+        source: "/artigos/advogado-trabalhista-em-santana-de-parnaiba",
+        destination: "/artigos/advogado-em-santana-de-parnaiba-e-aldeia-da-serra",
+        permanent: true,
+      },
+      {
+        source: "/artigos/advogado-criminalista-em-santana-de-parnaiba",
+        destination: "/artigos/advogado-em-santana-de-parnaiba-e-aldeia-da-serra",
+        permanent: true,
+      },
     ];
   },
   // Capa dos vídeos do YouTube, antes de a pessoa tocar no play

@@ -1,5 +1,7 @@
 # Página local: advogado trabalhista em Santana de Parnaíba (`/artigos/advogado-trabalhista-em-santana-de-parnaiba`)
 
+> **Juntada em 11/11/2026** na página [advogado em Santana de Parnaíba e Aldeia da Serra](advogado-em-santana-de-parnaiba-e-aldeia-da-serra.md), com redirecionamento 308, por decisão do Renato: o Google não indexou a página ("Rastreada, mas não indexada", 07/11) e ela repetia 17% a 19% do texto da página de Barueri. Este doc fica como histórico.
+
 Pedido do Renato em 06/11/2026 ("Pode criar os próximos artigos"). Primeira página por área da região de Santana de Parnaíba e Aldeia da Serra.
 
 ## Por que existe

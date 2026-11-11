@@ -190,8 +190,8 @@ sem indicar escritório (ver doc da piloto). Piloto primeiro; as demais depois d
 | 4e | Advogado imobiliário em Barueri e Alphaville | `advogado imobiliário barueri` | **publicado em 06/11/2026 (com prints)** — [doc](artigos/advogado-imobiliario-em-barueri-e-alphaville.md) |
 | 4f | Advogado de trânsito em Barueri e Alphaville | `advogado de trânsito barueri` | **publicado em 06/11/2026 (com prints)** — [doc](artigos/advogado-de-transito-em-barueri-e-alphaville.md) |
 | 4g | Advogado cível em Barueri e Alphaville | `advogado cível barueri` | **publicado em 06/11/2026 (com prints)** — [doc](artigos/advogado-civel-em-barueri-e-alphaville.md) |
-| 5a | Advogado trabalhista em Santana de Parnaíba e Aldeia da Serra | `advogado trabalhista santana de parnaíba` (autocompletar de 04/11/2026) | **publicado em 06/11/2026** — [doc](artigos/advogado-trabalhista-em-santana-de-parnaiba.md) |
-| 5b | Advogado criminalista em Santana de Parnaíba e Aldeia da Serra | `advogado criminalista santana de parnaíba` (autocompletar de 04/11/2026) | **publicado em 06/11/2026** — [doc](artigos/advogado-criminalista-em-santana-de-parnaiba.md) |
+| 5a | Advogado trabalhista em Santana de Parnaíba e Aldeia da Serra | `advogado trabalhista santana de parnaíba` (autocompletar de 04/11/2026) | **publicado em 06/11/2026; juntado à página geral de Santana em 11/11/2026 (redirecionamento 308)** — [doc](artigos/advogado-trabalhista-em-santana-de-parnaiba.md) |
+| 5b | Advogado criminalista em Santana de Parnaíba e Aldeia da Serra | `advogado criminalista santana de parnaíba` (autocompletar de 04/11/2026) | **publicado em 06/11/2026; juntado à página geral de Santana em 11/11/2026 (redirecionamento 308)** — [doc](artigos/advogado-criminalista-em-santana-de-parnaiba.md) |
 
 ## Próximos dois (pedidos em 09/11/2026, segundo lote)
 
@@ -251,7 +251,7 @@ Diagnóstico: domínio novo (dados desde 18/10) com publicação rápida, e mold
 
 Feito em 10/11/2026: bloco longo da OAB trocado por uma linha com link para [advogado gratuito em Barueri](artigos/advogado-gratuito-em-barueri.md) nas 4 páginas de Barueri recusadas; títulos e descrições das categorias; nota de método editorial abaixo das fontes, com link para "Como produzimos o conteúdo" (sem advogado revisor, confirmado pelo Renato).
 
-Decidido: não criar novas páginas "advogado [área] em [cidade]"; página local só com fato próprio. Pendente: decisão do Renato sobre juntar as duas de Santana na página geral de Santana; exports de "Página com redirecionamento", "Detectada, mas não indexada" e Desempenho.
+Decidido: não criar novas páginas "advogado [área] em [cidade]"; página local só com fato próprio. Feito em 11/11/2026, a pedido do Renato: as duas de Santana (trabalhista e criminalista) foram juntadas na página geral de Santana, com redirecionamento 308. Pendente: exports de "Página com redirecionamento", "Detectada, mas não indexada" e Desempenho.
 
 ## Prints pendentes
 

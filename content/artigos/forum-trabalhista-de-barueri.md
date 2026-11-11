@@ -68,7 +68,7 @@ A ação trabalhista vai para a Vara do Trabalho do **lugar onde o empregado pre
 | onde você trabalhou | fórum |
 | --- | --- |
 | Barueri, inclusive Alphaville e Tamboré do lado de Barueri | **Fórum Trabalhista de Barueri**, Alameda Araguaia, 2096 |
-| Santana de Parnaíba, inclusive o lado de Santana de Alphaville e da Aldeia da Serra | **Fórum Trabalhista de Santana de Parnaíba**, Rua Treze de Maio, 222, Centro: veja [advogado trabalhista em Santana de Parnaíba](/artigos/advogado-trabalhista-em-santana-de-parnaiba) |
+| Santana de Parnaíba, inclusive o lado de Santana de Alphaville e da Aldeia da Serra | **Fórum Trabalhista de Santana de Parnaíba**, Rua Treze de Maio, 222, Centro: veja [advogado trabalhista em Santana de Parnaíba](/artigos/advogado-em-santana-de-parnaiba-e-aldeia-da-serra#advogado-trabalhista-em-santana-de-parnaiba-qual-vara-do-trabalho) |
 | outra cidade | a vara dessa cidade, no site do TRT-2 |
 
 ## Como entrar com a ação no fórum

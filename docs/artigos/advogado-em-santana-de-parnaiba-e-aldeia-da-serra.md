@@ -49,3 +49,7 @@ Calculadora de cobrança indevida dentro do texto, na seção do boleto de escri
 ## Para medir
 
 A partir de ~18/11/2026: "advogado santana de parnaíba", "advogado aldeia da serra", "advogado gratuito santana de parnaíba", "como achar um advogado pelo nome".
+
+## Junção de 11/11/2026
+
+As páginas `/artigos/advogado-trabalhista-em-santana-de-parnaiba` e `/artigos/advogado-criminalista-em-santana-de-parnaiba` foram juntadas aqui, com redirecionamento 308 em `next.config.ts`, por decisão do Renato (Search Console: "Rastreada, mas não indexada"; texto repetido com as páginas de Barueri). Entraram as seções "Advogado trabalhista em Santana de Parnaíba: qual Vara do Trabalho?" (e-mails das varas, horário do TRT-2, justiça gratuita, calculadora de rescisão) e "Advogado criminalista em Santana de Parnaíba: prisão e violência doméstica" (anexo de 2017, Lei Maria da Penha, CPP), com as fontes e duas FAQs (vara trabalhista e medida protetiva). A FAQ da Justiça Federal saiu; o endereço continua na tabela de endereços.
