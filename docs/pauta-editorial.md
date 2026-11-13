@@ -242,6 +242,7 @@ Pedido do Renato em 13/11/2026: "Pode criar próximos artigos". Dois, um de cada
 |---|---|---|---|
 | 1 | Adicional de periculosidade | `adicional de periculosidade`; `quem tem direito a periculosidade`; `periculosidade motoboy`; `periculosidade e insalubridade juntas` | **publicado em 13/11/2026 sem prints** — [doc](artigos/adicional-de-periculosidade.md), `/artigos/adicional-de-periculosidade` |
 | 2 | Jovem aprendiz | `jovem aprendiz`; `quanto ganha jovem aprendiz 2026`; `jovem aprendiz carga horária`; `jovem aprendiz idade` | **publicado em 13/11/2026 sem prints** — [doc](artigos/jovem-aprendiz.md), `/artigos/jovem-aprendiz` |
+| 3 | Salário-família 2026 | `salário-família 2026`; `salário família valor`; `quem tem direito ao salário família`; `salário família como solicitar` | **publicado em 13/11/2026 sem prints** — [doc](artigos/salario-familia.md), `/artigos/salario-familia` |
 
 ## Próximos dois de conteúdo (pedido em 11/11/2026)
 
@@ -319,6 +320,7 @@ Lembrar o Renato desta lista a cada entrega.
 | Direitos do estagiário (`/artigos/estagio-direitos`), publicado em 11/11/2026 | Google: `direitos do estagiário`; `lei do estágio`; `estagiário tem direito a férias` | **aguardando prints** |
 | Adicional de periculosidade (`/artigos/adicional-de-periculosidade`), publicado em 13/11/2026 | Google: `adicional de periculosidade`; `periculosidade motoboy`; `periculosidade e insalubridade juntas` | **aguardando prints** |
 | Jovem aprendiz (`/artigos/jovem-aprendiz`), publicado em 13/11/2026 | Google: `jovem aprendiz`; `quanto ganha jovem aprendiz 2026`; `jovem aprendiz carga horária` | **aguardando prints** |
+| Salário-família 2026 (`/artigos/salario-familia`), publicado em 13/11/2026 | Google: `salário-família 2026`; `salário família valor`; `quem tem direito ao salário família` | **aguardando prints** |
 | Calculadora de cobrança indevida (`/calculadoras/cobranca-indevida`), publicada em 26/10/2026 | Google: `calculadora cobrança indevida`; `devolução em dobro`; AnswerThePublic `cobrança indevida` | **aguardando prints** |
 | Simulador de direitos em compras online (`/calculadoras/simulador-direitos-compras-online`), publicado em 26/10/2026 | Google: `direitos em compras online`; `comprei pela internet e não recebi` | **prints e AnswerThePublic recebidos e página revisada em 27/10/2026** |
 | Calculadora de juros abusivos (`/calculadoras/juros-abusivos`), publicada em 27/10/2026 | Google: `calculadora de juros abusivos`; `como saber se juros são abusivos`; `taxa média banco central financiamento` | **aguardando prints** |
@@ -383,6 +385,7 @@ Lembrar o Renato desta lista a cada entrega.
 
 ## Revisão anual (valores que mudam)
 
+- Salário-família (`/artigos/salario-familia`): cota e limite de renda na portaria interministerial de janeiro; atualizar título, descrição, FAQ e exemplo.
 - Jovem aprendiz (`/artigos/jovem-aprendiz`): salário mínimo por hora e exemplos de 20 h e 30 h semanais, a cada novo salário mínimo (janeiro).
 - Licença-paternidade: 1º/01/2027 (Lei 15.371 em vigor; regulamento do salário-paternidade), 2028 e 2029 (20 dias condicionados à meta fiscal) em `/artigos/licenca-paternidade`.
 - Simulador de voo e artigo de voo: em **25/11/2026** entram as novas regras de informação (Res. ANAC 819); conferir o texto compilado da Res. 400 quando a ANAC publicar.

@@ -4,7 +4,7 @@ tituloSeo: "Licença-maternidade: 120 ou 180 dias, quem paga e valor"
 descricao: "Licença-maternidade: 120 dias, ou 180 na empresa do Empresa Cidadã, a partir de até 28 dias antes do parto. Veja quem paga, o valor e o salário-maternidade."
 categoria: trabalho
 publicadoEm: 2026-11-06
-atualizadoEm: 2026-11-06
+atualizadoEm: 2026-11-13
 faq:
   - pergunta: "A licença-maternidade é de 4 ou 6 meses?"
     resposta: "Pela CLT, 120 dias (cerca de 4 meses). Na empresa que participa do Programa Empresa Cidadã, a empregada pode pedir mais 60 dias, somando 180 (cerca de 6 meses), se fizer o pedido até o fim do primeiro mês após o parto (Lei 11.770/2008)."
@@ -69,5 +69,6 @@ Até 2024, a lei exigia **10 contribuições mensais** (carência) das autônoma
 - **Férias:** a licença-maternidade **não conta como falta** para as férias (CLT, artigo 131, II). Faça a conta das suas na [calculadora de férias](/calculadoras/ferias).
 - **Amamentação:** até o bebê completar **6 meses**, a mãe tem direito a **dois descansos de meia hora** por dia para amamentar, inclusive na adoção; os horários são combinados com a empresa (CLT, artigo 396).
 - **Pai:** a licença-paternidade aumenta a partir de 2027. Veja [licença-paternidade](/artigos/licenca-paternidade).
+- **Salário-família:** quem ganha até R$ 1.980,38 (2026) recebe R$ 67,54 por mês por filho de até 14 anos; entregue a certidão de nascimento à empresa logo depois do parto. Veja [salário-família 2026](/artigos/salario-familia).
 
 Este conteúdo é informativo e não substitui a orientação do INSS, do sindicato ou de um advogado.
