@@ -4,7 +4,7 @@ tituloSeo: "Direitos do estagiário: carga horária, recesso e bolsa"
 descricao: "Direitos do estagiário pela Lei 11.788: até 6 horas por dia, 30 dias de recesso a cada ano, bolsa e auxílio-transporte no estágio não obrigatório e até 2 anos."
 categoria: trabalho
 publicadoEm: 2026-11-11
-atualizadoEm: 2026-11-11
+atualizadoEm: 2026-11-13
 faq:
   - pergunta: "Quantas horas o estagiário pode trabalhar?"
     resposta: "No ensino superior, no ensino médio e no técnico, até 6 horas por dia e 30 por semana. Nos anos finais do fundamental na EJA e na educação especial, até 4 horas por dia e 20 por semana. Em semana de prova, a jornada cai pelo menos à metade (Lei 11.788/2008, artigo 10)."
@@ -85,6 +85,10 @@ Se a empresa **descumprir** qualquer requisito ou obrigação do termo, o estág
 - mais de **2 anos** na mesma empresa.
 
 Nesses casos, dá para cobrar na **Justiça do Trabalho** os direitos de empregado: [férias com 1/3](/artigos/como-calcular-ferias), [13º salário](/artigos/13-salario), FGTS e, na saída, as verbas de uma [demissão sem justa causa](/artigos/demissao-sem-justa-causa).
+
+## Estágio ou jovem aprendiz?
+
+O **jovem aprendiz** é diferente: tem **carteira assinada**, salário mínimo por hora, 13º, férias e FGTS, num contrato de até 2 anos. Veja as regras do [jovem aprendiz](/artigos/jovem-aprendiz).
 
 ## Quanto tempo dura o estágio?
 
