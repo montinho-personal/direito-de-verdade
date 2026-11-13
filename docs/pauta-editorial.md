@@ -234,6 +234,14 @@ Pedido do Renato em 09/11/2026: "Pode criar próximos 3 artigos de seo local". S
 | 2 | Advogado gratuito em Barueri | `advogado gratuito barueri`; `defensoria pública barueri`; `oab barueri atendimento gratuito`; `justiça gratuita` | **publicado em 09/11/2026; revisado com prints em 10/11/2026** — [doc](artigos/advogado-gratuito-em-barueri.md), `/artigos/advogado-gratuito-em-barueri` |
 | 3 | Juizado Especial Federal de Barueri | `juizado especial federal barueri`; `justiça federal barueri`; `jef barueri telefone` | **publicado em 09/11/2026; revisado com prints em 10/11/2026** — [doc](artigos/juizado-especial-federal-de-barueri.md), `/artigos/juizado-especial-federal-de-barueri` |
 
+## Próximos de conteúdo (pedido em 13/11/2026)
+
+Pedido do Renato em 13/11/2026: "Pode criar próximos artigos". Dois, um de cada vez, sem prints.
+
+| ordem | artigo | buscas para printar | status |
+|---|---|---|---|
+| 1 | Adicional de periculosidade | `adicional de periculosidade`; `quem tem direito a periculosidade`; `periculosidade motoboy`; `periculosidade e insalubridade juntas` | **publicado em 13/11/2026 sem prints** — [doc](artigos/adicional-de-periculosidade.md), `/artigos/adicional-de-periculosidade` |
+
 ## Próximos dois de conteúdo (pedido em 11/11/2026)
 
 Pedido do Renato em 11/11/2026: "Pode criar os dois próximos artigos de conteúdo aí." Sem prints; um de cada vez.
@@ -308,6 +316,7 @@ Lembrar o Renato desta lista a cada entrega.
 | Auxílio-acidente (`/artigos/auxilio-acidente`), publicado em 09/11/2026 | Google: `auxílio acidente`; `auxílio acidente quem tem direito`; `auxílio acidente valor`; AnswerThePublic `auxílio acidente` | **aguardando prints** |
 | Vale-transporte (`/artigos/vale-transporte`), publicado em 09/11/2026 | Google: `vale transporte desconto 6%`; `vale transporte em dinheiro`; `vale transporte é obrigatório`; AnswerThePublic `vale transporte` | **aguardando prints** |
 | Direitos do estagiário (`/artigos/estagio-direitos`), publicado em 11/11/2026 | Google: `direitos do estagiário`; `lei do estágio`; `estagiário tem direito a férias` | **aguardando prints** |
+| Adicional de periculosidade (`/artigos/adicional-de-periculosidade`), publicado em 13/11/2026 | Google: `adicional de periculosidade`; `periculosidade motoboy`; `periculosidade e insalubridade juntas` | **aguardando prints** |
 | Calculadora de cobrança indevida (`/calculadoras/cobranca-indevida`), publicada em 26/10/2026 | Google: `calculadora cobrança indevida`; `devolução em dobro`; AnswerThePublic `cobrança indevida` | **aguardando prints** |
 | Simulador de direitos em compras online (`/calculadoras/simulador-direitos-compras-online`), publicado em 26/10/2026 | Google: `direitos em compras online`; `comprei pela internet e não recebi` | **prints e AnswerThePublic recebidos e página revisada em 27/10/2026** |
 | Calculadora de juros abusivos (`/calculadoras/juros-abusivos`), publicada em 27/10/2026 | Google: `calculadora de juros abusivos`; `como saber se juros são abusivos`; `taxa média banco central financiamento` | **aguardando prints** |

@@ -4,7 +4,7 @@ tituloSeo: "Adicional de insalubridade 2026: graus, valor e quem tem"
 descricao: "Adicional de insalubridade 2026: 10%, 20% ou 40% do salário mínimo, conforme o grau (até R$ 648,40). Veja quem tem direito, a perícia, o EPI e os reflexos."
 categoria: trabalho
 publicadoEm: 2026-11-01
-atualizadoEm: 2026-11-01
+atualizadoEm: 2026-11-13
 faq:
   - pergunta: "O adicional de insalubridade é calculado sobre o salário ou sobre o salário mínimo?"
     resposta: "Em regra, sobre o salário mínimo, como diz a CLT (artigo 192), a não ser que a convenção ou o acordo coletivo da categoria preveja uma base maior. O STF cassou a parte da Súmula 228 do TST que mandava calcular sobre o salário básico."
@@ -65,7 +65,7 @@ Pode tirar, se **eliminar ou neutralizar** o agente nocivo: a CLT prevê que a i
 
 ## Insalubridade e periculosidade: posso receber as duas?
 
-Não. Em 2019, o TST decidiu, em recurso repetitivo, que os adicionais de insalubridade e de periculosidade **não se acumulam**, mesmo quando vêm de riscos diferentes: o empregado escolhe o mais vantajoso ([TST](https://www.tst.jus.br/en/noticias/-/asset_publisher/89Dk/content/tst-afasta-possibilidade-de-cumulacao-de-adicionais-de-insalubridade-e-de-periculosidade); CLT, artigo 193, § 2º). A periculosidade é de **30% do salário**, sem contar gratificações, prêmios e participações, e vale para quem trabalha com inflamáveis, explosivos, eletricidade, segurança patrimonial e outras atividades de risco (artigo 193).
+Não. Em 2019, o TST decidiu, em recurso repetitivo, que os adicionais de insalubridade e de periculosidade **não se acumulam**, mesmo quando vêm de riscos diferentes: o empregado escolhe o mais vantajoso ([TST](https://www.tst.jus.br/en/noticias/-/asset_publisher/89Dk/content/tst-afasta-possibilidade-de-cumulacao-de-adicionais-de-insalubridade-e-de-periculosidade); CLT, artigo 193, § 2º). A periculosidade é de **30% do salário**, sem contar gratificações, prêmios e participações, e vale para quem trabalha com inflamáveis, explosivos, eletricidade, segurança patrimonial e outras atividades de risco (artigo 193). Veja quem tem direito, o caso do motoboy e a conta em [adicional de periculosidade](/artigos/adicional-de-periculosidade).
 
 ## O adicional entra nas férias, no 13º e nas horas extras?
 
