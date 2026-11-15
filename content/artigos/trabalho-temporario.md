@@ -4,7 +4,7 @@ tituloSeo: "Trabalho temporário de fim de ano: direitos, 13º e seguro"
 descricao: "Trabalho temporário de fim de ano tem carteira, 13º, férias com 1/3 e FGTS. Veja o que recebe no fim do contrato, se tem seguro-desemprego e o caso da gestante."
 categoria: trabalho
 publicadoEm: 2026-10-21
-atualizadoEm: 2026-11-11
+atualizadoEm: 2026-11-15
 faq:
   - pergunta: "Quem paga o salário do trabalhador temporário?"
     resposta: "A agência, isto é, a empresa de trabalho temporário que assinou a sua carteira. A loja ou fábrica onde você trabalha responde se a agência não pagar (Lei 6.019, artigo 10, § 7º)."
@@ -127,6 +127,10 @@ A "nova lei" é a **Lei 13.429/2017**, que reescreveu a Lei 6.019. Desde ela ([L
 - é proibido contratar temporário para substituir quem está em greve.
 
 O trabalho temporário só vale para **substituir** empregados afastados (férias, licença) ou para **aumento de serviço** imprevisível ou sazonal, como o Natal ([Lei 6.019, artigo 2º, § 2º](https://www2.camara.leg.br/legin/fed/lei/1970-1979/lei-6019-3-janeiro-1974-357401-normaatualizada-pl.html)). Demanda contínua ou a abertura de uma filial não justificam o contrato ([Decreto 10.854, artigo 43](https://www2.camara.leg.br/legin/fed/decret/2021/decreto-10854-10-novembro-2021-791950-normaatualizada-pe.html)).
+
+## Temporário ou intermitente?
+
+No **trabalho intermitente**, a contratação é direta pela empresa, sem agência, e a pessoa só trabalha e recebe quando é convocada, com férias, 13º e FGTS pagos a cada período. Veja as regras do [trabalho intermitente](/artigos/trabalho-intermitente).
 
 ## Qual a diferença entre trabalho temporário e contrato por prazo determinado?
 

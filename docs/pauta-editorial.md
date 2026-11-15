@@ -241,6 +241,7 @@ Pedido do Renato em 15/11/2026: "Pode criar próximos artigos". Dois, um de cada
 | ordem | artigo | buscas para printar | status |
 |---|---|---|---|
 | 1 | Auxílio-reclusão 2026 | `auxílio-reclusão 2026`; `auxílio reclusão valor`; `quem tem direito ao auxílio reclusão`; `auxílio reclusão regime semiaberto` | **publicado em 15/11/2026 sem prints** — [doc](artigos/auxilio-reclusao.md), `/artigos/auxilio-reclusao` |
+| 2 | Trabalho intermitente | `trabalho intermitente`; `contrato intermitente como funciona`; `intermitente tem direito a férias`; `intermitente seguro desemprego` | **publicado em 15/11/2026 sem prints** — [doc](artigos/trabalho-intermitente.md), `/artigos/trabalho-intermitente` |
 
 ## Próximos de conteúdo (pedido em 13/11/2026)
 
@@ -332,6 +333,7 @@ Lembrar o Renato desta lista a cada entrega.
 | Salário-família 2026 (`/artigos/salario-familia`), publicado em 13/11/2026 | Google: `salário-família 2026`; `salário família valor`; `quem tem direito ao salário família` | **aguardando prints** |
 | Superendividamento (`/artigos/superendividamento`), publicado em 13/11/2026 | Google: `superendividamento`; `lei do superendividamento`; `mínimo existencial valor` | **aguardando prints** |
 | Auxílio-reclusão 2026 (`/artigos/auxilio-reclusao`), publicado em 15/11/2026 | Google: `auxílio-reclusão 2026`; `auxílio reclusão valor`; `quem tem direito ao auxílio reclusão` | **aguardando prints** |
+| Trabalho intermitente (`/artigos/trabalho-intermitente`), publicado em 15/11/2026 | Google: `trabalho intermitente`; `contrato intermitente como funciona`; `intermitente tem direito a férias` | **aguardando prints** |
 | Calculadora de cobrança indevida (`/calculadoras/cobranca-indevida`), publicada em 26/10/2026 | Google: `calculadora cobrança indevida`; `devolução em dobro`; AnswerThePublic `cobrança indevida` | **aguardando prints** |
 | Simulador de direitos em compras online (`/calculadoras/simulador-direitos-compras-online`), publicado em 26/10/2026 | Google: `direitos em compras online`; `comprei pela internet e não recebi` | **prints e AnswerThePublic recebidos e página revisada em 27/10/2026** |
 | Calculadora de juros abusivos (`/calculadoras/juros-abusivos`), publicada em 27/10/2026 | Google: `calculadora de juros abusivos`; `como saber se juros são abusivos`; `taxa média banco central financiamento` | **aguardando prints** |
@@ -399,6 +401,7 @@ Lembrar o Renato desta lista a cada entrega.
 - Auxílio-reclusão (`/artigos/auxilio-reclusao`): valor (um salário mínimo) e limite de baixa renda na portaria de janeiro.
 - Superendividamento (`/artigos/superendividamento`) e nome sujo: mínimo existencial (R$ 600 desde 2023; conferir se o CMN atualizou).
 - Salário-família (`/artigos/salario-familia`): cota e limite de renda na portaria interministerial de janeiro; atualizar título, descrição, FAQ e exemplo.
+- Trabalho intermitente (`/artigos/trabalho-intermitente`): hora mínima, a cada novo salário mínimo.
 - Jovem aprendiz (`/artigos/jovem-aprendiz`): salário mínimo por hora e exemplos de 20 h e 30 h semanais, a cada novo salário mínimo (janeiro).
 - Licença-paternidade: 1º/01/2027 (Lei 15.371 em vigor; regulamento do salário-paternidade), 2028 e 2029 (20 dias condicionados à meta fiscal) em `/artigos/licenca-paternidade`.
 - Simulador de voo e artigo de voo: em **25/11/2026** entram as novas regras de informação (Res. ANAC 819); conferir o texto compilado da Res. 400 quando a ANAC publicar.
