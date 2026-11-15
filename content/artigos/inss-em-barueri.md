@@ -4,7 +4,7 @@ tituloSeo: "INSS Barueri: endereço, agendamento, horário e Ganha Tempo"
 descricao: "INSS em Barueri: agência na Av. 26 de Março, 1.439, Centro, das 7h às 17h, com agendamento pelo 135. Veja se dá para ir sem agendar e o que o Ganha Tempo faz."
 categoria: ajuda-juridica
 publicadoEm: 2026-11-09
-atualizadoEm: 2026-11-09
+atualizadoEm: 2026-11-15
 faq:
   - pergunta: "Onde fica o INSS em Barueri?"
     resposta: "A agência da Previdência Social de Barueri fica na Avenida 26 de Março, 1.439, Centro, e funciona das 7h às 17h, de segunda a sexta, segundo a Prefeitura. Quem mora em Barueri também tem serviços do INSS no Ganha Tempo, na Avenida Henriqueta Mendes Guerra, 550."
@@ -78,7 +78,7 @@ No Ganha Tempo, os serviços aparecem como **"ACT Barueri/INSS"**, no **setor az
 | **pensão por morte** | [pensão por morte do INSS](/artigos/pensao-por-morte-inss) |
 | **auxílio-doença** | [como funciona o auxílio-doença](/artigos/auxilio-doenca) |
 | **salário-maternidade** | [licença-maternidade](/artigos/licenca-maternidade) |
-| **auxílio-reclusão** | — |
+| **auxílio-reclusão** | [auxílio-reclusão 2026](/artigos/auxilio-reclusao) |
 | **prova de vida** | — |
 | **bloqueio e desbloqueio** do benefício para **empréstimo** | [desconto indevido no benefício](/artigos/desconto-indevido-inss) |
 | guia de pagamento (**GPS**), **pagamento não recebido** e **validação de baixa renda** | — |

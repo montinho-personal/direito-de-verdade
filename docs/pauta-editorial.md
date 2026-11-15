@@ -234,6 +234,14 @@ Pedido do Renato em 09/11/2026: "Pode criar próximos 3 artigos de seo local". S
 | 2 | Advogado gratuito em Barueri | `advogado gratuito barueri`; `defensoria pública barueri`; `oab barueri atendimento gratuito`; `justiça gratuita` | **publicado em 09/11/2026; revisado com prints em 10/11/2026** — [doc](artigos/advogado-gratuito-em-barueri.md), `/artigos/advogado-gratuito-em-barueri` |
 | 3 | Juizado Especial Federal de Barueri | `juizado especial federal barueri`; `justiça federal barueri`; `jef barueri telefone` | **publicado em 09/11/2026; revisado com prints em 10/11/2026** — [doc](artigos/juizado-especial-federal-de-barueri.md), `/artigos/juizado-especial-federal-de-barueri` |
 
+## Próximos de conteúdo (pedido em 15/11/2026)
+
+Pedido do Renato em 15/11/2026: "Pode criar próximos artigos". Dois, um de cada vez, sem prints.
+
+| ordem | artigo | buscas para printar | status |
+|---|---|---|---|
+| 1 | Auxílio-reclusão 2026 | `auxílio-reclusão 2026`; `auxílio reclusão valor`; `quem tem direito ao auxílio reclusão`; `auxílio reclusão regime semiaberto` | **publicado em 15/11/2026 sem prints** — [doc](artigos/auxilio-reclusao.md), `/artigos/auxilio-reclusao` |
+
 ## Próximos de conteúdo (pedido em 13/11/2026)
 
 Pedido do Renato em 13/11/2026: "Pode criar próximos artigos". Dois, um de cada vez, sem prints.
@@ -323,6 +331,7 @@ Lembrar o Renato desta lista a cada entrega.
 | Jovem aprendiz (`/artigos/jovem-aprendiz`), publicado em 13/11/2026 | Google: `jovem aprendiz`; `quanto ganha jovem aprendiz 2026`; `jovem aprendiz carga horária` | **aguardando prints** |
 | Salário-família 2026 (`/artigos/salario-familia`), publicado em 13/11/2026 | Google: `salário-família 2026`; `salário família valor`; `quem tem direito ao salário família` | **aguardando prints** |
 | Superendividamento (`/artigos/superendividamento`), publicado em 13/11/2026 | Google: `superendividamento`; `lei do superendividamento`; `mínimo existencial valor` | **aguardando prints** |
+| Auxílio-reclusão 2026 (`/artigos/auxilio-reclusao`), publicado em 15/11/2026 | Google: `auxílio-reclusão 2026`; `auxílio reclusão valor`; `quem tem direito ao auxílio reclusão` | **aguardando prints** |
 | Calculadora de cobrança indevida (`/calculadoras/cobranca-indevida`), publicada em 26/10/2026 | Google: `calculadora cobrança indevida`; `devolução em dobro`; AnswerThePublic `cobrança indevida` | **aguardando prints** |
 | Simulador de direitos em compras online (`/calculadoras/simulador-direitos-compras-online`), publicado em 26/10/2026 | Google: `direitos em compras online`; `comprei pela internet e não recebi` | **prints e AnswerThePublic recebidos e página revisada em 27/10/2026** |
 | Calculadora de juros abusivos (`/calculadoras/juros-abusivos`), publicada em 27/10/2026 | Google: `calculadora de juros abusivos`; `como saber se juros são abusivos`; `taxa média banco central financiamento` | **aguardando prints** |
@@ -387,6 +396,7 @@ Lembrar o Renato desta lista a cada entrega.
 
 ## Revisão anual (valores que mudam)
 
+- Auxílio-reclusão (`/artigos/auxilio-reclusao`): valor (um salário mínimo) e limite de baixa renda na portaria de janeiro.
 - Superendividamento (`/artigos/superendividamento`) e nome sujo: mínimo existencial (R$ 600 desde 2023; conferir se o CMN atualizou).
 - Salário-família (`/artigos/salario-familia`): cota e limite de renda na portaria interministerial de janeiro; atualizar título, descrição, FAQ e exemplo.
 - Jovem aprendiz (`/artigos/jovem-aprendiz`): salário mínimo por hora e exemplos de 20 h e 30 h semanais, a cada novo salário mínimo (janeiro).
