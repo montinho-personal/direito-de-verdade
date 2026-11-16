@@ -1,0 +1,105 @@
+{
+  "busca": "prazo para cobrar dívida",
+  "pesquisadaEm": "2026-11-16",
+  "origem": "SerpApi: Google Brasil (google.com.br), celular, São Paulo, pt-BR, sem personalização",
+  "autocompletar": [
+    "prazo para cobrar dívida de contrato",
+    "prazo para cobrar dívida judicialmente",
+    "prazo para cobrar dívida de aluguel",
+    "prazo para cobrar divida de condominio",
+    "prazo para cobrar divida trabalhista",
+    "prazo para cobrar divida ativa",
+    "prazo para cobrar divida de emprestimo",
+    "prazo para cobrar divida civil",
+    "prazo prescricional para cobrar dívida",
+    "prazo para cobrar confissão de dívida",
+    "prazo para banco cobrar divida",
+    "prazo decadencial para cobrar divida"
+  ],
+  "asPessoasTambemPerguntam": [
+    "O que o STJ diz sobre dívidas de 5 anos?",
+    "Uma dívida de 10 anos pode ser cobrada?",
+    "O que acontece se o executado não pagar em 15 dias?",
+    "Sou obrigado a pagar uma dívida com mais de 5 anos?"
+  ],
+  "outrasPessoasPesquisaram": [
+    "Qual o prazo para cobrar uma dívida judicialmente",
+    "Quanto tempo prescreve um processo de dívida",
+    "Prazo para cobrança de dívida código civil",
+    "Quanto tempo o banco pode cobrar uma dívida judicialmente",
+    "Dívida prescreve em 20 anos",
+    "Cobrança judicial de dívida prescreve",
+    "Prescrição de dívida código civil",
+    "Prescrição de dívida entre particulares",
+    "Prescrição ação de cobrança novo cpc",
+    "Ação de cobrança prescrição 3 anos",
+    "Prazo prescricional ação de cobrança contrato",
+    "Prescrição de dívida bancária ajuizada"
+  ],
+  "visaoDeIA": {
+    "texto": "O prazo para a cobrança de uma dívida no Brasil varia conforme a sua natureza jurídica e o que está determinado no Código Civil. A prescrição é o tempo máximo que o credor tem para exigir o pagamento na Justiça.\nPrincipais prazos de prescrição (Código Civil)\n• 1 ano: Despesas com hospedagem, alimentação em hotéis, e honorários de profissionais liberais como advogados e peritos (Art. 206, § 1º).\n• 2 anos: Prestações alimentares (pensão alimentícia) (Art. 206, § 2º).\n• 3 anos: Aluguéis de imóveis, contratos de seguro, indenizações por reparação civil e juros (Art. 206, § 3º).\n• 5 anos: Dívidas de cartão de crédito, empréstimos bancários, boletos, contas de água, luz, telefone, Imposto de Renda, IPTU e IPVA (Art. 206, § 5º).\n• 10 anos: Prazo geral aplicado quando a dívida não possui um prazo específico determinado em lei (Art. 205).\nO que acontece após o prazo?\n• Cobrança judicial: Após a prescrição, o credor perde o direito de cobrar a dívida judicialmente.\n• Nome sujo: O CPF do devedor deve ser retirado dos órgãos de proteção ao crédito (como Serasa e SPC) após 5 anos do vencimento da dívida.\n• Cobrança extrajudicial: Entendimento do STJ aponta que, após a prescrição, a insistência em cobranças vexatórias ou repetitivas (ligações e mensagens) também pode ser considerada indevida.\n• Interrupção: O prazo de prescrição é interrompido se o credor entrar com uma ação judicial válida ou se houver um reconhecimento formal da dívida pelo devedor.\nMais detalhes sobre os prazos e regras podem ser conferidos no artigo do Jusbrasil ou no site da Arbitralis.\nPara que eu possa te ajudar melhor, qual é o tipo específico de dívida ou qual a data de vencimento dela?",
+    "fontes": [
+      "Arbitralis",
+      "Cerizze",
+      "Idec - Instituto de Defesa de Consumidores",
+      "Instagram",
+      "Jusbrasil"
+    ]
+  },
+  "organicos": [
+    {
+      "posicao": 1,
+      "titulo": "Até quando eu posso ser cobrado por uma dívida?",
+      "endereco": "https://vlvadvogados.com/ate-quando-eu-posso-ser-cobrado-por-uma-divida/",
+      "trecho": "Assim que uma dívida atinge o prazo legal de prescrição — geralmente cinco anos —, o credor perde o direito de cobrá-la judicialmente. Isso ..."
+    },
+    {
+      "posicao": 2,
+      "titulo": "Prazo de Prescrição de Cada Tipo de Dívida",
+      "endereco": "https://www.jusbrasil.com.br/artigos/prazo-de-prescricao-de-cada-tipo-de-divida/227091346",
+      "trecho": "“TODAS as dívidas têm um prazo de prescrição definido por Lei” · Exceções ao prazo de 10 anos: · Cobrança de Dívida prescrita de forma constrangedora."
+    },
+    {
+      "posicao": 3,
+      "titulo": "Consumidor, fique atento: existe um limite para a cobrança de dívidas. ⚠️ O entendimento ...",
+      "endereco": "https://www.instagram.com/p/DXHCtjdiJDk/",
+      "trecho": "O prazo de 5 anos é válido somente se você deve um determinado valor à empresa e ela não cobra esse valor dentro desse período. Se for cobrar no ..."
+    },
+    {
+      "posicao": 4,
+      "titulo": "Prescrição de dívida: prazos do Código Civil para cobrar",
+      "endereco": "https://www.arbitralis.com.br/blog/prescricao-de-divida-quando-voce-perde-o-direito-de-cobrar",
+      "trecho": "Prescrição de dívida: prazos de 1, 3, 5 e 10 anos do Código Civil, o que interrompe a contagem (só uma vez) e como não perder o direito de ..."
+    },
+    {
+      "posicao": 5,
+      "titulo": "Nome sujo tem limite! Dívida prescreve? Tire suas dúvidas sobre prescrição de dívidas",
+      "endereco": "https://idec.org.br/dicas-e-direitos/nome-sujo-saiba-qual-o-prazo-para-prescricao-de-dividas",
+      "trecho": "De acordo com o artigo 205 do Código Civil, os débitos prescrevem em 10 anos, salvo algumas exceções. Por exemplo: contas de serviços como água, ..."
+    },
+    {
+      "posicao": 6,
+      "titulo": "Dívida com mais de cinco anos: entenda o que pode acontecer",
+      "endereco": "https://www.serasa.com.br/limpa-nome-online/blog/divida-com-mais-de-5-anos/",
+      "trecho": "O prazo para a dívida prescrever, ou “caducar”, varia conforme o tipo de débito. Mas a regra geral, e mais comum, é de cinco anos. Os principais ..."
+    },
+    {
+      "posicao": 7,
+      "titulo": "PRESCRIÇÃO: QUAL É O PRAZO PARA COBRANÇA DE DÍVIDA?",
+      "endereco": "https://hsadvocacia.com/prescricao-qual-e-o-prazo-para-cobranca-de-divida",
+      "trecho": "O prazo para cobrança de dívidas oriundas de aluguéis é de 03 anos; no mesmo prazo, também prescrevem as pretensões decorrentes de reparação civil, muito comuns ..."
+    },
+    {
+      "posicao": 8,
+      "titulo": "Prescrição e Decadência nas Ações de Cobrança: Entendendo os Prazos e suas Implicações para os Credores",
+      "endereco": "https://cerizze.com/prescricao-e-decadencia-nas-acoes-de-cobranca-entendendo-os-prazos-e-suas-implicacoes-para-os-credores/",
+      "trecho": "O prazo mais frequentemente utilizado em ações de cobrança é de 5 anos, conforme previsto no artigo 206, § 5º, I, do Código Civil. Esse prazo se aplica a ..."
+    },
+    {
+      "posicao": 9,
+      "titulo": "Qual o Prazo Para SE Cobrar Uma Dívida?",
+      "endereco": "https://www.cmo.adv.br/qual-o-prazo-para-se-cobrar-uma-divida",
+      "trecho": "A regra geral prevista no Código Civil uma dívida de natureza cível pode ser perseguida e cobrada na Justiça por até 10 (dez) anos contados de seu vencimento. A ..."
+    }
+  ]
+}
