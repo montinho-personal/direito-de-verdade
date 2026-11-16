@@ -334,7 +334,6 @@ Lembrar o Renato desta lista a cada entrega.
 | Auxílio-reclusão 2026 (`/artigos/auxilio-reclusao`), publicado em 15/11/2026 | Google: `auxílio-reclusão 2026`; `auxílio reclusão valor`; `quem tem direito ao auxílio reclusão` | **aguardando prints** |
 | Trabalho intermitente (`/artigos/trabalho-intermitente`), publicado em 15/11/2026 | Google: `trabalho intermitente`; `contrato intermitente como funciona`; `intermitente tem direito a férias` | **aguardando prints** |
 | Simulador de direitos em compras online (`/calculadoras/simulador-direitos-compras-online`), publicado em 26/10/2026 | Google: `direitos em compras online`; `comprei pela internet e não recebi` | **prints e AnswerThePublic recebidos e página revisada em 27/10/2026** |
-| Calculadora de multa de aluguel (`/calculadoras/multa-rescisao-aluguel`), publicada em 27/10/2026 | Google: `multa proporcional aluguel`; `multa de 3 aluguéis proporcional` (a principal foi revisada em 16/11/2026 com o SEO Research Lab) | **aguardando a página salva** |
 | Simulador de voo (`/calculadoras/simulador-direitos-voo-atrasado-cancelado`), publicado em 27/10/2026 | Google: `simulador direitos voo atrasado`; `voo atrasado 4 horas`; `overbooking direitos` | **aguardando prints** |
 
 ## Temas-base (o ano todo)

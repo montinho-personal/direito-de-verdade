@@ -26,7 +26,7 @@ Primeira revisão com o **Google SEO Research Lab** (16/11/2026): página de res
 Chrome do Renato e lida pelo laboratório; o autocompletar veio da tentativa de coleta automática
 (bloqueada pelo Google logo depois). Evidências em `prints/multa-rescisao-aluguel/`: o JSON com o
 que foi lido da página (sem o HTML bruto, que traz dados da sessão) e o recorte do autocompletar.
-Faltam `multa proporcional aluguel` e `multa de 3 aluguéis proporcional`.
+As outras duas buscas vieram pelo **SerpApi** (Google Brasil, São Paulo, sem personalização), já sem print: JSON de cada uma na mesma pasta.
 
 | print | conteúdo | onde entrou |
 |---|---|---|
@@ -35,6 +35,15 @@ Faltam `multa proporcional aluguel` e `multa de 3 aluguéis proporcional`.
 | visão geral de IA | fórmula proporcional; exemplo R$ 2.000, 30 meses, restam 12 → R$ 2.400; exceção da transferência; cita Pilota Imóveis e Imobiliária Razão | não é fonte; confirma a fórmula e a exceção que a página já tinha. O site não é citado |
 | "Outras pessoas pesquisaram" | como calcular 12 meses · 30 meses · quanto é de 12 meses · de 6 meses · lei do inquilinato · multa proporcional aluguel · quinto andar · rescisão de contrato de trabalho | H3 "Quanto é a multa em contrato de 12, 30 ou 6 meses?"; H2 renomeado "Multa de rescisão do contrato de aluguel: o que diz a Lei do Inquilinato?"; link para a calculadora de rescisão trabalhista (quem buscou a multa do contrato de trabalho). "quinto andar" (marca): fora |
 | orgânicos (9) | imobiliárias com calculadora (Razão, CG Tecnologia, HouseUp, Alluxsi, Pilota, Primeiro Plano, Frias Neto, Rafael Sieiro) e um vídeo do YouTube; o site não está entre eles | `descricao` diz o que só a nossa tem: conta pelas datas, meses incompletos e quando não há multa |
+
+| `multa proporcional aluguel`, autocompletar (SerpApi) | lei do inquilinato art · como calcular · artigo · lei · **jurisprudência** · cláusula · rescisória · contratual · rescisão antecipada | H3 "O que diz a jurisprudência sobre a multa proporcional?" (o parágrafo do STJ, que já existia) |
+| `multa proporcional aluguel`, PAA | pedido de desocupação · reajuste após 3 anos · **Pode cobrar 20% de multa por quebra de contrato?** · O que diz o artigo 42 da Lei do Inquilinato? | FAQ "Pode cobrar multa de 20% ou 30%...?" (art. 4º e CC 413, já conferidos). Desocupação e reajuste: outros assuntos (há artigo de reajuste). Art. 42: sem texto conferido nesta pesquisa, fora (Pendente) |
+| `multa proporcional aluguel`, visão de IA | proporcional ao tempo restante (art. 4º); fórmula; dispensas. Fontes: Feldmann Advocacia, Frias Neto, Imobiliária Razão, Crédito Real, Jusbrasil, QuintoAndar, Tecnisa, redes sociais | não é fonte; o site não é citado |
+| `multa de 3 aluguéis proporcional`, autocompletar | nenhuma sugestão (busca longa) | — |
+| `multa de 3 aluguéis proporcional`, PAA | Como calcular a multa do contrato de locação? · artigo 42 · **A multa contratual de 30% é abusiva?** · Estou devendo 3 meses de aluguel | cálculo já é H2; 30% na FAQ dos percentuais; dívida de aluguel/despejo: fora do escopo da calculadora |
+| `multa de 3 aluguéis proporcional`, visão de IA | exemplo R$ 1.000, 30 meses, sai no 10º mês → R$ 2.000; dispensas, inclusive "problemas estruturais que o locador se recuse a consertar" | não é fonte. A dispensa por problema estrutural **não entrou**: não está no art. 4º lido (Pendente) |
+| `multa de 3 aluguéis proporcional`, outras pesquisas | calculadora de multa de aluguel · 12, 30 e 6 meses · calcular multa rescisória · lei do inquilinato art | confirmam o H3 de 12, 30 e 6 meses e o título |
+| orgânicos das duas | Lei do Inquilinato comentada, Jusbrasil, escritórios, imobiliárias, Instagram/Facebook; 1º lugar em `multa de 3 aluguéis proporcional` é uma calculadora de escritório | o site não aparece no top 8 de nenhuma |
 
 As contas novas (R$ 6.000 ÷ 6, 12 e 30; metade do prazo; 2 meses restantes) são aritmética
 sobre o art. 4º, já conferido; nenhum fato novo.
@@ -97,6 +106,8 @@ multa zerada e alta, encargos e crédito, datas inválidas, meses incompletos. P
 - Multa para o proprietário que pede o imóvel durante o prazo: depende do contrato; a
   calculadora só orienta.
 - Despejo por falta de pagamento: multa compensatória depende do juiz (STJ admite).
+- Lei 8.245, art. 42 (PAA): conferir o texto oficial antes de responder.
+- Dispensa da multa por defeito grave do imóvel não consertado (visão de IA): sem fonte lida; seria descumprimento do locador (art. 22), a confirmar com jurisprudência.
 
 ## Decisões
 

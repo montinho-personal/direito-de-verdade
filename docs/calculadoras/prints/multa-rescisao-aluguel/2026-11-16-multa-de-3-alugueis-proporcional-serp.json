@@ -1,0 +1,84 @@
+{
+  "busca": "multa de 3 aluguéis proporcional",
+  "pesquisadaEm": "2026-11-16",
+  "origem": "SerpApi (Google Brasil, google.com.br, São Paulo, pt-BR, sem personalização)",
+  "autocompletar": [],
+  "asPessoasTambemPerguntam": [
+    "Como calcular a multa do contrato de locação?",
+    "O que diz o artigo 42 da Lei do Inquilinato?",
+    "A multa contratual de 30% é abusiva?",
+    "Estou devendo 3 meses de aluguel. O que acontece?"
+  ],
+  "visaoDeIA": {
+    "texto": "A multa de 3 aluguéis por rescisão antecipada de contrato nunca é cobrada de forma integral, devendo ser proporcional ao tempo que falta para o término da locação, conforme o Artigo 4º da Lei do Inquilinato . Como funciona o cálculo O valor é reduzido com base nos meses que já foram cumpridos e nos que ainda restam: Exemplo prático: Quando você não paga a multa A cobrança é dispensada em situações específicas previstas em lei ou contrato: Gostaria de calcular o valor exato para o seu caso? Se sim, me diga: • Identifique a multa total: Equivalente a 3 meses de aluguel (padrão de mercado). • Aplique a fórmula: (Valor de 3 aluguéis ÷ Prazo total do contrato em meses) × Meses restantes. • Contrato de 30 meses com aluguel de R$ 1.000 (multa total de 3 aluguéis = R$ 3.000). • Se você sair no 10º mês, restam 20 meses para o fim do contrato. • Cálculo: (R$ 3.000 ÷ 30 meses) = R$ 100 por mês × 20 meses restantes = R$ 2.000 de multa (e não os 3 aluguéis cheios). • Transferência de trabalho: Se a sua empresa (pública ou privada) transferir você para outra cidade e você notificar o proprietário por escrito com 30 dias de antecedência. • Cumprimento do prazo: Se você sair após o término do prazo determinado (quando o contrato passa a vigorar por prazo indeterminado, não há multa). • Descumprimento do proprietário: Se o imóvel apresentar problemas estruturais graves que o locador se recuse a consertar. • Acordo mútuo: Se houver um acordo amigável formalizado entre as partes dispensando o valor. • Qual é o prazo total do contrato (em meses)? • Quantos meses você já cumpriu? • Qual é o valor atual do aluguel?",
+    "fontes": [
+      "Facebook",
+      "Frias Neto",
+      "Imobiliaria Marcondes",
+      "Imóveis Crédito Real",
+      "João Gustavo Schlemper",
+      "contratos.tofy.com.br",
+      "it's houses"
+    ]
+  },
+  "outrasPessoasPesquisaram": [
+    "Calculadora de multa de aluguel",
+    "Como calcular multa de quebra de contrato de aluguel 12 meses",
+    "Como calcular multa de quebra de contrato de aluguel 30 meses",
+    "Quanto é a multa de quebra de contrato de aluguel de 12 meses",
+    "Calcular multa rescisória aluguel",
+    "Quanto é a multa de quebra de contrato de aluguel de 6 meses",
+    "Multa proporcional aluguel",
+    "Multa proporcional aluguel lei do inquilinato art"
+  ],
+  "organicos": [
+    {
+      "posicao": 1,
+      "titulo": "Calculadora de Multa por Rescisão Antecipada de Aluguel",
+      "endereco": "https://cassiusmarques.adv.br/ferramentas/multa-rescisao-aluguel/",
+      "trecho": "Calcule a multa proporcional por sair do aluguel antes do prazo, em dias, com memória de cálculo e a dispensa por transferência pelo empregador."
+    },
+    {
+      "posicao": 2,
+      "titulo": "🚨 MULTA RESCISÓRIA DE ALUGUEL: VOCÊ NÃO ...",
+      "endereco": "https://www.facebook.com/moreirabroker/videos/-multa-rescis%C3%B3ria-de-aluguel-voc%C3%AA-n%C3%A3o-precisa-pagar-o-valor-integralvai-sair-do-/28152939407717745/",
+      "trecho": "Normalmente o mês, dois, três meses de aluguel. Só que essa multa ela nunca é integral, essa multa ela é proporcional conforme o artigo quarto ..."
+    },
+    {
+      "posicao": 3,
+      "titulo": "REDUÇÃO DA MULTA COMPENSATÓRIA A TRÊS ALUGUÉIS",
+      "endereco": "https://www.diariodasleis.com.br/blog/bdi/materia/15481-locauuo-u-multas-moraturia-e-compensaturia-u-reduuuo-da-multa-compensaturia-a-trus-aluguuis.html",
+      "trecho": "LOCAÇÃO – MULTAS MORATÓRIA E COMPENSATÓRIA – REDUÇÃO DA MULTA COMPENSATÓRIA A TRÊS ALUGUÉIS. Apelação com revisão nº 922.587-0/0 - Comarca de São paulo - 21ª ..."
+    },
+    {
+      "posicao": 4,
+      "titulo": "Cálculo da Multa Rescisória em Contratos de Locação ...",
+      "endereco": "https://www.jusbrasil.com.br/artigos/calculo-da-multa-rescisoria-em-contratos-de-locacao-comercial-principios-e-aplicacoes/2504967369",
+      "trecho": "“É válida a cláusula penal prevista em contrato de locação, devendo a multa ser reduzida proporcionalmente ao tempo de cumprimento do contrato.” ..."
+    },
+    {
+      "posicao": 5,
+      "titulo": "Rescisão de Contrato de Aluguel: Multa e Como Proceder",
+      "endereco": "https://contratos.tofy.com.br/blog/rescisao-contrato-aluguel",
+      "trecho": "A multa contratual padrão é de 3 aluguéis (equivalente a 3 meses), conforme convenção de mercado. Esse valor é reduzido proporcionalmente ao ..."
+    },
+    {
+      "posicao": 6,
+      "titulo": "Rescisão do aluguel: multa proporcional, aviso e vistoria",
+      "endereco": "https://jgsadvocacia.com/blog/rescisao-contrato-aluguel-multa-vistoria",
+      "trecho": "Durante o prazo contratado, a Lei do Inquilinato permite ao locatário devolver o imóvel mediante pagamento da multa pactuada, proporcional ao ..."
+    },
+    {
+      "posicao": 7,
+      "titulo": "Multa rescisória: como calcular e quando cai",
+      "endereco": "https://itshouses.com/glossario/multa-rescisoria-locacao",
+      "trecho": "O padrão de mercado é fixar a multa em três aluguéis. Sobre esse valor aplica-se a proporção do que falta: multiplica-se a multa cheia pelo número de meses ..."
+    },
+    {
+      "posicao": 8,
+      "titulo": "Multas e Rescisão Contratual: Quais São os Deveres em ...",
+      "endereco": "https://imobiliariamarcondes.com.br/artigo/dicas/multas-e-rescisao-contratual-quais-sao-os-deveres-em-caso-de-saida-antecipada-do-imovel",
+      "trecho": "Três meses de aluguel, proporcional ao período que falta para o término do contrato. Exemplo Prático: Multa contratual: R$ 3.000,00 (valor cheio); Faltam 6 ..."
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "busca": "multa proporcional aluguel",
+  "pesquisadaEm": "2026-11-16",
+  "origem": "SerpApi (Google Brasil, google.com.br, São Paulo, pt-BR, sem personalização)",
+  "autocompletar": [
+    "multa proporcional aluguel lei do inquilinato art",
+    "multa proporcional aluguel como calcular",
+    "multa proporcional aluguel artigo",
+    "multa proporcional aluguel lei",
+    "multa aluguel proporcional jurisprudência",
+    "clausula multa proporcional aluguel",
+    "multa rescisória aluguel proporcional",
+    "multa contratual aluguel proporcional",
+    "pagamento proporcional multa aluguel",
+    "multa rescisao antecipada aluguel proporcional"
+  ],
+  "asPessoasTambemPerguntam": [
+    "Como fazer um pedido de desocupação de um imóvel alugado?",
+    "É possível reajustar o aluguel após 3 anos de contrato?",
+    "Pode cobrar 20% de multa por quebra de contrato?",
+    "O que diz o artigo 42 da Lei do Inquilinato?"
+  ],
+  "visaoDeIA": {
+    "texto": "A multa por rescisão antecipada de aluguel deve ser cobrada de forma proporcional ao tempo restante do contrato, conforme estabelece o Artigo 4º da Lei do Inquilinato. Cobrar o valor integral da multa quando o inquilino já cumpriu parte do período é considerado abusivo. Como calcular a multa proporcional A fórmula básica utilizada pelo mercado é: $\\text{Multa}=\\left(\\frac{\\text{Valor\\ total\\ da\\ multa\\ contratual}}{\\text{Prazo\\ total\\ do\\ contrato\\ em\\ meses}}\\right)\\times \\text{Meses\\ que\\ faltam\\ para\\ o\\ fim}$ Exemplo prático: Você pode simular e conferir valores usando a Calculadora Multa Rescisória - Imobiliária Razão. Quando você não paga multa A cobrança da multa é dispensada nos seguintes casos: Aviso Prévio A regra geral exige a comunicação da desocupação por escrito com 30 dias de antecedência. Caso o inquilino saia de imediato sem avisar, o locador pode cobrar o equivalente a um mês de aluguel (aviso prévio indenizado). Contratos por prazo indeterminado não possuem multa rescisória, apenas a exigência do aviso prévio de 30 dias. Se quiser calcular o seu caso específico, me diga: • Valor do aluguel: R$ 1.000 • Multa prevista em contrato: 3 aluguéis (Total de R$ 3.000) • Prazo total do contrato: 30 meses • Tempo cumprido pelo inquilino: 20 meses • Meses restantes: 10 meses • Divide-se o valor total da multa pelo número de meses do contrato:\nR$ 3.000 ÷ 30 = R$ 100 por mês • Multiplica-se o resultado pelos meses que faltam:\nR$ 100 × 10 = R$ 1.000 de multa • Transferência de trabalho: Se o locatário for transferido pelo empregador (público ou privado) para outra cidade, desde que notifique o proprietário por escrito com 30 dias de antecedência. • Fim do prazo de carência: Muitos contratos isentam de multa após um determinado período inicial (ex. após 12 meses em contratos de 30 meses, embora dependa do que foi assinado). • Descumprimento pelo proprietário: Se o imóvel apresentar problemas estruturais graves não resolvidos ou falta de reparos urgentes de responsabilidade do locador. • Acordo mútuo: As partes podem negociar e registrar por escrito a isenção total ou parcial da multa no distrato. • Qual é o valor do aluguel? • Qual o prazo total do contrato (em meses)? • Quantos meses você já cumpriu? • Qual é o valor da multa previsto no contrato?",
+    "fontes": [
+      "Feldmann Advocacia",
+      "Frias Neto",
+      "Imobiliária Razão",
+      "Imóveis Crédito Real",
+      "Instagram",
+      "Jusbrasil",
+      "QuintoAndar",
+      "TECNISA",
+      "TikTok",
+      "YouTube"
+    ]
+  },
+  "outrasPessoasPesquisaram": [],
+  "organicos": [
+    {
+      "posicao": 1,
+      "titulo": "Artigo 4º - Prazo da Locação e Multa Rescisória",
+      "endereco": "https://leidoinquilinato.com/artigos/artigo-4-prazo-locacao/",
+      "trecho": "A lei determina que a multa deve ser proporcional ao tempo restante do contrato. Isso significa que se você cumpriu metade do prazo, paga metade da multa."
+    },
+    {
+      "posicao": 2,
+      "titulo": "Cálculo da Multa Rescisória em Contratos de Locação ...",
+      "endereco": "https://www.jusbrasil.com.br/artigos/calculo-da-multa-rescisoria-em-contratos-de-locacao-comercial-principios-e-aplicacoes/2504967369",
+      "trecho": "“É válida a cláusula penal prevista em contrato de locação, devendo a multa ser reduzida proporcionalmente ao tempo de cumprimento do contrato.” ..."
+    },
+    {
+      "posicao": 3,
+      "titulo": "Vai sair antes do fim do contrato? O valor da multa ...",
+      "endereco": "https://www.instagram.com/p/DfPr2V_m-tk/",
+      "trecho": "O valor da multa depende do prazo, das cláusulas e do motivo da devolução. Neste carrossel, mostramos como a proporcionalidade funciona na ..."
+    },
+    {
+      "posicao": 4,
+      "titulo": "Rescisão de Contrato de Aluguel: Multa e Como Proceder",
+      "endereco": "https://contratos.tofy.com.br/blog/rescisao-contrato-aluguel",
+      "trecho": "A multa é proporcional ao tempo restante do contrato. Quanto mais cedo você sair, maior a multa. Existem casos em que ela não é devida ( ..."
+    },
+    {
+      "posicao": 5,
+      "titulo": "Multa por Rescisão Antecipada de Aluguel em Canoas",
+      "endereco": "https://blog.brandaliseimoveis.com.br/2026/09/17/multa-por-rescisao-antecipada-de-aluguel-em-canoas-como-se-calcula-e-o-que-o-proprietario-tem-a-receber/",
+      "trecho": "Como funciona o cálculo da multa proporcional. A fórmula prática é: (valor da multa contratual ÷ prazo total do contrato em meses) × meses ..."
+    },
+    {
+      "posicao": 6,
+      "titulo": "Multa rescisória: como calcular e quando cai",
+      "endereco": "https://itshouses.com/glossario/multa-rescisoria-locacao",
+      "trecho": "O padrão de mercado é fixar a multa em três aluguéis. Sobre esse valor aplica-se a proporção do que falta: multiplica-se a multa cheia pelo número de meses ..."
+    },
+    {
+      "posicao": 7,
+      "titulo": "Multa rescisória em contrato de locação residencial você ...",
+      "endereco": "https://www.rosegirardi.adv.br/multa-rescisoria-em-contrato-de-locacao-residencial-voce-sabe-qual-e-o-valor-devido/",
+      "trecho": "A legislação é clara em dizer que o valor da multa contratual deverá ser cobrado de forma proporcional ao período faltante ao cumprimento do ..."
+    },
+    {
+      "posicao": 8,
+      "titulo": "A multa por rescisão é uma cláusula comum em contratos ...",
+      "endereco": "https://www.instagram.com/p/C1aTf_dpsKi/",
+      "trecho": "O objetivo da multa é compensar o locador pelos prejuízos causados pela quebra do contrato, como a perda de renda e o desgaste em encontrar um ..."
+    }
+  ]
+}

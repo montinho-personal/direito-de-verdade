@@ -10,6 +10,8 @@ faq:
     resposta: "Multiplique o aluguel por 3 para ter a multa integral e depois multiplique pelo tempo que falta, dividido pelo prazo do contrato. Com aluguel de R$ 2.000, 30 meses de contrato e 10 meses faltando: R$ 6.000 × 10 ÷ 30 = **R$ 2.000**."
   - pergunta: "Qual a fórmula da multa rescisória do aluguel?"
     resposta: "Multa devida = multa do contrato × meses que faltam ÷ prazo total do contrato (Lei 8.245, artigo 4º). Com multa de 3 aluguéis: 3 × aluguel × meses que faltam ÷ prazo. Os meses que faltam contam da entrega das chaves até o fim do contrato."
+  - pergunta: "Pode cobrar multa de 20% ou 30% por quebra de contrato de aluguel?"
+    resposta: "A Lei do Inquilinato não fixa um percentual para a multa de quem devolve o imóvel antes do prazo: vale o que o contrato prevê, sempre proporcional ao tempo que falta (artigo 4º). Se a multa for manifestamente excessiva, o juiz pode reduzi-la (Código Civil, artigo 413). A multa por atraso no pagamento do aluguel é outra cláusula, com outra regra."
   - pergunta: "Saí depois que o contrato venceu. Pago multa?"
     resposta: "Não há multa por devolução antecipada depois do fim do prazo. Se você continuou no imóvel e o contrato passou a valer por prazo indeterminado, basta avisar por escrito com 30 dias; sem o aviso, o proprietário pode cobrar um mês de aluguel e encargos (artigo 6º)."
   - pergunta: "O proprietário paga multa se pedir o imóvel antes?"
@@ -65,6 +67,8 @@ Cada mês que falta vale **a multa dividida pelo prazo do contrato**. Com multa 
 Saindo na metade, a multa é sempre a metade da multa do contrato. O que muda com o prazo é o peso de cada mês: num contrato de 12 meses, quem sai faltando 2 meses paga R$ 1.000; num de 30 meses, faltando os mesmos 2 meses, paga R$ 400.
 
 **Meses incompletos:** a calculadora conta os meses completos e, para o que sobra, a fração de dias daquele mês do contrato. Se faltam 9 meses e 15 dias de um mês de 30 dias, conta 9,5 meses. Datas no mesmo dia do mês dão meses exatos. O valor é arredondado ao centavo só no fim.
+
+### O que diz a jurisprudência sobre a multa proporcional?
 
 O STJ confirma o abatimento proporcional ao período cumprido ([REsp 1.906.869](https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/15072022-Cabe-multa-compensatoria-por-devolucao-de-imovel-em-acao-de-despejo--confirma-Terceira-Turma.aspx)), mas, em outro caso, disse que a redução segue a equidade e "não se confunde com a imposição de proporcionalidade matemática" ([STJ, 2018](https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias-antigas/2018/2018-05-28_06-59_Quarta-Turma-adota-equidade-para-fixar-clausula-penal-por-descumprimento-de-contrato-de-locacao-em-shopping.aspx)). A conta é o ponto de partida para negociar; na Justiça, o valor pode ser outro.
 
