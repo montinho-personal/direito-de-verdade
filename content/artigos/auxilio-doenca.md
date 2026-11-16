@@ -1,10 +1,10 @@
 ---
 titulo: "Auxílio-doença 2026: quem tem direito, quanto paga e como funciona a perícia do INSS"
-tituloSeo: "Auxílio-doença 2026: quem tem direito, valor e perícia"
+tituloSeo: "Auxílio-doença 2026: valor de R$ 1.621 a R$ 7.712 e regras"
 descricao: "Auxílio-doença 2026: o INSS paga a partir do 16º dia de afastamento, 91% do salário de benefício, com mínimo de R$ 1.621. Veja carência, Atestmed e perícia."
 categoria: previdencia
 publicadoEm: 2026-10-22
-atualizadoEm: 2026-10-29
+atualizadoEm: 2026-11-16
 faq:
   - pergunta: "Quem paga os primeiros 15 dias de afastamento?"
     resposta: "A empresa. Nos primeiros 15 dias seguidos de afastamento por doença, ela paga o salário integral; o INSS paga a partir do 16º dia (Lei 8.213/1991, artigo 60)."
@@ -14,11 +14,15 @@ faq:
     resposta: "A página oficial do serviço indica até 45 dias corridos. Acompanhe pelo Meu INSS e responda logo a qualquer pedido de documento."
   - pergunta: "Quem recebe auxílio-doença tem 13º?"
     resposta: "Tem. O INSS paga o abono anual a quem recebeu auxílio-doença no ano, calculado como o 13º sobre o valor do benefício de dezembro (Lei 8.213, artigo 40). Os meses trabalhados no ano são pagos pela empresa."
+  - pergunta: "O auxílio-doença pode ser menor que o salário mínimo?"
+    resposta: "Não. Mesmo que 91% da sua média dê menos, o benefício é de pelo menos um salário mínimo: R$ 1.621 em 2026."
   - pergunta: "Gestação de alto risco dá direito ao auxílio-doença sem carência?"
     resposta: "Dá, desde julho de 2026: a gestação de alto risco entrou na lista de doenças que dispensam as 12 contribuições (Portaria Interministerial MPS/MS nº 15/2026). É preciso ter a qualidade de segurada e a incapacidade comprovada."
 fontes:
   - nome: "Lei nº 8.213/1991 (benefícios da Previdência), artigos 15, 25 a 27-A, 29, 40, 59 a 63, 118 e 151 (Planalto)"
     url: "https://www.planalto.gov.br/ccivil_03/leis/l8213cons.htm"
+  - nome: "Lei nº 8.213/1991, artigos 42, 55 e 62, texto atualizado (Câmara dos Deputados)"
+    url: "https://www2.camara.leg.br/legin/fed/lei/1991/lei-8213-24-julho-1991-363650-normaatualizada-pl.html"
   - nome: "Lei nº 15.265/2025: limite de 30 dias para concessão por análise documental (Planalto)"
     url: "https://www.planalto.gov.br/ccivil_03/_Ato2023-2026/2025/Lei/L15265.htm"
   - nome: "Lei nº 15.157/2025: aids, Alzheimer, Parkinson e ELA dispensados de reavaliação (Planalto)"
@@ -50,6 +54,17 @@ fontes:
 ---
 
 O auxílio-doença (hoje chamado de **auxílio por incapacidade temporária**) é pago pelo INSS a quem fica **mais de 15 dias seguidos** sem poder trabalhar por doença ou acidente. Para quem tem carteira assinada, a **empresa paga os primeiros 15 dias** e o INSS paga a partir do 16º. O valor é de **91% do salário de benefício**, limitado à média dos 12 últimos salários de contribuição, e nunca menor que o salário mínimo: **R$ 1.621 em 2026**. Em regra, é preciso ter **12 contribuições**. O pedido é feito no **Meu INSS**, por análise do atestado (Atestmed, até 90 dias) ou com perícia médica.
+
+## Quais são as regras do auxílio-doença em 2026?
+
+O que mudou ou vale especialmente em 2026:
+
+- **valores:** de **R$ 1.621** (salário mínimo) a **R$ 7.712,75** (91% do teto do INSS);
+- **Atestmed:** o benefício pode ser concedido só com o atestado, para afastamentos que somam até **90 dias**, limite ampliado em março e prorrogado em setembro de 2026;
+- **gestação de alto risco** entrou, em julho, na lista de casos que dispensam as 12 contribuições;
+- quem tem **aids, Alzheimer, Parkinson ou ELA** está dispensado das reavaliações periódicas.
+
+Os detalhes de cada ponto estão nas seções abaixo.
 
 ## Quem tem direito ao auxílio-doença?
 
@@ -143,4 +158,10 @@ Quando a doença ou o acidente tem ligação com o trabalho, o benefício é **a
 - **Férias:** quem recebe auxílio-doença por **mais de 6 meses**, mesmo que separados, dentro do mesmo período aquisitivo **perde as férias daquele período**; um novo período começa na volta ao trabalho ([CLT, artigo 133](https://www.planalto.gov.br/ccivil_03/decreto-lei/del5452.htm)). Para calcular as férias de quem volta, use a [calculadora de férias](/calculadoras/ferias).
 - **Contrato de trabalho:** durante o benefício, o empregado é considerado de licença (artigo 63): a empresa não paga salário, e o contrato continua.
 
-Se não houver como voltar à mesma função, o INSS deve encaminhar para a **reabilitação profissional**, para outra atividade (artigo 62).
+### Auxílio-doença conta como tempo de contribuição para a aposentadoria?
+
+Conta, quando fica **entre períodos de trabalho ou de contribuição**: a lei inclui no tempo de serviço "o tempo intercalado em que esteve em gozo de auxílio-doença" ([Lei 8.213, artigo 55, II](https://www2.camara.leg.br/legin/fed/lei/1991/lei-8213-24-julho-1991-363650-normaatualizada-pl.html)). Veja as [regras de aposentadoria de 2026](/artigos/aposentadoria-2026-regras).
+
+### E se a perícia concluir que você não pode voltar à sua atividade?
+
+Quem não tem como se recuperar para a atividade habitual deve passar pela **reabilitação profissional**, para outra atividade, e o benefício continua até a reabilitação (artigo 62). Se a perícia concluir que não há recuperação nem reabilitação possível, o segurado é **aposentado por incapacidade permanente**, o antigo aposentado por invalidez, enquanto durar essa condição (artigos 42 e 62, § 1º).

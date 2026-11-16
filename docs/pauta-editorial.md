@@ -246,6 +246,7 @@ proprietário pediu o imóvel, venda casada e cobrança de dívida. Só pauta.
 | 1 | Condomínio atrasado: multa, juros, prazo e cobrança | "prazo para cobrar dívida de condomínio", "cobrança vexatória condomínio" | `condomínio atrasado multa`; `prazo para cobrar condomínio atrasado`; `condomínio atrasado pode tirar o imóvel` | a fazer |
 | 2 | Contrato de aluguel: o que não pode faltar | PAA "Quais são as cláusulas indispensáveis em um contrato de locação?" | `contrato de aluguel o que precisa ter`; `cláusulas do contrato de aluguel`; `contrato de aluguel residencial` | a fazer |
 | 3 | Consumação mínima, comida no cinema e outras cobranças abusivas | visão de IA da venda casada (cinema, consumação mínima, escola) | `consumação mínima é legal`; `pode entrar com comida no cinema`; `lista de material escolar abusiva` | a fazer, **só com fonte oficial** (STJ ou Procon) |
+| 4 | Calculadora do auxílio-doença 2026 (91% da média, piso e teto) | "calculadora auxílio doença 2026", em "Outras pessoas pesquisaram" (revisão do auxílio-doença) | `calculadora auxílio doença 2026`; `como calcular auxílio doença`; `valor do auxílio doença` | a fazer |
 
 **Não recomendo:** marcas e plataformas (QuintoAndar, Imóvel Guide); modelos de notificação e de petição; "multa de aluguel é tributável" (tributário, fora do público); "venda cruzada/conjugada" (jargão de mercado sem definição legal); horário de cobrança (sem regra legal para particulares); "simpatia para receber dívida".
 
@@ -345,7 +346,7 @@ Lembrar o Renato desta lista a cada entrega.
 | Loja cancelou o pedido (`/artigos/loja-cancelou-pedido`) | `loja cancelou minha compra o que fazer`; `erro de preço no site a loja é obrigada a vender`; `oferta não cumprida` | **prints recebidos e artigo revisado em 21/10/2026** |
 | Como reclamar no Procon e no Consumidor.gov.br (`/artigos/como-reclamar-procon`) | `como reclamar no procon`; `consumidor.gov.br como funciona`; `reclamar no procon online` | **prints recebidos e artigo revisado em 21/10/2026** |
 | Cobrança indevida (`/artigos/cobranca-indevida`), publicado em 22/10/2026 | `cobrança indevida`; `devolução em dobro cobrança indevida`; `cobrança indevida no cartão de crédito` | **revisado em 16/11/2026 com a pesquisa do SerpApi** |
-| Auxílio-doença 2026 (`/artigos/auxilio-doenca`), publicado em 22/10/2026 | `auxílio doença`; `auxílio doença valor 2026`; `perícia do inss` | **aguardando prints** |
+| Auxílio-doença 2026 (`/artigos/auxilio-doenca`), publicado em 22/10/2026 | `auxílio doença`; `auxílio doença valor 2026`; `perícia do inss` | **revisado em 16/11/2026 com a pesquisa do SerpApi** |
 | Rescisão indireta (`/artigos/rescisao-indireta`), publicado em 22/10/2026 | `rescisão indireta`; `rescisão indireta o que recebe`; `salário atrasado o que fazer` | **prints recebidos e artigo revisado em 22/10/2026** |
 | Pensão alimentícia (`/artigos/pensao-alimenticia`), publicado em 23/10/2026 | `pensão alimentícia`; `quanto é a pensão alimentícia`; `pensão alimentícia desempregado` | **aguardando prints** |
 | BPC/LOAS 2026 (`/artigos/bpc-loas`), publicado em 23/10/2026 | `bpc loas`; `bpc loas quem tem direito`; `bpc renda per capita` | **aguardando prints** |

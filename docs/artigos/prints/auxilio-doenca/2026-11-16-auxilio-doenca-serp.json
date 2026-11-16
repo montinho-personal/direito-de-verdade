@@ -1,0 +1,81 @@
+{
+  "busca": "auxílio doença",
+  "pesquisadaEm": "2026-11-16",
+  "origem": "SerpApi: Google Brasil (google.com.br), celular, São Paulo, pt-BR, sem personalização",
+  "autocompletar": [
+    "auxilio doença",
+    "auxílio doença tem direito ao décimo terceiro",
+    "auxílio doença conta como tempo de contribuição para aposentadoria",
+    "auxílio doença negado pela justiça federal o que fazer",
+    "auxílio doença concedido pela justiça federal",
+    "auxílio doença para gestante de alto risco",
+    "auxílio doença qual o valor do salário",
+    "auxilio doença inss",
+    "auxilio doença valor",
+    "auxílio doença gravidez de risco valor",
+    "auxílio doença mei valor",
+    "auxílio doença para dependente químico desempregado",
+    "auxílio doença para quem não tem carteira assinada",
+    "auxílio doença pode ser menor que o salário mínimo",
+    "auxílio doença pelo inss"
+  ],
+  "asPessoasTambemPerguntam": [
+    "Quem tem direito ao auxílio-doença?",
+    "Quais são as novas regras para o auxílio-doença?",
+    "Qual é o valor de um auxílio-doença?",
+    "Qual o valor do auxílio-doença 2026?"
+  ],
+  "outrasPessoasPesquisaram": [
+    "Auxílio doença inss",
+    "Qual o valor máximo que o inss paga de auxílio doença",
+    "Auxílio doença quem tem direito",
+    "Auxílio doença quanto tempo pode durar",
+    "Como dar entrada no auxílio doença pela internet",
+    "Auxílio doença desempregado",
+    "Meu inss auxilio doença",
+    "Quais as doenças que da direito ao auxílio doença",
+    "Consulta auxílio doença",
+    "Auxílio doença inss como solicitar",
+    "Como receber o auxílio doença depois de aprovado",
+    "Auxílio doença 4 meses de contribuição"
+  ],
+  "visaoDeIA": "exibida, texto não carregado nesta busca",
+  "organicos": [
+    {
+      "posicao": 1,
+      "titulo": "Solicitar Auxílio por Incapacidade Temporária - GOV",
+      "endereco": "https://www.gov.br/pt-br/servicos/solicitar-beneficio-por-incapacidade-temporaria-auxilio-doenca",
+      "trecho": "Serviço para pedir benefício para a pessoa que comprove, por meio de perícia médica, por mais de 15 dias, estar incapaz para o trabalho ou atividade ..."
+    },
+    {
+      "posicao": 2,
+      "titulo": "Saiba tudo sobre o Auxílio-Doença. O que é quem tem direito.",
+      "endereco": "https://abrale.org.br/informacoes/direitos-do-paciente/auxilio-doenca/",
+      "trecho": "O valor que você vai receber de auxílio doença, corresponde a 91% da média de todo o seu período de contribuição com o INSS. Por exemplo: se você contribuiu ..."
+    },
+    {
+      "posicao": 3,
+      "titulo": "Auxílio-doença em 2026: quem tem direito, como solicitar",
+      "endereco": "https://previdenciarista.com/blog/auxilio-doenca/",
+      "trecho": "O auxílio doença é um benefício previdenciário pago pelo INSS às pessoas que ficarem incapacitadas para o trabalho ou atividade habitual por ..."
+    },
+    {
+      "posicao": 4,
+      "titulo": "Auxílio Doença 2026: Auxílio por incapacidade temporária",
+      "endereco": "https://bocchiadvogados.com.br/o-que-e-auxilio-doenca/",
+      "trecho": "O auxílio-doença, hoje chamado de benefício por incapacidade temporária, é o valor que o INSS paga a quem fica temporariamente incapaz de ..."
+    },
+    {
+      "posicao": 5,
+      "titulo": "Auxílio-Doença: quem tem direito, como pedir ao INSS e o que fazer se for negado",
+      "endereco": "https://arraesecenteno.com.br/auxilio-doenca/",
+      "trecho": "Podem ter direito ao auxílio-doença trabalhadores empregados, empregados domésticos, autônomos, microempreendedores individuais (MEIs), contribuintes ..."
+    },
+    {
+      "posicao": 6,
+      "titulo": "Auxílio por incapacidade temporária — Instituto Nacional do Seguro Social - INSS",
+      "endereco": "https://www.gov.br/inss/pt-br/direitos-e-deveres/beneficios-por-incapacidade/auxilio-por-incapacidade-temporaria",
+      "trecho": "O prazo máximo de duração do benefício por incapacidade temporária concedido via ATESTMED é de até 90 dias. Caso haja necessidade de tempo maior ..."
+    }
+  ]
+}
