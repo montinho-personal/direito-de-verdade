@@ -35,7 +35,7 @@ No **despejo por falta de pagamento**, a lei **não exige um número mínimo de 
 
 **Nenhum número está na lei.** A Lei do Inquilinato diz que a locação pode ser desfeita "em decorrência da falta de pagamento do aluguel e demais encargos" (artigo 9º, III), sem contar meses. A ideia de que são precisos 3 meses de atraso não tem base na lei: com 1 mês de atraso, o proprietário já pode entrar com a ação.
 
-O aluguel vence na data do contrato ou, se o contrato não disser, até o **sexto dia útil do mês seguinte** (artigo 23, I). Atrasar não faz o despejo acontecer sozinho: o proprietário precisa entrar com a **ação de despejo**, e o inquilino tem chance de pagar e continuar no imóvel (veja abaixo).
+O aluguel vence na data do contrato ou, se o contrato não disser, até o **sexto dia útil do mês seguinte** (artigo 23, I). Para saber quanto a dívida já soma, com a multa, os juros e a correção do contrato, use a [calculadora de aluguel atrasado](/calculadoras/aluguel-atrasado). Atrasar não faz o despejo acontecer sozinho: o proprietário precisa entrar com a **ação de despejo**, e o inquilino tem chance de pagar e continuar no imóvel (veja abaixo).
 
 ## Qual o prazo para despejo por falta de pagamento?
 

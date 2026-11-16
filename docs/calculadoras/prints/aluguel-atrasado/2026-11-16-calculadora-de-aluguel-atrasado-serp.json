@@ -1,0 +1,80 @@
+{
+  "busca": "calculadora de aluguel atrasado",
+  "pesquisadaEm": "2026-11-16",
+  "origem": "SerpApi: Google Brasil (google.com.br), celular, São Paulo, pt-BR, sem personalização",
+  "autocompletar": [
+    "calculadora de aluguel atrasado pelo igpm",
+    "calculadora de juros aluguel atrasado",
+    "calculadora aluguel atrasado guide",
+    "calculadora aluguel atrasado quinto andar",
+    "calculadora de multa de aluguel atrasado",
+    "calculadora de atualização de aluguel atrasado",
+    "calculadora de multa e juros de aluguel atrasado",
+    "calculadora de alugueis atrasados"
+  ],
+  "asPessoasTambemPerguntam": [
+    "Quanto cobrar de juros por dia de atraso de aluguel?",
+    "Estou com 2 meses de aluguel atrasado.?",
+    "Pode cobrar multa de 20% ao atrasar aluguel?",
+    "Qual é a planilha para calcular o valor do aluguel atrasado?"
+  ],
+  "outrasPessoasPesquisaram": [
+    "Calculadora de aluguel atrasado pelo igpm",
+    "Calculadora aluguel atrasado guide",
+    "Multa por atraso de aluguel por dia",
+    "Juros de aluguel atrasado",
+    "Calculadora aluguel atrasado quinto andar",
+    "Juros aluguel atrasado lei"
+  ],
+  "visaoDeIA": "exibida, texto não carregado nesta busca",
+  "organicos": [
+    {
+      "posicao": 1,
+      "titulo": "Calculadora de multa e juros de aluguel atrasado",
+      "endereco": "https://www.99contratos.com.br/calculo-atraso-aluguel.html",
+      "trecho": "Ferramenta gratuita para o Cálculo de Multa e Juros de Aluguel Atrasado. Utilize nossa calculadora gratuita para saber o valor correto a ser cobrado por ..."
+    },
+    {
+      "posicao": 2,
+      "titulo": "Calculadora de Aluguel Atrasado ou Reajuste Gratuita",
+      "endereco": "https://www.neofin.com.br/ferramentas/calculadora-de-aluguel",
+      "trecho": "Calcule juros por atraso no pagamento do aluguel ou calcule o reajuste do seu aluguel de forma rápida e gratuita."
+    },
+    {
+      "posicao": 3,
+      "titulo": "Atualização de dívida de aluguel",
+      "endereco": "https://calculoexato.com.br/parprima.aspx?codMenu=DividAluguel",
+      "trecho": "Calcula o valor atualizado de uma dívida de aluguel decorrente de inadimplência. Período de inadimplência. 1. Data do vencimento do primeiro aluguel em atraso:."
+    },
+    {
+      "posicao": 4,
+      "titulo": "Calculadora de Aluguel Atrasado",
+      "endereco": "https://imovelguide.com.br/calculos/calculadora-de-aluguel-atrasado",
+      "trecho": "Calcule online o valor atualizado do aluguel atrasado com multa, juros e dias de atraso."
+    },
+    {
+      "posicao": 5,
+      "titulo": "Aluguel atrasado: como calcular multa, juros e correção",
+      "endereco": "https://pilotaimoveis.com.br/gestao-de-alugueis/aluguel-atrasado-como-calcular-multa-juros-e-correcao",
+      "trecho": "Aprenda a calcular aluguel atrasado conforme o contrato, separar multa, juros e correção monetária e conferir um exemplo diário sem presumir ..."
+    },
+    {
+      "posicao": 6,
+      "titulo": "Como calcular multas e juros por atraso no pagamento do aluguel?",
+      "endereco": "https://www.cashgo.com.br/calcular-multas-e-juros-por-atraso-do-aluguel/",
+      "trecho": "Passo a passo para calcular os juros · Identifique o valor do aluguel · Verifique a taxa de juros mensal · Calcule o proporcional por dias."
+    },
+    {
+      "posicao": 7,
+      "titulo": "Late Rent Calculation: Don't Get Ripped Off",
+      "endereco": "https://www.youtube.com/watch?v=kSddaDu-3BA",
+      "trecho": "Saiba calcular aluguel atrasado: multa de até 10% e juros de 1% ao mês são o padrão. Verifique o contrato e use ferramentas online."
+    },
+    {
+      "posicao": 8,
+      "titulo": "Calculadora de Juros de Mora e Multa por Atraso",
+      "endereco": "https://siscobra.com.br/ferramentas/calculadora-juros-mora",
+      "trecho": "Calcule juros de mora e multa por atraso de forma rápida e gratuita. Informe o valor, a data de vencimento e o prazo de pagamento e obtenha o total ..."
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "busca": "multa por atraso de aluguel",
+  "pesquisadaEm": "2026-11-16",
+  "origem": "SerpApi: Google Brasil (google.com.br), celular, São Paulo, pt-BR, sem personalização",
+  "autocompletar": [
+    "multa por atraso de aluguel por dia",
+    "multa por atraso de aluguel residencial",
+    "multa por atraso de aluguel lei do inquilinato",
+    "multa por atraso de aluguel comercial",
+    "multa por atraso de aluguel qual a porcentagem",
+    "multa por atraso de aluguel stj",
+    "multa por atraso de aluguel valor",
+    "multa por atraso de aluguel é tributável",
+    "multa por atraso de aluguel lei",
+    "multa por atraso de aluguel percentual",
+    "multa por atraso de aluguel como funciona",
+    "multa por atraso de aluguel limite",
+    "multa por atraso de aluguel cc",
+    "multa por atraso de aluguel 20",
+    "multa por atraso de aluguel abusiva"
+  ],
+  "asPessoasTambemPerguntam": [
+    "Como processar inquilino devedor?",
+    "Pode cobrar 3 aluguéis de multa?",
+    "Como calcular o valor exato do aluguel atrasado?",
+    "É legal cobrar 10% de multa por atraso de aluguel?"
+  ],
+  "outrasPessoasPesquisaram": [],
+  "visaoDeIA": "exibida, texto não carregado nesta busca",
+  "organicos": [
+    {
+      "posicao": 1,
+      "titulo": "Multas sobre locação atrasada - Contabilidade",
+      "endereco": "https://www.contabeis.com.br/forum/contabilidade/338498/multas-sobre-locacao-atrasada/",
+      "trecho": "Há 2 possibilidades: 1ª - A administradora cobrar essa multa e repassar a mesma ao locatário. 2ª - A administradora cobrar essa multa e ser ..."
+    },
+    {
+      "posicao": 2,
+      "titulo": "Inquilino pode cobrar 12 meses de multa do locador",
+      "endereco": "https://www.otempo.com.br/mobile/opiniao/kenio-pereira/inquilino-pode-cobrar-12-meses-de-multa-do-locador-1.2767429",
+      "trecho": "Os inquilinos do Quinto Andar podem cobrar uma multa no valor de 3 a 12 vezes do último aluguel atualizado por estarem pagando valores ..."
+    },
+    {
+      "posicao": 3,
+      "titulo": "Inquilino atrasou o aluguel: como calcular multa e juros? No contrato mais comum, multa de 10% e juros de 1% ao mês. Aluguel de R$ 1.300 com 10 dias de atraso",
+      "endereco": "https://www.facebook.com/61577696023877/posts/inquilino-atrasou-o-aluguel-como-calcular-multa-e-jurosno-contrato-mais-comum-mu/122205836666923200/",
+      "trecho": "Inquilino atrasou o aluguel: como calcular multa e juros? No contrato mais comum, multa de 10% e juros de 1% ao mês. · Suporte da Pilota: nota 9, ..."
+    },
+    {
+      "posicao": 4,
+      "titulo": "Inquilino atrasou o aluguel? Veja a cláusula legal que protege o proprietário e impede medidas que podem gerar processos",
+      "endereco": "https://clickpetroleoegas.com.br/inquilino-atrasou-o-aluguel-veja-a-clausula-legal-que-protege-o-proprietario-e-impede-medidas-que-podem-gerar-processos-rpc95/",
+      "trecho": "Atraso no aluguel exige cautela: cortar água, energia ou trocar fechaduras é ilegal, sendo a ação de despejo o caminho legal adequado."
+    },
+    {
+      "posicao": 5,
+      "titulo": "Atraso no pagamento do aluguel e consequências legais",
+      "endereco": "https://advocaciamk.com.br/atraso-no-pagamento-do-aluguel-e-consequencias-legais/",
+      "trecho": "O atraso no pagamento do aluguel pode levar a diversas consequências para o locatário, incluindo a cobrança de multas, juros, atualização monetária e, em ..."
+    },
+    {
+      "posicao": 6,
+      "titulo": "Tem coisas no Direito Imobiliário que ninguém explica. 👀 Se você é locador (ou inquilino), salve este post: 1️⃣ Multa por atraso no aluguel O contrato de locação pode prever",
+      "endereco": "https://www.facebook.com/100070374964839/videos/tem-coisas-no-direito-imobili%C3%A1rio-que-ningu%C3%A9m-explica-se-voc%C3%AA-%C3%A9-locador-ou-inqui/986513657309404/",
+      "trecho": "... Multa por atraso no aluguel O contrato de locação pode prever multa de 10% a 20%, e não de 2%. O limite de 2% vem do Código de Defesa do ..."
+    },
+    {
+      "posicao": 7,
+      "titulo": "Inquilino não paga o aluguel. O que posso fazer?",
+      "endereco": "https://www.jusbrasil.com.br/artigos/inquilino-nao-paga-o-aluguel-o-que-posso-fazer/1236019296",
+      "trecho": "Inicialmente, o locatário devedor possui um prazo de 30 (trinta) dias para sair do imóvel, voluntariamente (ou 15 dias, caso já tenha se passado mais de 04 ..."
+    },
+    {
+      "posicao": 8,
+      "titulo": "Como calcular multa de aluguel atrasado?",
+      "endereco": "https://imovelguide.com.br/forum/discussao/aluguel/135710",
+      "trecho": "Aplica-se a multa de 2% sobre o valor da mensalidade do aluguel. Cristina Wagner Salvadori. Corretor de ..."
+    },
+    {
+      "posicao": 9,
+      "titulo": "Empresário Online - Legislação",
+      "endereco": "https://www.empresario.com.br/legislacao/edicoes/2008/mult_rec_atra_alug.html",
+      "trecho": "Em relação aos rendimentos de aluguéis recebidos por pessoa física, as multas recebidas por atraso poderão ser deduzidas da base de cálculo do imposto de ..."
+    }
+  ]
+}
