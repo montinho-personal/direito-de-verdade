@@ -234,6 +234,34 @@ Pedido do Renato em 09/11/2026: "Pode criar próximos 3 artigos de seo local". S
 | 2 | Advogado gratuito em Barueri | `advogado gratuito barueri`; `defensoria pública barueri`; `oab barueri atendimento gratuito`; `justiça gratuita` | **publicado em 09/11/2026; revisado com prints em 10/11/2026** — [doc](artigos/advogado-gratuito-em-barueri.md), `/artigos/advogado-gratuito-em-barueri` |
 | 3 | Juizado Especial Federal de Barueri | `juizado especial federal barueri`; `justiça federal barueri`; `jef barueri telefone` | **publicado em 09/11/2026; revisado com prints em 10/11/2026** — [doc](artigos/juizado-especial-federal-de-barueri.md), `/artigos/juizado-especial-federal-de-barueri` |
 
+## Candidatos vindos das buscas que ficaram de fora (16/11/2026)
+
+Regra do Renato de 16/11/2026: o que ficou de fora das pesquisas vira pauta. Fonte: as
+pesquisas do SerpApi da calculadora de multa de aluguel, do despejo e da cobrança indevida.
+Só pauta; cada artigo continua sendo um pedido dele, um de cada vez.
+
+**Valem um artigo (na ordem):**
+
+| ordem | artigo | de onde veio | buscas | status |
+|---|---|---|---|---|
+| 1 | Calculadora de aluguel atrasado (multa, juros e correção) | "calculadora de juros de aluguel atrasado", em "Outras pessoas pesquisaram" do despejo | `calculadora de aluguel atrasado`; `juros de aluguel atrasado`; `multa por atraso de aluguel` | a fazer |
+| 2 | Proprietário pediu o imóvel de volta: prazo para sair (denúncia vazia e retomada) | "como fazer um pedido de desocupação", "despejo por denúncia vazia" (PAA e autocompletar) | `denúncia vazia`; `proprietário pediu o imóvel quanto tempo tenho para sair`; `notificação de desocupação` | a fazer |
+| 3 | Venda casada e práticas abusivas (CDC, artigo 39) | "cobrança indevida cdc art 39", em "Outras pessoas pesquisaram" | `venda casada`; `venda casada o que fazer`; `práticas abusivas cdc` | a fazer |
+| 4 | Como cobrar uma dívida de pessoa física (sem cobrança vexatória) | "cobrança vexatória entre particulares" | `como cobrar uma dívida de pessoa física`; `cobrança vexatória`; `prazo para cobrar dívida` | a fazer |
+
+**Não recomendo:**
+
+- Nomes de empresa (Uber, Itaú, Claro, TIM, Netflix, Nubank, PicPay, QuintoAndar...): a regra é a mesma para todas; uma página por marca seria repetida e sem fonte própria.
+- Modelo de petição de despejo e valor da causa: o site não faz peça processual.
+- Despejo de imóvel comercial e "despejo em Portugal": fora do público do site.
+
+**Cabe em página existente (anotado no doc dela):**
+
+- Artigo 42 da Lei do Inquilinato → calculadora de multa de aluguel (já nas pendências).
+- "Dá para descobrir quem usou meu cartão?" e "o banco não aceitou a contestação" → estorno no cartão.
+- Reajuste do aluguel depois de 3 anos → reajuste do aluguel.
+- IPTU e condomínio cobrados a mais → cobrança indevida (confirmar se o CDC vale; pendente).
+
 ## Próximo de conteúdo (pedido em 16/11/2026)
 
 Pedido do Renato em 16/11/2026: "Pode criar o próximo artigo". Primeiro com a pesquisa do Google pelo SerpApi, sem print.

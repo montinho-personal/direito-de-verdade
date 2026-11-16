@@ -56,6 +56,8 @@ Pesquisa de 22/10/2026; downloads em `scratchpad/cob/` da sessão (INDEX.txt).
 
 ## Pendente
 
+- IPTU e condomínio cobrados a mais (autocompletar de 16/11/2026): confirmar se a devolução em dobro do CDC vale (em geral não é relação de consumo) antes de incluir.
+
 - Tese do Tema 929 (STJ), julgado em 15/09/2026: revisar o artigo quando publicar.
 - Texto da REN 1.000/2021 (artigo e prazo de devolução da distribuidora), da
   Res. Anatel 765/2023 e da RN ANS: não abriram; usadas as páginas oficiais.

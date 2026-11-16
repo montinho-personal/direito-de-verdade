@@ -52,6 +52,8 @@ publicado em 21/10 sem prints; esta revisão o reorganizou pelas buscas reais.
 
 ## Pendente
 
+- Da pesquisa de 16/11/2026 (cobrança indevida no cartão, SerpApi): PAA "É possível descobrir quem fez uma compra no cartão?" e "Quando o banco não aceita a contestação, o que fazer?"; 1º resultado é a FAQ do Banco Central "vítima não reconhece uma compra com seu cartão" (bcb.gov.br/meubc/faqs), que não abre sem navegador. Usar na próxima revisão.
+
 - Prazos e passo a passo de cada banco (Caixa 90 dias, Itaú 45 a 120 dias de
   análise, BB estorno provisório em 2 a 5 dias, segundo a busca): páginas dos
   bancos bloqueadas ou recusadas neste ambiente (Itaú, Santander, Nubank

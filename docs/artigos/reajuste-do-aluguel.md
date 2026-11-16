@@ -26,6 +26,8 @@ Terceiro conteúdo de Moradia, ao lado da multa de aluguel (artigo e calculadora
 
 ## Pendente
 
+- Da pesquisa de 16/11/2026 (multa proporcional aluguel, SerpApi): PAA "É possível reajustar o aluguel após 3 anos de contrato?". Conferir a revisão do art. 19 da Lei 8.245 na próxima revisão.
+
 - Índice negativo (deflação do IGP-M): o contrato decide; sem fonte oficial sobre a regra geral.
 - Projetos de lei que trocam o IGP-M pelo IPCA nos aluguéis: nenhum aprovado conferido; fora.
 - Cobrança de reajuste atrasado: sem regra específica conferida; a FAQ manda negociar e procurar orientação.
