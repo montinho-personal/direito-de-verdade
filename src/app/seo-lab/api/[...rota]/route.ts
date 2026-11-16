@@ -1,19 +1,23 @@
 // API local do Google SEO Research Lab. Só responde com o painel ligado (veja src/lib/seo-lab.ts);
 // na Vercel devolve 404 antes de ler qualquer arquivo.
 import fs from "node:fs";
+import path from "node:path";
 import { connection } from "next/server";
 import { DOMINIO_DO_SITE, labAtivo } from "@/lib/seo-lab";
 import { analisar } from "../../../../../tools/google-seo-research/lib/analise.ts";
 import {
   adicionarPalavra,
   arquivoDaColeta,
+  gravarColeta,
   lerColeta,
   listarColetas,
   listarPalavras,
+  pastaDaColeta,
   removerPalavra,
   resumir,
   ultimasColetas,
 } from "../../../../../tools/google-seo-research/lib/armazenamento.ts";
+import { montarColetaImportada, type PaginaImportada } from "../../../../../tools/google-seo-research/lib/importar.ts";
 import { comparar } from "../../../../../tools/google-seo-research/lib/comparar.ts";
 import { paraCsv, paraJson, paraXlsx } from "../../../../../tools/google-seo-research/lib/exportar.ts";
 import { lerIndiceDoSite } from "../../../../../tools/google-seo-research/lib/indice-do-site.ts";
@@ -96,6 +100,7 @@ export async function POST(request: Request, contexto: RouteContext<"/seo-lab/ap
   await connection();
   if (!labAtivo()) return naoEncontrado();
   const { rota } = await contexto.params;
+  if (rota.length === 1 && rota[0] === "coletas") return importarPagina(request);
   if (rota.length !== 1 || rota[0] !== "palavras") return naoEncontrado();
   try {
     const { termo, grupo } = (await request.json()) as { termo?: unknown; grupo?: unknown };
@@ -113,4 +118,41 @@ export async function DELETE(_request: Request, contexto: RouteContext<"/seo-lab
   if (rota.length !== 2 || rota[0] !== "palavras") return naoEncontrado();
   removerPalavra(rota[1]);
   return Response.json({ ok: true });
+}
+
+// Grava uma página que a pessoa pesquisou e salvou no próprio navegador (aba "Importar")
+type Importacao = Omit<PaginaImportada, "temHtml" | "capturas"> & {
+  html?: unknown;
+  imagens?: { tipo?: unknown; base64?: unknown }[];
+};
+
+async function importarPagina(request: Request) {
+  try {
+    const corpo = (await request.json()) as Importacao;
+    const html = typeof corpo.html === "string" ? corpo.html.slice(0, 15_000_000) : "";
+    const imagens = (Array.isArray(corpo.imagens) ? corpo.imagens : [])
+      .slice(0, 8)
+      .filter((i) => (i.tipo === "png" || i.tipo === "jpg") && typeof i.base64 === "string")
+      .map((i, n) => ({ nome: `captura-${n + 1}.${i.tipo}`, dados: Buffer.from(i.base64 as string, "base64") }));
+    const coleta = montarColetaImportada(
+      {
+        palavra: String(corpo.palavra ?? ""),
+        dispositivo: corpo.dispositivo,
+        autocompletar: Array.isArray(corpo.autocompletar) ? corpo.autocompletar.map(String) : [],
+        lido: (corpo.lido ?? {}) as Record<string, unknown>,
+        temHtml: Boolean(html),
+        capturas: imagens.map((i, n) => ({ nome: i.nome, descricao: `Captura enviada na importação (${n + 1})` })),
+      },
+      new Date(),
+    );
+    const pasta = pastaDaColeta(coleta.id);
+    fs.mkdirSync(pasta, { recursive: true });
+    if (html) fs.writeFileSync(path.join(pasta, "pagina.html"), html);
+    for (const imagem of imagens) fs.writeFileSync(path.join(pasta, imagem.nome), imagem.dados);
+    adicionarPalavra(coleta.palavra);
+    gravarColeta(coleta);
+    return Response.json({ id: coleta.id, status: coleta.status, observacao: coleta.observacao }, { status: 201 });
+  } catch (erro) {
+    return invalido(erro instanceof Error ? erro.message : "Não foi possível importar a página.");
+  }
 }

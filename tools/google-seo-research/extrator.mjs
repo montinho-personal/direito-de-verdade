@@ -25,7 +25,9 @@ export function extrairAutocompletar() {
   return itens;
 }
 
-export function extrairDaPagina() {
+// `doc` existe para o painel ler uma página salva (DOMParser); no coletor vale a página aberta.
+export function extrairDaPagina(doc) {
+  const document = doc || globalThis.document;
   const limpar = (t) => (t || "").replace(/\s+/g, " ").trim();
   const simples = (t) =>
     limpar(t)
@@ -207,7 +209,7 @@ export function extrairDaPagina() {
 
   const corpo = simples(document.body ? document.body.innerText : "");
   resultado.bloqueio =
-    /\/sorry\//.test(location.pathname) ||
+    /\/sorry\//.test((document.location && document.location.pathname) || "") ||
     Boolean(document.querySelector("#captcha-form, iframe[src*='recaptcha']")) ||
     corpo.includes("trafego incomum") ||
     corpo.includes("unusual traffic");

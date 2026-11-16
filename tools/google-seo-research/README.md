@@ -62,6 +62,19 @@ terminal. Ele captura o que está na tela.
 As três primeiras buscas já vêm cadastradas: `calculadora multa rescisão aluguel`,
 `multa proporcional aluguel` e `multa de 3 aluguéis proporcional`.
 
+## Se o Google bloquear o coletor: importar a página salva
+
+O Google costuma reconhecer o navegador automatizado e pedir verificação. Quando isso
+acontecer, não insista: pesquise no seu Chrome de sempre e importe a página.
+
+1. Pesquise a busca no Google, abra 2 ou 3 perguntas, expanda a visão de IA e role até o fim.
+2. `Ctrl + S` → em "Tipo", **Página da web, completa** → salvar.
+3. No painel, aba **Importar página**: escolha a busca e o arquivo `.html`.
+
+O painel lê o arquivo com o mesmo extrator do coletor e grava a coleta com a origem
+`pagina-salva`. Nenhuma busca é feita pelo laboratório nesse caminho. O autocompletar não
+fica na página salva: há um campo para copiar as sugestões, e outro para anexar prints.
+
 ## Limites, de propósito
 
 - **Sem contorno de CAPTCHA.** Se o Google pedir verificação, o coletor avisa, registra a
@@ -94,7 +107,7 @@ npm run seo:reextrair
 | `extrator.mjs` | leitura da página (roda dentro do navegador) |
 | `reextrair.mjs` | relê o HTML salvo das coletas |
 | `lab.mjs` | abre o painel local |
-| `lib/` | tipos, armazenamento, análise, comparação, exportação, provedores |
+| `lib/` | tipos, armazenamento, análise, comparação, exportação, importação, provedores |
 | `dados/` | palavras, coletas, capturas e perfil do navegador (**fora do Git**) |
 | `testes/` | página de exemplo e teste do coletor |
 | `src/app/seo-lab/`, `src/components/seo-lab/` | painel e API local (no site, desligados em produção) |

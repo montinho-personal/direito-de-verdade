@@ -206,3 +206,39 @@ test("índice do site: lê título, intertítulos e perguntas de content/", () =
   // O índice real do site tem a calculadora de multa de aluguel
   assert.ok(lerIndiceDoSite().some((p) => p.caminho === "/calculadoras/multa-rescisao-aluguel"));
 });
+
+test("importação: limpa o que veio do arquivo e marca o que não foi reconhecido", async () => {
+  const { montarColetaImportada } = await import("../tools/google-seo-research/lib/importar.ts");
+  const quando = new Date(2026, 10, 16, 16, 45);
+  const coleta = montarColetaImportada(
+    {
+      palavra: "  Multa Proporcional   Aluguel ",
+      dispositivo: "computador",
+      autocompletar: ["multa proporcional aluguel cálculo", "", "multa proporcional aluguel cálculo"],
+      lido: {
+        perguntas: { status: "coletado", itens: [{ pergunta: "Como calcular?", fonteUrl: "javascript:alert(1)" }, { resposta: "sem pergunta" }] },
+        organicos: { status: "coletado", itens: [{ titulo: "Um", url: "https://www.um.com.br/a" }, { titulo: "Sem endereço" }] },
+        outrasPesquisas: { status: "coletado", itens: [] },
+        visaoDeIA: "lixo",
+      },
+      temHtml: true,
+      capturas: [],
+    },
+    quando,
+  );
+  assert.equal(coleta.id, "2026-11-16-1645-multa-proporcional-aluguel");
+  assert.equal(coleta.palavra, "multa proporcional aluguel");
+  assert.equal(coleta.provedor, "pagina-salva");
+  assert.equal(coleta.status, "coletado");
+  assert.deepEqual(coleta.autocompletar.itens, [{ texto: "multa proporcional aluguel cálculo" }]);
+  assert.deepEqual(coleta.perguntas.itens, [{ pergunta: "Como calcular?", resposta: undefined, fonteTitulo: undefined, fonteUrl: undefined }]);
+  assert.deepEqual(coleta.organicos.itens.map((r) => [r.posicao, r.dominio]), [[1, "um.com.br"]]);
+  assert.equal(coleta.outrasPesquisas.status, "nao_encontrado");
+  assert.equal(coleta.visaoDeIA.status, "nao_encontrado");
+
+  const bloqueada = montarColetaImportada({ palavra: "x y", dispositivo: "celular", autocompletar: [], lido: { bloqueio: true }, temHtml: true, capturas: [] }, quando);
+  assert.equal(bloqueada.status, "bloqueado");
+  const vazia = montarColetaImportada({ palavra: "x y", dispositivo: "celular", autocompletar: [], lido: {}, temHtml: true, capturas: [] }, quando);
+  assert.equal(vazia.status, "nao_encontrado");
+  assert.throws(() => montarColetaImportada({ palavra: " ", dispositivo: "celular", autocompletar: [], lido: {}, temHtml: false, capturas: [] }, quando));
+});

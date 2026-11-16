@@ -3,6 +3,7 @@
 // Painel do Google SEO Research Lab (uso local). Lê e grava pela API em /seo-lab/api.
 import { useCallback, useEffect, useState } from "react";
 import type { Analise, ItemAnalisado } from "../../../tools/google-seo-research/lib/analise.ts";
+import { extrairDaPagina } from "../../../tools/google-seo-research/extrator.mjs";
 import type { Comparacao, Diferenca } from "../../../tools/google-seo-research/lib/comparar.ts";
 import {
   CATEGORIAS,
@@ -20,6 +21,7 @@ type Estado = { palavras: PalavraChave[]; coletas: ResumoDaColeta[] };
 
 const ABAS = [
   { id: "palavras", nome: "Palavras-chave" },
+  { id: "importar", nome: "Importar página" },
   { id: "historico", nome: "Histórico" },
   { id: "resultados", nome: "Resultados" },
   { id: "comparar", nome: "Comparar" },
@@ -261,9 +263,183 @@ function Palavras({
           <Comando texto="npm run seo:coletar -- --todas" />
           <p className="text-muted">
             Se o Google pedir verificação, a coleta para e fica registrada como bloqueada. O coletor não
-            contorna CAPTCHA.
+            contorna CAPTCHA. Nesse caso, pesquise no seu Chrome de sempre e use a aba “Importar página”.
           </p>
         </div>
+      </Cartao>
+    </div>
+  );
+}
+
+// ---------- Importar página salva ----------
+
+function lerComoTexto(arquivo: File) {
+  return arquivo.text();
+}
+
+function lerComoBase64(arquivo: File) {
+  return new Promise<string>((resolver, rejeitar) => {
+    const leitor = new FileReader();
+    leitor.onload = () => resolver(String(leitor.result).replace(/^data:[^,]*,/, ""));
+    leitor.onerror = () => rejeitar(new Error("Não foi possível ler a imagem."));
+    leitor.readAsDataURL(arquivo);
+  });
+}
+
+function Importar({
+  estado,
+  recarregar,
+  abrirColeta,
+}: {
+  estado: Estado;
+  recarregar: () => void;
+  abrirColeta: (id: string) => void;
+}) {
+  const [palavra, setPalavra] = useState("");
+  const [dispositivo, setDispositivo] = useState("computador");
+  const [sugestoes, setSugestoes] = useState("");
+  const [pagina, setPagina] = useState<File | null>(null);
+  const [imagens, setImagens] = useState<File[]>([]);
+  const [mensagem, setMensagem] = useState<{ tipo: "erro" | "ok"; texto: string; id?: string } | null>(null);
+  const [enviando, setEnviando] = useState(false);
+
+  async function importar(evento: React.FormEvent) {
+    evento.preventDefault();
+    if (!pagina) return;
+    setMensagem(null);
+    setEnviando(true);
+    try {
+      const html = await lerComoTexto(pagina);
+      // O arquivo é lido aqui mesmo, no navegador, sem executar nada dele
+      const documento = new DOMParser().parseFromString(html, "text/html");
+      documento.querySelectorAll("script, style, noscript, template").forEach((el) => el.remove());
+      const lido = extrairDaPagina(documento);
+      const resposta = await pedir<{ id: string; status: StatusDaColeta; observacao?: string }>("/coletas", {
+        method: "POST",
+        headers: { "content-type": "application/json" },
+        body: JSON.stringify({
+          palavra,
+          dispositivo,
+          autocompletar: sugestoes.split("\n"),
+          lido,
+          html,
+          imagens: await Promise.all(
+            imagens.slice(0, 8).map(async (imagem) => ({
+              tipo: imagem.type === "image/png" ? "png" : "jpg",
+              base64: await lerComoBase64(imagem),
+            })),
+          ),
+        }),
+      });
+      setMensagem({
+        tipo: resposta.status === "coletado" ? "ok" : "erro",
+        texto: resposta.status === "coletado" ? "Página importada." : (resposta.observacao ?? "Nada reconhecido no arquivo."),
+        id: resposta.id,
+      });
+      recarregar();
+    } catch (e) {
+      setMensagem({ tipo: "erro", texto: e instanceof Error ? e.message : "Não foi possível importar." });
+    } finally {
+      setEnviando(false);
+    }
+  }
+
+  return (
+    <div className="grid gap-5 lg:grid-cols-[3fr_2fr]">
+      <Cartao titulo="Importar uma página que você pesquisou">
+        <form onSubmit={importar} className="space-y-4">
+          <div className="grid gap-3 sm:grid-cols-[2fr_1fr]">
+            <label className="text-sm font-medium">
+              Busca
+              <input
+                className={`${campo} mt-1`}
+                list="buscas-cadastradas"
+                value={palavra}
+                onChange={(e) => setPalavra(e.target.value)}
+                placeholder="escolha ou digite a busca"
+                required
+                maxLength={150}
+              />
+              <datalist id="buscas-cadastradas">
+                {estado.palavras.map((p) => (
+                  <option key={p.id} value={p.termo} />
+                ))}
+              </datalist>
+            </label>
+            <label className="text-sm font-medium">
+              Onde pesquisou
+              <select className={`${campo} mt-1`} value={dispositivo} onChange={(e) => setDispositivo(e.target.value)}>
+                <option value="computador">computador</option>
+                <option value="celular">celular</option>
+              </select>
+            </label>
+          </div>
+          <label className="block text-sm font-medium">
+            Página de resultados salva (.html)
+            <input
+              className={`${campo} mt-1`}
+              type="file"
+              accept=".html,.htm,text/html"
+              required
+              onChange={(e) => setPagina(e.target.files?.[0] ?? null)}
+            />
+          </label>
+          <label className="block text-sm font-medium">
+            Autocompletar (opcional, uma sugestão por linha)
+            <textarea
+              className={`${campo} mt-1 h-28`}
+              value={sugestoes}
+              onChange={(e) => setSugestoes(e.target.value)}
+              placeholder={"multa proporcional aluguel cálculo\nmulta proporcional aluguel 12 meses"}
+            />
+          </label>
+          <label className="block text-sm font-medium">
+            Capturas de tela (opcional, até 8 imagens)
+            <input
+              className={`${campo} mt-1`}
+              type="file"
+              accept="image/png,image/jpeg"
+              multiple
+              onChange={(e) => setImagens([...(e.target.files ?? [])])}
+            />
+          </label>
+          <button type="submit" className={botaoPrincipal} disabled={enviando || !pagina}>
+            {enviando ? "Importando…" : "Importar"}
+          </button>
+          {mensagem && (
+            <p
+              role={mensagem.tipo === "erro" ? "alert" : "status"}
+              className={`flex flex-wrap items-center gap-3 text-sm ${mensagem.tipo === "erro" ? "text-red-800" : "text-emerald-900"}`}
+            >
+              {mensagem.texto}
+              {mensagem.id && (
+                <button type="button" className={botao} onClick={() => abrirColeta(mensagem.id!)}>
+                  Ver resultados
+                </button>
+              )}
+            </p>
+          )}
+        </form>
+      </Cartao>
+
+      <Cartao titulo="Como salvar a página">
+        <ol className="list-decimal space-y-2 pl-5 text-sm">
+          <li>No seu Chrome de sempre, pesquise a busca no Google.</li>
+          <li>Abra 2 ou 3 perguntas de “As pessoas também perguntam”.</li>
+          <li>Se houver visão geral de IA, clique em “Mostrar mais”.</li>
+          <li>Role até o fim da página.</li>
+          <li>
+            Aperte <kbd className="rounded border border-border px-1">Ctrl</kbd> +{" "}
+            <kbd className="rounded border border-border px-1">S</kbd> e, em “Tipo”, escolha{" "}
+            <strong>Página da web, completa</strong>. Salve.
+          </li>
+          <li>Aqui, escolha a busca e o arquivo <span className="font-mono">.html</span> que foi salvo.</li>
+        </ol>
+        <p className="mt-3 text-sm text-muted">
+          Use este caminho quando o Google bloquear o coletor automático. O laboratório não faz nenhuma busca
+          aqui: só lê o arquivo que você salvou. O autocompletar não fica na página salva; se quiser registrá-lo,
+          copie as sugestões para o campo ao lado.
+        </p>
       </Cartao>
     </div>
   );
@@ -955,6 +1131,7 @@ export function PainelDoSeoLab() {
           </nav>
 
           {aba === "palavras" && <Palavras estado={estado} recarregar={recarregar} abrirColeta={abrirColeta} />}
+          {aba === "importar" && <Importar estado={estado} recarregar={recarregar} abrirColeta={abrirColeta} />}
           {aba === "historico" && <Historico estado={estado} abrirColeta={abrirColeta} />}
           {aba === "resultados" && <Resultados estado={estado} id={coletaAberta} aoEscolher={setColetaAberta} />}
           {aba === "comparar" && <Comparar estado={estado} />}
