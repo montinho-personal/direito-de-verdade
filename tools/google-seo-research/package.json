@@ -1,0 +1,13 @@
+{
+  "name": "google-seo-research",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "Coletor supervisionado do Google SEO Research Lab (uso local).",
+  "engines": {
+    "node": ">=22.18"
+  },
+  "dependencies": {
+    "playwright": "1.63.0"
+  }
+}

@@ -7,7 +7,11 @@
     "build": "next build",
     "start": "next start",
     "lint": "eslint",
-    "test": "node --experimental-strip-types --no-warnings --test tests/*.test.mjs"
+    "test": "node --experimental-strip-types --no-warnings --test tests/*.test.mjs",
+    "seo:lab": "node tools/google-seo-research/lab.mjs",
+    "seo:coletar": "node --experimental-strip-types --no-warnings tools/google-seo-research/coletor.mjs",
+    "seo:reextrair": "node --experimental-strip-types --no-warnings tools/google-seo-research/reextrair.mjs",
+    "seo:testar-coletor": "node --experimental-strip-types --no-warnings --test tools/google-seo-research/testes/*.test.mjs"
   },
   "dependencies": {
     "gray-matter": "4.0.3",

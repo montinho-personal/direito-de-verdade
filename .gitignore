@@ -40,3 +40,6 @@ yarn-error.log*
 *.tsbuildinfo
 next-env.d.ts
 __pycache__/
+
+# Google SEO Research Lab: dependências do coletor (os dados têm .gitignore próprio)
+/tools/google-seo-research/node_modules

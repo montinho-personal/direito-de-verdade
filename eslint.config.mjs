@@ -12,6 +12,9 @@ const eslintConfig = defineConfig([
     "out/**",
     "build/**",
     "next-env.d.ts",
+    // Google SEO Research Lab: dependências e dados locais do coletor
+    "tools/google-seo-research/node_modules/**",
+    "tools/google-seo-research/dados/**",
   ]),
 ]);
 
