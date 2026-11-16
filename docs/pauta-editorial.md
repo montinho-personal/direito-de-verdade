@@ -234,6 +234,23 @@ Pedido do Renato em 09/11/2026: "Pode criar próximos 3 artigos de seo local". S
 | 2 | Advogado gratuito em Barueri | `advogado gratuito barueri`; `defensoria pública barueri`; `oab barueri atendimento gratuito`; `justiça gratuita` | **publicado em 09/11/2026; revisado com prints em 10/11/2026** — [doc](artigos/advogado-gratuito-em-barueri.md), `/artigos/advogado-gratuito-em-barueri` |
 | 3 | Juizado Especial Federal de Barueri | `juizado especial federal barueri`; `justiça federal barueri`; `jef barueri telefone` | **publicado em 09/11/2026; revisado com prints em 10/11/2026** — [doc](artigos/juizado-especial-federal-de-barueri.md), `/artigos/juizado-especial-federal-de-barueri` |
 
+## Candidatos vindos das buscas que ficaram de fora (16/11/2026, 2ª rodada)
+
+Do que ficou de fora nas pesquisas da calculadora de aluguel atrasado e dos artigos de
+proprietário pediu o imóvel, venda casada e cobrança de dívida. Só pauta.
+
+**Valem um artigo (na ordem):**
+
+| ordem | artigo | de onde veio | buscas | status |
+|---|---|---|---|---|
+| 1 | Condomínio atrasado: multa, juros, prazo e cobrança | "prazo para cobrar dívida de condomínio", "cobrança vexatória condomínio" | `condomínio atrasado multa`; `prazo para cobrar condomínio atrasado`; `condomínio atrasado pode tirar o imóvel` | a fazer |
+| 2 | Contrato de aluguel: o que não pode faltar | PAA "Quais são as cláusulas indispensáveis em um contrato de locação?" | `contrato de aluguel o que precisa ter`; `cláusulas do contrato de aluguel`; `contrato de aluguel residencial` | a fazer |
+| 3 | Consumação mínima, comida no cinema e outras cobranças abusivas | visão de IA da venda casada (cinema, consumação mínima, escola) | `consumação mínima é legal`; `pode entrar com comida no cinema`; `lista de material escolar abusiva` | a fazer, **só com fonte oficial** (STJ ou Procon) |
+
+**Não recomendo:** marcas e plataformas (QuintoAndar, Imóvel Guide); modelos de notificação e de petição; "multa de aluguel é tributável" (tributário, fora do público); "venda cruzada/conjugada" (jargão de mercado sem definição legal); horário de cobrança (sem regra legal para particulares); "simpatia para receber dívida".
+
+**Cabe em página existente:** "vende e não entrega" e "quando a loja devolve o dinheiro" → comprei e não chegou / direito de arrependimento; "como cobrar aluguel atrasado educadamente / pelo WhatsApp" → como cobrar dívida de pessoa física; "prazo para cobrar dívida trabalhista" → artigos de demissão (2 anos, Constituição).
+
 ## Candidatos vindos das buscas que ficaram de fora (16/11/2026)
 
 Regra do Renato de 16/11/2026: o que ficou de fora das pesquisas vira pauta. Fonte: as
