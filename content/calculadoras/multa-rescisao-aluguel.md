@@ -1,15 +1,15 @@
 ---
 titulo: "Calculadora de Multa por Quebra de Contrato de Aluguel 2026: quanto você deve pagar?"
-tituloSeo: "Calculadora de Multa de Aluguel 2026 | Valor Proporcional"
-descricao: "Vai sair antes do fim do contrato? Calcule a multa proporcional do aluguel, entenda as exceções legais e veja quanto pode pagar. Grátis."
+tituloSeo: "Calculadora de multa de rescisão de aluguel proporcional"
+descricao: "Calculadora de multa de rescisão de aluguel: multa × meses que faltam ÷ prazo. Conta com as datas e os meses incompletos, e mostra quando não há multa."
 categoria: moradia
 publicadoEm: 2026-10-27
-atualizadoEm: 2026-10-27
+atualizadoEm: 2026-11-16
 faq:
   - pergunta: "Como calcular a multa de 3 aluguéis proporcional?"
     resposta: "Multiplique o aluguel por 3 para ter a multa integral e depois multiplique pelo tempo que falta, dividido pelo prazo do contrato. Com aluguel de R$ 2.000, 30 meses de contrato e 10 meses faltando: R$ 6.000 × 10 ÷ 30 = **R$ 2.000**."
-  - pergunta: "A multa é a mesma para contrato de 12 e de 30 meses?"
-    resposta: "A regra é a mesma: a multa do contrato, proporcional ao tempo cumprido (Lei 8.245, artigo 4º). O que muda é a conta: em 12 meses, cada mês cumprido abate 1/12 da multa; em 30 meses, 1/30."
+  - pergunta: "Qual a fórmula da multa rescisória do aluguel?"
+    resposta: "Multa devida = multa do contrato × meses que faltam ÷ prazo total do contrato (Lei 8.245, artigo 4º). Com multa de 3 aluguéis: 3 × aluguel × meses que faltam ÷ prazo. Os meses que faltam contam da entrega das chaves até o fim do contrato."
   - pergunta: "Saí depois que o contrato venceu. Pago multa?"
     resposta: "Não há multa por devolução antecipada depois do fim do prazo. Se você continuou no imóvel e o contrato passou a valer por prazo indeterminado, basta avisar por escrito com 30 dias; sem o aviso, o proprietário pode cobrar um mês de aluguel e encargos (artigo 6º)."
   - pergunta: "O proprietário paga multa se pedir o imóvel antes?"
@@ -33,7 +33,7 @@ Quem devolve o imóvel alugado **antes do fim do prazo** paga a multa do contrat
 
 <!-- ferramenta: calculadora-multa-aluguel -->
 
-## Como funciona a multa por quebra de contrato?
+## Multa de rescisão do contrato de aluguel: o que diz a Lei do Inquilinato?
 
 A multa é uma cláusula do contrato, não um valor da lei. A Lei do Inquilinato diz que, durante o prazo, o inquilino pode devolver o imóvel "pagando a multa pactuada, proporcional ao período de cumprimento do contrato, ou, na sua falta, a que for judicialmente estipulada" (artigo 4º). Ou seja: vale o número do contrato, com desconto pelo tempo já cumprido. Sem multa no contrato, só o juiz pode fixar uma.
 
@@ -51,6 +51,18 @@ No mesmo período, o **proprietário não pode** pedir o imóvel de volta, salvo
 | 12 meses | 18 | R$ 6.000 × 18 ÷ 30 | R$ 3.600 |
 | 20 meses | 10 | R$ 6.000 × 10 ÷ 30 | R$ 2.000 |
 | 30 meses | 0 | — | sem multa |
+
+### Quanto é a multa em contrato de 12, 30 ou 6 meses?
+
+Cada mês que falta vale **a multa dividida pelo prazo do contrato**. Com multa de 3 aluguéis de R$ 2.000 (R$ 6.000):
+
+| Prazo do contrato | Cada mês que falta vale | Saindo na metade do prazo |
+| --- | --- | --- |
+| 6 meses | R$ 6.000 ÷ 6 = R$ 1.000 | faltam 3 meses: R$ 3.000 |
+| 12 meses | R$ 6.000 ÷ 12 = R$ 500 | faltam 6 meses: R$ 3.000 |
+| 30 meses | R$ 6.000 ÷ 30 = R$ 200 | faltam 15 meses: R$ 3.000 |
+
+Saindo na metade, a multa é sempre a metade da multa do contrato. O que muda com o prazo é o peso de cada mês: num contrato de 12 meses, quem sai faltando 2 meses paga R$ 1.000; num de 30 meses, faltando os mesmos 2 meses, paga R$ 400.
 
 **Meses incompletos:** a calculadora conta os meses completos e, para o que sobra, a fração de dias daquele mês do contrato. Se faltam 9 meses e 15 dias de um mês de 30 dias, conta 9,5 meses. Datas no mesmo dia do mês dão meses exatos. O valor é arredondado ao centavo só no fim.
 
@@ -93,7 +105,7 @@ O inquilino fica **dispensado da multa** se precisar devolver o imóvel porque *
 3. **Separe a multa dos outros valores**: aluguel, condomínio e contas até a entrega das chaves são outra coisa, cada um com recibo discriminado (artigo 22, VI).
 4. **Sem acordo**, o Juizado Especial Cível julga causas de até 40 salários mínimos, sem advogado até 20 ([Lei 9.099/1995](https://www.planalto.gov.br/ccivil_03/leis/l9099.htm)). A Defensoria Pública ajuda quem não pode pagar advogado.
 
-Mais detalhes sobre aviso, vistoria, caução e fiador estão em [multa por quebra de contrato de aluguel: quando não precisa pagar](/artigos/multa-contrato-de-aluguel).
+Mais detalhes sobre aviso, vistoria, caução e fiador estão em [multa por quebra de contrato de aluguel: quando não precisa pagar](/artigos/multa-contrato-de-aluguel). Se você procurava a multa da **rescisão do contrato de trabalho**, como a de 40% do FGTS na demissão sem justa causa, a conta é outra: veja a [calculadora de rescisão trabalhista](/calculadoras/rescisao).
 
 ## O que a calculadora não faz
 
@@ -102,4 +114,4 @@ Mais detalhes sobre aviso, vistoria, caução e fiador estão em [multa por queb
 - Não calcula danos ao imóvel nem desconta a caução automaticamente.
 - Não aplica a fórmula da multa do inquilino ao proprietário que pede o imóvel.
 
-Regras revisadas em 27/10/2026. Esta simulação é informativa: o valor devido depende das cláusulas do contrato e das circunstâncias de cada caso.
+Regras revisadas em 16/11/2026. Esta simulação é informativa: o valor devido depende das cláusulas do contrato e das circunstâncias de cada caso.

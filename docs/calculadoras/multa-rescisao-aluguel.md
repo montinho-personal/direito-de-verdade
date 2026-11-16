@@ -22,11 +22,22 @@ calculadora (atualizadoEm 27/10). URL no padrão `/calculadoras/...`.
 
 ## Prints recebidos
 
-Nenhum. A printar: `calculadora multa rescisão aluguel`, `multa proporcional aluguel`,
-`multa de 3 aluguéis proporcional`.
+Primeira revisão com o **Google SEO Research Lab** (16/11/2026): página de resultados salva no
+Chrome do Renato e lida pelo laboratório; o autocompletar veio da tentativa de coleta automática
+(bloqueada pelo Google logo depois). Evidências em `prints/multa-rescisao-aluguel/`: o JSON com o
+que foi lido da página (sem o HTML bruto, que traz dados da sessão) e o recorte do autocompletar.
+Faltam `multa proporcional aluguel` e `multa de 3 aluguéis proporcional`.
 
 | print | conteúdo | onde entrou |
 |---|---|---|
+| `calculadora multa rescisão aluguel`, autocompletar | rescisão contrato aluguel · rescisão aluguel · **rescisória** · aluguel **proporcional** | `tituloSeo` "Calculadora de multa de rescisão de aluguel proporcional"; FAQ "Qual a fórmula da multa rescisória do aluguel?" |
+| "As pessoas também perguntam" | não apareceu nessa busca | — |
+| visão geral de IA | fórmula proporcional; exemplo R$ 2.000, 30 meses, restam 12 → R$ 2.400; exceção da transferência; cita Pilota Imóveis e Imobiliária Razão | não é fonte; confirma a fórmula e a exceção que a página já tinha. O site não é citado |
+| "Outras pessoas pesquisaram" | como calcular 12 meses · 30 meses · quanto é de 12 meses · de 6 meses · lei do inquilinato · multa proporcional aluguel · quinto andar · rescisão de contrato de trabalho | H3 "Quanto é a multa em contrato de 12, 30 ou 6 meses?"; H2 renomeado "Multa de rescisão do contrato de aluguel: o que diz a Lei do Inquilinato?"; link para a calculadora de rescisão trabalhista (quem buscou a multa do contrato de trabalho). "quinto andar" (marca): fora |
+| orgânicos (9) | imobiliárias com calculadora (Razão, CG Tecnologia, HouseUp, Alluxsi, Pilota, Primeiro Plano, Frias Neto, Rafael Sieiro) e um vídeo do YouTube; o site não está entre eles | `descricao` diz o que só a nossa tem: conta pelas datas, meses incompletos e quando não há multa |
+
+As contas novas (R$ 6.000 ÷ 6, 12 e 30; metade do prazo; 2 meses restantes) são aritmética
+sobre o art. 4º, já conferido; nenhum fato novo.
 
 ## Fontes confirmadas
 
@@ -103,6 +114,6 @@ multa zerada e alta, encargos e crédito, datas inválidas, meses incompletos. P
 
 ## Para medir
 
-A partir de 10/11/2026: `calculadora multa rescisão aluguel`, `multa proporcional aluguel`,
+A partir de 10/11/2026 (revisão de 16/11: medir de novo a partir de 30/11): `calculadora multa rescisão aluguel`, `calculadora multa rescisória aluguel`, `multa aluguel 12 meses`, `multa proporcional aluguel`,
 `multa de 3 aluguéis proporcional`, `multa aluguel 30 meses`. Conferir se a calculadora e o
 artigo não disputam a mesma busca no Search Console.
