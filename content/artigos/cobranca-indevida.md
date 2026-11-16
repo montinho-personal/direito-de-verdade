@@ -1,7 +1,7 @@
 ---
 titulo: "Cobrança indevida: quando a devolução é em dobro e como pedir o dinheiro de volta"
-tituloSeo: "Cobrança indevida: devolução em dobro e como pedir"
-descricao: "Cobrança indevida: quem pagou a mais tem direito a receber o dobro, com correção e juros, salvo engano justificável. Veja quando vale e como pedir."
+tituloSeo: "Cobrança indevida: devolução em dobro pelo art. 42 do CDC"
+descricao: "Cobrança indevida: quem pagou a mais recebe o dobro, com correção e juros (CDC, art. 42, e Tema 929 do STJ, 2026). Veja quando vale, se é crime e como pedir."
 categoria: consumidor
 publicadoEm: 2026-10-22
 atualizadoEm: 2026-11-16
@@ -12,8 +12,8 @@ faq:
     resposta: "É um erro que a empresa consegue explicar e que não contraria a boa-fé. Quem tem de provar o engano é a empresa, não o consumidor. Se ela não provar, a devolução é em dobro."
   - pergunta: "A cobrança de dívida que eu não reconheço tem de ter o CNPJ da empresa?"
     resposta: "Tem. Todo documento de cobrança deve trazer o nome, o endereço e o CPF ou CNPJ de quem cobra (CDC, artigo 42-A). Desconfie de boleto ou mensagem sem esses dados: pode ser golpe."
-  - pergunta: "Cobrança indevida dá dano moral?"
-    resposta: "A negativação indevida do nome dá dano moral presumido, segundo o STJ. A cobrança indevida, sozinha, não: sem negativação, é preciso provar o prejuízo, como constrangimento ou ameaça."
+  - pergunta: "O que diz o artigo 940 do Código Civil?"
+    resposta: "Que quem processa alguém por uma dívida já paga fica obrigado a pagar ao devedor o dobro do que cobrou. Para o STJ, isso vale quando há má-fé de quem cobra. É diferente do artigo 42 do CDC, que trata do que o consumidor já pagou a mais."
   - pergunta: "Quanto posso pedir no Juizado sem advogado?"
     resposta: "Até 20 salários mínimos, ou R$ 32.420 em 2026, sem advogado. De 20 a 40 salários mínimos (até R$ 64.840), o Juizado também julga, mas com advogado (Lei 9.099/1995, artigos 3º e 9º)."
 fontes:
@@ -31,6 +31,10 @@ fontes:
     url: "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/Mesmo-sem-novo-pagamento--cobranca-de-divida-quitada-pode-resultar-em-devolucao-em-dobro-ao-consumidor.aspx"
   - nome: "STJ: Súmula 412 (prazo do Código Civil para tarifas de água e esgoto)"
     url: "https://processo.stj.jus.br/SCON/sumstj/doc.jsp?livre=%22412%22.num.&b=SUMU&p=false&l=10&i=1&operador=E&ordenacao=-%40NUM"
+  - nome: "STJ: Súmula 385 (anotação irregular com inscrição anterior legítima)"
+    url: "https://processo.stj.jus.br/SCON/sumstj/doc.jsp?livre=%22385%22.num.&b=SUMU&p=false&l=10&i=1&operador=E&ordenacao=-%40NUM"
+  - nome: "STJ: Tema repetitivo 1.435 (dano moral presumido em descontos indevidos no benefício do INSS), afetado em 05/05/2026"
+    url: "https://processo.stj.jus.br/repetitivos/temas_repetitivos/pesquisa.jsp?novaConsulta=true&tipo_pesquisa=T&cod_tema_inicial=1435&cod_tema_final=1435"
   - nome: "STJ: Jurisprudência em Teses nº 59, cadastro de inadimplentes"
     url: "https://www.stj.jus.br/internet_docs/jurisprudencia/jurisprudenciaemteses/Jurisprud%C3%AAncia%20em%20teses%2059%20-%20Cadastro%20de%20Inadimplentes.pdf"
   - nome: "Decreto nº 11.034/2022 (SAC), artigo 13 (Planalto)"
@@ -51,7 +55,7 @@ fontes:
 
 Quem **pagou** uma cobrança indevida tem direito a receber de volta **o dobro do que pagou a mais**, com correção e juros, salvo se a empresa provar um **engano justificável** ([Código de Defesa do Consumidor, artigo 42](https://www.planalto.gov.br/ccivil_03/leis/l8078compilado.htm)). Desde 2021, o STJ não exige que o consumidor prove má-fé: basta que a cobrança contrarie a boa-fé. Peça primeiro no atendimento da empresa (em bancos, telefonia e energia, o SAC deve suspender a cobrança indevida na hora); se não resolver, vá ao Consumidor.gov.br, ao Procon ou ao Juizado Especial.
 
-## O que diz a lei sobre cobrança indevida
+## O que diz o artigo 42 do CDC sobre cobrança indevida?
 
 O consumidor "cobrado em quantia indevida tem direito à repetição do indébito, por valor igual ao dobro do que pagou em excesso, acrescido de correção monetária e juros legais, salvo hipótese de engano justificável" (CDC, artigo 42, parágrafo único). "Repetição do indébito" é o nome jurídico da devolução do que foi pago sem dever.
 
@@ -113,12 +117,16 @@ Para mensalidade ou reajuste errado, reclame na operadora e, sem solução, na *
 
 Para tarifas de **água e esgoto** e serviços de **telefonia** não contratados, o STJ aplica o prazo de **10 anos** do Código Civil ([Súmula 412](https://processo.stj.jus.br/SCON/sumstj/doc.jsp?livre=%22412%22.num.&b=SUMU&p=false&l=10&i=1&operador=E&ordenacao=-%40NUM); EAREsp 676.608). O prazo de 5 anos do artigo 27 do CDC é para danos causados por defeito do produto ou do serviço, não para devolução de valores. Em outros contratos, o prazo pode ser discutido; o mais seguro é reclamar assim que notar o erro.
 
-## Cobrança indevida dá dano moral?
+## Cobrança indevida dá dano moral? Qual o valor da indenização?
 
 A **negativação indevida** do nome gera dano moral presumido, sem precisar provar o sofrimento. A cobrança indevida **sem negativação** não gera dano moral presumido: é preciso mostrar o prejuízo ([STJ, Jurisprudência em Teses nº 59](https://www.stj.jus.br/internet_docs/jurisprudencia/jurisprudenciaemteses/Jurisprud%C3%AAncia%20em%20teses%2059%20-%20Cadastro%20de%20Inadimplentes.pdf)). Se o seu nome foi para o Serasa por uma dívida que não existe, veja [quanto tempo o nome fica sujo e como limpar](/artigos/nome-sujo).
 
-### Cobrança com ameaça ou constrangimento
+**Não existe tabela de valor** para a indenização: quando há dano moral, quem fixa o valor é o juiz, caso a caso, e este site não estima valores. E quem **já tinha outra negativação legítima** não recebe dano moral por uma anotação irregular, só o direito de cancelá-la ([Súmula 385 do STJ](https://processo.stj.jus.br/SCON/sumstj/doc.jsp?livre=%22385%22.num.&b=SUMU&p=false&l=10&i=1&operador=E&ordenacao=-%40NUM)).
 
-Na cobrança, o consumidor "não será exposto a ridículo, nem será submetido a qualquer tipo de constrangimento ou ameaça" (CDC, artigo 42). Cobrar com ameaça, afirmações falsas ou de um jeito que exponha a pessoa ao ridículo ou atrapalhe seu trabalho, descanso ou lazer é **crime**, com pena de detenção de 3 meses a 1 ano e multa (artigo 71). Guarde mensagens, gravações e registros de ligações.
+Nos **descontos indevidos em aposentadoria ou pensão do INSS**, o STJ vai decidir se o dano moral é presumido ([Tema 1.435](https://processo.stj.jus.br/repetitivos/temas_repetitivos/pesquisa.jsp?novaConsulta=true&tipo_pesquisa=T&cod_tema_inicial=1435&cod_tema_final=1435), afetado em maio de 2026), e os recursos sobre o assunto estão suspensos até lá. Para pedir o dinheiro de volta, veja [desconto indevido no benefício do INSS](/artigos/desconto-indevido-inss).
+
+## Cobrança indevida é crime?
+
+**Cobrar um valor errado, por si só, não está entre os crimes do CDC**: o que o consumidor tem é o direito de cancelar a cobrança e de receber de volta o que pagou a mais. O crime é o **jeito abusivo de cobrar**. Na cobrança, o consumidor "não será exposto a ridículo, nem será submetido a qualquer tipo de constrangimento ou ameaça" (CDC, artigo 42). Cobrar com ameaça, afirmações falsas ou de um jeito que exponha a pessoa ao ridículo ou atrapalhe seu trabalho, descanso ou lazer é **crime**, com pena de detenção de 3 meses a 1 ano e multa (artigo 71). Guarde mensagens, gravações e registros de ligações.
 
 Cobrança de uma dívida que você não reconhece, por mensagem ou boleto, também pode ser golpe: veja os [golpes mais comuns de fim de ano](/artigos/golpes-de-fim-de-ano).
