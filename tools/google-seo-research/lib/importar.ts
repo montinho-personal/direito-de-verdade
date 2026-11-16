@@ -87,7 +87,14 @@ export function montarColetaImportada(entrada: PaginaImportada, quando: Date): C
       const titulo = texto(i.titulo, 300);
       const url = endereco(i.url);
       if (!titulo || !url) return undefined;
-      return { posicao: n + 1, titulo, url, dominio: dominioDe(url), trecho: texto(i.trecho, 400) || undefined };
+      return {
+        posicao: n + 1,
+        titulo,
+        url,
+        dominio: dominioDe(url),
+        enderecoExibido: texto(i.enderecoExibido, 200) || undefined,
+        trecho: texto(i.trecho, 400) || undefined,
+      };
     }),
     capturas: entrada.capturas,
     html: entrada.temHtml ? "pagina.html" : undefined,

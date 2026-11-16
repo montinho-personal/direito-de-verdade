@@ -313,6 +313,8 @@ function Importar({
       // O arquivo é lido aqui mesmo, no navegador, sem executar nada dele
       const documento = new DOMParser().parseFromString(html, "text/html");
       documento.querySelectorAll("script, style, noscript, template").forEach((el) => el.remove());
+      // Sem a página desenhada, o texto de blocos vizinhos sai colado: um espaço depois de cada um
+      documento.querySelectorAll("div, p, li, br, tr, h1, h2, h3, h4").forEach((el) => el.after(" "));
       const lido = extrairDaPagina(documento);
       const resposta = await pedir<{ id: string; status: StatusDaColeta; observacao?: string }>("/coletas", {
         method: "POST",
@@ -593,7 +595,7 @@ function ConteudoDaCategoria({ coleta, categoria }: { coleta: Coleta; categoria:
                 <li key={f.url} className="break-all">
                   {f.titulo} ·{" "}
                   <a className="text-accent underline" href={f.url} target="_blank" rel="noreferrer noopener">
-                    {f.url}
+                    {f.url.length > 90 ? "abrir" : f.url}
                   </a>
                 </li>
               ))}
@@ -624,7 +626,7 @@ function ConteudoDaCategoria({ coleta, categoria }: { coleta: Coleta; categoria:
                   )}
                 </p>
                 <a className="break-all text-xs text-accent underline" href={r.url} target="_blank" rel="noreferrer noopener">
-                  {r.url}
+                  {r.enderecoExibido ?? r.url}
                 </a>
                 {r.trecho && <p className="mt-1 text-muted">{r.trecho}</p>}
               </div>
@@ -1034,7 +1036,13 @@ function Oportunidades() {
               <p className="flex flex-wrap items-center gap-2">
                 <span className="font-medium">{v.palavra}</span>
                 <span className="rounded-full border border-border px-2 py-0.5 text-xs">
-                  {v.exibida ? (v.citaOSite ? "cita o site" : "não cita o site") : "não capturada"}
+                  {!v.exibida
+                    ? "não capturada"
+                    : v.citaOSite
+                      ? "cita o site"
+                      : v.dominiosCitados.length
+                        ? "não cita o site"
+                        : "conferir pelos títulos"}
                 </span>
               </p>
               <p className="mt-1 text-muted">{v.recomendacao}</p>

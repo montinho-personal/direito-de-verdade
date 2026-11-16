@@ -129,6 +129,10 @@ test("visão de IA: diz se o site foi citado", () => {
   assert.equal(fora.exibida, true);
   assert.equal(fora.citaOSite, false);
   assert.deepEqual(fora.dominiosCitados, ["outro.com.br"]);
+  // Fonte com o endereço escondido atrás do redirecionamento do Google: sobra o título
+  const [escondida] = analisar([visao("https://www.google.com/goto?url=CAESabc")], PAGINAS, "direitodeverdade.com.br").visibilidadeEmIA;
+  assert.deepEqual([escondida.dominiosCitados, escondida.fontesCitadas], [[], ["Fonte"]]);
+  assert.match(escondida.recomendacao, /confira pelos títulos/);
   const [sem] = analisar([coleta("multa proporcional aluguel")], PAGINAS, "direitodeverdade.com.br").visibilidadeEmIA;
   assert.equal(sem.exibida, false);
 });

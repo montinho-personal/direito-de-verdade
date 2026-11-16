@@ -34,6 +34,9 @@ export type ResultadoOrganico = {
   titulo: string;
   url: string;
   dominio: string;
+  // Endereço como o Google exibe ("https://site.com.br › pasta"). Quando o Google esconde o
+  // destino do link, `url` traz só o site e este campo mostra o caminho
+  enderecoExibido?: string;
   trecho?: string;
 };
 

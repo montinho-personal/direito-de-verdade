@@ -39,6 +39,8 @@ export type VisibilidadeEmIA = {
   exibida: boolean;
   citaOSite: boolean;
   dominiosCitados: string[];
+  // Títulos das fontes, para quando o Google esconde o endereço delas
+  fontesCitadas: string[];
   recomendacao: string;
 };
 
@@ -188,19 +190,27 @@ export function detectarCanibalizacao(coleta: Coleta, paginas: PaginaDoSite[], d
 
 function visibilidadeEmIA(coleta: Coleta, dominioDoSite: string): VisibilidadeEmIA {
   const visao = coleta.visaoDeIA.itens[0];
-  const dominios = [...new Set((visao?.fontes ?? []).map((f) => dominioDe(f.url)).filter(Boolean))];
+  // O Google às vezes troca o endereço da fonte por um redirecionamento dele: aí sobra só o título
+  const dominios = [
+    ...new Set((visao?.fontes ?? []).map((f) => dominioDe(f.url)).filter((d) => d && !/(^|\.)google\.[a-z.]+$/.test(d))),
+  ];
+  const titulos = [...new Set((visao?.fontes ?? []).map((f) => f.titulo).filter(Boolean))];
+  const citadas = dominios.length ? dominios.join(", ") : titulos.join("; ");
   const citaOSite = Boolean(dominioDoSite) && dominios.some((d) => d.endsWith(dominioDoSite));
   const recomendacao = !visao
     ? "A visão de IA não foi capturada nessa busca (não apareceu ou não foi reconhecida; confira a captura de tela)."
     : citaOSite
       ? "O site já é citado na visão de IA. Mantenha a resposta direta e as fontes oficiais atualizadas."
-      : `A visão de IA apareceu e não cita o site. Fontes citadas: ${dominios.join(", ") || "nenhuma identificada"}. Vale responder a busca de forma direta no primeiro parágrafo e cobrir as perguntas listadas como lacuna.`;
+      : dominios.length === 0 && titulos.length > 0
+        ? `A visão de IA apareceu, mas o Google não mostra o endereço das fontes nesta página; confira pelos títulos se alguma é do site: ${citadas}.`
+        : `A visão de IA apareceu e não cita o site. Fontes citadas: ${citadas || "nenhuma identificada"}. Vale responder a busca de forma direta no primeiro parágrafo e cobrir as perguntas listadas como lacuna.`;
   return {
     palavra: coleta.palavra,
     coletaId: coleta.id,
     exibida: Boolean(visao),
     citaOSite,
     dominiosCitados: dominios,
+    fontesCitadas: titulos,
     recomendacao,
   };
 }

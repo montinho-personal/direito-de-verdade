@@ -44,6 +44,11 @@ export function extrairDaPagina(doc) {
     }
   };
   const linkExterno = (a) => /^https?:/.test(a.href || "") && !ehDoGoogle(a.href);
+  // Em parte das páginas o Google troca o endereço do resultado por um redirecionamento
+  // próprio (google.com/goto?url=...), que não revela o destino
+  const ehRedirecionamento = (a) => /^https?:\/\/[^/]*google\.[a-z.]+\/(goto|url)\?/.test(a.href || "");
+  // O HTML salvo é lido sem executar scripts; o texto deles não pode entrar na leitura
+  document.querySelectorAll("script, noscript, template").forEach((el) => el.remove());
 
   // Elementos cujo texto é exatamente um dos rótulos (o título visível de um bloco)
   function titulos(rotulos) {
@@ -77,11 +82,12 @@ export function extrairDaPagina(doc) {
   try {
     const itens = [];
     const vistos = new Set();
-    let pares = [...document.querySelectorAll("[data-q]")];
+    // [data-q] também marca a caixa do Modo IA: só vale o que tem o botão de abrir a resposta
+    let pares = [...document.querySelectorAll("[data-q]")].filter((el) => el.querySelector("[aria-expanded]"));
     let recipiente = null;
     const titulo = titulos(["As pessoas também perguntam", "Outras perguntas", "As pessoas também perguntaram"])[0];
     if (titulo) {
-      recipiente = subirAte(titulo, (el) => el.querySelectorAll("[data-q], [aria-expanded]").length >= 2);
+      recipiente = subirAte(titulo, (el) => el.querySelectorAll("[data-q] [aria-expanded], [aria-expanded]").length >= 2, 6);
     }
     if (pares.length === 0 && recipiente) {
       pares = [...recipiente.querySelectorAll("[aria-expanded]")];
@@ -121,25 +127,38 @@ export function extrairDaPagina(doc) {
 
   // ---- Visão geral criada por IA ----
   try {
-    const titulo = titulos(["Visão geral criada por IA", "Visão geral de IA", "Visão geral da IA", "AI Overview"])[0];
-    const bloco = titulo && subirAte(titulo, (el) => textoDe(el).length >= 250, 12);
-    if (bloco) {
+    const rotulos = ["Visão geral criada por IA", "Visão geral de IA", "Visão geral da IA", "AI Overview"];
+    const titulo = titulos(rotulos)[0];
+    // A resposta fica em [data-subtree="aimc"]; o título mora num bloco vizinho, junto de um
+    // aviso escondido de "não está disponível", que não pode ser lido como resposta
+    const indisponivel = /nao esta disponivel para essa pesquisa|nao e possivel gerar a visao geral/;
+    let bloco = document.querySelector('[data-subtree="aimc"]');
+    if (!bloco && titulo) {
+      bloco = subirAte(titulo, (el) => textoDe(el).length >= 250 && !indisponivel.test(simples(textoDe(el)).slice(0, 400)), 6);
+    }
+    const texto = bloco
+      ? [...rotulos, "O Modo IA respondeu:"].reduce((t, r) => t.replace(r, ""), textoDe(bloco)).trim().slice(0, 6000)
+      : "";
+    if (bloco && texto.length >= 80) {
       marcar(bloco, "visaoDeIA");
       const vistos = new Set();
       const fontes = [];
       for (const a of bloco.querySelectorAll("a[href]")) {
-        if (!linkExterno(a) || vistos.has(a.href)) continue;
-        vistos.add(a.href);
-        fontes.push({ titulo: (textoDe(a) || a.getAttribute("aria-label") || a.href).slice(0, 150), url: a.href });
+        if (!linkExterno(a) && !ehRedirecionamento(a)) continue;
+        const nome = (textoDe(a) || a.getAttribute("aria-label") || "").slice(0, 150);
+        // Com redirecionamento do Google, a mesma fonte se repete: vale o destino, sem os parâmetros de sessão
+        const chave = ehRedirecionamento(a) ? a.href.split("&")[0] : a.href;
+        if (!nome || vistos.has(chave)) continue;
+        vistos.add(chave);
+        fontes.push({ titulo: nome, url: a.href });
       }
-      const texto = textoDe(bloco).replace(textoDe(titulo), "").trim().slice(0, 6000);
       resultado.visaoDeIA = { status: "coletado", itens: [{ texto, fontes }] };
     } else {
       resultado.visaoDeIA = {
         status: "nao_encontrado",
         itens: [],
         observacao: titulo
-          ? "O título do bloco apareceu, mas o texto não tinha carregado."
+          ? "O título do bloco apareceu, mas sem resposta (o Google pode ter informado que ela não está disponível)."
           : "Bloco não exibido ou não reconhecido. Confira a captura de tela.",
       };
     }
@@ -179,14 +198,28 @@ export function extrairDaPagina(doc) {
     const area = document.querySelector("#rso") || document.querySelector("#search") || document.querySelector("#main") || document.body;
     for (const h3 of area.querySelectorAll("h3")) {
       const a = h3.closest("a[href]") || (h3.parentElement && h3.parentElement.querySelector("a[href]"));
-      if (!a || !linkExterno(a)) continue;
+      if (!a || !(linkExterno(a) || ehRedirecionamento(a))) continue;
       // Links dentro das perguntas, da visão de IA e das pesquisas relacionadas não são orgânicos
       if (h3.closest("[data-seolab], [data-q]")) continue;
       const titulo = textoDe(h3);
-      const url = a.href.replace(/#:~:text=.*$/, "");
-      if (!titulo || vistos.has(url)) continue;
-      vistos.add(url);
-      const bloco = subirAte(a, (el) => textoDe(el).length > titulo.length + 60, 6);
+      if (!titulo) continue;
+      const bloco =
+        a.closest("[data-snc], [data-rpos]") ||
+        subirAte(a, (el) => el.querySelector("[data-sncf]"), 8) ||
+        subirAte(a, (el) => textoDe(el).length > textoDe(a).length + 60, 6);
+      // Endereço que o Google mostra embaixo do título: "https://site.com.br › pasta › página"
+      const exibido = textoDe((bloco || a).querySelector("cite"));
+      let url = linkExterno(a) ? a.href.replace(/#:~:text=.*$/, "") : "";
+      if (!url) {
+        // Sem o destino no link: vale o site do endereço exibido (ou o do vídeo), sem a página exata
+        const doVideo = a.closest("[data-curl]");
+        const candidato = (doVideo && doVideo.getAttribute("data-curl")) || exibido.split(" ")[0];
+        if (!/^https?:\/\//.test(candidato) || ehDoGoogle(candidato)) continue;
+        url = candidato;
+      }
+      const chave = `${titulo}|${url}`;
+      if (vistos.has(chave)) continue;
+      vistos.add(chave);
       let trecho = "";
       if (bloco) {
         const alvo = bloco.querySelector('[data-sncf], [style*="-webkit-line-clamp"]');
@@ -197,6 +230,7 @@ export function extrairDaPagina(doc) {
         titulo,
         url,
         dominio: new URL(url).hostname.replace(/^www\./, ""),
+        enderecoExibido: exibido.slice(0, 200) || undefined,
         trecho: trecho.slice(0, 400) || undefined,
       });
     }
