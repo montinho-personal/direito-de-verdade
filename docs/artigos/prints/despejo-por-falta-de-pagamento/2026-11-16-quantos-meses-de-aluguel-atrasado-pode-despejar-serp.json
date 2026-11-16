@@ -1,0 +1,77 @@
+{
+  "busca": "quantos meses de aluguel atrasado pode despejar",
+  "pesquisadaEm": "2026-11-16",
+  "origem": "SerpApi: Google Brasil (google.com.br), celular, São Paulo, pt-BR, sem personalização",
+  "autocompletar": [
+    "quantos meses de aluguel atrasado da despejo",
+    "quantos meses de aluguel atrasado para ordem de despejo",
+    "quantos meses de aluguel atrasado"
+  ],
+  "asPessoasTambemPerguntam": [
+    "Estou com 3 aluguel atrasado. Posso ser despejado?",
+    "Estou devendo 3 meses de aluguel. O que acontece?",
+    "O que acontece se eu tiver 2 meses de aluguel atrasado?",
+    "Quanto tempo devendo aluguel para ser despejado?"
+  ],
+  "outrasPessoasPesquisaram": [
+    "Estou com um mês de aluguel atrasado posso ser despejado",
+    "Por lei quantos dias posso atrasar o aluguel",
+    "Estou com 2 aluguel atrasado posso ser despejado",
+    "Lei do inquilinato atraso de aluguel",
+    "Quantos aluguéis atrasados para despejo quinto andar",
+    "Quanto tempo demora para sair uma liminar de despejo",
+    "Quem não pode ser despejado",
+    "Despejo por falta de pagamento de aluguel",
+    "Aluguel vencido ou antecipado",
+    "Calculadora de juros de aluguel atrasado",
+    "Aluguel atrasado o que fazer",
+    "Lei do inquilinato despejo por falta de pagamento"
+  ],
+  "visaoDeIA": {
+    "texto": "Não existe um número mínimo de meses de atraso exigido por lei; a ação de despejo por falta de pagamento pode ser protocolada pelo proprietário a partir do primeiro dia de atraso do aluguel.\nO mito de que são necessários três meses de atraso não possui base legal na Lei do Inquilinato (Lei nº 8.245/1991). No entanto, o que acontece na prática envolve prazos e etapas bem definidas:\n• Início do processo: O locador pode acionar a Justiça no dia seguinte ao vencimento não pago, mas a maioria das imobiliárias ou proprietários tenta negociar ou aguarda cerca de 30 a 60 dias antes de ajuizar a ação.\n• Prazo para pagar (purga da mora): Depois que o inquilino é citado oficialmente pela Justiça, ele tem 15 dias para pagar todo o valor devido (com juros, multa e correção) e evitar o despejo.\n• Tempo total do processo: Uma ação de despejo por falta de pagamento leva, em média, de 3 a 6 meses para ser concluída, podendo demorar mais tempo dependendo da comarca.\n• Despejo liminar: Se o contrato de aluguel não tiver nenhuma garantia (como fiador, caução ou seguro-fiança), o proprietário pode pedir uma ordem de desocupação mais rápida, que pode ocorrer em até 15 dias após a concessão da liminar.\nSe você precisar de mais orientações, me diga:\n• Você está na posição de proprietário ou de inquilino?\n• Quantos dias ou meses o aluguel está atrasado?",
+    "fontes": [
+      "BRCondos",
+      "SP Imóvel",
+      "Serasa",
+      "TikTok"
+    ]
+  },
+  "organicos": [
+    {
+      "posicao": 1,
+      "titulo": "Com quantos aluguéis em atraso eu posso ser despejado?",
+      "endereco": "https://www.jusbrasil.com.br/artigos/com-quantos-alugueis-em-atraso-eu-posso-ser-despejado/1445864011",
+      "trecho": "A lei do Inquilinato que regula as relações de locação diz que a partir de um dia de atraso do aluguel é possível ser despejado. Se você quer ..."
+    },
+    {
+      "posicao": 2,
+      "titulo": "Com quanto tempo de aluguel atrasado o inquilino pode ser despejado?",
+      "endereco": "https://www.spimovel.com.br/blog/com-quanto-tempo-de-aluguel-atrasado-o-inquilino-pode-ser-despejado/2750/",
+      "trecho": "A lei já permite ação de despejo (pouco aplicado). 1º mês de atraso. Geralmente inicia-se tentativa de negociação. Até 60 dias de atraso. Prazo ..."
+    },
+    {
+      "posicao": 3,
+      "titulo": "Aluguel atrasado: quando posso ser despejado?",
+      "endereco": "https://vlvadvogados.com/aluguel-atrasado/",
+      "trecho": "Com liminar (sem garantia): do ajuizamento à desocupação, entre 2 e 4 meses. Pelo rito comum (com garantia): entre 3 e 12 meses, com média de 6 meses em ..."
+    },
+    {
+      "posicao": 4,
+      "titulo": "Quantos dias de aluguel atrasado preciso esperar para pedir o imóvel? Em caso de falta de ...",
+      "endereco": "https://www.instagram.com/p/DfLmT36tiqE/",
+      "trecho": "Em regra, não existe exigência de esperar vários meses para ajuizar a ação de despejo. O atraso a partir do vencimento já pode caracterizar ..."
+    },
+    {
+      "posicao": 5,
+      "titulo": "Quantos Meses de Aluguel Atrasado Permitem a Ação de Despejo",
+      "endereco": "https://consultaprocessobrasil.com.br/blog/quantos-meses-de-atraso-permitem-acao-de-despejo",
+      "trecho": "Não existe carência legal de meses: um único aluguel vencido já autoriza a ação de despejo. Entenda o que a lei realmente diz e por que o ..."
+    },
+    {
+      "posicao": 6,
+      "titulo": "Ação de despejo: o que é, como funciona e quais os direitos de cada parte",
+      "endereco": "https://www.quintoandar.com.br/guias/como-alugar/acao-de-despejo/",
+      "trecho": "Nessa situação, o prazo para desocupação cai para 15 dias, desde que o locador deposite em juízo o valor correspondente a três meses de aluguel ..."
+    }
+  ]
+}

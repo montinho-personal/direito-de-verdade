@@ -1,0 +1,94 @@
+{
+  "busca": "ação de despejo quanto tempo demora",
+  "pesquisadaEm": "2026-11-16",
+  "origem": "SerpApi: Google Brasil (google.com.br), celular, São Paulo, pt-BR, sem personalização",
+  "autocompletar": [
+    "ação de despejo por falta de pagamento quanto tempo demora",
+    "quanto tempo demora uma ação de despejo comercial",
+    "quanto tempo demora uma ação de despejo residencial",
+    "quanto tempo demora uma ação de despejo na justiça",
+    "quanto tempo demora uma ação de despejo em imóvel comercial",
+    "quanto tempo demora uma ação de despejo por denúncia vazia",
+    "quanto tempo demora uma ação de despejo judicial",
+    "quanto tempo demora uma ação de despejo em portugal",
+    "ação de despejo quanto tempo leva",
+    "ação de despejo quanto tempo para sair",
+    "ação de despejo quanto tempo de atraso"
+  ],
+  "asPessoasTambemPerguntam": [
+    "Quanto tempo leva uma ação judicial de despejo?",
+    "Qual o valor da causa em uma ação de despejo com denúncia vazia?",
+    "Estou devendo 3 meses de aluguel. O que acontece?",
+    "Em quais situações o inquilino não pode ser despejado?"
+  ],
+  "outrasPessoasPesquisaram": [
+    "Estou com 3 aluguel atrasado posso ser despejado",
+    "Posso ser despejado com filho menor",
+    "Por lei quantos dias posso atrasar o aluguel",
+    "Quantos aluguéis atrasados para despejo quinto andar",
+    "Estou com 2 aluguel atrasado posso ser despejado",
+    "Estou com um mês de aluguel atrasado posso ser despejado",
+    "Quem não pode ser despejado",
+    "Se eu for despejado tenho que pagar multa",
+    "Estou devendo aluguel e não tenho como pagar",
+    "Lei do inquilinato atraso de aluguel",
+    "Lei 8.245 91"
+  ],
+  "visaoDeIA": {
+    "texto": "Uma ação de despejo no Brasil leva, em média, de 3 a 6 meses em processos mais simples ou sem contestação, podendo se estender de 1 ano a 2 anos se houver recursos, defesas complexas ou maior lentidão na comarca.\nPrincipais prazos e etapas do processo\n• Início da ação: Pode ser ajuizada a partir do 1º dia de atraso do aluguel ou após o término do aviso em casos de denúncia vazia (com notificação prévia de 30 dias).\n• Liminar de despejo: Em casos específicos (como falta de pagamento em contrato sem garantia, mediante caução de 3 meses), a desocupação pode ser determinada liminarmente em até 15 dias.\n• Prazo para o inquilino pagar (purga da mora): Após ser citado, o inquilino tem 15 dias para quitar integralmente a dívida e evitar o despejo.\n• Defesa: O inquilino tem 15 dias úteis para apresentar contestação após a citação.\n• Prazo para saída voluntária: Após a sentença ou ordem de despejo, o prazo normal concedido para desocupar o imóvel voluntariamente é de 15 a 30 dias.\n• Despejo forçado: Se o inquilino não sair voluntariamente após o prazo, é expedido o mandado de despejo coercitivo (que pode envolver oficial de justiça e força policial).\nVocê pode acompanhar mais detalhes sobre as regras e etapas no Jusbrasil ou conferir a visão geral no guia do QuintoAndar.\nPara entender melhor o seu caso, você poderia informar:\n• O despejo é por falta de pagamento ou por outro motivo (como uso próprio ou fim de contrato)?\n• O contrato possui alguma garantia (fiador, caução ou seguro-fiança)?",
+    "fontes": [
+      "Instagram",
+      "Jurídico AI",
+      "Jusbrasil",
+      "QuintoAndar",
+      "SP Imóvel",
+      "YouTube",
+      "blog.brcondos.com.br",
+      "blog.saladeestarimoveis.com.br"
+    ]
+  },
+  "organicos": [
+    {
+      "posicao": 1,
+      "titulo": "Despejo por Inadimplência: Passo a Passo para o Locador",
+      "endereco": "https://advocaciareis.adv.br/blog/imobiliario/despejo-por-inadimplencia/",
+      "trecho": "É possível solicitar a concessão de liminar, que autoriza o despejo em 15 dias caso o inquilino não pague ou não ofereça garantia. Essa medida é ..."
+    },
+    {
+      "posicao": 2,
+      "titulo": "https://paulonettoadvogado.com.br/despejo-por-falt...",
+      "endereco": "https://paulonettoadvogado.com.br/despejo-por-falta-de-pagamento-de-aluguel-como-funciona-e-como-evitar/",
+      "trecho": "Não há nenhuma informação disponível para esta página."
+    },
+    {
+      "posicao": 3,
+      "titulo": "Quantos meses de aluguel atrasado são necessários para que o proprietário possa entrar com a ação de despejo?",
+      "endereco": "https://www.facebook.com/antoniofariaadvogados/posts/quantos-meses-de-aluguel-atrasado-s%C3%A3o-necess%C3%A1rios-para-que-o-propriet%C3%A1rio-possa-/1760615646069043/",
+      "trecho": "Muitas pessoas acreditam que o proprietário precisa aguardar três meses de inadimplência para solicitar judicialmente a desocupação de um imóvel ..."
+    },
+    {
+      "posicao": 4,
+      "titulo": "Muita gente acha que despejo é imediato. Não é. A Lei do Inquilinato é clara: julgada ...",
+      "endereco": "https://www.instagram.com/p/Dd7TClRllC0/",
+      "trecho": "E atenção: poder ajuizar a ação desde o primeiro dia de atraso não significa, necessariamente, conseguir a desocupação liminar do imóvel em 15 ..."
+    },
+    {
+      "posicao": 5,
+      "titulo": "Notificação de Despejo: Como Fazer e Qual o Prazo para Sair - Pedro Henrique Mazzarotto",
+      "endereco": "https://www.advmazza.com.br/conteudos/notificacao-despejo",
+      "trecho": "O prazo de 30 dias é previsto pela Lei do Inquilinato em determinadas situações de desocupação, especialmente em casos de locação por prazo ..."
+    },
+    {
+      "posicao": 6,
+      "titulo": "Ação de despejo por falta de pagamento: defesa e prazos",
+      "endereco": "https://vieirabraga.com.br/acao-despejo-falta-pagamento-defesa/",
+      "trecho": "As ações de despejo no Brasil podem ser contestadas judicialmente pelos inquilinos ou seus fiadores. · O prazo para contestar a ação de despejo é de 15 dias ..."
+    },
+    {
+      "posicao": 7,
+      "titulo": "Ação de despejo gera muita dúvida. E a maioria das perguntas que a gente recebe se ...",
+      "endereco": "https://www.facebook.com/casagrandegrupo/posts/a%C3%A7%C3%A3o-de-despejo-gera-muita-d%C3%BAvida-e-a-maioria-das-perguntas-que-a-gente-recebe-s/1514825214002627/",
+      "trecho": "Com quanto tempo de atraso pode ser solicitado o despejo a lei não estabelece um número mínimo de dias de atraso. A falta de pagamento do ..."
+    }
+  ]
+}

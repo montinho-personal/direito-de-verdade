@@ -234,6 +234,16 @@ Pedido do Renato em 09/11/2026: "Pode criar próximos 3 artigos de seo local". S
 | 2 | Advogado gratuito em Barueri | `advogado gratuito barueri`; `defensoria pública barueri`; `oab barueri atendimento gratuito`; `justiça gratuita` | **publicado em 09/11/2026; revisado com prints em 10/11/2026** — [doc](artigos/advogado-gratuito-em-barueri.md), `/artigos/advogado-gratuito-em-barueri` |
 | 3 | Juizado Especial Federal de Barueri | `juizado especial federal barueri`; `justiça federal barueri`; `jef barueri telefone` | **publicado em 09/11/2026; revisado com prints em 10/11/2026** — [doc](artigos/juizado-especial-federal-de-barueri.md), `/artigos/juizado-especial-federal-de-barueri` |
 
+## Próximo de conteúdo (pedido em 16/11/2026)
+
+Pedido do Renato em 16/11/2026: "Pode criar o próximo artigo". Primeiro com a pesquisa do Google pelo SerpApi, sem print.
+
+| ordem | artigo | buscas (SerpApi) | status |
+|---|---|---|---|
+| 1 | Despejo por falta de pagamento de aluguel | `despejo por falta de pagamento`; `quantos meses de aluguel atrasado pode despejar`; `ação de despejo quanto tempo demora` | **publicado em 16/11/2026** — [doc](artigos/despejo-por-falta-de-pagamento.md), `/artigos/despejo-por-falta-de-pagamento` |
+
+Ideia que veio da pesquisa: calculadora de aluguel atrasado (multa, juros e correção), de "Outras pessoas pesquisaram".
+
 ## Próximos de conteúdo (pedido em 15/11/2026)
 
 Pedido do Renato em 15/11/2026: "Pode criar próximos artigos". Dois, um de cada vez, sem prints.
