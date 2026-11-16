@@ -1,0 +1,100 @@
+{
+  "busca": "proprietário pediu o imóvel quanto tempo tenho para sair",
+  "pesquisadaEm": "2026-11-16",
+  "origem": "SerpApi: Google Brasil (google.com.br), celular, São Paulo, pt-BR, sem personalização",
+  "autocompletar": [
+    "proprietario pediu o imovel quanto tempo tenho para sair",
+    "proprietário pediu a casa quanto tempo tenho para sair",
+    "proprietário pediu a casa quanto tempo para sair",
+    "proprietario pediu a casa quanto tempo tenho que sair"
+  ],
+  "asPessoasTambemPerguntam": [
+    "Quais os direitos do inquilino quando o proprietário pediu o imóvel?",
+    "Quanto custa um processo de despejo?",
+    "Quando o dono da casa pede a casa, o inquilino tem quantos dias para sair sem contrato?",
+    "Quando o dono vende a casa, o inquilino tem quanto tempo para sair?"
+  ],
+  "outrasPessoasPesquisaram": [
+    "Quando o proprietário pede a casa o inquilino tem que pagar o aluguel",
+    "Quanto tempo um inquilino tem para desocupar um imóvel com contrato",
+    "O inquilino tem direito a 30 dias de graça",
+    "O proprietário pediu o imóvel antes do término do contrato",
+    "Quando o proprietário pode pedir o imóvel alugado de volta",
+    "Paguei o aluguel e o dono pediu a casa sem contrato",
+    "Quanto tempo tenho para sair da casa alugada sem contrato",
+    "Quando o proprietário pode pedir o imóvel para uso próprio",
+    "Vendi o imovel quanto tempo o inquilino tem para sair",
+    "Inquilino tem direito a 3 meses",
+    "Prazo de 90 dias para desocupar o imóvel",
+    "Posso pedir a casa para o inquilino sem contrato"
+  ],
+  "visaoDeIA": {
+    "texto": "O prazo padrão para o inquilino desocupar o imóvel é de 30 dias a contar do recebimento de uma notificação formal (extrajudicial), conforme estabelecido pela Lei do Inquilinato.\nNo entanto, o tempo exato depende do tipo de contrato e do motivo do pedido:\n• Contrato por prazo indeterminado (Denúncia vazia): O proprietário pode pedir a casa a qualquer momento, e o inquilino tem 30 dias para sair após ser notificado.\n• Contrato por prazo determinado (dentro do prazo): Em regra, o dono não pode pedir a casa de volta antes do término do contrato (seja de 12, 30 meses, etc.), a menos que haja um acordo ou infração contratual. Se o contrato vencer e não for renovado, o prazo para desocupação também é de 30 dias.\n• Uso próprio ou de familiares: Se a lei permitir o pedido (em contratos específicos ou após o fim do prazo), o prazo para desocupação é de 30 dias.\n• Venda do imóvel: Se o novo dono quiser o imóvel e não houver cláusula de vigência no contrato averbada em matrícula, o inquilino tem 90 dias para desocupar após a notificação.\n• Falta de pagamento ou infração contratual: Se houver uma ação de despejo judicial por inadimplência, o prazo para desocupação voluntária após a sentença costuma ser de 15 dias.\nVocê pode conferir mais detalhes e orientações práticas no guia da Serasa ou no artigo explicativo do Jusbrasil.\nPara eu te ajudar com mais precisão, me diga:\n• O contrato é por prazo determinado ou indeterminado?\n• Qual é o motivo que o proprietário alegou para pedir a casa?",
+    "fontes": [
+      "Fuhro Souto Imobiliária",
+      "Jusbrasil",
+      "Regente Imóveis",
+      "Serasa",
+      "TikTok",
+      "Unio Imóveis",
+      "YouTube",
+      "Índice Imóveis"
+    ]
+  },
+  "organicos": [
+    {
+      "posicao": 1,
+      "titulo": "O proprietário pediu o imóvel: quanto tempo tenho que sair",
+      "endereco": "https://ambitojuridico.com.br/o-proprietario-pediu-o-imovel-quanto-tempo-tenho-que-sair/",
+      "trecho": "Em geral, o aviso prévio é de 30 dias, mas pode ser menor em casos de despejo judicial. O inquilino deve estar atento às regras do contrato e ..."
+    },
+    {
+      "posicao": 2,
+      "titulo": "Qual o Direito do Inquilino Quando o Proprietário Pediu o Imóvel?",
+      "endereco": "https://blog.fuhrosouto.com.br/qual-o-direito-do-inquilino-quando-o-proprietario-pediu-o-imovel/?amp=1",
+      "trecho": "Independente do tipo de contrato, o prazo que o inquilino tem para desocupar o imóvel é de 30 dias. Mas é importante observar qual o tipo de ..."
+    },
+    {
+      "posicao": 3,
+      "titulo": "Quando o proprietário pode pedir o imóvel?",
+      "endereco": "https://www.jusbrasil.com.br/noticias/quando-o-proprietario-pode-pedir-o-imovel/427638797",
+      "trecho": "Nesses casos ele tem o direito de ocupar o imóvel, mesmo que o contrato não tenha acabado. O prazo para o inquilino sair é de 30 dias. Esse procedimento é a ..."
+    },
+    {
+      "posicao": 4,
+      "titulo": "Prazo para desocupação de imóvel: orientações e boas práticas",
+      "endereco": "https://www.serasa.com.br/blog/prazo-desocupacao-imovel/",
+      "trecho": "De acordo com a Lei do Inquilinato, o prazo geral para desocupação de um imóvel alugado é de 30 dias, contados a partir da data em que o ..."
+    },
+    {
+      "posicao": 5,
+      "titulo": "The landlord asked for the property back, how long do I have to move out?",
+      "endereco": "https://www.youtube.com/watch?v=FOXJNCeTgjE",
+      "trecho": "O locador pediu o imóvel que alugo de volta, tenho que sair mesmo? Encontre anúncios de milhares de imóveis ..."
+    },
+    {
+      "posicao": 6,
+      "titulo": "Proprietário pode pedir o imóvel antes do fim do contrato?",
+      "endereco": "https://porta8.com.br/guia/alugar/locador-pode-pedir-o-imovel-antes-do-prazo",
+      "trecho": "O comprador pode pedir a desocupação com prazo de 90 dias, a não ser que o contrato seja por prazo determinado, tenha cláusula de vigência em ..."
+    },
+    {
+      "posicao": 7,
+      "titulo": "Proprietário pediu a casa antes do fim do contrato? Saiba seus direitos!",
+      "endereco": "https://www.tiktok.com/@adv.willyamnessy/video/7527409297597238533?lang=pt",
+      "trecho": "O direito do inquilino em permanecer no imóvel é assegurado, e o proprietário não tem o direito de solicitar a desocupação simplesmente porque ..."
+    },
+    {
+      "posicao": 8,
+      "titulo": "Quando o proprietário pode pedir o imóvel alugado de volta?",
+      "endereco": "https://imoveis.estadao.com.br/aluguel/quando-o-proprietario-pode-pedir-o-imovel-alugado-de-volta/amp/",
+      "trecho": "1. Término do prazo nos contratos firmados por prazo determinado igual ou superior a 30 meses, ou após 5 anos de locação ininterrupta; · 2. Para ..."
+    },
+    {
+      "posicao": 9,
+      "titulo": "Locador pode pedir o imóvel antes do prazo? Tire suas dúvidas",
+      "endereco": "https://santailha.com.br/blog/locador-pode-pedir-o-imovel-antes-do-prazo/",
+      "trecho": "Saiba se o locador pode pedir o imóvel antes do prazo e como garantir seus direitos com uma intermediação segura e transparente na locação."
+    }
+  ]
+}

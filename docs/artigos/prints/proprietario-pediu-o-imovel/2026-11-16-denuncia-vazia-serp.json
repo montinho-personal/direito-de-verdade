@@ -1,0 +1,98 @@
+{
+  "busca": "denúncia vazia",
+  "pesquisadaEm": "2026-11-16",
+  "origem": "SerpApi: Google Brasil (google.com.br), celular, São Paulo, pt-BR, sem personalização",
+  "autocompletar": [
+    "denúncia vazia prazo para desocupação do imóvel",
+    "denúncia vazia e denúncia cheia",
+    "denuncia vazia locação",
+    "denúncia vazia locação comercial prazo determinado",
+    "denuncia vazia locação comercial",
+    "denúncia vazia significado",
+    "denúncia vazia contrato inferior a 30 meses",
+    "denúncia vazia locação residencial prazo indeterminado",
+    "denúncia vazia prazo indeterminado",
+    "denuncia vazia locação residencial",
+    "denuncia vazia contrato de locação",
+    "denuncia vazia contrato de locação comercial",
+    "denúncia vazia locação comercial prazo indeterminado",
+    "denuncia vazia lei do inquilinato artigo",
+    "denuncia vazia artigo"
+  ],
+  "asPessoasTambemPerguntam": [
+    "É possível contrato de locação por prazo indeterminado?",
+    "Quais são as 5 cláusulas indispensáveis em um contrato de locação?",
+    "O que diz o artigo 47 da Lei do Inquilinato?",
+    "Qual é o prazo para a denúncia vazia em uma locação residencial?"
+  ],
+  "outrasPessoasPesquisaram": [
+    "Denúncia vazia locação residencial",
+    "Denúncia vazia locação comercial",
+    "Denúncia vazia e denúncia cheia",
+    "Denúncia vazia prazo para desocupação do imóvel",
+    "Denúncia vazia modelo",
+    "Denúncia vazia locação residencial prazo indeterminado",
+    "Denúncia vazia contrato inferior a 30 meses",
+    "Despejo por denúncia vazia",
+    "Lei do inquilinato denúncia vazia",
+    "Despejo por denúncia vazia requisitos",
+    "Denuncia vazia lei do inquilinato artigo",
+    "Ação de despejo por denúncia vazia com pedido de liminar novo cpc"
+  ],
+  "visaoDeIA": {
+    "texto": "A denúncia vazia (ou imotivada) é o direito que o proprietário (locador) tem de pedir a desocupação de um imóvel alugado ao término do contrato, sem a necessidade de apresentar qualquer justificativa (como uso próprio ou reforma).\nEsse direito é regulamentado pela Lei do Inquilinato (Lei nº 8.245/1991).\nPrincipais Regras e Requisitos\n• Contratos Residenciais:\n• Aviso Prévio:\n• Ação de Despejo:",
+    "fontes": [
+      "Exame",
+      "Guaíra Imóveis",
+      "Instagram",
+      "Jusbrasil",
+      "STJ",
+      "Trilhante",
+      "Wikipedia"
+    ]
+  },
+  "organicos": [
+    {
+      "posicao": 1,
+      "titulo": "Denúncia vazia: o que é e como funciona?",
+      "endereco": "https://www.jetimob.com/blog/denuncia-vazia/",
+      "trecho": "A denúncia vazia é um direito previsto na Lei do Inquilinato (Lei 8.245/91) que permite ao locador retomar o imóvel alugado sem necessidade de ..."
+    },
+    {
+      "posicao": 2,
+      "titulo": "Ação de despejo com denúncia vazia - Locação não Residencial",
+      "endereco": "https://trilhante.com.br/curso/acoes-de-despejo-e-liminar/aula/acao-de-despejo-com-denuncia-vazia-locacao-nao-residencial?viewtype=pdf",
+      "trecho": "Como visto na parte teórica, é possível que o locador peça o despejo para recuperar a posse do imóvel sem apresentar qualquer justificativa, em hipóteses ..."
+    },
+    {
+      "posicao": 3,
+      "titulo": "Prazo para denúncia vazia é contado do início da locação do imóvel",
+      "endereco": "https://conjur.com.br/2021-mar-05/prazo-denuncia-vazia-contado-inicio-locacao-imovel/",
+      "trecho": "De acordo com o relator do recurso especial, ministro Antonio Carlos Ferreira, o prazo de cinco anos para a denúncia vazia deve ser contado ..."
+    },
+    {
+      "posicao": 4,
+      "titulo": "Denúncia vazia: O que a Lei do Inquilinato determina",
+      "endereco": "https://www.alude.com.br/blog/denuncia-vazia",
+      "trecho": "Denúncia vazia é quando o locador pede o imóvel de volta no fim do contrato sem precisar justificar o motivo, desde que respeite os prazos e ..."
+    },
+    {
+      "posicao": 5,
+      "titulo": "O que é denuncia vazia?",
+      "endereco": "https://www.centure.com.br/o-que-e-denuncia-vazia",
+      "trecho": "A denúncia vazia é um termo jurídico utilizado na situação em que o locador (proprietário do imóvel) decide encerrar o contrato de locação. Sem, no entanto, ..."
+    },
+    {
+      "posicao": 6,
+      "titulo": "O que é Denúncia Vazia nos contratos de locação?",
+      "endereco": "https://www.youtube.com/watch?v=HqCEETWnLdU",
+      "trecho": "Carlos Eduardo irá responder a questão sobre o que é Denúncia Vazia. Fique de olho no curso de Questões Práticas da Lei do Inquilinato no ..."
+    },
+    {
+      "posicao": 7,
+      "titulo": "Modelos sobre Denúncia Vazia",
+      "endereco": "https://www.jusbrasil.com.br/modelos-pecas/busca?q=den%C3%BAncia+vazia",
+      "trecho": "AÇÃO DE DESPEJO. DENÚNCIA VAZIA. NOTIFICAÇÃO PREMONITÓRIA. AUSÊNCIA. OBRIGATORIEDADE. EXTINÇÃO, SEM RESOLUÇÃO DO MÉRITO. Ação ajuizada em 11/04/2016."
+    }
+  ]
+}
