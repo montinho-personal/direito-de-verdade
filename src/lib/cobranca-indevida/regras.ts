@@ -10,7 +10,12 @@
 //   Especial, EAREsp 676.608/RS, DJe 30/03/2021). Modulação: em contratos de consumo que
 //   não envolvam serviço público prestado pelo Estado ou por concessionária, o
 //   entendimento só alcança as cobranças "pagas após a data da publicação" do acórdão.
-//   O STJ julgou o Tema repetitivo 929 em 15/09/2026; tese ainda não publicada.
+//   Tema repetitivo 929 (julgado em 15/09/2026, acórdão publicado em 03/11/2026): o dobro
+//   independe do elemento volitivo; cabe quando a cobrança contraria a boa-fé objetiva;
+//   omissão ou recusa diante de pedido prévio é indício suficiente; ônus da empresa;
+//   divergência jurisprudencial ou cláusula anulada = engano justificável. A tese não
+//   repete a modulação de 2020 (notícias do julgamento dizem que foi afastada); o aviso
+//   de pagamentos até 30/03/2021 continua, com esse texto.
 // - Correção: IPCA (Código Civil, art. 389, parágrafo único, Lei 14.905/2024, em vigor
 //   desde 30/08/2024). Antes disso, o índice dependia do contrato e do tribunal.
 // - Juros: a taxa legal é a Selic menos o IPCA (CC, art. 406, § 1º), e nas obrigações
@@ -24,7 +29,7 @@
 //   de telefonia (EAREsp 676.608). Nos demais casos, varia: a calculadora só avisa.
 
 export const REGRAS_DA_COBRANCA = {
-  revisadoEm: "2026-10-26",
+  revisadoEm: "2026-11-16",
   // Publicação do EAREsp 676.608 no DJe; a regra nova vale para o que foi pago depois
   publicacaoDoEaresp676608: "2021-03-30",
   // Início da vigência da Lei 14.905/2024 (60 dias depois de 01/07/2024)

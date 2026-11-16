@@ -19,12 +19,16 @@ de ano.
 
 ## Prints recebidos
 
-Nenhum ainda. Buscas a printar: `calculadora cobrança indevida`, `devolução em
-dobro`; AnswerThePublic `cobrança indevida`. Quando chegarem, salvar em
-`docs/calculadoras/prints/cobranca-indevida/` e revisar título, H2 e FAQ.
+Arquivos em `prints/cobranca-indevida/` (16/11/2026).
 
 | print | conteúdo | onde entrou |
 |---|---|---|
+| `calculadora cobrança indevida`, autocompletar (1) | código civil · quanto tempo demora · 123 milhas · cabe indenização · indébito · valor · tarifas bancárias | H2 "Repetição de indébito: CDC e Código Civil (artigo 940)"; FAQ "Quanto tempo demora para receber a devolução?"; H2 "Cobrança indevida dá direito a indenização?"; exemplo virou "tarifa bancária, seguro ou pacote". 123 milhas: fora |
+| visão geral de IA (2) | calculadoras de escritórios; conta: valor a mais × parcelas, simples ou dobro, correção (IPCA/INPC) e juros | não é fonte; confirma o método da calculadora |
+| PAA e "Outras pessoas" (3, 4) | Qual o valor da indenização por cobrança indevida? · calculadora de juros abusivos · Pode cobrar 2% ao dia? · Calculadora do Cidadão · revisional de juros | H2 da indenização (sem valor, Súmula 385); link para a calculadora de juros abusivos. 2% ao dia: sem fonte, fora |
+| `devolução em dobro`, autocompletar, PAA e "Outras pessoas" (5 a 8) | cdc · stj · modulação · art 323 · cc · independe/exige má-fé · Tema 929 STJ · modulação dos efeitos · Quando é cabível? · O que diz o art. 940 do CC? · O que diz a Súmula 385? · O STJ decidiu sobre o indébito repetitivo? | seção "O que decidiu o STJ no Tema 929 (2026)" com a tese oficial; texto da modulação refeito; art. 940 e Súmula 385. "art 323": fora |
+
+Tema 929: tese conferida na página oficial do STJ (acórdão publicado em 03/11/2026). A tese não fala de modulação; "afastada" vem da cobertura do julgamento (Conjur, 20/09/2026, e blogs jurídicos), por isso o texto diz "a cobertura informa" e manda conferir. Avisos da calculadora (`textos.tsx`) e comentário de `regras.ts` atualizados; a conta não mudou; `npm test` passou (268).
 
 ## Fontes confirmadas
 

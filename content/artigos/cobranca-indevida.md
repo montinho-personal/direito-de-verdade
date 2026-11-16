@@ -4,7 +4,7 @@ tituloSeo: "Cobrança indevida: devolução em dobro e como pedir"
 descricao: "Cobrança indevida: quem pagou a mais tem direito a receber o dobro, com correção e juros, salvo engano justificável. Veja quando vale e como pedir."
 categoria: consumidor
 publicadoEm: 2026-10-22
-atualizadoEm: 2026-10-26
+atualizadoEm: 2026-11-16
 faq:
   - pergunta: "Fui cobrado, mas não paguei. Tenho direito ao dobro?"
     resposta: "Não pelo Código de Defesa do Consumidor: o dobro é sobre o que você pagou a mais. Sem pagamento, o direito é cancelar a cobrança. Se a empresa entrar na Justiça para cobrar uma dívida já paga, o Código Civil prevê o pagamento em dobro do que ela cobrou (artigo 940)."
@@ -25,7 +25,7 @@ fontes:
     url: "https://processo.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=201500497769&dt_publicacao=30/03/2021"
   - nome: "STJ: Informativo 803 (EAREsp 1.501.756/SC, 2024)"
     url: "https://processo.stj.jus.br/jurisprudencia/externo/informativo/?livre=@CNOT%3D020568"
-  - nome: "STJ: Tema repetitivo 929 (devolução em dobro), julgado em 15/09/2026, tese a publicar"
+  - nome: "STJ: Tema repetitivo 929 (devolução em dobro), julgado em 15/09/2026, acórdão publicado em 03/11/2026"
     url: "https://processo.stj.jus.br/repetitivos/temas_repetitivos/pesquisa.jsp?novaConsulta=true&tipo_pesquisa=T&cod_tema_inicial=929&cod_tema_final=929"
   - nome: "STJ: cobrança de dívida quitada e devolução em dobro (notícia de 18/02/2020)"
     url: "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/Mesmo-sem-novo-pagamento--cobranca-de-divida-quitada-pode-resultar-em-devolucao-em-dobro-ao-consumidor.aspx"
@@ -61,9 +61,14 @@ Exemplos comuns: tarifa ou serviço que você não contratou, assinatura cancela
 
 Não mais. Em 2020, a Corte Especial do STJ decidiu que a devolução em dobro "independe da natureza do elemento volitivo do fornecedor", ou seja, da intenção da empresa: basta que a cobrança contrarie a **boa-fé objetiva** ([EAREsp 676.608/RS](https://processo.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=201500497769&dt_publicacao=30/03/2021)). Cabe à empresa provar o engano justificável ([Informativo 803 do STJ](https://processo.stj.jus.br/jurisprudencia/externo/informativo/?livre=@CNOT%3D020568)).
 
-Há um detalhe de data: em contratos privados (bancos, cartões, lojas), a regra nova vale para o que foi **pago depois de 30 de março de 2021**, quando a decisão foi publicada. Em serviços públicos e concessionárias (água, luz, telefone), ela não tem esse corte.
+Em **2026**, o STJ julgou o tema como **recurso repetitivo**, que vale para todos os casos parecidos ([Tema 929](https://processo.stj.jus.br/repetitivos/temas_repetitivos/pesquisa.jsp?novaConsulta=true&tipo_pesquisa=T&cod_tema_inicial=929&cod_tema_final=929), julgado em 15/09/2026, acórdão publicado em 03/11/2026). A tese firmada diz:
 
-Em **15 de setembro de 2026**, o STJ julgou o tema como recurso repetitivo ([Tema 929](https://processo.stj.jus.br/repetitivos/temas_repetitivos/pesquisa.jsp?novaConsulta=true&tipo_pesquisa=T&cod_tema_inicial=929&cod_tema_final=929)), o que vai valer para todos os casos parecidos. Até 22 de outubro de 2026, a tese ainda não tinha sido publicada; este texto será revisto quando sair.
+- o dobro **independe** de intenção, culpa ou má-fé: cabe quando a cobrança contraria a **boa-fé objetiva**;
+- se você **reclamou antes** e a empresa **se omitiu ou recusou** corrigir, isso já é **indício suficiente** para o dobro;
+- cabe à **empresa** provar que não agiu de forma desleal ou descuidada;
+- há **engano justificável**, e a devolução é simples, quando havia **divergência nos tribunais** sobre a cobrança ou quando a cláusula que a fundamentava foi **anulada depois**.
+
+**E as cobranças pagas antes de 30/03/2021?** Em 2020, o STJ tinha limitado a regra nova, nos contratos privados (bancos, cartões, lojas), ao que fosse pago depois dessa data. A tese de 2026 **não repete esse corte**, e a cobertura do julgamento informa que ele foi afastado. Se o seu caso tem pagamentos antigos, confira com um advogado ou a Defensoria.
 
 ### Precisa ter pago para receber em dobro?
 

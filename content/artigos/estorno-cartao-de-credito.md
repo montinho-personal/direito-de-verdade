@@ -4,7 +4,7 @@ tituloSeo: "Como contestar compra no cartão de crédito: prazo e estorno"
 descricao: "Como contestar compra no cartão de crédito no Nubank, Itaú, BB ou Caixa: avise 10 dias antes do vencimento e não pague o valor. Veja quanto demora o estorno."
 categoria: consumidor
 publicadoEm: 2026-10-21
-atualizadoEm: 2026-10-23
+atualizadoEm: 2026-11-16
 faq:
   - pergunta: "Como cancelar uma compra não reconhecida no cartão de crédito?"
     resposta: "Pelo app do banco: abra a fatura, toque na compra e escolha a opção de contestar ou de não reconhecer. Peça também o bloqueio do cartão e registre boletim de ocorrência, como orienta o Ministério da Justiça."
@@ -33,7 +33,7 @@ fontes:
     url: "https://www.bcb.gov.br/meubc/registrar_reclamacao"
   - nome: "STJ: Informativo 693 (devolução em dobro sem prova de má-fé)"
     url: "https://processo.stj.jus.br/jurisprudencia/externo/informativo/?acao=pesquisarumaedicao&livre=0693.cod."
-  - nome: "STJ: Tema repetitivo 929 (situação do julgamento)"
+  - nome: "STJ: Tema repetitivo 929 (tese firmada; acórdão publicado em 03/11/2026)"
     url: "https://processo.stj.jus.br/repetitivos/temas_repetitivos/pesquisa.jsp?novaConsulta=true&tipo_pesquisa=T&cod_tema_inicial=929&cod_tema_final=929"
   - nome: "STJ: Súmula 479"
     url: "https://scon.stj.jus.br/SCON/sumstj/toc.jsp?livre=%27479%27.num.&O=JT"
@@ -127,7 +127,7 @@ Dá. Primeiro, peça à loja o cumprimento ou o cancelamento com devolução do 
 
 ### Cobrança indevida é devolvida em dobro?
 
-O CDC diz que quem pagou uma cobrança indevida tem direito a receber **o dobro do que pagou a mais**, com correção e juros, **salvo engano justificável** ([artigo 42, parágrafo único](https://www2.camara.leg.br/legin/fed/lei/1990/lei-8078-11-setembro-1990-365086-normaatualizada-pl.html)). O STJ entende que a devolução em dobro cabe quando a cobrança contraria a **boa-fé**, **sem precisar provar má-fé** da empresa ([Informativo 693](https://processo.stj.jus.br/jurisprudencia/externo/informativo/?acao=pesquisarumaedicao&livre=0693.cod.)). Esse entendimento vale para cobranças feitas depois de 30/03/2021. O tribunal voltou a julgar o tema em 15/09/2026 (Tema 929), e o acórdão ainda não foi publicado ([STJ](https://processo.stj.jus.br/repetitivos/temas_repetitivos/pesquisa.jsp?novaConsulta=true&tipo_pesquisa=T&cod_tema_inicial=929&cod_tema_final=929)).
+O CDC diz que quem pagou uma cobrança indevida tem direito a receber **o dobro do que pagou a mais**, com correção e juros, **salvo engano justificável** ([artigo 42, parágrafo único](https://www2.camara.leg.br/legin/fed/lei/1990/lei-8078-11-setembro-1990-365086-normaatualizada-pl.html)). O STJ entende que a devolução em dobro cabe quando a cobrança contraria a **boa-fé**, **sem precisar provar má-fé** da empresa ([Informativo 693](https://processo.stj.jus.br/jurisprudencia/externo/informativo/?acao=pesquisarumaedicao&livre=0693.cod.)). Em 2026, o STJ confirmou isso em recurso repetitivo: se você reclamou e a empresa não resolveu, isso já é indício para pedir o dobro, e cabe a ela provar que agiu com cuidado (Tema 929, acórdão publicado em 03/11/2026, [STJ](https://processo.stj.jus.br/repetitivos/temas_repetitivos/pesquisa.jsp?novaConsulta=true&tipo_pesquisa=T&cod_tema_inicial=929&cod_tema_final=929)).
 
 O dobro vale sobre o que você **pagou**. Uma compra contestada a tempo e não paga não gera devolução em dobro. Os prazos e o passo a passo para pedir estão em [cobrança indevida: devolução em dobro](/artigos/cobranca-indevida).
 

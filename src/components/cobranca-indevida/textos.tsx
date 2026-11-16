@@ -35,17 +35,18 @@ const Fora = ({ href, children }: { href: string; children: ReactNode }) => (
 export const TEXTO_DO_AVISO: Record<Aviso, ReactNode> = {
   "tema-929": (
     <>
-      O STJ julgou em 15/09/2026 um recurso repetitivo sobre quando cabe a devolução em dobro (
-      <Fora href={FONTES.tema929}>Tema 929</Fora>). A tese ainda não foi publicada e pode mudar o que vale para o
-      seu caso.
+      Pelo <Fora href={FONTES.tema929}>Tema 929 do STJ</Fora> (acórdão publicado em 03/11/2026), o dobro não depende de
+      má-fé: basta a cobrança contrariar a boa-fé objetiva, e cabe à empresa provar que agiu de forma leal e cuidadosa.
+      Ter reclamado antes e a empresa não ter resolvido é indício suficiente. Há engano justificável, e a devolução é
+      simples, se o tema tinha decisões divergentes ou se a cláusula da cobrança foi anulada depois.
     </>
   ),
   modulacao: (
     <>
-      Há pagamento até 30/03/2021. Em contratos privados, o STJ só aplica a regra atual do dobro (basta contrariar a
-      boa-fé, sem provar má-fé) ao que foi pago depois dessa data (
-      <Fora href={FONTES.earesp}>EAREsp 676.608</Fora>). Para os pagamentos anteriores, o dobro pode depender de provar
-      má-fé da empresa.
+      Há pagamento até 30/03/2021. Em 2020, o STJ tinha limitado a regra do dobro sem má-fé, nos contratos privados, ao
+      que fosse pago depois dessa data (<Fora href={FONTES.earesp}>EAREsp 676.608</Fora>). A tese do Tema 929, de 2026,
+      não repete esse corte, e a cobertura do julgamento informa que ele foi afastado. Confira no acórdão ou com um
+      advogado se o dobro alcança esses pagamentos.
     </>
   ),
   "modulacao-telefonia-fixa": (

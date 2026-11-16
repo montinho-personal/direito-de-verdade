@@ -1,10 +1,10 @@
 ---
 titulo: "Calculadora de Cobrança Indevida 2026"
 tituloSeo: "Calculadora de Cobrança Indevida 2026 | Devolução em Dobro"
-descricao: "Calculadora de cobrança indevida 2026: veja quanto pode receber de volta, simples ou em dobro, com correção pelo IPCA, e o que fazer para pedir o dinheiro."
+descricao: "Calculadora de cobrança indevida: quanto você recebe de volta em dobro, com IPCA, por tarifa bancária, seguro ou conta. Já com a tese do Tema 929 do STJ."
 categoria: consumidor
 publicadoEm: 2026-10-26
-atualizadoEm: 2026-10-26
+atualizadoEm: 2026-11-16
 faq:
   - pergunta: "Fui cobrado, mas não paguei. Tenho direito à devolução em dobro?"
     resposta: "Não. A devolução, simples ou em dobro, é sobre o que você **pagou** a mais (CDC, artigo 42). Sem pagamento, o direito é contestar e ter a cobrança cancelada. Em bancos, telefonia, internet e energia elétrica, o SAC deve suspender a cobrança indevida na hora (Decreto 11.034/2022)."
@@ -14,6 +14,8 @@ faq:
     resposta: "Não. Nas cobranças de contrato, os juros de mora contam, em regra, da citação no processo (Código Civil, artigo 405), e a taxa legal muda todo mês. Sem essa data, a calculadora mostra só o valor pago a mais e a correção pelo IPCA, e diz por que os juros ficaram de fora."
   - pergunta: "Preciso de advogado para pedir a devolução?"
     resposta: "Não para reclamar no SAC, no Consumidor.gov.br ou no Procon. No Juizado Especial Cível, causas de até 20 salários mínimos (R$ 32.420 em 2026) podem ser feitas sem advogado (Lei 9.099/1995)."
+  - pergunta: "Quanto tempo demora para receber a devolução?"
+    resposta: "Não há prazo único na lei para a empresa devolver. No SAC de bancos, telefonia, energia e planos de saúde, a resposta deve sair em até 7 dias corridos; no Consumidor.gov.br, a empresa tem até 10 dias para responder. Se não resolver, o Juizado Especial Cível decide."
   - pergunta: "A calculadora guarda os meus dados?"
     resposta: "Não. A conta é feita no seu navegador e nada do que você digita é enviado ou guardado. A calculadora não pede nome, CPF nem número de contrato."
 fontes:
@@ -23,8 +25,10 @@ fontes:
     url: "https://www.planalto.gov.br/ccivil_03/leis/2002/l10406compilada.htm"
   - nome: "STJ, Corte Especial: EAREsp 676.608/RS, devolução em dobro e modulação (DJe 30/03/2021)"
     url: "https://processo.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=201500497769&dt_publicacao=30/03/2021"
-  - nome: "STJ: Tema repetitivo 929 (devolução em dobro), julgado em 15/09/2026, tese a publicar"
+  - nome: "STJ: Tema repetitivo 929 (devolução em dobro), julgado em 15/09/2026, acórdão publicado em 03/11/2026"
     url: "https://processo.stj.jus.br/repetitivos/temas_repetitivos/pesquisa.jsp?novaConsulta=true&tipo_pesquisa=T&cod_tema_inicial=929&cod_tema_final=929"
+  - nome: "STJ: Súmula 385 (anotação irregular com inscrição anterior legítima)"
+    url: "https://processo.stj.jus.br/SCON/sumstj/doc.jsp?livre=%22385%22.num.&b=SUMU&p=false&l=10&i=1&operador=E&ordenacao=-%40NUM"
   - nome: "STJ: Súmula 412 (prazo do Código Civil para tarifas de água e esgoto)"
     url: "https://processo.stj.jus.br/SCON/sumstj/doc.jsp?livre=%22412%22.num.&b=SUMU&p=false&l=10&i=1&operador=E&ordenacao=-%40NUM"
   - nome: "IBGE: IPCA, número-índice (Sidra, tabela 1737)"
@@ -60,9 +64,9 @@ Para cada cobrança, a calculadora faz quatro contas:
 
 Os dois cenários são **alternativos**: ou a devolução é simples, ou é em dobro. Eles nunca se somam.
 
-### Exemplo: tarifa que você não contratou
+### Exemplo: tarifa bancária, seguro ou pacote que você não contratou
 
-Você pagou **R$ 150** em 15/03/2025 por uma tarifa que não contratou. O pago a mais é de R$ 150. Na restituição simples, são **R$ 150**, ou R$ 159,33 com a correção pelo IPCA até setembro de 2026. Na restituição em dobro, são **R$ 300**, ou R$ 318,65 com a correção. Os juros não estão incluídos.
+Tarifas, seguros e pacotes de serviços cobrados todo mês sem contratação são o caso mais comum: some cada mês em que a cobrança apareceu. Por exemplo: você pagou **R$ 150** em 15/03/2025 por uma tarifa que não contratou. O pago a mais é de R$ 150. Na restituição simples, são **R$ 150**, ou R$ 159,33 com a correção pelo IPCA até setembro de 2026. Na restituição em dobro, são **R$ 300**, ou R$ 318,65 com a correção. Os juros não estão incluídos.
 
 ### Por que os juros não entram na conta
 
@@ -82,19 +86,34 @@ O consumidor "cobrado em quantia indevida tem direito à repetição do indébit
 - você **pagou** o valor indevido;
 - a empresa **não provou** um engano justificável.
 
-Desde 2020, o STJ entende que não é preciso provar má-fé da empresa: basta que a cobrança contrarie a **boa-fé objetiva** ([EAREsp 676.608/RS](https://processo.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=201500497769&dt_publicacao=30/03/2021)). Em 15/09/2026, o STJ julgou o assunto como recurso repetitivo ([Tema 929](https://processo.stj.jus.br/repetitivos/temas_repetitivos/pesquisa.jsp?novaConsulta=true&tipo_pesquisa=T&cod_tema_inicial=929&cod_tema_final=929)); até 26/10/2026, a tese não tinha sido publicada. Quando sair, esta página e a calculadora serão revistas.
+### O que decidiu o STJ no Tema 929 (2026)
+
+O STJ julgou o assunto como recurso repetitivo em 15/09/2026, e o acórdão foi publicado em 03/11/2026 ([Tema 929](https://processo.stj.jus.br/repetitivos/temas_repetitivos/pesquisa.jsp?novaConsulta=true&tipo_pesquisa=T&cod_tema_inicial=929&cod_tema_final=929)). A tese firmada diz:
+
+- a devolução em dobro **independe** de a empresa ter agido com intenção, culpa ou má-fé: cabe quando a cobrança **contraria a boa-fé objetiva**;
+- se você **reclamou antes** e a empresa **se omitiu ou recusou** corrigir, isso já é **indício suficiente** para pedir o dobro;
+- cabe à **empresa** provar que não agiu de forma desleal ou descuidada;
+- há **engano justificável**, e a devolução volta a ser **simples**, quando havia **divergência nos tribunais** sobre a cobrança ou quando a cláusula que a fundamentava foi **anulada depois**.
+
+Por isso, **reclame por escrito antes** de entrar na Justiça e guarde o protocolo: a recusa da empresa ajuda a garantir o dobro. A calculadora mostra os dois cenários, simples e em dobro, porque quem decide se houve engano justificável é a prova e, se for o caso, o juiz.
 
 ### E se o pagamento foi antes de 30/03/2021?
 
-Nos contratos de consumo que **não** são serviço público prestado pelo Estado ou por concessionária, como bancos, cartões e lojas, o STJ limitou a regra nova às cobranças **pagas depois de 30/03/2021**, data da publicação da decisão. Para pagamentos anteriores, o dobro pode depender de provar má-fé. Em contas de **luz e água**, esse corte não existe. A calculadora avisa quando algum pagamento cai antes dessa data.
+Em 2020, ao julgar o [EAREsp 676.608](https://processo.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=201500497769&dt_publicacao=30/03/2021), o STJ tinha limitado a regra do dobro sem má-fé, nos contratos privados (bancos, cartões, lojas), aos pagamentos feitos **depois de 30/03/2021**. A tese do **Tema 929**, de 2026, **não repete esse corte**, e a cobertura do julgamento informa que ele foi afastado. Em contas de **luz e água**, o corte nunca valeu. A calculadora avisa quando há pagamento antes dessa data; confira o caso com um advogado ou a Defensoria.
 
-## Cobrança indevida e pagamento indevido: qual a diferença?
+## Repetição de indébito: CDC e Código Civil (artigo 940)
 
 - **Cobrança indevida** é quando a empresa cobra o que você não deve, numa relação de consumo. Se você pagou, vale o CDC: devolução em dobro, salvo engano justificável.
 - **Pagamento indevido** é quando alguém paga o que não devia, por exemplo pagando a mesma conta duas vezes por engano, sem a empresa ter cobrado a mais. Vale o Código Civil: quem recebeu o que não era devido tem de **restituir** (artigo 876), em regra o valor simples, e quem pagou voluntariamente precisa provar que pagou por erro (artigo 877).
-- **Dívida cobrada na Justiça depois de paga** tem regra própria: quem processa por dívida já paga fica obrigado a pagar ao devedor o dobro do que cobrou (Código Civil, artigo 940), quando houver má-fé, segundo o STJ.
+- **Dívida cobrada na Justiça depois de paga** tem regra própria: pelo **artigo 940 do Código Civil**, quem processa por dívida já paga fica obrigado a pagar ao devedor o **dobro do que cobrou**, quando houver má-fé, segundo o STJ.
 
 Por isso a calculadora pede o valor **cobrado**, o valor **correto** e o valor **pago**: se você pagou mais do que foi cobrado, informe as duas cobranças, ou trate o caso como pagamento indevido.
+
+## Cobrança indevida dá direito a indenização? Qual o valor?
+
+A calculadora mostra a **devolução** do que você pagou a mais, simples ou em dobro. **Dano moral** é outra coisa: depende do que a cobrança causou no seu caso, como **negativação indevida**, corte de serviço ou cobrança vexatória, e **não tem valor fixo na lei**: quem define, se for o caso, é o juiz. Se você **já tinha outra negativação legítima**, a anotação irregular não gera dano moral, mas você tem direito ao **cancelamento** ([Súmula 385 do STJ](https://processo.stj.jus.br/SCON/sumstj/doc.jsp?livre=%22385%22.num.&b=SUMU&p=false&l=10&i=1&operador=E&ordenacao=-%40NUM)). Este site não estima valores de indenização.
+
+Se o problema são **juros altos** no empréstimo ou no financiamento, e não uma cobrança que você não devia, compare a taxa com a média do Banco Central na [calculadora de juros abusivos](/calculadoras/juros-abusivos).
 
 ## Como pedir o dinheiro de volta
 
