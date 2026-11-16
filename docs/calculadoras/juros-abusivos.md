@@ -19,11 +19,27 @@ bancários: sem risco de canibalização. URL no padrão `/calculadoras/...`, n�
 
 ## Prints recebidos
 
-Nenhum ainda. A printar: `calculadora de juros abusivos`, `como saber se juros são
-abusivos`, `taxa média banco central financiamento`.
+Arquivos em `prints/juros-abusivos/` (16/11/2026). Revisão no mesmo dia.
 
 | print | conteúdo | onde entrou |
 |---|---|---|
+| `calculadora de juros abusivos`, autocompletar (1) | gratuito · consignado · financiamento · financiamento de veículos · banco central · online grátis · empréstimo clt · online | `tituloSeo` "Calculadora de juros abusivos grátis: compare com o BC"; `descricao` com empréstimo, consignado e financiamento; consignado CLT na tabela de médias |
+| visão geral de IA (2) | Calculadora do Cidadão do BCB; calculadoras de escritórios e da Defensoria; "não há teto único"; limites do rotativo, cheque especial e consignado INSS | não é fonte; confirma o método e os limites que a página já tinha |
+| PAA (3) | Como calcular se o juros está abusivo? · Quanto fica 30 mil financiado em 48 vezes? · Quanto vou pagar de juros em um empréstimo de R$ 20 mil? · Juros de 15% ao mês são abusivos? | H2 "Quanto fica 30 mil financiado em 48 vezes?" e "Quanto vou pagar de juros em um empréstimo de R$ 20 mil?" (exemplos de conta, Price, às médias de ago/2026); 15% no H2 da taxa abusiva |
+| "Outras pessoas pesquisaram" (4, 5) | banco central · online grátis · financiamento de veículos · revisional · consignado · empréstimo pessoal · defensoria · Calculadora do Cidadão · juros compostos | já cobertos (modalidades, médias); revisional e Defensoria no "Como reclamar" |
+| `como saber se juros são abusivos`, autocompletar (6) | meus juros · juros cobrados · do financiamento · do empréstimo · do banco · online | H2 "O que são juros abusivos?" virou "Como saber se os juros são abusivos?" |
+| visão geral de IA (7) | comparar taxa e CET com a média; "1,5x, 2x ou mais"; tetos; venda casada | o múltiplo **não entrou**: o STJ não fixou múltiplo (Teses 48); o texto diz isso |
+| PAA (8) | Qual taxa de juros é considerada abusiva? · É legal cobrar juros de 2% ao mês? · 10% ao mês é abusiva? · 15% ao mês? | H2 "Qual taxa de juros é considerada abusiva? (2%, 10% ou 15% ao mês)", comparando cada uma com as médias de ago/2026 e os limites legais |
+| "Outras pessoas pesquisaram" (9, 10) | consultar banco central · estou pagando juros abusivos no financiamento/empréstimo · quanto é considerado abusivo · como tirar juros abusivos · consignado · Procon resolve juros abusivos? | FAQ "O Procon resolve juros abusivos?" |
+| `taxa média banco central financiamento`, autocompletar (11) | veículo · de juros · imobiliário · 2023 · 2022 | H2 "Qual a taxa média de juros do Banco Central hoje?" com a tabela; anos antigos: a calculadora usa o mês da contratação, desde 2011 |
+| visão geral de IA (12) | veículos ~1,96% a.m.; imobiliário 10,26% a 15% + TR (MySide); 0,87% a.m. | não é fonte; a tabela usa as séries do SGS (veículos 1,97% em ago/2026); faixas da MySide fora |
+| PAA (13) | Qual a média de taxa de financiamento? · imóveis no Banco Central? · veículo? · taxa média hoje? | mesma tabela, com imobiliário de mercado e regulado e nota do indexador |
+| "Outras pessoas pesquisaram" (14, 15) | tabela de taxas dos bancos · financiamento de veículos 2026 · moto · consulta taxa média · histórico · aquisição de veículo pessoa física | tabela + link ao portal de dados abertos. Taxa por banco e moto: fora (a página compara com a média da modalidade, não ranqueia bancos) |
+
+Contas dos exemplos (Price, parcela = V·i/(1−(1+i)^−n), sem IOF): 30.000 × 1,97% × 48 =
+R$ 972,09 (total 46.660,51); 20.000 × 6,39% × 24 = R$ 1.651,47 (juros 19.635,16);
+20.000 × 1,82% × 24 = R$ 1.035,98 (juros 4.863,60). Taxas anuais efetivas = (1+i)^12 − 1
+sobre os valores de `series-bcb.ts`.
 
 ## Dados do Banco Central
 

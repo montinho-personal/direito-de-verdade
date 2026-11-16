@@ -1,10 +1,10 @@
 ---
 titulo: "Calculadora de Juros Abusivos 2026: descubra se você está pagando juros acima da média"
-tituloSeo: "Calculadora de Juros Abusivos 2026 | Compare com o BC"
-descricao: "Compare os juros do seu empréstimo ou financiamento com taxas de referência do Banco Central. Simule parcelas e custo total gratuitamente."
+tituloSeo: "Calculadora de juros abusivos grátis: compare com o BC"
+descricao: "Calculadora de juros abusivos grátis: compare a taxa do empréstimo, consignado ou financiamento com a média do Banco Central (agosto/2026) e veja a diferença."
 categoria: consumidor
 publicadoEm: 2026-10-27
-atualizadoEm: 2026-10-27
+atualizadoEm: 2026-11-16
 faq:
   - pergunta: "Juros acima da média do Banco Central são ilegais?"
     resposta: "Não automaticamente. Para o STJ, o simples fato de a taxa ser maior que a média de mercado não configura abusividade. A revisão é admitida em situações excepcionais, quando o abuso fica demonstrado no caso concreto. A média é um referencial importante, mas não um limite."
@@ -14,6 +14,8 @@ faq:
     resposta: "A taxa de juros é o preço do dinheiro emprestado. O **CET** (Custo Efetivo Total) soma os juros, as tarifas, os seguros, o IOF e outras despesas da operação, e por isso é maior. O banco tem de informar o CET antes da contratação (Resolução CMN 4.881/2020)."
   - pergunta: "Posso quitar o empréstimo antes e pagar menos juros?"
     resposta: "Pode. Quem paga antes tem direito à redução proporcional dos juros (CDC, artigo 52, § 2º), e o banco não pode cobrar tarifa pela liquidação antecipada. Peça ao banco o valor para quitar."
+  - pergunta: "O Procon resolve juros abusivos?"
+    resposta: "Pode ajudar. O Procon e o Consumidor.gov.br recebem reclamações contra bancos e buscam uma solução com a empresa. Se não houver acordo, a revisão da taxa do contrato depende de ação na Justiça, com advogado ou Defensoria Pública."
   - pergunta: "A calculadora guarda os meus dados?"
     resposta: "Não. A conta é feita no seu navegador, não pede CPF, número do contrato nem dados do banco, e nada do que você digita é enviado ou guardado."
 fontes:
@@ -47,15 +49,57 @@ Para saber se os juros do seu empréstimo ou financiamento estão altos, compare
 
 <!-- ferramenta: calculadora-juros-abusivos -->
 
-## O que são juros abusivos?
+## Como saber se os juros são abusivos?
 
-São juros que colocam o consumidor em **desvantagem exagerada**, o que o Código de Defesa do Consumidor proíbe ([CDC, artigo 51](https://www2.camara.leg.br/legin/fed/lei/1990/lei-8078-11-setembro-1990-365086-normaatualizada-pl.html)). Não existe um número fixo que separe juros normais de abusivos. Bancos e financeiras **não estão limitados aos 12% ao ano** da Lei de Usura, e juros acima disso, por si só, não indicam abuso (STJ, Súmula 382). Para o STJ, a revisão é admitida em situações excepcionais, quando a abusividade fica **cabalmente demonstrada** no caso concreto, e a taxa média de mercado é um dos referenciais usados nessa análise ([Jurisprudência em Teses nº 48](https://www.stj.jus.br/internet_docs/jurisprudencia/jurisprudenciaemteses/Jurisprud%C3%AAncia%20em%20teses%2048%20-%20Banc%C3%A1rio.pdf); [REsp 1.061.530](https://www.stj.jus.br/websecstj/cgi/revista/REJ.cgi/ITA?seq=826356&tipo=0&nreg=200801199924&SeqCgrmaSessao=&CodOrgaoJgdr=&dt=20090310&formato=HTML&salvar=false)).
+Juros abusivos são os que colocam o consumidor em **desvantagem exagerada**, o que o Código de Defesa do Consumidor proíbe ([CDC, artigo 51](https://www2.camara.leg.br/legin/fed/lei/1990/lei-8078-11-setembro-1990-365086-normaatualizada-pl.html)). Não existe um número fixo que separe juros normais de abusivos. Bancos e financeiras **não estão limitados aos 12% ao ano** da Lei de Usura, e juros acima disso, por si só, não indicam abuso (STJ, Súmula 382). Para o STJ, a revisão é admitida em situações excepcionais, quando a abusividade fica **cabalmente demonstrada** no caso concreto, e a taxa média de mercado é um dos referenciais usados nessa análise ([Jurisprudência em Teses nº 48](https://www.stj.jus.br/internet_docs/jurisprudencia/jurisprudenciaemteses/Jurisprud%C3%AAncia%20em%20teses%2048%20-%20Banc%C3%A1rio.pdf); [REsp 1.061.530](https://www.stj.jus.br/websecstj/cgi/revista/REJ.cgi/ITA?seq=826356&tipo=0&nreg=200801199924&SeqCgrmaSessao=&CodOrgaoJgdr=&dt=20090310&formato=HTML&salvar=false)).
 
 Alguns créditos têm limite próprio:
 
 - **Cheque especial:** juros de no máximo **8% ao mês** para pessoas físicas e MEI, desde 06/01/2020 ([Resolução CMN 4.765/2019](https://normativos.bcb.gov.br/Lists/Normativos/Attachments/50875/Res_4765_v2_P.pdf)).
 - **Rotativo e parcelamento da fatura do cartão:** juros e encargos não podem passar de **100% do valor original** da dívida, para dívidas contraídas desde 03/01/2024 (Lei 14.690/2023; [Secom](https://www.gov.br/secom/pt-br/acompanhe-a-secom/noticias/2024/01/novo-teto-de-juros-do-cartao-de-credito-passa-a-valer-a-partir-desta-quarta)).
 - **Consignado do INSS:** tem teto mensal fixado pelo Conselho Nacional de Previdência Social, que muda com o tempo; confira o vigente no [Meu INSS](https://www.gov.br/inss/pt-br/noticias/veja-como-conferir-a-taxa-de-juros-do-consignado-no-meu-inss).
+
+## Qual taxa de juros é considerada abusiva? (2%, 10% ou 15% ao mês)
+
+**Não há um percentual que valha para todo contrato.** O STJ não fixou um limite nem um múltiplo da média: a mesma taxa pode estar perto da média em um tipo de crédito e muito acima dela em outro. O que conta é a comparação com a média da **mesma modalidade**, no **mesmo mês**, e as condições do caso. Com as médias do Banco Central de agosto de 2026:
+
+- **2% ao mês:** fica perto da média do financiamento de veículos (1,97%) e abaixo da do crédito pessoal (6,39%), mas acima da média do consignado do INSS (1,82%), que ainda tem teto próprio.
+- **10% ao mês:** fica cerca de 1,6 vez acima da média do crédito pessoal e passa do limite de 8% ao mês do cheque especial; no cartão parcelado, a média foi de 9,34%.
+- **15% ao mês:** é próxima da média do rotativo do cartão (15,18%), que tem o teto de 100% do valor da dívida, e é mais que o dobro da média do crédito pessoal.
+
+Ficar acima da média, mesmo muito acima, é um **sinal para olhar o contrato**, não a prova de que os juros são ilegais. Os limites de cheque especial, cartão e consignado do INSS estão na seção acima.
+
+## Qual a taxa média de juros do Banco Central hoje?
+
+Médias de **agosto de 2026**, as mais recentes usadas pela calculadora (séries do SGS do Banco Central, atualizadas aqui em 26/10/2026). A taxa anual é a efetiva, com juros compostos.
+
+| Tipo de crédito (pessoa física) | Média ao mês | Equivale ao ano |
+|---|---|---|
+| Financiamento de veículos | 1,97% | 26,38% |
+| Financiamento imobiliário, taxas de mercado | 1,12% | 14,30% |
+| Financiamento imobiliário, taxas reguladas | 0,87% | 10,95% |
+| Crédito pessoal não consignado | 6,39% | 110,29% |
+| Consignado do INSS (aposentados e pensionistas) | 1,82% | 24,16% |
+| Consignado de servidores públicos | 1,82% | 24,16% |
+| Consignado do setor privado (CLT) | 3,79% | 56,27% |
+| Cartão de crédito parcelado | 9,34% | 191,98% |
+| Cartão de crédito rotativo | 15,18% | 445,16% |
+| Cheque especial | 7,43% | 136,32% |
+
+O financiamento imobiliário costuma ter indexador (TR, IPCA ou poupança) somado à taxa, que a tabela não mostra. As médias de outros meses, desde 2011, estão no [portal de dados abertos do Banco Central](https://dadosabertos.bcb.gov.br/dataset/25471-taxa-media-mensal-de-juros-das-operacoes-de-credito-com-recursos-livres---pessoas-fisicas---a), e a calculadora escolhe sozinha a do mês da sua contratação.
+
+## Quanto fica 30 mil financiado em 48 vezes?
+
+Depende da taxa. **Exemplo de conta**, pela tabela Price, sem IOF, tarifas nem seguros: R$ 30.000 em 48 parcelas à média do financiamento de veículos de agosto de 2026 (1,97% ao mês) dão parcelas de cerca de **R$ 972,09**, total de R$ 46.660,51, ou seja, R$ 16.660,51 de juros. Se a sua parcela for bem maior que essa para o mesmo valor e prazo, a taxa do contrato está acima da média ou há custos embutidos: a calculadora mostra qual dos dois.
+
+## Quanto vou pagar de juros em um empréstimo de R$ 20 mil?
+
+Depende do tipo de crédito, mais do que do valor. **Exemplo de conta**, pela tabela Price, em 24 parcelas e às médias de agosto de 2026:
+
+- **Crédito pessoal não consignado** (6,39% ao mês): parcela de cerca de R$ 1.651,47 e **R$ 19.635,16 de juros**, quase o valor emprestado.
+- **Consignado do INSS** (1,82% ao mês): parcela de cerca de R$ 1.035,98 e **R$ 4.863,60 de juros**.
+
+Os valores reais mudam com o IOF, as tarifas, os seguros e a data da primeira parcela.
 
 ## Como funciona a calculadora
 
@@ -133,4 +177,4 @@ Quem quita antes tem direito à redução proporcional dos juros ([CDC, artigo 5
 - **Não compara** "outro tipo de crédito" nem financiamento imobiliário sem saber se a taxa é regulada ou de mercado, porque não há média equivalente.
 - **Usa as médias do Banco Central atualizadas na data indicada** na calculadora; a média do mês mais recente sai com cerca de dois meses de atraso.
 
-Regras revisadas em 27/10/2026. Esta análise é informativa e não substitui a orientação de um advogado ou da Defensoria Pública.
+Regras revisadas em 16/11/2026. Esta análise é informativa e não substitui a orientação de um advogado ou da Defensoria Pública.
