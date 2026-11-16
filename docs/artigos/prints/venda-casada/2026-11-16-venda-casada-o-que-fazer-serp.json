@@ -1,0 +1,77 @@
+{
+  "busca": "venda casada o que fazer",
+  "pesquisadaEm": "2026-11-16",
+  "origem": "SerpApi: Google Brasil (google.com.br), celular, São Paulo, pt-BR, sem personalização",
+  "autocompletar": [],
+  "asPessoasTambemPerguntam": [
+    "O que diz o art. 20 do CDC?",
+    "Como denunciar uma pessoa que vende e não entrega?",
+    "O que diz o art. 35 do CDC?",
+    "Em quais situações a loja é obrigada a devolver o dinheiro?"
+  ],
+  "outrasPessoasPesquisaram": [
+    "Venda condicionada o que significa",
+    "Venda conjugada",
+    "Venda cruzada",
+    "Venda condicionada à devolução da bateria inservível",
+    "Venda cruzada banco",
+    "Artigo 39 inciso i do código de defesa do consumidor cdc"
+  ],
+  "visaoDeIA": "exibida, texto não carregado nesta busca",
+  "organicos": [
+    {
+      "posicao": 1,
+      "titulo": "https://consumidor.gov.br/",
+      "endereco": "https://consumidor.gov.br/",
+      "trecho": null
+    },
+    {
+      "posicao": 2,
+      "titulo": "7 Tipos de venda casada que você pode denunciar AGORA!",
+      "endereco": "https://themisiacos.wixsite.com/themis/single-post/2016/03/14/7-tipos-de-venda-casada-que-voc%C3%AA-pode-denunciar-agora",
+      "trecho": "SE VOCÊ SE DEPAROU COM UM DESSES TIPOS DE VENDA CASADA, DENUNCIÊ!!! Procon, Ministério Público, Delegacias do Consumidor são os órgãos ..."
+    },
+    {
+      "posicao": 3,
+      "titulo": "Venta atada (venda casada): qué es y cómo denunciar esta práctica abusiva",
+      "endereco": "https://cassiusmarques.adv.br/es/venta-atada-venda-casada-que-es-y-como-denunciar-esta-practica-abusiva/",
+      "trecho": "La venta atada es ilegal según el art. 39 del CDC. Vea cómo identificar la práctica, cuáles son sus derechos y el paso a paso para denunciar ante…"
+    },
+    {
+      "posicao": 4,
+      "titulo": "Venda casada: conheça seus direitos como consumidor",
+      "endereco": "https://correio9.com.br/venda-casada-conheca-seus-direitos-como-consumidor/",
+      "trecho": "A venda casada, prática vedada pelo Código de Defesa do Consumidor (CDC), consiste na imposição da aquisição de um produto ou serviço, ..."
+    },
+    {
+      "posicao": 5,
+      "titulo": "Venda casada: o que é e como se proteger dessa prática? - Francisco Coelho",
+      "endereco": "https://franciscocoelho.com.br/post/144-venda-casada-o-que-e-e-como-se-proteger-dessa-pratica",
+      "trecho": "É muito importante ler o que está sendo oferecido e questionar sempre que sentir que estão tentando te empurrar algo. Informação é poder e, ..."
+    },
+    {
+      "posicao": 6,
+      "titulo": "Tudo que você precisa saber sobre venda casada - Rodrigo Cunha",
+      "endereco": "https://rodrigocunha.org/blog/tudo-que-voce-precisa-saber-sobre-venda-casada/",
+      "trecho": "O Código de Defesa do Consumidor, em seu artigo 39, proíbe de forma expressa a venda casada, constituindo crime contra as relações de consumo ( ..."
+    },
+    {
+      "posicao": 7,
+      "titulo": "Saiba o que são vendas casadas e os tipos que podem ser denunciados",
+      "endereco": "https://www.acritica.com/geral/saiba-o-que-sao-vendas-casadas-e-os-tipos-que-podem-ser-denunciados/",
+      "trecho": "“Assim, não havendo provas da imposição, não resta configurada a venda casada, e os pedidos autorais devem ser julgados improcedentes”, disse no ..."
+    },
+    {
+      "posicao": 8,
+      "titulo": "Delegacia do Consumidor esclarece o que é venda casada e como proceder para denunciar esta infração",
+      "endereco": "https://www.acritica.com/geral/delegacia-do-consumidor-esclarece-o-que-e-venda-casada-e-como-proceder-para-denunciar-esta-infracao/",
+      "trecho": "Nos casos em que a empresa recuse o reembolso e insista na venda casada, a vítima pode realizar a denúncia aos órgãos de defesa do consumidor ..."
+    },
+    {
+      "posicao": 9,
+      "titulo": "Venda casada: o que é e por que é ilegal",
+      "endereco": "https://www.jornalcorreiodacidade.com.br/colunas/3964-venda-casada-o-que-e-e-por-que-e-ilegal",
+      "trecho": "Em último caso, busque a Justiça para reaver valores ou pedir indenização. A venda casada é uma prática abusiva que fere a liberdade de escolha ..."
+    }
+  ]
+}

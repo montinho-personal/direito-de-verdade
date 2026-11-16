@@ -1,0 +1,71 @@
+{
+  "busca": "venda casada",
+  "pesquisadaEm": "2026-11-16",
+  "origem": "SerpApi: Google Brasil (google.com.br), celular, São Paulo, pt-BR, sem personalização",
+  "autocompletar": [],
+  "asPessoasTambemPerguntam": [
+    "O que diz o art. 20 do CDC?",
+    "Quais são alguns exemplos de vendas casadas?",
+    "Quais são os principais tipos de vendas casadas?",
+    "O que diz o artigo 39 sobre vendas casadas?"
+  ],
+  "outrasPessoasPesquisaram": [
+    "Venda conjugada",
+    "Venda de seguro junto com empréstimo",
+    "Venda condicionada o que significa",
+    "Código de defesa do consumidor",
+    "Seguro prestamista",
+    "Venda cruzada"
+  ],
+  "visaoDeIA": {
+    "texto": "A venda casada é a prática em que o fornecedor condiciona a compra de um produto ou serviço à aquisição de outro, violando a liberdade de escolha do consumidor.\nEssa conduta é expressamente proibida no Brasil pelo Código de Defesa do Consumidor (Art. 39, inciso I) e também é considerada uma infração à ordem econômica (Lei nº 12.529/2011) ou crime contra as relações de consumo (Lei nº 8.137/1990).\nExemplos comuns de venda casada\n• Bancos e financiamentos: Exigir a contratação de um seguro de vida, título de capitalização ou cartão de crédito para liberar um empréstimo ou financiamento de veículo.\n• Telecomunicações: Obrigar o cliente a contratar TV por assinatura ou linha telefônica fixa junto com o plano de internet banda larga, sem a opção de venda isolada.\n• Cinema e entretenimento: Proibir a entrada de alimentos e bebidas comprados em outros locais para forçar o consumo na bomboniere do próprio estabelecimento.\n• Eventos e bares: Cobrar taxa de \"consumação mínima\" em bares, restaurantes e casas noturnas onde o valor é imposto como obrigação para permanecer no local.\n• Escolas e festas: Determinar a compra de uniformes em uma única loja específica ou exigir a contratação obrigatória do buffet do próprio salão de festas.\nO que NÃO é venda casada?\n• Promoções do tipo \"leve 2, pague 1\": Desde que o consumidor tenha a opção de comprar o item unitário pelo preço normal.\n• Pacotes fechados (Ex: pacotes de viagem com passagem + hotel): São permitidos, desde que o cliente tenha a alternativa de adquirir cada um dos serviços de forma avulsa, se desejar.\n• Venda de produtos que já vêm em embalagem única: Como um pacote com vários rolos de papel higiênico, onde não é tecnicamente viável vender apenas uma unidade.\nPenas e consequências para as empresas\nAs empresas que praticam venda casada estão sujeitas a sanções administrativas, civis e criminais:\n• Multas aplicadas por órgãos de defesa do consumidor (como o Procon) que podem variar de acordo com o faturamento bruto da empresa (chegando a até 20%) ou valores específicos para empresas não-empresariais.\n• Reincidência da infração pode dobrar o valor da multa.\n• Ação judicial por parte do consumidor para a restituição em dobro do valor pago indevidamente e pedidos de indenização por danos morais.\n• Responsabilidade criminal para os responsáveis, com penas de detenção ou multa previstas na Lei nº 8.137/1990.\nComo denunciar?\nSe você foi vítima de venda casada:\n• Guarde provas: Notas fiscais, contratos, prints de conversas, e-mails ou gravações que comprovem a exigência.\n• Procure os órgãos competentes: Você pode registrar uma denúncia ou reclamação através da plataforma nacional Consumidor.gov.br, no Procon do seu estado ou município, ou no órgão regulador específico do setor (como o Banco Central para bancos ou a Anatel para operadoras).",
+    "fontes": [
+      "Idec - Instituto de Defesa de Consumidores",
+      "Instagram",
+      "Jusbrasil",
+      "Procon SC",
+      "Projuris",
+      "YouTube",
+      "www.anatel.gov.br",
+      "www.tjdft.jus.br"
+    ]
+  },
+  "organicos": [
+    {
+      "posicao": 1,
+      "titulo": "Já ouviu falar de venda casada? - Escola Paulista de Direito",
+      "endereco": "https://epd.edu.br/blog/ja-ouviu-falar-de-venda-casada/",
+      "trecho": "A venda casada é uma prática abusiva em que o fornecedor condiciona a compra de um produto ou serviço à aquisição de outro. Isso significa que o ..."
+    },
+    {
+      "posicao": 2,
+      "titulo": "O QUE É VENDA CASADA? - a Anatel (BR)",
+      "endereco": "https://www.anatel.gov.br/Portal/verificaDocumentos/documento.asp?numeroPublicacao=348037&filtro=1&documentoPath=348037.pdf",
+      "trecho": "Você sabia queh ao comprar um produto ou contratar um serviçoh não pode ser obrigado a levar outro junto? Por exemploh se você vai à padaria comprar pãoh o ..."
+    },
+    {
+      "posicao": 3,
+      "titulo": "Venda casada é ilegal?",
+      "endereco": "https://www.migalhas.com.br/amp/depeso/430917/venda-casada-e-ilegal",
+      "trecho": "O BACEN não autoriza a venda casada, e exige que os bancos informem com clareza que a contratação de seguros ou outros produtos é opcional. A ..."
+    },
+    {
+      "posicao": 4,
+      "titulo": "venda casada",
+      "endereco": "https://www.bcb.gov.br/meubc/faqs/p/venda-casada",
+      "trecho": "O Banco Central do Brasil tem o objetivo fundamental de assegurar a estabilidade de preços, zelar pela estabilidade do sistema financeiro, ..."
+    },
+    {
+      "posicao": 5,
+      "titulo": "Venda Casada: entendimento jurisprudencial e doutrinário",
+      "endereco": "https://www.jusbrasil.com.br/artigos/venda-casada-entendimento-jurisprudencial-e-doutrinario/358432969",
+      "trecho": "Conceituou-se venda casada como a modalidade de abuso do direito do consumidor em que o fornecedor pretende obrigar o consumidor a adquirir um ..."
+    },
+    {
+      "posicao": 6,
+      "titulo": "O que é venda casada? O que diz a Lei? Dica para vender mais!",
+      "endereco": "https://www.agendor.com.br/blog/venda-casada/",
+      "trecho": "Venda casada é uma prática comercial indevida em que se condiciona a venda de um produto ou serviço à aquisição de outro produto ou serviço pelo mesmo ..."
+    }
+  ]
+}

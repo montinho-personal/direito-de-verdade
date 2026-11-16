@@ -246,7 +246,7 @@ Só pauta; cada artigo continua sendo um pedido dele, um de cada vez.
 |---|---|---|---|---|
 | 1 | Calculadora de aluguel atrasado (multa, juros e correção) | "calculadora de juros de aluguel atrasado", em "Outras pessoas pesquisaram" do despejo | `calculadora de aluguel atrasado`; `juros de aluguel atrasado`; `multa por atraso de aluguel` | **publicada em 16/11/2026** — [doc](calculadoras/aluguel-atrasado.md), `/calculadoras/aluguel-atrasado` |
 | 2 | Proprietário pediu o imóvel de volta: prazo para sair (denúncia vazia e retomada) | "como fazer um pedido de desocupação", "despejo por denúncia vazia" (PAA e autocompletar) | `denúncia vazia`; `proprietário pediu o imóvel quanto tempo tenho para sair`; `notificação de desocupação` | **publicado em 16/11/2026** — [doc](artigos/proprietario-pediu-o-imovel.md), `/artigos/proprietario-pediu-o-imovel` |
-| 3 | Venda casada e práticas abusivas (CDC, artigo 39) | "cobrança indevida cdc art 39", em "Outras pessoas pesquisaram" | `venda casada`; `venda casada o que fazer`; `práticas abusivas cdc` | a fazer |
+| 3 | Venda casada e práticas abusivas (CDC, artigo 39) | "cobrança indevida cdc art 39", em "Outras pessoas pesquisaram" | `venda casada`; `venda casada o que fazer`; `práticas abusivas cdc` | **publicado em 16/11/2026** — [doc](artigos/venda-casada.md), `/artigos/venda-casada` |
 | 4 | Como cobrar uma dívida de pessoa física (sem cobrança vexatória) | "cobrança vexatória entre particulares" | `como cobrar uma dívida de pessoa física`; `cobrança vexatória`; `prazo para cobrar dívida` | a fazer |
 
 **Não recomendo:**
