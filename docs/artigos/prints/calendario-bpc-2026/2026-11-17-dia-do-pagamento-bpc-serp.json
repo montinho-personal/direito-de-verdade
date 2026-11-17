@@ -1,0 +1,84 @@
+{
+  "busca": "dia do pagamento bpc",
+  "pesquisadaEm": "2026-11-17",
+  "origem": "SerpApi: Google Brasil (google.com.br), celular, São Paulo, pt-BR, sem personalização",
+  "autocompletar": [
+    "dia do pagamento bpc loas",
+    "dia do pagamento bpc 2026",
+    "dia do pagamento bpc loas 2026",
+    "dia do pagamento bpc 2025",
+    "dia do pagamento bpc loas final 3",
+    "dia do pagamento bpc final 4",
+    "dia do pagamento bpc loas 2025",
+    "dia do pagamento bpc loas final 2",
+    "dia do pagamento do bpc de dezembro",
+    "dia do pagamento do bpc final 2",
+    "dia do pagamento do bpc de outubro",
+    "dia do pagamento do bpc de março",
+    "dia do pagamento do bpc de julho",
+    "dia do pagamento do bpc final 3"
+  ],
+  "asPessoasTambemPerguntam": [
+    "Que dia é o pagamento de fevereiro de 2026?",
+    "Qual é o calendário de pagamento do BPC para 2026?",
+    "Como saber a data de pagamento do meu Loas?",
+    "Quando começa o pagamento do INSS do mês de dezembro?"
+  ],
+  "outrasPessoasPesquisaram": [
+    "O que é bpc é quem tem direito",
+    "Bpc consulta",
+    "Consultar bpc pelo cpf",
+    "Bpc e loas é a mesma coisa",
+    "Meu inss bpc",
+    "Bpc quem criou",
+    "Cartão bpc",
+    "Bpc valor",
+    "Consultar bpc loas online",
+    "Bpc como solicitar",
+    "Bpc deficiente",
+    "Consulta bpc por nome"
+  ],
+  "visaoDeIA": {
+    "texto": "",
+    "fontes": []
+  },
+  "videos": [],
+  "organicos": [
+    {
+      "posicao": 1,
+      "titulo": "Benefício de Prestação Continuada (BPC)",
+      "endereco": "https://www.gov.br/mds/pt-br/acoes-e-programas/SUAS/beneficios-assistenciais/beneficio-assistencial-ao-idoso-e-a-pessoa-com-deficiencia-bpc",
+      "trecho": "Assim, os beneficiários que moram nessas localidades podem sacar o benefício no 1º dia do cronograma de pagamento, enquanto durar o estado de ..."
+    },
+    {
+      "posicao": 2,
+      "titulo": "Não é verdade que governo prevê corte de 670 mil beneficiários do BPC",
+      "endereco": "https://www.aosfatos.org/noticias/governo-corte-670-mil-bpc/",
+      "trecho": "Em orientações atualizadas em outubro de 2026, o MDS informou que beneficiários convocados para atualizar o CadÚnico podem ter o pagamento ..."
+    },
+    {
+      "posicao": 3,
+      "titulo": "BPC em disputa : como alterações regulatórias recentes se refletem no acesso ao benefício",
+      "endereco": "https://repositorio.ipea.gov.br/items/90ccebbc-cc27-4846-a17a-c87296ceb693",
+      "trecho": "Este estudo realiza um levantamento de alterações recentes no Benefício de Prestação Continuada (BPC) e discute seus avanços e limitações na garantia e promoção ..."
+    },
+    {
+      "posicao": 4,
+      "titulo": "Qual a diferença entre o BPC e o PCD?",
+      "endereco": "https://www.youtube.com/watch?v=7XfZDTkwJss",
+      "trecho": "BPC é um benefício assistencial com requisitos socioeconômicos e PCD é uma condição para aposentadoria, com regras diferentes."
+    },
+    {
+      "posicao": 5,
+      "titulo": "BPC evitou 571 mil mortes e 13 milhões de internações em 30 anos - Agência Brasil",
+      "endereco": "https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-10/bpc-evitou-571-mil-mortes-e-13-milhoes-de-internacoes-em-30-anos",
+      "trecho": "O Benefício de Prestação Continuada (BPC), auxílio pago pelo governo federal a idosos com mais de 65 anos e pessoas com deficiência em ..."
+    },
+    {
+      "posicao": 6,
+      "titulo": "Evolução da despesa com oBenefício de Prestação Continuada (BPC)1",
+      "endereco": "https://www12.senado.leg.br/ifi/publicacoes-1/relatorio/2026/marco/evolucao-da-despesa-com-o-bpc",
+      "trecho": "O benefício garante o pagamento de um salário mínimo mensal aos beneficiários. Por se tratar de um benefício assistencial, não exige contribuição prévia ao ..."
+    }
+  ]
+}

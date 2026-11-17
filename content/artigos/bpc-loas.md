@@ -62,7 +62,7 @@ Criança com deficiência também tem direito: a lei não fixa idade mínima, e 
 
 ## Qual o valor do BPC em 2026, para idoso e pessoa com deficiência?
 
-É **um salário mínimo**, o mesmo para o idoso e para a pessoa com deficiência: **R$ 1.621 por mês** em 2026 ([Decreto 12.797/2025](https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2025/decreto/D12797.htm)). O valor sobe todo ano junto com o mínimo.
+É **um salário mínimo**, o mesmo para o idoso e para a pessoa com deficiência: **R$ 1.621 por mês** em 2026 ([Decreto 12.797/2025](https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2025/decreto/D12797.htm)). O valor sobe todo ano junto com o mínimo. O dia do pagamento depende do final do benefício: veja o [calendário do BPC 2026](/artigos/calendario-bpc-2026).
 
 ### O BPC tem 13º salário?
 

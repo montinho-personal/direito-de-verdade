@@ -245,7 +245,7 @@ Das revisões de pensão alimentícia e de BPC/LOAS. Só pauta.
 | 1 | Pensão para ex-esposa ou ex-marido: quem tem direito e até quando | autocompletar "pensão alimentícia para esposa com mais de 40/50/60 anos", "para mulher até quantos anos" (4 variações) | `pensão alimentícia para ex esposa`; `pensão para ex mulher até quando`; `alimentos transitórios` | **publicado em 17/11/2026** — [doc](artigos/pensao-para-ex-esposa.md), `/artigos/pensao-para-ex-esposa` |
 | 2 | Alimentos gravídicos: pensão durante a gravidez | visão de IA de `pensão alimentícia` (gestantes) | `alimentos gravídicos`; `pensão na gravidez`; `pensão para grávida como pedir` | **publicado em 17/11/2026** — [doc](artigos/alimentos-gravidicos.md), `/artigos/alimentos-gravidicos` |
 | 3 | BPC/LOAS pode fazer empréstimo consignado? | autocompletar de `bpc loas` (5 variações: "pode fazer empréstimo", "de 20 mil", "de 30 mil", "2026", "consignado") | `bpc loas pode fazer empréstimo`; `empréstimo consignado bpc`; `margem consignável bpc` | a fazer, **só com a Lei 10.820/2003 e a página do INSS lidas**; ligar com o Crédito por Perto, que cobre consignado |
-| 4 | Calendário do BPC/LOAS 2026: dia do pagamento | PAA "Como saber o dia do pagamento do meu benefício BPC?"; "bpc loas calendário" | `calendário bpc 2026`; `dia do pagamento bpc`; `bpc loas calendário` | a fazer, com o calendário oficial do INSS; página com data, entra na revisão anual |
+| 4 | Calendário do BPC/LOAS 2026: dia do pagamento | PAA "Como saber o dia do pagamento do meu benefício BPC?"; "bpc loas calendário" | `calendário bpc 2026`; `dia do pagamento bpc`; `bpc loas calendário` | **publicado em 17/11/2026** — [doc](artigos/calendario-bpc-2026.md), `/artigos/calendario-bpc-2026` |
 
 **Não recomendo:** "consultar pensão alimentícia pelo CPF" (não há consulta pública oficial; processos de família correm em segredo de justiça); "pensão alimentícia vitalícia" (termo sem definição legal; o que existe cabe no artigo do ex-cônjuge); faixa "15% a 30% para 1 filho" como artigo (sem fonte oficial); "pensão conta como renda no Bolsa Família" (regra do MDS, fora do tema jurídico do site, sem fonte lida); "BPC foi criado em qual governo" (resposta política, fora do tema; a data da lei já está na FAQ); artigos por doença ("BPC para TDAH", "fibromialgia", "diabetes"): a lei não tem lista, e páginas por doença repetiriam a mesma regra.
 
@@ -469,6 +469,7 @@ Lembrar o Renato desta lista a cada entrega.
 
 ## Revisão anual (valores que mudam)
 
+- Calendário do BPC (`/artigos/calendario-bpc-2026`): quando o INSS publicar a tabela de 2027, criar `/artigos/calendario-bpc-2027` (ou trocar o ano) e atualizar o link do BPC/LOAS; valor do mínimo. Condomínio atrasado: taxa legal (art. 406) e notícia do STF de 05/2026 sobre a prescrição.
 - Auxílio-reclusão (`/artigos/auxilio-reclusao`): valor (um salário mínimo) e limite de baixa renda na portaria de janeiro.
 - Superendividamento (`/artigos/superendividamento`) e nome sujo: mínimo existencial (R$ 600 desde 2023; conferir se o CMN atualizou).
 - Salário-família (`/artigos/salario-familia`): cota e limite de renda na portaria interministerial de janeiro; atualizar título, descrição, FAQ e exemplo.
