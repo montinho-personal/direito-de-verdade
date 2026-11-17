@@ -111,6 +111,7 @@ Podem pedir pensão uns aos outros **os parentes, os cônjuges e os companheiros
 
 - **Filhos:** é o caso mais comum. Pai e mãe devem sustentar os filhos, cada um na proporção da sua renda.
 - **Ex-cônjuge ou ex-companheiro:** quando, depois da separação, um deles não consegue se manter e o outro pode ajudar (artigos 1.694 e 1.695). Essa pensão acaba se quem recebe se casar ou passar a viver em união estável (artigo 1.708) e, em regra, tem prazo: veja [quando cabe a pensão para ex-esposa ou ex-marido e até quando ela dura](/artigos/pensao-para-ex-esposa). Veja também [como fazer o divórcio e a partilha de bens](/artigos/divorcio).
+- **Gestante:** durante a gravidez, a futura mãe pode pedir ao futuro pai os [alimentos gravídicos](/artigos/alimentos-gravidicos), que cobrem parte das despesas da gestação e viram pensão do bebê depois do nascimento.
 - **Pais idosos:** a obrigação é recíproca entre pais e filhos (artigo 1.696), então o filho também pode ter que pagar pensão ao pai ou à mãe que precisa.
 
 ### Os avós podem pagar pensão?
