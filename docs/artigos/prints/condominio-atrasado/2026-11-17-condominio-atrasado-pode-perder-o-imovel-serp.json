@@ -1,0 +1,95 @@
+{
+  "busca": "condomínio atrasado pode perder o imóvel",
+  "pesquisadaEm": "2026-11-17",
+  "origem": "SerpApi: Google Brasil (google.com.br), celular, São Paulo, pt-BR, sem personalização",
+  "autocompletar": [
+    "condominio atrasado pode perder o imovel",
+    "condomínio atrasado perde o imóvel",
+    "condomínio atrasado perde o apartamento",
+    "condominio atrasado perde o imovel",
+    "condomínio atrasado o que pode acontecer"
+  ],
+  "asPessoasTambemPerguntam": [
+    "Estou com condomínio atrasado. O que fazer?",
+    "Em quais situações posso perder meu imóvel próprio?",
+    "O que um inadimplente não pode fazer?",
+    "Quanto tempo sem pagar condomínio vai a leilão?"
+  ],
+  "outrasPessoasPesquisaram": [],
+  "visaoDeIA": {
+    "texto": "Sim, uma dívida de condomínio pode fazer com que você perca o imóvel.\nComo isso acontece?\n  - Natureza da dívida (propter rem): A dívida está vinculada ao próprio imóvel, e não apenas ao dono atual. Se você vender a unidade, o débito continua lá e pode ser cobrado de quem assumir.\n  - Exceção do \"bem de família\": Embora a lei proteja o único imóvel onde a família mora contra a maioria das dívidas, a taxa de condomínio é uma exceção legal. Isso significa que mesmo sendo o seu único apartamento, ele pode ser penhorado.\n  - Ação Judicial e Leilão: O condomínio pode entrar com uma ação na Justiça por falta de pagamento. Se o valor não for quitado, o juiz pode determinar a penhora e o leilão do imóvel para usar o dinheiro na quitação da dívida.\n  - Multas e encargos: O atraso gera multa de até 2% (conforme o Código Civil), juros de mora e correção monetária, além do risco de protesto em cartório e inclusão do nome nos órgãos de proteção ao crédito (como SPC e Serasa).\nO que fazer?\nA melhor alternativa ao enfrentar dificuldades é procurar a administração ou o síndico para negociar e tentar fazer um parcelamento antes que o caso chegue à Justiça.\nVocê pode acompanhar mais detalhes sobre como esses processos funcionam em portais informativos como o Jusbrasil.\nVocê gostaria de saber mais sobre:\n  - Como funciona o parcelamento de débitos com o condomínio?\n  - Quais são os limites de juros e multas permitidos por lei?",
+    "fontes": [
+      "Advogado Condominial",
+      "Defensoria Pública de Minas Gerais",
+      "Facebook",
+      "Jusbrasil",
+      "Lokatell",
+      "PACTO Administradora de Condomínios",
+      "RIB-PR",
+      "UOL Economia",
+      "YouTube"
+    ]
+  },
+  "videos": [
+    {
+      "titulo": "Condomínio atrasado: o que acontece? Pode perder o imóvel? Multa, juros e prazo",
+      "canal": "InApps Framework"
+    },
+    {
+      "titulo": "DÍVIDA DE CONDOMÍNIO: O MORADOR PODE PERDER O IMÓVEL?",
+      "canal": "Condominiando"
+    },
+    {
+      "titulo": "Dívida de Condomínio: Risco de Perder Apartamento",
+      "canal": "condtv"
+    },
+    {
+      "titulo": "quais são as consequências? Deixar de pagar a taxa condominial em dia não afeta só o seu bolso — impacta todo o condomínio!  Quando há inadimplência, o prédio pode enfrenta",
+      "canal": "Leivania Valente Advogada"
+    }
+  ],
+  "organicos": [
+    {
+      "posicao": 1,
+      "titulo": "https://blog.townsq.com.br/inadimplencia-em-condom...",
+      "endereco": "https://blog.townsq.com.br/inadimplencia-em-condominio/",
+      "trecho": "Não há nenhuma informação disponível para esta página."
+    },
+    {
+      "posicao": 2,
+      "titulo": "Dívida de condomínio pode levar à perda do imóvel - Sob Controle",
+      "endereco": "https://www.sobcontrolecentrus.com.br/noticia/divida-de-condominio-pode-levar-a-perda-do-imovel",
+      "trecho": "Dívida de condomínio pode levar à perda do imóvel. A inadimplência em condomínios também pode ser um reflexo da falta de informação. A aprovação da lei 10.406 ..."
+    },
+    {
+      "posicao": 3,
+      "titulo": "Se o condomínio perder este prazo, a dívida do morador não poderá mais ser cobrada na justiça. A lei determina um limite de tempo para que o condomínio exija o pag",
+      "endereco": "https://www.facebook.com/100090748174632/videos/se-o-condom%C3%ADnio-perder-este-prazo-a-d%C3%ADvida-do-morador-n%C3%A3o-poder%C3%A1-mais-ser-cobrad/1108083468655113/",
+      "trecho": "A lei determina um limite de tempo para que o condomínio exija o pagamento das taxas em atraso. Deixar esse período passar sem uma ação efetiva ..."
+    },
+    {
+      "posicao": 4,
+      "titulo": "Bom Dia Brasil | Dívidas de condomínio podem levar a perda de imóvel",
+      "endereco": "https://globoplay.globo.com/v/4293089/",
+      "trecho": "Ações na Justiça para cobrar condomínios atrasados aumentaram quase 30% em São Paulo. O perigo é que o morador que acumula esse tipo de ..."
+    },
+    {
+      "posicao": 5,
+      "titulo": "Inadimplência Condominial: Uma Situação Problemática!",
+      "endereco": "https://www.jusbrasil.com.br/artigos/inadimplencia-condominial-uma-situacao-problematica/611168208",
+      "trecho": "Além de sofrer sanções pecuniárias, o condômino inadimplente não pode votar nas deliberações das assembleias de condomínio e a lei não faz exceções. Porém, o ..."
+    },
+    {
+      "posicao": 6,
+      "titulo": "Perda do imóvel e dívidas condominiais",
+      "endereco": "https://www.consiliuscondominios.com.br/perda-do-imovel-e-dividas-condominiais/",
+      "trecho": "Sim. A dívida deve ser negociada na justiça para ser quitada caso passe do prazo estipulado do condomínio e, uma das opções para a quitação é ..."
+    },
+    {
+      "posicao": 7,
+      "titulo": "Dívida de condomínio: o que fazer para não perder o imóvel - Solve",
+      "endereco": "https://solvefin.com.br/2024/07/03/divida-de-condominio-o-que-fazer-para-nao-perder-o-imovel/",
+      "trecho": "Na verdade, muitas pessoas não sabem que é possível perder o imóvel em decorrência da dívida de condomínio. Portanto, antes de mergulhar nas ..."
+    }
+  ]
+}

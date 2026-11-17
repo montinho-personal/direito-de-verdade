@@ -1,0 +1,91 @@
+{
+  "busca": "prazo para cobrar condomínio atrasado",
+  "pesquisadaEm": "2026-11-17",
+  "origem": "SerpApi: Google Brasil (google.com.br), celular, São Paulo, pt-BR, sem personalização",
+  "autocompletar": [
+    "prazo para cobrar condominio atrasado",
+    "prazo para cobrar condomínio",
+    "prazo para cobrança de condomínio atrasado",
+    "prazo para cobrar condominio",
+    "prazo para cobrar divida de condominio"
+  ],
+  "asPessoasTambemPerguntam": [
+    "Qual é o prazo de prescrição para as cotas de condomínio?",
+    "Qual é a orientação do Tema 886 do STJ?",
+    "Estou com condomínio atrasado. O que fazer?",
+    "Qual o prazo para exigir a prestação de contas de síndicos anteriores?"
+  ],
+  "outrasPessoasPesquisaram": [],
+  "visaoDeIA": {
+    "texto": "O prazo de prescrição para o condomínio cobrar uma dívida de taxa condominial (ordinária ou extraordinária) é de 5 anos, contados a partir do dia seguinte ao vencimento de cada parcela em aberto, conforme definido pelo Superior Tribunal de Justiça (STJ) e pelo Código Civil (art. 206, § 5º, I).\nQuando a cobrança pode começar?\n  - Cobrança amigável ou extrajudicial: Pode ser feita logo após o primeiro dia de atraso (geralmente com envio de avisos por e-mail, SMS, WhatsApp ou carta).\n  - Cobrança judicial: O condomínio não precisa esperar um tempo mínimo legal para acionar a Justiça; a ação de cobrança ou execução pode ser protocolada logo após o vencimento da primeira cota não paga, embora a prática comum seja aguardar entre 1 a 3 meses de inadimplência.\nO que acontece após os 5 anos?\n  - Passados os 5 anos do vencimento de cada parcela, ocorre a prescrição. Isso significa que o condomínio perde o direito de cobrar a dívida judicialmente ou protestá-la.\n  - No entanto, a dívida em si não deixa de existir e o condomínio ainda pode impor restrições internas (como impedir o inadimplente de votar em assembleias).\nPara mais detalhes sobre regras e procedimentos, consulte o Portal Jusbrasil ou a análise jurídica do Migalhas.\nSe você quiser entender melhor a sua situação, me diga:\n  - Quantas parcelas estão em atraso?\n  - Você já recebeu alguma notificação ou processo judicial?",
+    "fontes": [
+      "Arbitralis",
+      "Fesan - Administradora de Condomínios",
+      "Group Software",
+      "Instagram",
+      "Jusbrasil",
+      "Migalhas",
+      "QuintoAndar",
+      "VLV Advogados",
+      "YouTube",
+      "uCondo"
+    ]
+  },
+  "videos": [],
+  "organicos": [
+    {
+      "posicao": 1,
+      "titulo": "Supremo confirma regra que pode livrar moradores de pagar dívidas antigas de condomínio após 5 anos",
+      "endereco": "https://www.em.com.br/emfoco/2026/05/21/supremo-confirma-regra-que-pode-livrar-moradores-de-pagar-dividas-antigas-de-condominio-apos-5-anos/",
+      "trecho": "No caso das cotas condominiais, o prazo consolidado é de cinco anos. Isso impede que comunidades de proprietários realizem cobranças judiciais ..."
+    },
+    {
+      "posicao": 2,
+      "titulo": "Dívida De Condomínio Prescreve Em 5 Anos",
+      "endereco": "https://www.instagram.com/popular/d%C3%ADvida-de-condom%C3%ADnio-prescreve-em-5-anos/",
+      "trecho": "Dívida De Condomínio Prescreve Em 5 Anos · Inadimplência no condomínio: o que a lei diz sobre a exposição do Devedor? · 1️⃣ Bloquear áreas comuns. O clássico ..."
+    },
+    {
+      "posicao": 3,
+      "titulo": "Cobrança judicial da taxa de condomínio e a prescrição",
+      "endereco": "https://www.otempo.com.br/mobile/opiniao/kenio-de-souza-pereira/cobranca-judicial-da-taxa-de-condominio-e-a-prescricao-1.925476",
+      "trecho": "A inadimplência das taxas de condomínio é um assunto delicado e ... O prazo máximo de 20 anos passou a ser de 10 anos. Porém, há ..."
+    },
+    {
+      "posicao": 4,
+      "titulo": "Condomínio atrasado: cobrança, juros e penhora - Cassemiliano Advogado",
+      "endereco": "https://cassemilianoadv.com.br/artigos/direito-imobiliario/taxa-condominio-atrasada-cobranca-penhora/",
+      "trecho": "A cota condominial atrasada pode receber correção monetária, juros previstos na convenção e multa de até 2%. Se a convenção não fixar os ..."
+    },
+    {
+      "posicao": 5,
+      "titulo": "Você sabia que o condomínio não tem prazo ilimitado para cobrar judicialmente as taxas em atraso? ⏳ Em regra, o prazo de prescrição para a cobrança de cotas condominiais é de 5 anos, contados a",
+      "endereco": "https://www.facebook.com/61578468535522/posts/voc%C3%AA-sabia-que-o-condom%C3%ADnio-n%C3%A3o-tem-prazo-ilimitado-para-cobrar-judicialmente-as/122134428848948951/",
+      "trecho": "Você sabia que o condomínio não tem prazo ilimitado para cobrar judicialmente as taxas em atraso? ⏳ Em regra, o prazo de prescrição para a ..."
+    },
+    {
+      "posicao": 6,
+      "titulo": "Qual o prazo máximo para pagamento de taxas de condomínio vencidas antes de cobrança judicial? - Conviver",
+      "endereco": "https://conviver.sindiconet.com.br/pergunta/qual-prazo-maximo-pagamento-taxas-condominio-vencidas-antes-cobranca-judicial-41846",
+      "trecho": "João, A lei não define prazo algum, certo? Entendo ser legitimo enviar a cobrança após o vencimento, mesmo porque, retardar a cobrança ..."
+    },
+    {
+      "posicao": 7,
+      "titulo": "Com quantos meses de atraso o morador é considerado inadimplente? -",
+      "endereco": "https://sersindico.com.br/ufaq/com-quantos-meses-de-atraso-o-morador-e-considerado-inadimplente/",
+      "trecho": "Um morador (condômino) é considerado inadimplente a partir do primeiro dia útil após o vencimento da taxa condominial, pois a obrigação não foi paga no ..."
+    },
+    {
+      "posicao": 8,
+      "titulo": "PRESCRIÇÃO TAXA CONDOMINIAL - Conviver - SíndicoNet",
+      "endereco": "https://conviver.sindiconet.com.br/pergunta/prescricao-taxa-condominial-45824",
+      "trecho": "Gostaria de saber qual o periodo de prescrição da taxa condominial ? 5 anos? 10 anos? temos um morador que possui contrato de gaveta e solicita agora ..."
+    },
+    {
+      "posicao": 9,
+      "titulo": "O condomínio demorou para cobrar? O prejuízo pode ser dele. 🏢⚖️ No segundo episódio da série Direito Imobiliário na Prática, explico um conceito fundamental: a Prescrição de",
+      "endereco": "https://www.facebook.com/donilobahiaadvogados/videos/o-condom%C3%ADnio-demorou-para-cobrar-o-preju%C3%ADzo-pode-ser-dele-%EF%B8%8Fno-segundo-epis%C3%B3dio-d/2147551565972919/",
+      "trecho": "Muitos síndicos e administradoras acreditam que podem cobrar taxas de dez, quinze anos atrás, mas o STJ já bateu o martelo: o prazo é de 05 anos ..."
+    }
+  ]
+}
