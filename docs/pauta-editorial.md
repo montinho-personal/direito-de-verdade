@@ -234,6 +234,21 @@ Pedido do Renato em 09/11/2026: "Pode criar próximos 3 artigos de seo local". S
 | 2 | Advogado gratuito em Barueri | `advogado gratuito barueri`; `defensoria pública barueri`; `oab barueri atendimento gratuito`; `justiça gratuita` | **publicado em 09/11/2026; revisado com prints em 10/11/2026** — [doc](artigos/advogado-gratuito-em-barueri.md), `/artigos/advogado-gratuito-em-barueri` |
 | 3 | Juizado Especial Federal de Barueri | `juizado especial federal barueri`; `justiça federal barueri`; `jef barueri telefone` | **publicado em 09/11/2026; revisado com prints em 10/11/2026** — [doc](artigos/juizado-especial-federal-de-barueri.md), `/artigos/juizado-especial-federal-de-barueri` |
 
+## Candidatos vindos das buscas que ficaram de fora (17/11/2026, rotina diária)
+
+Da revisão de pensão alimentícia. Só pauta.
+
+**Valem um artigo (na ordem):**
+
+| ordem | artigo | de onde veio | buscas | status |
+|---|---|---|---|---|
+| 1 | Pensão para ex-esposa ou ex-marido: quem tem direito e até quando | autocompletar "pensão alimentícia para esposa com mais de 40/50/60 anos", "para mulher até quantos anos" (4 variações) | `pensão alimentícia para ex esposa`; `pensão para ex mulher até quando`; `alimentos transitórios` | a fazer, **só com fonte do STJ** sobre prazo e exceções (base: CC arts. 1.694, 1.699, 1.708) |
+| 2 | Alimentos gravídicos: pensão durante a gravidez | visão de IA de `pensão alimentícia` (gestantes) | `alimentos gravídicos`; `pensão na gravidez`; `pensão para grávida como pedir` | a fazer; fonte: Lei 11.804/2008 (não abriu em 23/10; tentar de novo) |
+
+**Não recomendo:** "consultar pensão alimentícia pelo CPF" (não há consulta pública oficial; processos de família correm em segredo de justiça); "pensão alimentícia vitalícia" (termo sem definição legal; o que existe cabe no artigo do ex-cônjuge); faixa "15% a 30% para 1 filho" como artigo (sem fonte oficial); "pensão conta como renda no Bolsa Família" (regra do MDS, fora do tema jurídico do site, sem fonte lida).
+
+**Cabe em página existente:** Pix Pensão (agora H2 da pensão alimentícia; não vale página separada, canibalizaria); "pensão por morte" que aparece misturada na busca `quanto é a pensão alimentícia` → já existe `/artigos/pensao-por-morte-inss`.
+
 ## Candidatos vindos das buscas que ficaram de fora (16/11/2026, 2ª rodada)
 
 Do que ficou de fora nas pesquisas da calculadora de aluguel atrasado e dos artigos de
@@ -348,7 +363,7 @@ Lembrar o Renato desta lista a cada entrega.
 | Cobrança indevida (`/artigos/cobranca-indevida`), publicado em 22/10/2026 | `cobrança indevida`; `devolução em dobro cobrança indevida`; `cobrança indevida no cartão de crédito` | **revisado em 16/11/2026 com a pesquisa do SerpApi** |
 | Auxílio-doença 2026 (`/artigos/auxilio-doenca`), publicado em 22/10/2026 | `auxílio doença`; `auxílio doença valor 2026`; `perícia do inss` | **revisado em 16/11/2026 com a pesquisa do SerpApi** |
 | Rescisão indireta (`/artigos/rescisao-indireta`), publicado em 22/10/2026 | `rescisão indireta`; `rescisão indireta o que recebe`; `salário atrasado o que fazer` | **prints recebidos e artigo revisado em 22/10/2026** |
-| Pensão alimentícia (`/artigos/pensao-alimenticia`), publicado em 23/10/2026 | `pensão alimentícia`; `quanto é a pensão alimentícia`; `pensão alimentícia desempregado` | **aguardando prints** |
+| Pensão alimentícia (`/artigos/pensao-alimenticia`), publicado em 23/10/2026 | `pensão alimentícia`; `quanto é a pensão alimentícia`; `pensão alimentícia desempregado` | **revisado com o SerpApi em 17/11/2026** (rotina diária) |
 | BPC/LOAS 2026 (`/artigos/bpc-loas`), publicado em 23/10/2026 | `bpc loas`; `bpc loas quem tem direito`; `bpc renda per capita` | **aguardando prints** |
 | Multa de contrato de aluguel (`/artigos/multa-contrato-de-aluguel`), publicado em 23/10/2026 | `multa rescisão contrato aluguel`; `multa por quebra de contrato de aluguel como calcular`; `sair do aluguel antes do prazo` | **aguardando prints** |
 | Plano de saúde negou cobertura (`/artigos/plano-de-saude-negou-cobertura`), publicado em 23/10/2026 | `plano de saúde negou cobertura o que fazer`; `reclamar na ans`; `rol da ans` | **aguardando prints** |

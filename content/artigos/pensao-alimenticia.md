@@ -1,10 +1,10 @@
 ---
-titulo: "Pensão alimentícia: quanto se paga, como é calculada e como pedir"
-tituloSeo: "Pensão alimentícia: quanto se paga e como é calculada"
-descricao: "Pensão alimentícia: a lei não fixa 30%. O valor segue a necessidade de quem recebe e a renda de quem paga. Veja exemplos, desemprego, como pedir e cobrar."
+titulo: "Pensão alimentícia: quanto se paga, até que idade e como pedir"
+tituloSeo: "Pensão alimentícia 2026: quanto é e até que idade"
+descricao: "Pensão alimentícia: a lei não fixa 30%. Veja a conta para quem ganha R$ 3.000 ou um mínimo em 2026, até que idade se paga, o Pix Pensão e como pedir."
 categoria: familia
 publicadoEm: 2026-10-23
-atualizadoEm: 2026-10-24
+atualizadoEm: 2026-11-17
 faq:
   - pergunta: "A mãe ou o pai pode abrir mão da pensão do filho?"
     resposta: "Não. O Código Civil proíbe renunciar ao direito a alimentos (artigo 1.707). Quem recebe pode deixar de cobrar por um tempo, mas não pode abrir mão do direito, e um acordo que diga isso não vale para impedir o filho de pedir a pensão depois."
@@ -14,8 +14,8 @@ faq:
     resposta: "A pensão do **ex-cônjuge ou ex-companheiro** acaba se ele se casar, passar a viver em união estável ou em concubinato (Código Civil, artigo 1.708). A pensão dos **filhos** não muda pelo novo casamento do pai ou da mãe que recebe por eles."
   - pergunta: "Pensão alimentícia desconta no imposto de renda?"
     resposta: "Para quem paga, a pensão fixada por decisão judicial ou escritura é **dedutível** no imposto de renda. Para quem recebe, a pensão **não paga imposto** desde a decisão do STF na ADI 5.422, segundo a Receita Federal. Veja os detalhes em [pensão alimentícia no 13º e no IR](/artigos/pensao-alimenticia-13-salario#pensao-alimenticia-no-13o-e-imposto-de-renda-irpf)."
-  - pergunta: "O que é o Pix Pensão?"
-    resposta: "É a transferência automática da pensão por ordem judicial, criada pela Lei nº 15.479/2026. Ela só entra em vigor em **julho de 2027** e depende de um sistema do Banco Central; até lá, a pensão continua sendo paga como a decisão ou o acordo define."
+  - pergunta: "Quanto tempo a pensão alimentícia pode atrasar?"
+    resposta: "Nenhum. A lei não dá prazo de tolerância: a parcela que passa da data já pode ser cobrada na Justiça. As 3 últimas parcelas atrasadas e as que vencerem durante o processo podem ser cobradas com risco de prisão (Súmula 309 do STJ); as mais antigas, com penhora de bens."
 fontes:
   - nome: "Código Civil, Lei nº 10.406/2002, artigos 197, 206 e 1.694 a 1.708 (Câmara dos Deputados)"
     url: "https://www2.camara.leg.br/legin/fed/lei/2002/lei-10406-10-janeiro-2002-432893-normaatualizada-pl.html"
@@ -39,13 +39,19 @@ fontes:
     url: "https://processo.stj.jus.br/repetitivos/temas_repetitivos/pesquisa.jsp?novaConsulta=true&tipo_pesquisa=T&cod_tema_inicial=192&cod_tema_final=192"
   - nome: "Receita Federal: o que mudou para quem recebe pensão alimentícia"
     url: "https://www.gov.br/receitafederal/pt-br/acesso-a-informacao/perguntas-frequentes/imposto-de-renda/dirpf/pensao-alimenticia/o-que-mudou-para-quem"
+  - nome: "Agência Senado: sancionado o Pix Pensão, Lei nº 15.479/2026 (30/07/2026)"
+    url: "https://www12.senado.leg.br/noticias/materias/2026/07/30/sancionado-o-pix-pensao-que-automatiza-pagamento-da-pensao-alimenticia"
   - nome: "Câmara dos Deputados: nova lei cria o Pix Pensão"
     url: "https://www.camara.leg.br/noticias/1294367-nova-lei-cria-o-pix-pensao-para-transferencia-automatica-de-pensao-alimenticia"
+  - nome: "INSS: tabela de contribuição mensal de 2026"
+    url: "https://www.gov.br/inss/pt-br/direitos-e-deveres/inscricao-e-contribuicao/tabela-de-contribuicao-mensal"
+  - nome: "Receita Federal: tabelas do imposto de renda de 2026 e exemplos da Lei nº 15.270/2025"
+    url: "https://www.gov.br/receitafederal/pt-br/assuntos/meu-imposto-de-renda/tabelas/exemplos-de-aplicacao-da-lei-15-270-2025"
   - nome: "Decreto nº 12.797/2025: salário mínimo de 2026 (Planalto)"
     url: "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2025/decreto/D12797.htm"
 ---
 
-**Não existe um valor nem um percentual fixo de pensão alimentícia na lei.** Os famosos 30% são um mito: o Código Civil manda fixar a pensão "na proporção das necessidades" de quem recebe e "dos recursos" de quem paga. Quem decide o valor é o juiz, ou os pais em acordo, olhando os gastos do filho e a renda de quem vai pagar; e a pensão continua devida mesmo se essa pessoa ficar desempregada.
+**Não existe um valor nem um percentual fixo de pensão alimentícia na lei.** Os famosos 30% são um mito: o Código Civil manda fixar a pensão "na proporção das necessidades" de quem recebe e "dos recursos" de quem paga. Quem decide o valor é o juiz, ou os pais em acordo, olhando os gastos do filho e a renda de quem vai pagar; e a pensão continua devida mesmo se essa pessoa ficar desempregada. Como exemplo de conta: com 20% dos rendimentos líquidos, quem ganha R$ 3.000 de salário em 2026 paga **R$ 550,28** por mês. E a pensão do filho não acaba sozinha aos 18 anos: é preciso decisão do juiz.
 
 ## Quanto é a pensão alimentícia? Os 30% existem?
 
@@ -68,19 +74,28 @@ A decisão ou o acordo escolhe a forma de calcular. As mais comuns:
 
 A forma muda o que entra na conta. A pensão em percentual dos rendimentos **incide sobre o 13º e o terço de férias**, salvo se a decisão excluir; em valor fixo ou em salários mínimos, em regra não ([STJ, Tema 192](https://processo.stj.jus.br/repetitivos/temas_repetitivos/pesquisa.jsp?novaConsulta=true&tipo_pesquisa=T&cod_tema_inicial=192&cod_tema_final=192)). Os detalhes estão em [como a pensão incide sobre o 13º](/artigos/pensao-alimenticia-13-salario).
 
-### Exemplo de cálculo da pensão
+### A pensão é descontada do salário bruto ou líquido?
 
-Quando a decisão fala em percentual dos **rendimentos líquidos** e não detalha mais nada, o STJ entende que os descontos obrigatórios, **INSS e imposto de renda**, ficam fora da base ([Informativo 533](https://processo.stj.jus.br/jurisprudencia/externo/informativo/?acao=pesquisar&livre=pens%E3o+adj+aliment%EDcia+e+indenizat%F3ria+e+habitual&operador=e&b=INFJ&thesaurus=JURIDICO)).
+Depende do que diz a decisão ou o acordo. Quando ela fala em percentual dos **rendimentos líquidos** e não detalha mais nada, o STJ entende que os descontos obrigatórios, **INSS e imposto de renda**, ficam fora da base ([Informativo 533](https://processo.stj.jus.br/jurisprudencia/externo/informativo/?acao=pesquisar&livre=pens%E3o+adj+aliment%EDcia+e+indenizat%F3ria+e+habitual&operador=e&b=INFJ&thesaurus=JURIDICO)).
 
-Exemplos com valores de 2026 (salário mínimo de R$ 1.621):
+Se a decisão fala em rendimentos **brutos**, o percentual vale sobre o salário antes desses descontos. Por isso, leia a decisão ou o acordo: é ele que define a base.
+
+### Quem ganha R$ 3.000 paga quanto de pensão?
+
+Depende do percentual que o juiz ou o acordo fixar. Em 2026, um salário bruto de R$ 3.000 com carteira assinada tem **R$ 248,60 de INSS** e **não paga imposto de renda** na fonte, porque a redução da Lei nº 15.270/2025 zera o imposto até R$ 5.000 ([tabela do INSS](https://www.gov.br/inss/pt-br/direitos-e-deveres/inscricao-e-contribuicao/tabela-de-contribuicao-mensal) e [Receita Federal](https://www.gov.br/receitafederal/pt-br/assuntos/meu-imposto-de-renda/tabelas/exemplos-de-aplicacao-da-lei-15-270-2025)). O líquido fica em **R$ 2.751,40**. Exemplos com valores de 2026 (salário mínimo de R$ 1.621):
 
 | Como a pensão foi fixada | Conta | Pensão do mês |
 | --- | --- | --- |
-| 20% dos rendimentos líquidos, com líquido de R$ 2.700 | R$ 2.700 × 20% | R$ 540,00 |
-| 30% dos rendimentos líquidos, com líquido de R$ 2.700 | R$ 2.700 × 30% | R$ 810,00 |
+| 20% dos rendimentos líquidos, com salário de R$ 3.000 | R$ 2.751,40 × 20% | R$ 550,28 |
+| 30% dos rendimentos líquidos, com salário de R$ 3.000 | R$ 2.751,40 × 30% | R$ 825,42 |
+| 30% dos rendimentos líquidos, com salário de **um mínimo** (líquido de R$ 1.499,42) | R$ 1.499,42 × 30% | R$ 449,83 |
 | 54% do salário mínimo | R$ 1.621 × 54% | R$ 875,34 |
 
-Os percentuais são só exemplos de conta, não o valor que um juiz daria no seu caso. O de 54% do mínimo é o da decisão do STJ citada abaixo. Para saber o líquido de um salário, use a [calculadora de salário líquido e imposto de renda](/calculadoras/imposto-de-renda) e aplique o percentual sobre o valor que ela mostrar.
+Os percentuais são só exemplos de conta, não o valor que um juiz daria no seu caso. O de 54% do mínimo é o da decisão do STJ citada abaixo. Para saber o líquido de outro salário, use a [calculadora de salário líquido e imposto de renda](/calculadoras/imposto-de-renda) e aplique o percentual sobre o valor que ela mostrar.
+
+### Pensão para 1 filho ou 2 filhos: quanto é?
+
+A lei não tem tabela por número de filhos. Cada filho tem as suas necessidades, e o total que quem paga consegue pagar continua limitado pela renda dele (artigo 1.695). Com 2 filhos, o juiz pode fixar um percentual para os dois juntos ou um para cada; o que vale é a conta de necessidade e possibilidade do caso.
 
 ## Quanto paga de pensão quem está desempregado ou trabalha sem carteira?
 
@@ -104,11 +119,21 @@ Podem, mas só em segundo lugar. Para o STJ, a obrigação dos avós "tem nature
 
 Se quem paga a pensão morre, a obrigação passa aos herdeiros, na forma da lei (artigo 1.700).
 
-## Até que idade se paga pensão alimentícia?
+## Até que idade se paga pensão alimentícia? 18, 21 ou 24 anos?
 
 **A pensão não acaba sozinha aos 18 anos.** Para parar de pagar ao filho que ficou maior de idade, é preciso uma **decisão judicial**, em que o filho tem a chance de se manifestar ([Súmula 358 do STJ](https://scon.stj.jus.br/SCON/sumstj/toc.jsp?livre=%27358%27.num.)). Quem simplesmente para de pagar no aniversário de 18 anos continua devendo.
 
-A lei não fixa uma idade limite. Depois dos 18, o filho pode continuar recebendo se mostrar que ainda precisa, por exemplo porque está estudando e não consegue se sustentar; o juiz decide caso a caso, pelas mesmas regras de necessidade e possibilidade.
+A lei não fixa uma idade limite: os 21 ou 24 anos que muita gente cita não estão no Código Civil. Depois dos 18, o filho pode continuar recebendo se mostrar que ainda precisa, por exemplo porque está estudando e não consegue se sustentar; o juiz decide caso a caso, pelas mesmas regras de necessidade e possibilidade. Vale o mesmo para filho e filha: a lei não faz diferença entre eles.
+
+A pensão do **ex-cônjuge ou ex-companheiro** também não tem idade nem prazo na lei: ela acaba se quem recebe se casar ou passar a viver em união estável (artigo 1.708), e pode ser revista ou encerrada pelo juiz se a situação mudar (artigo 1.699).
+
+## Qual a nova lei da pensão alimentícia? (Pix Pensão)
+
+É a **Lei nº 15.479/2026**, publicada em 30 de julho de 2026, chamada de **Pix Pensão**. Ela cria a transferência automática da pensão: o banco de quem paga repassa todo mês o valor ao banco de quem recebe, nas datas fixadas pela Justiça ([Agência Senado](https://www12.senado.leg.br/noticias/materias/2026/07/30/sancionado-o-pix-pensao-que-automatiza-pagamento-da-pensao-alimenticia)).
+
+- **Quando começa:** a lei entra em vigor um ano depois da publicação, em **julho de 2027**. Até lá, a pensão continua sendo paga como a decisão ou o acordo define.
+- **Como pedir:** pela Justiça, em qualquer fase do cumprimento da sentença. A decisão traz o valor, o prazo, as contas de débito e de crédito e a forma de atualização.
+- **Se faltar saldo:** o banco avisa, e o dinheiro de quem deve pode ser bloqueado até o valor da dívida e depois penhorado.
 
 ## Como pedir pensão alimentícia?
 
