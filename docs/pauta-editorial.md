@@ -236,7 +236,7 @@ Pedido do Renato em 09/11/2026: "Pode criar próximos 3 artigos de seo local". S
 
 ## Candidatos vindos das buscas que ficaram de fora (17/11/2026, rotina diária)
 
-Da revisão de pensão alimentícia. Só pauta.
+Das revisões de pensão alimentícia e de BPC/LOAS. Só pauta.
 
 **Valem um artigo (na ordem):**
 
@@ -244,8 +244,10 @@ Da revisão de pensão alimentícia. Só pauta.
 |---|---|---|---|---|
 | 1 | Pensão para ex-esposa ou ex-marido: quem tem direito e até quando | autocompletar "pensão alimentícia para esposa com mais de 40/50/60 anos", "para mulher até quantos anos" (4 variações) | `pensão alimentícia para ex esposa`; `pensão para ex mulher até quando`; `alimentos transitórios` | a fazer, **só com fonte do STJ** sobre prazo e exceções (base: CC arts. 1.694, 1.699, 1.708) |
 | 2 | Alimentos gravídicos: pensão durante a gravidez | visão de IA de `pensão alimentícia` (gestantes) | `alimentos gravídicos`; `pensão na gravidez`; `pensão para grávida como pedir` | a fazer; fonte: Lei 11.804/2008 (não abriu em 23/10; tentar de novo) |
+| 3 | BPC/LOAS pode fazer empréstimo consignado? | autocompletar de `bpc loas` (5 variações: "pode fazer empréstimo", "de 20 mil", "de 30 mil", "2026", "consignado") | `bpc loas pode fazer empréstimo`; `empréstimo consignado bpc`; `margem consignável bpc` | a fazer, **só com a Lei 10.820/2003 e a página do INSS lidas**; ligar com o Crédito por Perto, que cobre consignado |
+| 4 | Calendário do BPC/LOAS 2026: dia do pagamento | PAA "Como saber o dia do pagamento do meu benefício BPC?"; "bpc loas calendário" | `calendário bpc 2026`; `dia do pagamento bpc`; `bpc loas calendário` | a fazer, com o calendário oficial do INSS; página com data, entra na revisão anual |
 
-**Não recomendo:** "consultar pensão alimentícia pelo CPF" (não há consulta pública oficial; processos de família correm em segredo de justiça); "pensão alimentícia vitalícia" (termo sem definição legal; o que existe cabe no artigo do ex-cônjuge); faixa "15% a 30% para 1 filho" como artigo (sem fonte oficial); "pensão conta como renda no Bolsa Família" (regra do MDS, fora do tema jurídico do site, sem fonte lida).
+**Não recomendo:** "consultar pensão alimentícia pelo CPF" (não há consulta pública oficial; processos de família correm em segredo de justiça); "pensão alimentícia vitalícia" (termo sem definição legal; o que existe cabe no artigo do ex-cônjuge); faixa "15% a 30% para 1 filho" como artigo (sem fonte oficial); "pensão conta como renda no Bolsa Família" (regra do MDS, fora do tema jurídico do site, sem fonte lida); "BPC foi criado em qual governo" (resposta política, fora do tema; a data da lei já está na FAQ); artigos por doença ("BPC para TDAH", "fibromialgia", "diabetes"): a lei não tem lista, e páginas por doença repetiriam a mesma regra.
 
 **Cabe em página existente:** Pix Pensão (agora H2 da pensão alimentícia; não vale página separada, canibalizaria); "pensão por morte" que aparece misturada na busca `quanto é a pensão alimentícia` → já existe `/artigos/pensao-por-morte-inss`.
 
@@ -364,7 +366,7 @@ Lembrar o Renato desta lista a cada entrega.
 | Auxílio-doença 2026 (`/artigos/auxilio-doenca`), publicado em 22/10/2026 | `auxílio doença`; `auxílio doença valor 2026`; `perícia do inss` | **revisado em 16/11/2026 com a pesquisa do SerpApi** |
 | Rescisão indireta (`/artigos/rescisao-indireta`), publicado em 22/10/2026 | `rescisão indireta`; `rescisão indireta o que recebe`; `salário atrasado o que fazer` | **prints recebidos e artigo revisado em 22/10/2026** |
 | Pensão alimentícia (`/artigos/pensao-alimenticia`), publicado em 23/10/2026 | `pensão alimentícia`; `quanto é a pensão alimentícia`; `pensão alimentícia desempregado` | **revisado com o SerpApi em 17/11/2026** (rotina diária) |
-| BPC/LOAS 2026 (`/artigos/bpc-loas`), publicado em 23/10/2026 | `bpc loas`; `bpc loas quem tem direito`; `bpc renda per capita` | **aguardando prints** |
+| BPC/LOAS 2026 (`/artigos/bpc-loas`), publicado em 23/10/2026 | `bpc loas`; `bpc loas quem tem direito`; `bpc renda per capita` | **revisado com o SerpApi em 17/11/2026** (rotina diária) |
 | Multa de contrato de aluguel (`/artigos/multa-contrato-de-aluguel`), publicado em 23/10/2026 | `multa rescisão contrato aluguel`; `multa por quebra de contrato de aluguel como calcular`; `sair do aluguel antes do prazo` | **aguardando prints** |
 | Plano de saúde negou cobertura (`/artigos/plano-de-saude-negou-cobertura`), publicado em 23/10/2026 | `plano de saúde negou cobertura o que fazer`; `reclamar na ans`; `rol da ans` | **aguardando prints** |
 | Loja pode cobrar mais caro no cartão (`/artigos/loja-pode-cobrar-mais-caro-no-cartao`), publicado em 23/10/2026 | `loja pode cobrar mais caro no cartão`; `preço diferente no pix e no cartão`; `valor mínimo no cartão` | **prints e AnswerThePublic recebidos e artigo corrigido em 27/10/2026** (falta `valor mínimo no cartão`) |

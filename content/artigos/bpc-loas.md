@@ -1,10 +1,10 @@
 ---
-titulo: "BPC/LOAS 2026: quem tem direito, valor, renda e como pedir"
-tituloSeo: "BPC/LOAS 2026: quem tem direito, renda e como pedir"
-descricao: "BPC/LOAS 2026: um salário mínimo (R$ 1.621) para idoso de 65 anos ou pessoa com deficiência com renda de até R$ 405,25 por pessoa. Veja a conta e como pedir."
+titulo: "BPC/LOAS 2026: quem tem direito, quais doenças, valor, renda e como pedir"
+tituloSeo: "BPC/LOAS 2026: quem tem direito, doenças e valor"
+descricao: "BPC/LOAS 2026: R$ 1.621 para idoso de 65 anos ou pessoa com deficiência (inclusive autismo) com renda de até R$ 405,25 por pessoa. Veja a conta e como pedir."
 categoria: previdencia
 publicadoEm: 2026-10-23
-atualizadoEm: 2026-10-29
+atualizadoEm: 2026-11-17
 faq:
   - pergunta: "BPC é aposentadoria?"
     resposta: "Não. O BPC é um benefício da **assistência social**: não exige contribuição ao INSS, mas também **não paga 13º** e **não deixa pensão por morte** para a família. O INSS só cuida do pedido e do pagamento. Para quem contribuiu, veja [as regras de aposentadoria de 2026](/artigos/aposentadoria-2026-regras)."
@@ -14,6 +14,8 @@ faq:
     resposta: "Podem, se as duas cumprirem os requisitos (artigo 20, § 15). E o BPC de um idoso ou de uma pessoa com deficiência **não entra na conta da renda** quando outro idoso ou pessoa com deficiência da mesma família pede o benefício (§ 14)."
   - pergunta: "Quem mora em asilo ou casa de acolhimento tem direito ao BPC?"
     resposta: "Tem. Morar em instituição de longa permanência não tira o direito do idoso ou da pessoa com deficiência ao BPC (artigo 20, § 5º); continuam valendo os outros requisitos."
+  - pergunta: "Quem criou o BPC/LOAS?"
+    resposta: "O BPC foi regulamentado pela LOAS, a Lei Orgânica da Assistência Social, **Lei nº 8.742, de 7 de dezembro de 1993**. Desde então, a lei foi alterada várias vezes, inclusive em 2024 e 2025, com regras de biometria e de cálculo da renda."
   - pergunta: "Precisa pagar alguém para pedir o BPC?"
     resposta: "Não. O pedido é **gratuito** e feito pelo Meu INSS ou pelo telefone 135. Desconfie de quem cobra para \"liberar\" o benefício; para recurso ou ação na Justiça, a Defensoria Pública da União orienta de graça quem não pode pagar advogado."
 fontes:
@@ -23,6 +25,8 @@ fontes:
     url: "https://www.gov.br/pt-br/servicos/solicitar-beneficio-assistencial-ao-idoso"
   - nome: "gov.br: solicitar benefício assistencial à pessoa com deficiência (BPC/LOAS), atualizada em 12/08/2026"
     url: "https://www.gov.br/pt-br/servicos/solicitar-beneficio-assistencial-a-pessoa-com-deficiencia"
+  - nome: "Lei nº 12.764/2012 (pessoa com transtorno do espectro autista), artigo 1º, § 2º, texto atualizado (Câmara dos Deputados)"
+    url: "https://www2.camara.leg.br/legin/fed/lei/2012/lei-12764-27-dezembro-2012-774838-normaatualizada-pl.html"
   - nome: "Decreto nº 12.797/2025: salário mínimo de 2026 (Planalto)"
     url: "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2025/decreto/D12797.htm"
 ---
@@ -49,11 +53,20 @@ Não basta o laudo: a deficiência é comprovada por uma **avaliação médica**
 
 Criança com deficiência também tem direito: a lei não fixa idade mínima, e vale a renda da família.
 
-## Qual o valor do BPC em 2026?
+### Quais doenças dão direito ao BPC? Autismo, TDAH, fibromialgia
 
-É **um salário mínimo**: **R$ 1.621 por mês** em 2026 ([Decreto 12.797/2025](https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2025/decreto/D12797.htm)). O valor sobe todo ano junto com o mínimo.
+**A lei não tem lista de doenças.** O que dá direito é o **impedimento de longo prazo**, de pelo menos 2 anos, que limita a participação na sociedade, comprovado na avaliação médica e social do INSS (artigo 20, §§ 2º e 6º). Por isso, o mesmo diagnóstico pode dar direito a uma pessoa e não a outra: conta o quanto a condição limita a vida de quem pede.
 
-O BPC **não paga 13º salário** e **não deixa pensão por morte** para a família, segundo o [gov.br](https://www.gov.br/pt-br/servicos/solicitar-beneficio-assistencial-a-pessoa-com-deficiencia). É uma diferença importante em relação à aposentadoria e ao [auxílio-doença](/artigos/auxilio-doenca), que são benefícios de quem contribuiu.
+- **Autismo:** a pessoa com transtorno do espectro autista é considerada **pessoa com deficiência para todos os efeitos legais** ([Lei 12.764/2012, artigo 1º, § 2º](https://www2.camara.leg.br/legin/fed/lei/2012/lei-12764-27-dezembro-2012-774838-normaatualizada-pl.html)). Para o BPC, continuam valendo a renda da família, o Cadastro Único e a avaliação do INSS.
+- **TDAH, fibromialgia, diabetes, ansiedade e outras:** não dão direito automático. Podem dar, se a avaliação mostrar um impedimento de longo prazo; leve laudos, exames e receitas que mostrem como a condição afeta o dia a dia.
+
+## Qual o valor do BPC em 2026, para idoso e pessoa com deficiência?
+
+É **um salário mínimo**, o mesmo para o idoso e para a pessoa com deficiência: **R$ 1.621 por mês** em 2026 ([Decreto 12.797/2025](https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2025/decreto/D12797.htm)). O valor sobe todo ano junto com o mínimo.
+
+### O BPC tem 13º salário?
+
+**Não.** O BPC **não paga 13º salário** e **não deixa pensão por morte** para a família, segundo o [gov.br](https://www.gov.br/pt-br/servicos/solicitar-beneficio-assistencial-a-pessoa-com-deficiencia). É uma diferença importante em relação à aposentadoria e ao [auxílio-doença](/artigos/auxilio-doenca), que são benefícios de quem contribuiu.
 
 ## Como calcular a renda por pessoa do BPC?
 
@@ -101,10 +114,18 @@ Depende de quem recebe:
 - **Auxílio-inclusão:** a pessoa com deficiência moderada ou grave que recebe o BPC e passa a trabalhar com salário de **até 2 salários mínimos** pode receber o **auxílio-inclusão**, de **metade do BPC** (R$ 810,50 em 2026), no lugar do BPC, se continuar cumprindo os requisitos de renda (artigos 26-A e 26-B).
 - **Idoso:** a lei não proíbe, mas o que ele ganhar entra na renda da família. Se a renda por pessoa passar do limite, o benefício acaba (artigo 21, § 1º).
 
-## O BPC pode ser cortado? Revisão a cada 2 anos
+## O que faz perder o BPC? Revisão a cada 2 anos e perícia
 
-O BPC é **revisto a cada 2 anos** para ver se as condições continuam as mesmas, e **acaba** quando elas deixam de existir, por exemplo se a renda da família aumentar (artigo 21). Por isso é importante manter o **Cadastro Único atualizado** sempre que alguém entrar ou sair da casa ou mudar de emprego.
+O BPC é **revisto a cada 2 anos** para ver se as condições continuam as mesmas (artigo 21). O pagamento acaba ou é suspenso, por exemplo, quando:
 
-Quem tem deficiência **permanente, irreversível ou irrecuperável** fica dispensado das perícias periódicas, salvo suspeita fundamentada de fraude ou erro (artigo 21, § 5º).
+- a **renda por pessoa da família passa do limite**, porque alguém da casa começou a trabalhar ou a receber outro benefício (artigo 21, § 1º);
+- o **Cadastro Único ou o CPF** não estão em dia: a inscrição é exigida também para manter e revisar o benefício, não só para pedir (artigo 20, § 12);
+- quem recebe passa a ter **outro benefício da seguridade social**, como aposentadoria ou pensão (artigo 20, § 4º);
+- o INSS encontra **irregularidade** na concessão ou no uso (artigo 21, § 2º);
+- quem recebe **morre**: o BPC não passa para a família (artigo 21, § 1º).
+
+Por isso é importante manter o **Cadastro Único atualizado** sempre que alguém entrar ou sair da casa ou mudar de emprego. A pessoa com deficiência que desenvolve habilidades ou faz atividades não remuneradas de reabilitação não perde o BPC por isso (artigo 21, § 3º).
+
+**Quem recebe tem que fazer perícia?** Na revisão, pode ser chamado. Quem tem deficiência **permanente, irreversível ou irrecuperável** fica dispensado das perícias periódicas, salvo suspeita fundamentada de fraude ou erro (artigo 21, § 5º).
 
 O BPC não pode ser recebido junto com outro benefício da seguridade social, como aposentadoria ou pensão. As exceções são a assistência médica, a pensão especial de natureza indenizatória e os programas de transferência de renda, como o Bolsa Família (artigo 20, § 4º).

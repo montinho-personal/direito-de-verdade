@@ -9,11 +9,21 @@ Escrito e publicado em 23/10/2026 **sem os prints do Google**, a pedido do Renat
 BPC/LOAS é busca alta o ano todo e o segundo artigo de Previdência e INSS. Liga
 com auxílio-doença (quem não tem qualidade de segurado), nos dois sentidos.
 
-## Prints recebidos
+## Prints recebidos (SerpApi, 17/11/2026)
 
-| print | conteúdo | onde entrou |
+Revisão da rotina diária, com 2 buscas (celular, São Paulo). JSON em `prints/bpc-loas/`.
+
+| busca | conteúdo | onde entrou |
 |---|---|---|
-| (pendentes) `bpc loas`; `bpc loas quem tem direito`; `bpc renda per capita` | — | — |
+| `bpc loas`, autocompletar | quem tem direito · **pode fazer empréstimo** (5 variações: 20 mil, 30 mil, 2026, consignado) · **autismo** · **tem direito a décimo terceiro** (2) · **foi criado em qual governo / quem criou** · requisitos · idoso · pode trabalhar de carteira assinada · valor | H3 "Quais doenças… Autismo"; H3 "O BPC tem 13º?"; FAQ "Quem criou o BPC/LOAS?" (Lei 8.742/1993, sem citar governo); trabalho já era H2. **Empréstimo: fora** (lei do consignado não abriu; abaixo) |
+| idem, PAA | Para que serve? · Como saber o dia do pagamento? · **O que faz o idoso perder o BPC?** · **Qual o valor para pessoa com deficiência?** | H2 "O que faz perder o BPC?" com a lista da LOAS (renda, CadÚnico e CPF, outro benefício, irregularidade, morte); H2 do valor "para idoso e pessoa com deficiência". Dia do pagamento: fora (calendário oficial não lido) |
+| idem, outras pesquisas | quem tem direito · como solicitar · autismo · lei · quem criou · é aposentadoria · calendário · idoso · Meu INSS | já cobertos (H2, FAQ "BPC é aposentadoria?", passo a passo no Meu INSS); calendário fora |
+| idem, visão de IA | R$ 1.621 em 2026; 65+ ou deficiência de 2 anos; renda até 1/4 (R$ 405,25); sem contribuição; sem 13º e sem pensão; CadÚnico atualizado em 2 anos; Meu INSS ou 135. Fontes: gov.br, Previdenciarista, Barbieri Advogados, Facebook | não é fonte; bate com o texto (mesmos números). Formato: lista com subtítulos, valor em reais no começo; nosso lead já faz isso |
+| idem, vídeos | carrossel de vídeos e shorts no topo | registrado: busca com vídeo |
+| `bpc loas quem tem direito`, autocompletar | mulher · como solicitar · **autismo / autista** · 2026 · **TDAH** · renda familiar · valor · **fibromialgia** · PcD · **diabetes** · **doença / quais doenças** · **ansiedade** | H3 "Quais doenças dão direito? Autismo, TDAH, fibromialgia": a LOAS não tem lista; vale o impedimento de longo prazo na avaliação; autismo é deficiência por lei (Lei 12.764, art. 1º, § 2º); `tituloSeo` com "doenças" |
+| idem, PAA | Quem recebe pode receber [outro]? · **Quem recebe tem que fazer perícia?** · **Qual é a nova lei do BPC?** · valor para PcD | perícia: frase no H2 da revisão (art. 21, § 5º); acumulação já no texto. "Nova lei": só a menção às mudanças de 2024 e 2025 na FAQ; detalhar fica pendente |
+| idem, visão de IA | igual à anterior, mais nacionalidade, avaliação biopsicossocial e CRAS. Fontes: gov.br, Abrale, Conjur, Jusbrasil, Projuris, escritórios, YouTube, Facebook | não é fonte; bate |
+| orgânicos | `bpc loas`: monitordomercado (2x), **Facebook (2x)**, **YouTube**, Conjur, Legador. `quem tem direito`: blogs de advogados, Prevfácil, previdencia.gov.br (link antigo), Jusbrasil | o site não aparece. **Concorrentes fracos** (portal de notícias, rede social, vídeo): prioridade alta para medir |
 
 ## Fontes confirmadas
 
@@ -36,8 +46,14 @@ com as Leis 15.077/2024, 15.156/2025 e 15.157/2025).
 | Auxílio-inclusão: até 2 mínimos, 50% do BPC, não acumula | LOAS, arts. 26-A a 26-C | oficial |
 | CadÚnico atualizado há menos de 2 anos com CPF de todos; nacionalidade; Meu INSS; 135; documentos; até 45 dias; gratuito; sem 13º; sem pensão por morte | gov.br, serviços do BPC ao idoso e à pessoa com deficiência (atualizados em 12/08/2026) | oficial |
 | Salário mínimo de R$ 1.621 (1/4 = R$ 405,25; metade = R$ 810,50) | Decreto 12.797/2025 | oficial (conta) |
+| CPF e CadÚnico exigidos também para manter e revisar; cessação por superação das condições ou morte; cancelamento por irregularidade; reabilitação não suspende (lido em 17/11/2026) | LOAS, art. 20, § 12; art. 21, §§ 1º a 3º | oficial |
+| Pessoa com TEA é pessoa com deficiência para todos os efeitos legais (17/11/2026) | Lei 12.764/2012, art. 1º, § 2º (Câmara) | oficial |
 
 ## Pendente
+
+- **Empréstimo consignado para quem recebe BPC** (5 variações no autocompletar, 17/11/2026): a Lei 10.820/2003 não abriu (Câmara 404, Planalto fora do ar). Sem fonte, ficou de fora. Pista: Lei 10.820, art. 6º, e página do INSS sobre consignado.
+- Dia do pagamento (calendário do INSS de 2026): não lido.
+- "Nova lei do BPC": detalhar as mudanças das Leis 15.077/2024, 15.156/2025 e 15.157/2025.
 
 - **Biometria:** prazos da Portaria Conjunta MDS/INSS 36/2026 (30/04 e 31/12/2026)
   e prorrogação pela Portaria SGD/MGI 2.907/2026 aparecem só em veículos, com
