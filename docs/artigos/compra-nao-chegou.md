@@ -51,6 +51,8 @@ Recebidos em 21/10/2026 (celular, 08h41–08h43), em
 
 ## Pendente
 
+- Da pesquisa de 16/11/2026 (venda casada, SerpApi): PAA "vende e não entrega" e "quando a loja devolve o dinheiro". Aplicar na próxima revisão.
+
 - Compra pelo WhatsApp ou Instagram de vendedor pessoa física: quando vale o CDC (prints de 27/10/2026). Pista: Procon-SP sobre compras em redes sociais.
 
 - Responsabilidade da loja no "entregue a terceiro / entregue sem receber":

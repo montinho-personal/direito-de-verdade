@@ -42,6 +42,8 @@ Exemplo de R$ 1.500 e o de 45 dias: cálculo à mão (art. 479); a calculadora u
 
 ## Pendente
 
+- Da pesquisa de 16/11/2026 (cobrança de dívida, SerpApi): "prazo para cobrar dívida trabalhista" (2 anos depois do fim do contrato, 5 anos para trás; Constituição, art. 7º, XXIX). Aplicar na próxima revisão.
+
 - **INSS do empregado sobre o 13º da projeção do aviso:** o STJ (Tema 1170)
   trata da contribuição patronal; a calculadora desconta INSS sobre todo o
   13º, como a regra geral do 13º (Lei 8.212, art. 28, § 7º).

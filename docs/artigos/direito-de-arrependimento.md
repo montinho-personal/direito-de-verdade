@@ -58,6 +58,8 @@ Relatórios enviados pelo Renato em 23/10/2026, em
 
 ## Pendente
 
+- Da pesquisa de 16/11/2026 (venda casada, SerpApi): PAA "quando a loja devolve o dinheiro". Aplicar na próxima revisão.
+
 - Parcelas futuras do cartão parcelado: sem fonte específica; o texto manda
   conferir as faturas e contestar.
 - Prazo em dias para o estorno: não existe em norma; o texto não dá número.
