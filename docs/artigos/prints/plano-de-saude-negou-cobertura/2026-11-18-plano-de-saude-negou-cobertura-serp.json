@@ -1,0 +1,92 @@
+{
+  "busca": "plano de saúde negou cobertura",
+  "pesquisadaEm": "2026-11-18",
+  "origem": "SerpApi: Google Brasil (google.com.br), celular, São Paulo, pt-BR, sem personalização",
+  "autocompletar": [],
+  "asPessoasTambemPerguntam": [
+    "Quanto tempo posso dever o plano de saúde?",
+    "O que é negativa do plano de saúde?",
+    "O que fazer quando o plano de saúde nega procedimento?",
+    "O que os planos de saúde não são obrigados a cobrir?"
+  ],
+  "outrasPessoasPesquisaram": [
+    "Ans",
+    "Ans reclamação",
+    "Lei 9656 98",
+    "Cdc"
+  ],
+  "visaoDeIA": {
+    "texto": "Se o seu plano de saúde negou a cobertura de um tratamento, exame, cirurgia ou medicamento, saiba que você tem direitos garantidos por lei e a decisão pode ser contestada.\nO que fazer imediatamente (Passo a passo)\n  - Exija a negativa por escrito:\n    - Solicite formalmente à operadora (por protocolo de SAC, e-mail ou aplicativo) que envie a negativa por escrito, detalhando o motivo da recusa . O plano de saúde é obrigado a fornecer essa justificativa.\n  - Reúna um relatório médico detalhado:\n    - Peça ao seu médico (pelo SUS ou particular) um laudo claro e atualizado explicando:\n      - O seu diagnóstico.\n      - O tratamento, exame ou medicamento prescrito.\n      - Os riscos graves ou consequências para a sua saúde caso haja demora ou ausência do procedimento .\n  - Registre uma reclamação na ANS:\n    - Entre em contato com a Agência Nacional de Saúde Suplementar (ANS) pelo Disque 0800-701-9656 ou pelo portal gov.br/ans para abrir uma notificação de intermediação preliminar.\n  - Procure orientação jurídica especializada:\n    - Consulte um advogado especialista em direito à saúde ou a Defensoria Pública.\n    - Em casos de urgência, é possível acionar a Justiça com um pedido de liminar (decisão de urgência) para obrigar o plano a autorizar o procedimento rapidamente.\nMotivos comuns de negativa (e quando eles são abusivos)\n  - Fora do Rol da ANS: Embora as operadoras aleguem que o procedimento não está na lista da ANS, os tribunais frequentemente decidem que, havendo indicação médica fundamentada e comprovação científica, a cobertura é obrigatória.\n  - Carência: Em situações de urgência e emergência (como risco imediato de vida ou lesões irreparáveis), a cobertura é obrigatória após 24 horas da contratação do plano.\n  - Médico fora da rede credenciada: Em casos de emergência ou quando a rede própria não dispõe de profissional/estabelecimento apto, o direito ao atendimento ou reembolso pode ser exigido.\nPara que eu possa te orientar melhor, você poderia me dizer:\n  - Qual foi o procedimento, exame ou medicamento negado?\n  - Qual foi a justificativa exata que o plano de saúde apresentou?",
+    "fontes": [
+      "Freitas e Trigueiro",
+      "Jusbrasil",
+      "TSA | Tenorio da Silva Advocacia",
+      "Vilhena Silva Advogados",
+      "moraesrocha.com.br",
+      "opinionjus.com.br"
+    ]
+  },
+  "videos": [
+    {
+      "titulo": "Seu plano de saúde negou cobertura? Conheça seus direitos!",
+      "canal": "Bernardo & Santos Advogados"
+    },
+    {
+      "titulo": "A dor do tratamento negado: \" O caso que fez o plano de saúde pagar caro\"",
+      "canal": "Wpsaúde"
+    },
+    {
+      "titulo": "Plano de saúde negou cobertura: ainda cabe dano moral?",
+      "canal": "Cardoso Advocacia - Ações contra planos de saúde"
+    },
+    {
+      "titulo": "Plano de saúde negou cobertura? Ou o SUS demorou demais para liberar um procedimento urgente? Conhecer a linha tênue e os direitos garantidos em ambas as esferas é fundamental par",
+      "canal": "Lais Harter Kalil"
+    }
+  ],
+  "organicos": [
+    {
+      "posicao": 1,
+      "titulo": "Plano de saúde condenado em danos morais por negar cobertura - DIAS Advogados",
+      "endereco": "https://diasadvogados.webnode.com.br/news/plano-de-saude-condenado-em-danos-morais-por-negar-cobertura/",
+      "trecho": "O plano de saúde que se nega a cobrir o tratamento do segurado pode ter que indenizá-lo por danos morais, em razão do sofrimento psicológico ..."
+    },
+    {
+      "posicao": 2,
+      "titulo": "Negativa de cobertura do Plano de Saúde",
+      "endereco": "https://www.jusbrasil.com.br/artigos/negativa-de-cobertura-do-plano-de-saude/1949516138",
+      "trecho": "O primeiro passo é entender por que o procedimento foi negado. Entre em contato com sua seguradora para obter informações detalhadas sobre os ..."
+    },
+    {
+      "posicao": 3,
+      "titulo": "Recusa de cobertura de exame médico pelo plano de saúde gera dano moral",
+      "endereco": "https://www.olhardireto.com.br/noticias/recusa-de-cobertura-de-exame-medico-pelo-plano-de-saude-gera-dano-moral",
+      "trecho": "O beneficiário de plano de saúde que tem negada a realização de exame pela operadora tem direito à indenização por dano moral."
+    },
+    {
+      "posicao": 4,
+      "titulo": "Plano de Saúde Negou Atendimento? Saiba Como Processar e Pedir Indenização",
+      "endereco": "(link de redirecionamento do Google omitido)"
+    },
+    {
+      "posicao": 5,
+      "titulo": "Plano de saúde: negativa de cobertura - Advocacia Digital",
+      "endereco": "(link de redirecionamento do Google omitido)"
+    },
+    {
+      "posicao": 6,
+      "titulo": "Plano de saúde negou seu tratamento. Isso gera direito a indenização?",
+      "endereco": "(link de redirecionamento do Google omitido)"
+    },
+    {
+      "posicao": 7,
+      "titulo": "Reembolso Negado pelo Plano de Saúde? Saiba o que fazer",
+      "endereco": "(link de redirecionamento do Google omitido)"
+    },
+    {
+      "posicao": 8,
+      "titulo": "🎯 Negativa de cobertura pelo plano de saúde? Saiba como agir! O seu ...",
+      "endereco": "(link de redirecionamento do Google omitido)"
+    }
+  ]
+}

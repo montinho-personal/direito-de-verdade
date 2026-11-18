@@ -11,11 +11,23 @@ preencher a tabela abaixo.
 pauta de Consumidor ("Plano de saúde que nega cobertura"). Liga com o artigo do
 Procon (que agora aponta para este).
 
-## Prints recebidos
+## Prints recebidos (SerpApi, 18/11/2026)
 
-| print | conteúdo | onde entrou |
+Revisão pedida pelo Renato ("pode fazer mais 2"), 2 buscas, celular, São Paulo (visão de IA da principal em segunda etapa). JSON em `prints/plano-de-saude-negou-cobertura/`.
+
+| busca | conteúdo | onde entrou |
 |---|---|---|
-| (pendentes) `plano de saúde negou cobertura o que fazer`; `reclamar na ans`; `rol da ans` | — | — |
+| `plano de saúde negou cobertura`, autocompletar | nenhuma sugestão | — |
+| idem, PAA | **Quanto tempo posso dever o plano?** · O que é negativa do plano? · O que fazer quando nega procedimento? · **O que os planos não são obrigados a cobrir?** | FAQ "Quanto tempo posso atrasar a mensalidade?" (art. 13, parágrafo único, II, individual ou familiar); H2 "O que os planos não são obrigados a cobrir?" (art. 10); negativa e o que fazer já eram H2 |
+| idem, outras pesquisas | ANS · ANS reclamação · Lei 9.656 · CDC | já cobertos (reclamação na ANS, Lei 9.656, FAQ do CDC e Súmula 608) |
+| idem, visão de IA | negativa por escrito; relatório médico; ANS (0800 e NIP); advogado ou Defensoria; liminar; motivos comuns (fora do rol, carência de 24 h na urgência, fora da rede). Fontes: só escritórios e Jusbrasil | não é fonte; bate com o texto, que já tinha esses passos com fonte oficial (ANS, STF, Súmula 597) |
+| `rol da ans`, autocompletar | **2026 / atualizado** · **é taxativo ou exemplificativo** (4 variações) · cobertura · odontologia / dental / odonto · consulta · PDF · medicamentos · anexo II · cirurgia refrativa | H2 renomeado "O rol da ANS é taxativo ou exemplificativo?" com a resposta direta. Odontologia, cirurgia refrativa e anexo II: fora (páginas próprias, sem fonte lida) |
+| idem, PAA | quantos procedimentos · prótese dentária · proposta de atualização · o que significa a sigla | fora (números e listas da ANS não lidos) |
+| idem, outras pesquisas | rol 2026 PDF · odontologia · medicamentos incluídos · avaliação neuropsicológica · Unimed · rol taxativo · cobertura · anexo I | "taxativo" no H2; o resto fora |
+| idem, visão de IA | lista mínima obrigatória; varia pelo tipo de plano; atualização; DUT; "referência básica"; fora do rol com comprovação científica. Fontes: gov.br, Unimed, Saúde Caixa, FioSaúde, advogado, Jusbrasil, YouTube | não é fonte; bate com o texto (Lei 14.454 e STF ADI 7265) |
+| orgânicos | `negou cobertura`: só 3 (escritório, Jusbrasil, portal de notícia). `rol da ans`: link antigo da ANS, **YouTube**, **Instagram** | o site não aparece. Concorrentes fracos nas duas buscas: prioridade para medir |
+
+**Formato:** texto; a busca principal tem vídeos no topo.
 
 ## Fontes confirmadas
 

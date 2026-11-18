@@ -4,7 +4,10 @@ tituloSeo: "Plano de saúde negou cobertura: o que fazer e como reclamar"
 descricao: "Plano de saúde negou cobertura? A negativa por escrito é obrigatória. Veja os prazos da ANS, quando a recusa é abusiva e como reclamar (0800 701 9656)."
 categoria: consumidor
 publicadoEm: 2026-10-23
+atualizadoEm: 2026-11-18
 faq:
+  - pergunta: "Quanto tempo posso atrasar a mensalidade do plano de saúde?"
+    resposta: "No plano individual ou familiar, o plano só pode suspender ou cancelar o contrato se o atraso passar de 60 dias, seguidos ou não, nos últimos 12 meses, e se você tiver sido avisado até o 50º dia de atraso (Lei 9.656/1998, artigo 13, parágrafo único, II). O cancelamento não pode acontecer durante uma internação do titular. Nos planos coletivos, valem as regras do contrato."
   - pergunta: "O plano pode negar atendimento de urgência por causa da carência?"
     resposta: "Depois de **24 horas** da contratação, não. A lei fixa a carência máxima de 24 horas para urgência e emergência (Lei 9.656, artigo 12, V, c), e o STJ considera abusiva a cláusula que passe disso (Súmula 597). Urgência e emergência devem ser atendidas de imediato, segundo a ANS."
   - pergunta: "O plano pode limitar os dias de internação?"
@@ -73,9 +76,9 @@ O plano tem que garantir o atendimento, na rede dele, dentro destes prazos, cont
 
 Se não houver prestador na sua cidade, nas vizinhas ou na sua região de saúde, o plano tem que garantir o atendimento em outro lugar, com **transporte de ida e volta**, sem custo. Se você tiver que pagar porque o plano não garantiu o atendimento no prazo, o **reembolso é integral**, em até **30 dias**, incluindo o transporte.
 
-## O que está fora do rol da ANS tem cobertura?
+## O rol da ANS é taxativo ou exemplificativo? O que está fora dele tem cobertura?
 
-O **rol da ANS** é a lista de procedimentos que os planos têm que cobrir. Desde 2022, ele é a "referência básica" da cobertura, e não um limite fechado ([Lei 9.656, artigo 10, §§ 12 e 13](https://www2.camara.leg.br/legin/fed/lei/1998/lei-9656-3-junho-1998-353439-normaatualizada-pl.html)).
+O **rol da ANS** é a lista de procedimentos que os planos têm que cobrir. Desde 2022, ele é a "referência básica" da cobertura, e não um limite fechado: não é mais taxativo, mas também não obriga a cobrir qualquer coisa, só o que cumpre os requisitos abaixo ([Lei 9.656, artigo 10, §§ 12 e 13](https://www2.camara.leg.br/legin/fed/lei/1998/lei-9656-3-junho-1998-353439-normaatualizada-pl.html)).
 
 Em setembro de 2025, o STF definiu que o plano tem que cobrir um tratamento **fora do rol** quando estiverem presentes, **todos juntos**, estes requisitos ([STF, ADI 7265](https://noticias.stf.jus.br/postsnoticias/stf-fixa-criterios-para-que-planos-de-saude-cubram-tratamentos-fora-da-lista-da-ans/)):
 
@@ -86,6 +89,21 @@ Em setembro de 2025, o STF definiu que o plano tem que cobrir um tratamento **fo
 5. o tratamento tem **registro na Anvisa**.
 
 Para a Justiça mandar o plano cobrir, também é preciso mostrar que o plano **negou o pedido ou demorou demais** para responder. Por isso, antes de ir à Justiça, peça ao plano e guarde a negativa.
+
+## O que os planos de saúde não são obrigados a cobrir?
+
+A Lei dos Planos de Saúde lista o que fica **fora** da cobertura obrigatória ([Lei 9.656/1998, artigo 10](https://www2.camara.leg.br/legin/fed/lei/1998/lei-9656-3-junho-1998-353439-normaatualizada-pl.html)):
+
+- tratamento **experimental**;
+- procedimentos, órteses e próteses com **fins estéticos**, e tratamento de rejuvenescimento ou emagrecimento estético;
+- **inseminação artificial**;
+- **medicamentos importados** não nacionalizados;
+- medicamentos para **tratamento em casa**, com exceções, como os remédios orais contra o câncer, que têm cobertura (artigo 12);
+- próteses, órteses e acessórios **não ligados a uma cirurgia**;
+- tratamentos ilícitos, antiéticos ou não reconhecidos pelas autoridades;
+- casos de cataclismos, guerras e comoções internas declarados pelas autoridades.
+
+Fora dessa lista, a negativa precisa de motivo: a cobertura segue o rol da ANS, o tipo do plano (ambulatorial, hospitalar, com obstetrícia) e o contrato.
 
 ## Quando a negativa do plano é abusiva
 
