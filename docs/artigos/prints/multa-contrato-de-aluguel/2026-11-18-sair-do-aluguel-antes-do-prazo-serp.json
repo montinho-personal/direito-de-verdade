@@ -1,0 +1,98 @@
+{
+  "busca": "sair do aluguel antes do prazo",
+  "pesquisadaEm": "2026-11-18",
+  "origem": "SerpApi: Google Brasil (google.com.br), celular, São Paulo, pt-BR, sem personalização",
+  "autocompletar": [
+    "posso sair do aluguel antes do prazo",
+    "multa por sair do aluguel antes do prazo",
+    "sair da casa de aluguel antes do prazo",
+    "sair do aluguel antes do contrato",
+    "sair do aluguel antes de vencer o contrato",
+    "sair do contrato de aluguel antes do prazo"
+  ],
+  "asPessoasTambemPerguntam": [
+    "Como o locatário pode quebrar o contrato de aluguel?",
+    "Pode exigir aluguel adiantado?",
+    "O que o artigo 23, inciso III da Lei do Inquilinato determina?",
+    "Quando vence o aluguel, quantos dias tenho para sair?"
+  ],
+  "outrasPessoasPesquisaram": [
+    "Lei do inquilinato",
+    "Lei do inquilinato falta de água",
+    "Posso processar um inquilino por não pagamento de água luz e imposto",
+    "Inquilino traficante o que fazer"
+  ],
+  "visaoDeIA": {
+    "texto": "Rescindir um contrato de aluguel antes do prazo determinado é um direito do inquilino, mas exige o pagamento de uma multa proporcional ao tempo que falta para o término do acordo, salvo exceções legais.\nAbaixo estão as principais regras baseadas na Lei do Inquilinato:\n1. Quando o inquilino quer sair antes do prazo\n  - Multa proporcional: A Lei do Inquilinato (Art. 4º) determina que a multa rescisória não pode ser cobrada de forma integral, mas sim proporcional ao período que ainda falta para o contrato acabar.\n  - Cálculo da multa: Em geral, os contratos estipulam uma penalidade de 3 meses de aluguel. A conta é feita multiplicando o valor da multa total pela proporção de meses restantes.\n    - Exemplo: Se a multa cheia é de R$ 6.000 e faltam 10 meses para vencer um contrato de 30 meses, você paga: R$ 6.000 x (10 ÷ 30) = R$ 2.000.\n  - Isenção de multa (Transferência de trabalho): O inquilino fica dispensado de pagar a multa se a rescisão ocorrer por motivo de transferência pelo empregador (público ou privado) para outra localidade, desde que notifique o proprietário por escrito com 30 dias de antecedência.\n  - Aviso prévio: É recomendável (e exigido em muitos contratos ou casos específicos) avisar a intenção de desocupação com pelo menos 30 dias de antecedência, embora juridicamente o inquilino possa entregar o imóvel a qualquer momento, arcando com a multa.\n2. Quando o proprietário (locador) quer o imóvel antes do prazo\n  - Em regra, o proprietário não pode reaver o imóvel antes do prazo determinado, salvo em situações específicas previstas em lei (como descumprimento de cláusulas, falta de pagamento, acordo mútuo ou para uso próprio em casos específicos da lei).\n  - Se o contrato já estiver no prazo indeterminado (após o fim dos 30 meses iniciais, por exemplo), o proprietário pode pedir a desocupação a qualquer momento, concedendo um aviso prévio de 30 dias ao inquilino.\n3. Passo a passo para formalizar a rescisão\n  - Comunique por escrito: Envie uma notificação formal (por e-mail, carta ou aplicativo oficial da imobiliária/plataforma) informando a data prevista de saída.\n  - Confira os valores: Solicite o cálculo formal da multa proporcional e o fechamento das contas.\n  - Faça os reparos e a vistoria de saída: Deixe o imóvel nas mesmas condições descritas no laudo de entrada (descontado o desgaste natural do uso) e acompanhe a vistoria.\n  - Quite os débitos e entregue as chaves: Pague o aluguel proporcional aos dias morados no mês, condomínio, IPTU e contas de consumo (luz, água, gás). A entrega das chaves é o marco oficial que encerra sua responsabilidade.\nSe você utiliza plataformas digitais, veja como fazer o procedimento diretamente pelo Guia de Rescisão do QuintoAndar.\nPara que eu possa te ajudar melhor, me diga:\n  - Você é o inquilino ou o proprietário?\n  - Qual é o prazo total do contrato e quantos meses já foram cumpridos?",
+    "fontes": [
+      "Grupo OLX",
+      "ImobiBrasil",
+      "Instagram",
+      "Jusbrasil",
+      "Mariana Gonçalves - Direito Imobiliário",
+      "QuintoAndar",
+      "Ricardo Nogare Advogados",
+      "SP Imóvel",
+      "YouTube"
+    ]
+  },
+  "videos": [
+    {
+      "titulo": "Sair de um imóvel alugado antes do fim do contrato pode gerar multa, mas existem ...",
+      "canal": "Benedett | Advocacia Imobiliária"
+    },
+    {
+      "titulo": "Posso sair de um imóvel alugado antes do fim do contrato?  Sim! Mas é importante ...",
+      "canal": "Imobiliária Betel"
+    },
+    {
+      "titulo": "em algumas situações específicas, a multa pode até não ser devida. Salve este vídeo e envie para alguém que está pensando em sair de um imóvel alugado antes de terminar o prazo.",
+      "canal": "Cristina Cunha | Advogada"
+    }
+  ],
+  "organicos": [
+    {
+      "posicao": 1,
+      "titulo": "QUERO SAIR DO IMÓVEL ANTES DO FIM DO CONTRATO. TENHO QUE PAGAR MULTA ...",
+      "endereco": "https://www.facebook.com/61590885323899/posts/-quero-sair-do-im%C3%B3vel-antes-do-fim-do-contrato-tenho-que-pagar-multase-voc%C3%AA-alug/122134342443362844/",
+      "trecho": "**Importante:** não presuma que a multa será sempre integral — nem que poderá sair sem pagar. A análise depende do contrato e das ..."
+    },
+    {
+      "posicao": 2,
+      "titulo": "Contrato de aluguel não é prisão: inquilino pode deixar o imóvel antes do prazo sem multa em casos previstos na lei, confirma Justiça",
+      "endereco": "https://correiodeminas.com.br/2025/09/16/contrato-de-aluguel-nao-e-prisao-inquilino-pode-deixar-o-imovel-antes-do-prazo-sem-multa-em-casos-previstos-na-lei-confirma-justica/",
+      "trecho": "Contrato de aluguel não é prisão: inquilino pode deixar o imóvel antes do prazo sem multa em casos previstos na lei, confirma Justiça · O que diz ..."
+    },
+    {
+      "posicao": 3,
+      "titulo": "é possível alugar um imóvel e sair antes do fim de um contrato de locação. ⚠️No entanto, a rescisão antecipada de um contrato de locação tem consequências jurídicas claras: o pagamento de uma",
+      "endereco": "https://www.facebook.com/100068770452901/posts/aten%C3%A7%C3%A3o-%C3%A9-poss%C3%ADvel-alugar-um-im%C3%B3vel-e-sair-antes-do-fim-de-um-contrato-de-loca%C3%A7%C3%A3/1069961698639502/",
+      "trecho": "⚠️No entanto, a rescisão antecipada de um contrato de locação tem consequências jurídicas claras: o pagamento de uma multa. A multa será ..."
+    },
+    {
+      "posicao": 4,
+      "titulo": "🏠 Posso desfazer um contrato de locação antes do prazo? Entenda seus direitos! A Lei do ...",
+      "endereco": "(link de redirecionamento do Google omitido)"
+    },
+    {
+      "posicao": 5,
+      "titulo": "Inquilino Quer Sair Antes do Prazo? Saiba Como Proteger Seu Imóvel e Seus Direitos",
+      "endereco": "(link de redirecionamento do Google omitido)"
+    },
+    {
+      "posicao": 6,
+      "titulo": "Preciso sair do imóvel que aluguei antes do prazo, como funciona a multa ❓ Essa é uma ...",
+      "endereco": "(link de redirecionamento do Google omitido)"
+    },
+    {
+      "posicao": 7,
+      "titulo": "É possível sair do imóvel antes do contrato terminar?",
+      "endereco": "(link de redirecionamento do Google omitido)"
+    },
+    {
+      "posicao": 8,
+      "titulo": "Como cancelar contrato de aluguel antes do fim de seu prazo?",
+      "endereco": "(link de redirecionamento do Google omitido)"
+    }
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "busca": "multa por quebra de contrato de aluguel",
+  "pesquisadaEm": "2026-11-18",
+  "origem": "SerpApi: Google Brasil (google.com.br), celular, São Paulo, pt-BR, sem personalização",
+  "autocompletar": [
+    "multa por quebra de contrato de aluguel por parte do locador",
+    "multa por quebra de contrato de aluguel por parte do locatario",
+    "multa por quebra de contrato de aluguel comercial",
+    "multa por quebra de contrato de aluguel lei do inquilinato",
+    "multa por quebra de contrato de aluguel por parte do proprietário",
+    "multa por quebra de contrato de aluguel quintoandar",
+    "multa por quebra de contrato de aluguel pode ser parcelada",
+    "multa por quebra de contrato de aluguel como calcular",
+    "multa por quebra de contrato de aluguel residencial",
+    "multa por quebra de contrato de aluguel como funciona",
+    "multa por quebra de contrato de aluguel modelo",
+    "clausula multa por quebra de contrato de aluguel",
+    "existe multa por quebra de contrato de aluguel",
+    "multa abusiva por quebra de contrato de aluguel",
+    "multa rescisória por quebra de contrato de aluguel"
+  ],
+  "asPessoasTambemPerguntam": [
+    "Como calcular a multa por quebra de contrato de aluguel?",
+    "Pode cobrar 3 aluguéis de multa?",
+    "Pode cobrar 20% de multa por quebra de contrato?",
+    "Como se livrar da multa de quebra de contrato de aluguel?"
+  ],
+  "outrasPessoasPesquisaram": [
+    "Multa por quebra de contrato de aluguel por parte do proprietário",
+    "Quanto é a multa de quebra de contrato de aluguel de 12 meses",
+    "Quanto é a multa de quebra de contrato de aluguel de 6 meses",
+    "Como calcular multa de quebra de contrato de aluguel",
+    "Se eu não pagar a multa de quebra de contrato de aluguel",
+    "Como calcular multa de quebra de contrato de aluguel 12 meses",
+    "Multa de quebra de contrato de aluguel de 30 meses",
+    "Multa por quebra de contrato de aluguel quintoandar",
+    "Multa por quebra de contrato de aluguel pode ser parcelada",
+    "Multa por quebra de contrato de aluguel comercial",
+    "Multa de quebra de contrato de aluguel de 2 anos",
+    "Quebra de contrato de aluguel por parte do locatário"
+  ],
+  "visaoDeIA": {
+    "texto": "A multa por quebra de contrato de aluguel (rescisão antecipada) é regulada no Brasil pela Lei do Inquilinato (nº 8.245/91) e deve ser cobrada de forma proporcional ao período que falta para o término do contrato.\nComo funciona a multa\n  - Valor padrão: Geralmente é estipulada em contrato no valor equivalente a 3 meses de aluguel.\n  - Proporcionalidade: A multa cheia não é cobrada integralmente se você já cumpriu uma parte do prazo.\n  - Fórmula de cálculo:\n$\\text{Multa\\ proporcional}=\\left(\\frac{\\text{Valor\\ total\\ da\\ multa}}{\\text{Prazo\\ total\\ do\\ contrato\\ em\\ meses}}\\right)\\times \\text{Meses\\ que\\ faltam}$\n    - Exemplo prático: Em um contrato de 24 meses com aluguel de R$ 1.800 (multa cheia de R$ 5.400), se você sair no 10º mês (restando 14 meses), o cálculo é: (R$ 5.400 ÷ 24) × 14 = R$ 3.150.\nQuando você fica ISENTO de pagar a multa\n  - Transferência de trabalho: Se você for transferido pelo seu empregador (público ou privado) para outra localidade, você fica isento da multa desde que notifique o proprietário por escrito com 30 dias de antecedência e comprove a transferência.\n  - Infração do locador: Se o proprietário descumprir o contrato ou não fizer reparos urgentes exigidos por lei no imóvel.\n  - Contratos por prazo indeterminado: Se o contrato já passou do prazo inicial e virou por prazo indeterminado, não há multa; exige-se apenas um aviso prévio de 30 dias.\n  - Acordo mútuo: Se houver um entendimento amigável entre inquilino e proprietário formalizado por escrito.\nCuidados importantes\n  - Formalize por escrito: Nunca desocupe o imóvel apenas \"no boca a boca\". Envie uma notificação formal e faça a vistoria de saída com fotos e termo assinado. Saídas informais podem gerar cobrança contínua de aluguéis e encargos.\n  - Você pode consultar detalhes jurídicos complementares no artigo do Jusbrasil.\nPara calcular o valor exato no seu caso, me diga:\n  - Qual é o valor do aluguel?\n  - Qual era o prazo total do contrato (em meses)?\n  - Quantos meses você já cumpriu?",
+    "fontes": [
+      "Imóveis Crédito Real",
+      "Jusbrasil",
+      "Pedro Granado Imóveis",
+      "QuintoAndar",
+      "REMAX",
+      "teixeiraadvocacia.com"
+    ]
+  },
+  "videos": [],
+  "organicos": [
+    {
+      "posicao": 1,
+      "titulo": "Multa de quebra de contrato de aluguel: o que diz a Lei do Inquilinato?",
+      "endereco": "https://www.pedrogranado.com.br/noticias/Duvidas-Locacao-18/Multa-de-quebra-de-contrato-de-aluguel-o-que-diz-a-Lei-do-Inquilinato-494",
+      "trecho": "Geralmente, a multa de quebra de contrato de aluguel costuma ter o valor de três aluguéis vigentes na data da rescisão. No entanto, esse valor é ..."
+    },
+    {
+      "posicao": 2,
+      "titulo": "Multa por Rescisão Antecipada em Contratos de Locação",
+      "endereco": "https://www.jusbrasil.com.br/artigos/multa-por-rescisao-antecipada-em-contratos-de-locacao/1754967009",
+      "trecho": "Caso seja necessário que o locatário devolva o imóvel antes de cumprir o prazo, é devida uma multa compensatória ao locador pela quebra de contrato de locação ..."
+    },
+    {
+      "posicao": 3,
+      "titulo": "Como calcular a multa rescisória de aluguel?",
+      "endereco": "https://www.quintoandar.com.br/guias/como-alugar/como-calcular-multa-rescisoria-aluguel/",
+      "trecho": "Para calcular multa rescisória de aluguel, use a seguinte fórmula: Multa de rescisão antecipada = (valor da multa ÷ prazo total do contrato) ..."
+    },
+    {
+      "posicao": 4,
+      "titulo": "https://ferramentas.cgtecnologia.com.br/",
+      "endereco": "(link de redirecionamento do Google omitido)"
+    },
+    {
+      "posicao": 5,
+      "titulo": "Calculadora Multa Rescisória",
+      "endereco": "(link de redirecionamento do Google omitido)"
+    },
+    {
+      "posicao": 6,
+      "titulo": "Multa de Quebra de Contrato de Aluguel de 1 Ano: Como Calcular?",
+      "endereco": "(link de redirecionamento do Google omitido)"
+    },
+    {
+      "posicao": 7,
+      "titulo": "Multa por quebra de contrato de aluguel: o guia do proprietário para receber o valor certo",
+      "endereco": "(link de redirecionamento do Google omitido)"
+    },
+    {
+      "posicao": 8,
+      "titulo": "Entenda o valor da multa por rescisão antecipada do aluguel",
+      "endereco": "(link de redirecionamento do Google omitido)"
+    },
+    {
+      "posicao": 9,
+      "titulo": "Quando a multa no contrato de locação pode ser aplicada e como calcular",
+      "endereco": "(link de redirecionamento do Google omitido)"
+    }
+  ]
+}

@@ -1,10 +1,10 @@
 ---
 titulo: "Multa por quebra de contrato de aluguel: como calcular e quando não precisa pagar"
-tituloSeo: "Multa de contrato de aluguel: cálculo e quando não paga"
+tituloSeo: "Multa por quebra de contrato de aluguel: cálculo e isenção"
 descricao: "Multa por sair antes do fim do contrato de aluguel: é proporcional ao tempo que falta (Lei 8.245). Veja a conta, o aviso de 30 dias e quando não paga."
 categoria: moradia
 publicadoEm: 2026-10-23
-atualizadoEm: 2026-10-27
+atualizadoEm: 2026-11-18
 faq:
   - pergunta: "O proprietário pode pedir o imóvel antes do fim do contrato?"
     resposta: "Durante o prazo do contrato, **não**, salvo exceções da lei, como acordo, falta de pagamento, infração do contrato ou reparos urgentes exigidos pelo poder público (Lei 8.245, artigos 4º e 9º). Depois do prazo, com o contrato por tempo indeterminado, as regras de retomada mudam (artigos 46, 47 e 57)."
@@ -60,6 +60,14 @@ Os 3 aluguéis do exemplo são só um número para a conta: confira **a cláusul
 
 Para fazer a conta com as datas do seu contrato, inclusive com meses incompletos, use a [calculadora de multa de aluguel](/calculadoras/multa-rescisao-aluguel).
 
+### Pode cobrar 3 aluguéis ou 20% de multa?
+
+Pode estar no contrato: a lei não fixa o valor. Mas a multa cheia, seja de 3 aluguéis, 20% ou outro número, **sempre tem de ser reduzida pela parte do contrato já cumprida** (artigo 4º), e o juiz pode reduzir a multa manifestamente excessiva (Código Civil, artigo 413). Os percentuais de 20% e 30% estão explicados na [calculadora de multa de aluguel](/calculadoras/multa-rescisao-aluguel).
+
+### Vale para aluguel comercial?
+
+A regra da multa proporcional é a mesma: o artigo 4º vale para a locação de **imóvel urbano**, residencial ou comercial. O que muda no comercial são outras regras, como a renovação do contrato e a retomada do imóvel no fim do prazo.
+
 ## Quando o inquilino não paga multa
 
 ### Transferência de emprego para outra cidade
@@ -77,6 +85,14 @@ Quem sai sem o aviso pode ter que pagar **um mês de aluguel e encargos** no lug
 ### Acordo com o proprietário
 
 A locação pode acabar a qualquer momento **por acordo** (artigo 9º, I). Se o proprietário aceitar dispensar ou reduzir a multa, por exemplo porque já tem outro inquilino, coloque o combinado **por escrito**, assinado pelos dois.
+
+## Multa por quebra de contrato por parte do proprietário
+
+Durante o prazo do contrato, o proprietário **não pode pedir o imóvel de volta**, salvo nas exceções da lei: acordo, infração do contrato, falta de pagamento ou reparos urgentes exigidos pelo poder público (artigos 4º e 9º). Se ele tentar, o inquilino pode simplesmente continuar no imóvel: tirar o inquilino só é possível por ação de despejo. Se o contrato prevê multa para o proprietário que desistir, ela vale como está escrita. Veja [o que fazer quando o proprietário pede o imóvel](/artigos/proprietario-pediu-o-imovel).
+
+## A multa pode ser parcelada? E se eu não pagar?
+
+A lei não trata de parcelamento: depende de **acordo** com o proprietário ou a imobiliária, que deve ser feito por escrito, com o valor e as datas. Se você não pagar, o proprietário pode cobrar na Justiça, também do **fiador**, se a fiança continuar valendo (veja as perguntas frequentes abaixo). Por isso vale negociar antes de sair: um aviso com antecedência ou a indicação de um novo inquilino são bons argumentos para pedir a redução da multa.
 
 ## Como sair do imóvel alugado sem dor de cabeça
 
