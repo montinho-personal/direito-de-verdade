@@ -4,6 +4,7 @@ tituloSeo: "Aposentadoria 2026: regras, idade mínima e pontos"
 descricao: "Aposentadoria 2026: por idade, 62 anos (mulher) e 65 (homem). Na transição, 93 e 103 pontos ou 59,5 e 64,5 anos. Veja as regras do INSS e quanto vai receber."
 categoria: previdencia
 publicadoEm: 2026-10-24
+atualizadoEm: 2026-11-18
 faq:
   - pergunta: "Qual o tempo mínimo de contribuição para se aposentar?"
     resposta: "Para a aposentadoria por idade, **15 anos** para as mulheres. Para os homens, **15 anos** para quem já contribuía antes de 13/11/2019 e **20 anos** para quem começou depois. Em todos os casos, são 180 contribuições de carência."
@@ -56,14 +57,29 @@ Valem para quem **já contribuía até 13/11/2019**. As regras dos pontos e da i
 
 | Regra | Mulher em 2026 | Homem em 2026 | Como muda |
 | --- | --- | --- | --- |
-| **Pontos** (idade + tempo de contribuição) | 93 pontos, com no mínimo 30 anos de contribuição | 103 pontos, com no mínimo 35 anos de contribuição | sobe 1 ponto por ano, até 100 (mulher) e 105 (homem) |
-| **Idade mínima progressiva** | 59 anos e 6 meses, com 30 anos de contribuição | 64 anos e 6 meses, com 35 anos de contribuição | sobe 6 meses por ano, até 62 e 65 anos em 2031 |
+| **Pontos** (idade + tempo de contribuição) | 93 pontos, com no mínimo 30 anos de contribuição | 103 pontos, com no mínimo 35 anos de contribuição | sobe 1 ponto por ano, até 100 (mulher, em 2033) e 105 (homem, em 2028) |
+| **Idade mínima progressiva** | 59 anos e 6 meses, com 30 anos de contribuição | 64 anos e 6 meses, com 35 anos de contribuição | sobe 6 meses por ano, até 62 anos (mulher, em 2031) e 65 anos (homem, em 2027) |
 | **Pedágio de 100%** | 57 anos, 30 anos de contribuição e o dobro do tempo que faltava em 13/11/2019 | 60 anos, 35 anos de contribuição e o dobro do tempo que faltava | não muda |
 | **Pedágio de 50%** | só para quem estava a até 2 anos de se aposentar em 2019 | idem | já foi cumprido: em 2026, não serve mais para ninguém |
 
 ### Exemplo da regra dos pontos
 
 Uma mulher com **58 anos de idade e 35 anos de contribuição** soma **93 pontos** (58 + 35) e cumpre a regra dos pontos em 2026. Um homem com **62 anos e 40 anos de contribuição** soma **102 pontos**: em 2026, ainda falta 1 ponto, e como a exigência sobe para 104 em 2027, ele precisa de mais um ano de idade e de contribuição (cada ano a mais vale 2 pontos).
+
+### O que muda na aposentadoria em 2027?
+
+No dia 1º de janeiro de 2027, as duas regras que sobem todo ano ficam assim:
+
+| Regra | Mulher em 2027 | Homem em 2027 |
+| --- | --- | --- |
+| Pontos | 94 pontos, com 30 anos de contribuição | 104 pontos, com 35 anos de contribuição |
+| Idade mínima progressiva | 60 anos, com 30 anos de contribuição | 65 anos, com 35 anos de contribuição |
+
+O pedágio de 100% e a aposentadoria por idade não mudam.
+
+### Quem tem 57 anos e 25 anos de contribuição pode se aposentar?
+
+**Ainda não, pelas regras gerais.** Os pontos, a idade mínima progressiva e o pedágio de 100% exigem pelo menos **30 anos de contribuição** (mulher) ou 35 (homem). Com 25 anos de contribuição, o caminho é a **aposentadoria por idade**: aos **62 anos** (mulher) ou **65 anos** (homem), com pelo menos 15 anos de contribuição. Professores e quem trabalhou em atividade especial têm regras próprias.
 
 ## Quanto vou receber de aposentadoria?
 

@@ -12,11 +12,22 @@ Previdência o ano todo, com pico em janeiro (mudança anual das regras de
 transição). O grupo já tinha auxílio-doença, BPC e 13º do INSS; este é o
 artigo-base, e liga com os três.
 
-## Prints recebidos
+## Prints recebidos (SerpApi, 18/11/2026)
 
-| print | conteúdo | onde entrou |
+Revisão da rotina diária, 2 buscas, celular, São Paulo. JSON em `prints/aposentadoria-2026-regras/`.
+
+| busca | conteúdo | onde entrou |
 |---|---|---|
-| (pendentes) AnswerThePublic `aposentadoria` | — | — |
+| `aposentadoria 2026`, autocompletar | valor · regras · calendário · mulher · **novas regras** · por idade · pagamento · tempo de contribuição · professores · **o que muda / vai mudar** · reajuste · homem · datas · idade mínima | H3 "O que muda na aposentadoria em 2027?" (pontos 94/104 e idade 60/65, pela regra de 1 ponto e 6 meses por ano já conferida); tabela com o ano final de cada regra (2033, 2028, 2031, 2027). Calendário, pagamento, datas e reajuste: fora (pauta) |
+| idem, PAA | **O que vai mudar em 2026?** · professor · **Quem tem 57 anos e 25 de contribuição pode se aposentar?** · como funciona a aposentadoria por pontos | H3 "Quem tem 57 anos e 25 anos de contribuição pode se aposentar?" (conta pelas regras do texto); pontos e professor já cobertos |
+| idem, visão de IA | só `page_token` (não pedida: a da segunda busca cobre o assunto) | — |
+| `regra de transição aposentadoria 2026`, autocompletar | mulher · especial · por idade · anos anteriores (2025, 2024, 2022, 2020) | mulher e por idade já nas tabelas; especial: fora (pauta) |
+| idem, PAA | professor · idade mínima por idade · pontos · **regra antiga** | "regra antiga" = direito adquirido até 13/11/2019: fora, sem fonte oficial lida nesta revisão |
+| idem, outras pesquisas | nova lei 2026 por idade, por tempo, especial · nova lei 2025 · por idade · por tempo · qual regra | cobertos pelas tabelas; "nova lei 2026": não há lei nova, as mudanças são as anuais da EC 103 (já dito no texto) |
+| idem, visão de IA | 5 regras com números de 2026 (iguais aos do texto); diz que os pontos dos homens vão "até 110" (**errado**: a EC 103 fixa 105). Fontes: gov.br, escritório, Instagram, MAG, Migalhas, YouTube | não é fonte. O texto mantém 105 e agora diz o ano em que cada regra para de subir |
+| orgânicos | `aposentadoria 2026`: blog de crédito, portal de notícia, TV Foco. `regra de transição`: 2 escritórios, ND+ | o site não aparece. **Concorrentes fracos** (blogs e portais): prioridade |
+
+**Formato:** texto com tabela; a segunda busca tem vídeos no topo.
 
 ## Fontes confirmadas
 
@@ -34,6 +45,8 @@ do gov.br pedindo login).
 | Mínimo R$ 1.621; teto R$ 8.475,55 | Decreto 12.797/2025; Portaria Interministerial 13/2026 | oficial |
 
 ## Pendente
+
+- Da pesquisa de 18/11/2026: calendário e reajuste dos aposentados em 2026 ("aposentadoria 2026 calendário", "pagamento", "datas", "reajuste"); aposentadoria especial 2026; "regra antiga" (direito adquirido). Ver pauta.
 
 - Texto da EC 103 (arts. 15 a 26) não abriu (Planalto fora do ar; Câmara 404): a
   regra de cálculo está confirmada em duas matérias da Agência Brasil.

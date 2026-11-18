@@ -387,7 +387,7 @@ Lembrar o Renato desta lista a cada entrega.
 | Propaganda enganosa (`/artigos/propaganda-enganosa`), publicado em 23/10/2026 | `propaganda enganosa`; `propaganda enganosa o que fazer`; `como denunciar propaganda enganosa` | **revisado com o SerpApi em 18/11/2026** |
 | Compras no Paraguai (`/artigos/compras-no-paraguai`), publicado em 23/10/2026 | `compras no paraguai`; `cota paraguai`; `comprar do paraguai pela internet` | **revisado com o SerpApi em 18/11/2026** |
 | 13º dos aposentados do INSS (`/artigos/13-salario-aposentados-inss`), publicado em 23/10/2026 | `13 salário aposentados 2026`; `tabela do 13 salário dos aposentados 2026`; `13 salário inss` | **prints e AnswerThePublic recebidos e artigo revisado em 27/10/2026** |
-| Aposentadoria 2026 (`/artigos/aposentadoria-2026-regras`), publicado em 24/10/2026 | AnswerThePublic `aposentadoria` | **aguardando prints** |
+| Aposentadoria 2026 (`/artigos/aposentadoria-2026-regras`), publicado em 24/10/2026 | AnswerThePublic `aposentadoria` | **revisado com o SerpApi em 18/11/2026** (rotina diária) |
 | Divórcio (`/artigos/divorcio`), publicado em 24/10/2026 | AnswerThePublic `divórcio` | **aguardando prints** |
 | CNH sem autoescola (`/artigos/cnh-sem-autoescola`), publicado em 26/10/2026 | AnswerThePublic `cnh sem autoescola` | **aguardando prints** |
 | Guarda compartilhada (`/artigos/guarda-compartilhada`), publicado em 26/10/2026 | AnswerThePublic `guarda compartilhada` | **aguardando prints** |
