@@ -8,6 +8,7 @@ import { CalculadoraHorasExtras } from "@/components/calculadora-horas-extras";
 import { CalculadoraIrSalario } from "@/components/calculadora-ir-salario";
 import { CalculadoraJurosAbusivos } from "@/components/calculadora-juros-abusivos";
 import { CalculadoraAluguelAtrasado } from "@/components/calculadora-aluguel-atrasado";
+import { CalculadoraAuxilioDoenca } from "@/components/calculadora-auxilio-doenca";
 import { CalculadoraMultaAluguel } from "@/components/calculadora-multa-aluguel";
 import {
   CalculadoraAcordoDeDemissao,
@@ -63,6 +64,7 @@ const COMPONENTES_DAS_FERRAMENTAS: Record<
   "calculadora-juros-abusivos": CalculadoraJurosAbusivos,
   "calculadora-multa-aluguel": CalculadoraMultaAluguel,
   "calculadora-aluguel-atrasado": CalculadoraAluguelAtrasado,
+  "calculadora-auxilio-doenca": CalculadoraAuxilioDoenca,
   "simulador-voo": SimuladorVoo,
 };
 

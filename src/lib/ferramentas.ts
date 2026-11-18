@@ -24,6 +24,7 @@ export const FERRAMENTAS = [
   "calculadora-juros-abusivos",
   "calculadora-multa-aluguel",
   "calculadora-aluguel-atrasado",
+  "calculadora-auxilio-doenca",
   "simulador-voo",
 ] as const;
 

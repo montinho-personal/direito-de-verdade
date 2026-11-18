@@ -102,7 +102,7 @@ Como o salário de benefício vai até o teto do INSS, de **R$ 8.475,55** em 202
 
 Exemplo: se o salário de benefício calculado for de R$ 3.200, 91% dão R$ 2.912. Se a média dos 12 últimos salários de contribuição for de R$ 3.000, vale o menor: R$ 2.912, porque está abaixo do limite. Se a média dos 12 últimos fosse de R$ 2.500, o benefício cairia para R$ 2.500.
 
-O valor exato aparece no Meu INSS depois da concessão, na carta do benefício.
+Para fazer a conta com os seus números, use a [calculadora do auxílio-doença](/calculadoras/auxilio-doenca). O valor exato aparece no Meu INSS depois da concessão, na carta do benefício.
 
 ### Quem paga os primeiros 15 dias?
 

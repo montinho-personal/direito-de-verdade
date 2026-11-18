@@ -292,7 +292,7 @@ proprietário pediu o imóvel, venda casada e cobrança de dívida. Só pauta.
 | 1 | Condomínio atrasado: multa, juros, prazo e cobrança | "prazo para cobrar dívida de condomínio", "cobrança vexatória condomínio" | `condomínio atrasado multa`; `prazo para cobrar condomínio atrasado`; `condomínio atrasado pode tirar o imóvel` | **publicado em 17/11/2026** — [doc](artigos/condominio-atrasado.md), `/artigos/condominio-atrasado` |
 | 2 | Contrato de aluguel: o que não pode faltar | PAA "Quais são as cláusulas indispensáveis em um contrato de locação?" | `contrato de aluguel o que precisa ter`; `cláusulas do contrato de aluguel`; `contrato de aluguel residencial` | a fazer |
 | 3 | Consumação mínima, comida no cinema e outras cobranças abusivas | visão de IA da venda casada (cinema, consumação mínima, escola) | `consumação mínima é legal`; `pode entrar com comida no cinema`; `lista de material escolar abusiva` | a fazer, **só com fonte oficial** (STJ ou Procon) |
-| 4 | Calculadora do auxílio-doença 2026 (91% da média, piso e teto) | "calculadora auxílio doença 2026", em "Outras pessoas pesquisaram" (revisão do auxílio-doença) | `calculadora auxílio doença 2026`; `como calcular auxílio doença`; `valor do auxílio doença` | a fazer |
+| 4 | Calculadora do auxílio-doença 2026 (91% da média, piso e teto) | "calculadora auxílio doença 2026", em "Outras pessoas pesquisaram" (revisão do auxílio-doença) | `calculadora auxílio doença 2026`; `como calcular auxílio doença`; `valor do auxílio doença` | **publicada em 18/11/2026** — [doc](calculadoras/auxilio-doenca.md), `/calculadoras/auxilio-doenca` |
 
 **Não recomendo:** marcas e plataformas (QuintoAndar, Imóvel Guide); modelos de notificação e de petição; "multa de aluguel é tributável" (tributário, fora do público); "venda cruzada/conjugada" (jargão de mercado sem definição legal); horário de cobrança (sem regra legal para particulares); "simpatia para receber dívida".
 
@@ -496,6 +496,7 @@ Lembrar o Renato desta lista a cada entrega.
 
 ## Revisão anual (valores que mudam)
 
+- Calculadora do auxílio-doença e consignado do BPC: salário mínimo e teto do INSS em `src/lib/tributos/parametros-<ano>.ts` (a calculadora lê de lá), valores do texto (R$ 1.621, R$ 7.712,75, R$ 486,30) e a taxa média do consignado do BC.
 - Calendário do BPC (`/artigos/calendario-bpc-2026`): quando o INSS publicar a tabela de 2027, criar `/artigos/calendario-bpc-2027` (ou trocar o ano) e atualizar o link do BPC/LOAS; valor do mínimo. Condomínio atrasado: taxa legal (art. 406) e notícia do STF de 05/2026 sobre a prescrição.
 - Auxílio-reclusão (`/artigos/auxilio-reclusao`): valor (um salário mínimo) e limite de baixa renda na portaria de janeiro.
 - Superendividamento (`/artigos/superendividamento`) e nome sujo: mínimo existencial (R$ 600 desde 2023; conferir se o CMN atualizou).

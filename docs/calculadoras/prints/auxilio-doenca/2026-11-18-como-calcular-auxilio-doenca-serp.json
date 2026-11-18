@@ -1,0 +1,97 @@
+{
+  "busca": "como calcular auxílio doença",
+  "pesquisadaEm": "2026-11-18",
+  "origem": "SerpApi: Google Brasil (google.com.br), celular, São Paulo, pt-BR, sem personalização",
+  "autocompletar": [
+    "como calcular auxilio doença",
+    "como calcular auxilio doença inss",
+    "como calcular auxilio doença 2025",
+    "como calcular auxilio doença atrasado",
+    "como calcular auxilio doença acidentario",
+    "como calcular auxilio doença mei",
+    "como calcular valor auxilio doença",
+    "como calcular salario auxilio doença",
+    "como calcular rmi auxilio doença",
+    "como calcular carencia auxilio doença",
+    "como calcular o auxilio doença previdenciário",
+    "como calcular retroativo de auxílio doença"
+  ],
+  "asPessoasTambemPerguntam": [
+    "Quem ganha R$ 4500 paga quanto de INSS?",
+    "Qual o valor máximo que o INSS paga de auxílio-doença em 2026?",
+    "Quando a pessoa se afasta pelo INSS, o salário diminui.?",
+    "Deve-se contribuir com o INSS durante o auxílio-doença?"
+  ],
+  "outrasPessoasPesquisaram": [
+    "2 anos de auxílio doença aposenta",
+    "Auxilio doença quanto tempo para receber",
+    "Tempo de auxilio doença conta para aposentadoria por idade",
+    "Auxilio doença quanto tempo de contribuição",
+    "Tempo de auxilio doença conta para aposentadoria especial",
+    "Auxílio doença conta como tempo de contribuição e carência"
+  ],
+  "visaoDeIA": {
+    "texto": "O valor do auxílio-doença (atualmente chamado de benefício por incapacidade temporária) é calculado aplicando 91% sobre o salário de benefício, mas o INSS faz uma comparação com o teto e com a média recente.\nComo é feito o cálculo passo a passo\n  - Primeira média (Salário de Benefício):\n    - Calcula-se a média aritmética simples de 100% de todos os salários de contribuição desde julho de 1994 (ou desde o início das contribuições, se for posterior).\n    - Sobre essa média, aplica-se a alíquota de 91%.\n  - Segunda média (O limitador dos últimos 12 meses):\n    - O INSS também calcula a média aritmética simples apenas dos 12 últimos salários de contribuição.\n  - Regra do menor valor:\n    - O INSS compara o valor de 91% da média de toda a vida com a média dos últimos 12 salários, pagando sempre o menor dos dois valores.\n    - Essa regra evita que quem reduziu as contribuições no final da carreira ganhe um benefício inflado, mas também pode diminuir o valor para quem teve altos salários recentes.\n  - Limites de piso e teto (Valores para 2026):\n    - Piso: O benefício não pode ser menor que o salário mínimo vigente, que em 2026 é de R$ 1.621,00.\n    - Teto: O valor não pode ultrapassar o teto máximo pago pelo INSS (aproximadamente R$ 8.475,55 em 2026).\nResumo das Regras Práticas\n  - Quem paga os primeiros dias (para CLT): Nos primeiros 15 dias de afastamento por doença, a empresa é quem paga o salário. O INSS só começa a pagar a partir do 16º dia de incapacidade comprovada. Para autônomos ou MEI, o INSS paga desde o primeiro dia de afastamento (se cumprida a carência).\n  - Carência: Em regra, exige-se o pagamento de 12 contribuições mensais (carência), exceto em casos de acidentes de qualquer natureza ou doenças graves especificadas em lei.\n  - Simulação oficial: Você pode acompanhar ou simular os seus dados e conferir a sua Carta de Concessão através do aplicativo ou site oficial do Meu INSS.\nPara ajudar a entender melhor o seu caso, você poderia me dizer:\n  - Qual é a sua categoria de trabalhador (CLT, MEI, autônomo)?\n  - O afastamento é por doença comum (B31) ou acidente de trabalho (B91)?",
+    "fontes": [
+      "André Beschizza Advogados",
+      "Arraes & Centeno",
+      "GOV.BR",
+      "Maria Teixeira Advogados",
+      "Migalhas"
+    ]
+  },
+  "videos": [
+    {
+      "titulo": "COMO CALCULAR O VALOR DO AUXÍLIO DOENÇA DO INSS",
+      "canal": "PROFESSOR ORLANDO GUARIZI JUNIOR"
+    },
+    {
+      "titulo": "COMO CALCULAR VALOR DO AUXILIO DOENÇA",
+      "canal": "Me Aposentei"
+    },
+    {
+      "titulo": "Como Calcular o Valor do Auxílio-Doença",
+      "canal": "priscilaarraes.adv"
+    }
+  ],
+  "organicos": [
+    {
+      "posicao": 1,
+      "titulo": "Calculadora de Auxílio-Doença Brasil",
+      "endereco": "https://i24app.com/br/tools/sick-pay-calculator",
+      "trecho": "Auxílio-doença (INSS): 9.999 dias a 91 salário de benefício mensal, não de um valor diário direto. O piso do salário mínimo nacional (R$1.621,00 em 2026)"
+    },
+    {
+      "posicao": 2,
+      "titulo": "Auxílio-doença conta como tempo de contribuição?",
+      "endereco": "https://www.migalhas.com.br/amp/depeso/417288/auxilio-doenca-conta-como-tempo-de-contribuicao",
+      "trecho": "O tempo de afastamento do funcionário que recebe auxílio-doença entra para a contagem do tempo de contribuição para aposentadoria. Essa ..."
+    },
+    {
+      "posicao": 3,
+      "titulo": "Simulador de Contribuição",
+      "endereco": "https://www.previrb.com.br/calculadora-de-contribuicao/",
+      "trecho": "Simulador de Contribuição. Auxílio-Funeral. Auxílio doença 0,000% PARTICIPANTE 21 2277.1999 09:00 às 17:00 SEG. Veja mais informações aqui!"
+    },
+    {
+      "posicao": 4,
+      "titulo": "Boa tarde! Como é feito o calculo do beneficio por auxilio doença?",
+      "endereco": "(link de redirecionamento do Google omitido)"
+    },
+    {
+      "posicao": 5,
+      "titulo": "Quanto vou receber de auxílio-doença? Entenda o cálculo do INSS | Luna Responde",
+      "endereco": "(link de redirecionamento do Google omitido)"
+    },
+    {
+      "posicao": 6,
+      "titulo": "Valor do auxílio-doença: como o INSS calcula o benefício",
+      "endereco": "(link de redirecionamento do Google omitido)"
+    },
+    {
+      "posicao": 7,
+      "titulo": "Quanto você vai receber pelo auxílio por incapacidade temporária, antigo auxílio doença? ...",
+      "endereco": "(link de redirecionamento do Google omitido)"
+    }
+  ]
+}
