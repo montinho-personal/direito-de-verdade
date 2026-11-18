@@ -269,7 +269,7 @@ proprietário pediu o imóvel, venda casada e cobrança de dívida. Só pauta.
 
 **Não recomendo:** marcas e plataformas (QuintoAndar, Imóvel Guide); modelos de notificação e de petição; "multa de aluguel é tributável" (tributário, fora do público); "venda cruzada/conjugada" (jargão de mercado sem definição legal); horário de cobrança (sem regra legal para particulares); "simpatia para receber dívida".
 
-**Cabe em página existente:** "vende e não entrega" e "quando a loja devolve o dinheiro" → comprei e não chegou / direito de arrependimento; "como cobrar aluguel atrasado educadamente / pelo WhatsApp" → como cobrar dívida de pessoa física; "prazo para cobrar dívida trabalhista" → artigos de demissão (2 anos, Constituição). **Aplicado em 18/11/2026** (demissão sem justa causa).
+**Cabe em página existente (todos aplicados em 18/11/2026):** "vende e não entrega" e "quando a loja devolve o dinheiro" → comprei e não chegou / direito de arrependimento; "como cobrar aluguel atrasado educadamente / pelo WhatsApp" → como cobrar dívida de pessoa física; "prazo para cobrar dívida trabalhista" → artigos de demissão (2 anos, Constituição). **Aplicado em 18/11/2026** (demissão sem justa causa).
 
 ## Candidatos vindos das buscas que ficaram de fora (16/11/2026)
 

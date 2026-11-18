@@ -4,7 +4,7 @@ tituloSeo: "Direito de arrependimento CDC: 7 dias corridos e loja física"
 descricao: "Direito de arrependimento: o artigo 49 do CDC dá 7 dias corridos para devolver compra online, com frete pago pela loja. Veja o passo a passo e a loja física."
 categoria: consumidor
 publicadoEm: 2026-10-21
-atualizadoEm: 2026-10-23
+atualizadoEm: 2026-11-18
 faq:
   - pergunta: "Passaram os 7 dias. Ainda posso devolver?"
     resposta: "Pelo direito de arrependimento, não. Depois dos 7 dias, a devolução depende de o produto ter defeito (30 ou 90 dias para reclamar) ou da política de troca da loja."
@@ -119,6 +119,16 @@ Se a loja recusar, peça a recusa por escrito e reclame.
 - Em alguns produtos e serviços, segundo o **Procon-SC**: produtos **personalizados** ou feitos sob encomenda, produtos **perecíveis**, serviços já prestados por inteiro e alguns contratos financeiros ([Procon-SC](https://www.procon.sc.gov.br/procon-sc-explica-direito-de-arrependimento-vale-por-7-dias-para-compras-online/)).
 
 A lista do Procon-SC é um entendimento de órgão de defesa do consumidor, não uma regra escrita na lei, e cada caso pode ser discutido.
+
+## Quando a loja é obrigada a devolver o dinheiro?
+
+O arrependimento é um dos casos. Pelo CDC, a loja tem de devolver o que você pagou, corrigido, quando:
+
+- você **desiste da compra feita fora da loja física** em até 7 dias do recebimento (artigo 49);
+- o produto tem **defeito** e a loja **não resolve em 30 dias**: aí você escolhe entre a troca, o abatimento no preço ou a **devolução do dinheiro** ([CDC, artigo 18, § 1º](https://www2.camara.leg.br/legin/fed/lei/1990/lei-8078-11-setembro-1990-365086-normaatualizada-pl.html));
+- a loja **vendeu e não entregou**, ou não cumpriu o que anunciou: você pode cancelar e receber de volta o que pagou, com perdas e danos (artigo 35, III). Veja [o que fazer quando a compra não chegou](/artigos/compra-nao-chegou).
+
+Fora desses casos, como a troca por gosto na loja física, a devolução depende da política da loja.
 
 ## Em quanto tempo o dinheiro volta? E no cartão parcelado?
 

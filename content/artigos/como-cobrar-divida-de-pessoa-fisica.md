@@ -4,7 +4,7 @@ tituloSeo: "Como cobrar uma dívida de pessoa física: prazos e passos"
 descricao: "Como cobrar uma dívida de pessoa física: comece por escrito e, sem pagamento, vá ao Juizado. Prescreve em 3, 5 ou 10 anos. Veja os passos e o que evitar."
 categoria: consumidor
 publicadoEm: 2026-11-16
-atualizadoEm: 2026-11-16
+atualizadoEm: 2026-11-18
 faq:
   - pergunta: "Uma dívida de mais de 10 anos ainda pode ser cobrada?"
     resposta: "Em regra, não. O prazo geral do Código Civil é de 10 anos, e os prazos específicos são menores, como 5 anos para dívida com documento e 3 anos para aluguel. Passado o prazo, o STJ decidiu que a dívida não pode ser cobrada nem na Justiça nem fora dela."
@@ -44,6 +44,14 @@ Para **cobrar uma dívida de pessoa física**, comece pela **cobrança amigável
 3. **Cobre por escrito**, de forma direta e respeitosa: valor, origem, prazo para pagar e formas de pagamento. Mensagem, e-mail ou carta com aviso de recebimento servem como prova de que você cobrou.
 4. **Proponha um acordo** e, se a pessoa aceitar, registre por escrito, com as parcelas e as datas.
 5. **Sem pagamento, vá à Justiça** (veja abaixo).
+
+### Como cobrar pelo WhatsApp de forma educada (inclusive aluguel atrasado)
+
+A mensagem por WhatsApp ou e-mail vale como prova de que você cobrou, e a resposta da pessoa pode servir como reconhecimento da dívida. Mande **só para o devedor**, no particular, com o valor, a origem e um prazo. Um modelo:
+
+> Oi, [nome], tudo bem? Estou passando para lembrar do valor de R$ [valor], referente a [empréstimo de tal data / aluguel de tal mês], que venceu em [data]. Consegue me pagar até [data]? Se for melhor, podemos combinar em parcelas. Fico no aguardo.
+
+Se não houver resposta, repita a cobrança por escrito, com um novo prazo, e guarde as mensagens. No aluguel atrasado, informe o valor com a multa, os juros e a correção do contrato, que a [calculadora de aluguel atrasado](/calculadoras/aluguel-atrasado) mostra. **Não exponha a dívida** em grupos, status ou redes sociais, nem cobre o devedor por meio de parentes, vizinhos ou do chefe: isso pode virar processo contra quem cobra (veja abaixo, em cobrança vexatória).
 
 Se a pessoa reconhecer a dívida por escrito, mesmo fora da Justiça, o prazo de prescrição recomeça a contar daquele dia; isso só vale uma vez (artigo 202, VI e parágrafo único).
 

@@ -41,7 +41,7 @@ JSON em `prints/como-cobrar-divida-de-pessoa-fisica/`. Celular, São Paulo.
 
 ## Pendente
 
-- Da pesquisa de 16/11/2026 (aluguel atrasado, SerpApi): "como cobrar aluguel atrasado educadamente / pelo WhatsApp". Aplicar na próxima revisão (exemplo de mensagem de cobrança por escrito).
+- **Aplicado em 18/11/2026.** Da pesquisa de 16/11/2026 (aluguel atrasado, SerpApi): "como cobrar aluguel atrasado educadamente / pelo WhatsApp". Aplicar na próxima revisão (exemplo de mensagem de cobrança por escrito).
 
 - Possível recurso repetitivo do STJ sobre a cobrança extrajudicial de dívida prescrita (citado em busca, número não conferido): acompanhar; o texto diz que as decisões são da Terceira Turma.
 - Protesto em cartório (Lei 9.492/1997) e prescrição do cheque (Lei 7.357/1985): não lidos; fora.

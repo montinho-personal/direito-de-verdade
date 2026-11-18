@@ -58,7 +58,7 @@ Relatórios enviados pelo Renato em 23/10/2026, em
 
 ## Pendente
 
-- Da pesquisa de 16/11/2026 (venda casada, SerpApi): PAA "quando a loja devolve o dinheiro". Aplicar na próxima revisão.
+- **Aplicado em 18/11/2026.** Da pesquisa de 16/11/2026 (venda casada, SerpApi): PAA "quando a loja devolve o dinheiro". Aplicar na próxima revisão.
 
 - Parcelas futuras do cartão parcelado: sem fonte específica; o texto manda
   conferir as faturas e contestar.
