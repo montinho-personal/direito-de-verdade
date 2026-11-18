@@ -1,10 +1,10 @@
 ---
 titulo: "Divórcio: como fazer em cartório ou na Justiça, quanto custa e partilha de bens"
-tituloSeo: "Divórcio: como fazer em cartório ou na Justiça"
+tituloSeo: "Divórcio: em cartório, litigioso ou gratuito, como fazer"
 descricao: "Divórcio: não precisa separar antes nem esperar prazo. Em cartório, se for de acordo e com advogado, até com filhos menores. Veja documentos, custos e partilha."
 categoria: familia
 publicadoEm: 2026-10-24
-atualizadoEm: 2026-10-26
+atualizadoEm: 2026-11-18
 faq:
   - pergunta: "Posso me divorciar se o outro não quiser?"
     resposta: "Pode. Desde a Emenda Constitucional 66/2010, o divórcio não depende de nenhum requisito além da vontade de se divorciar, segundo o STF. Sem acordo, o pedido é feito na Justiça; o que pode demorar é a discussão de bens, guarda e pensão, não o divórcio em si."
@@ -34,6 +34,12 @@ fontes:
 ---
 
 Para se divorciar, **não é preciso se separar antes nem esperar um prazo de casamento**: desde 2010, basta a vontade de se divorciar, como decidiu o STF ([Tema 1.053](https://noticias.stf.jus.br/postsnoticias/stf-decide-que-exigencia-de-separacao-judicial-nao-e-requisito-para-divorcio/)). Se o casal está **de acordo**, o divórcio pode ser feito **em cartório**, com advogado, até quando há filhos menores, desde que guarda, convivência e pensão já tenham sido resolvidas na Justiça. **Sem acordo**, o pedido vai à **Justiça**, na vara de família.
+
+## Qual o primeiro passo para se divorciar?
+
+1. **Veja se há acordo** com o outro cônjuge sobre o divórcio, os bens e, se houver, a guarda, as visitas e a pensão dos filhos. Com acordo em tudo, dá para fazer em cartório; sem acordo, é na Justiça.
+2. **Procure um advogado ou a Defensoria Pública**: os dois caminhos exigem um deles.
+3. **Separe os documentos**: certidão de casamento atualizada, documentos de identidade, documentos dos bens e, se houver filhos, as certidões de nascimento.
 
 ## Divórcio em cartório ou na Justiça: qual escolher?
 
@@ -68,19 +74,19 @@ O divórcio consensual pode ser feito por **escritura pública** em um cartório
 
 ### Divórcio em cartório com filhos menores
 
-Desde agosto de 2024, o CNJ permite o divórcio em cartório mesmo com filhos menores ou incapazes, **desde que guarda, visitas e pensão já tenham sido resolvidas na Justiça**, o que fica registrado na escritura ([Resolução 35, artigo 34, § 2º](https://atos.cnj.jus.br/files/compilado1337242024090266d5bf9453961.pdf); [Agência Brasil](https://agenciabrasil.ebc.com.br/justica/noticia/2024-08/mesmo-com-filho-menor-divorcio-pode-ser-feito-em-cartorio)). Na dúvida sobre o interesse do filho, o tabelião leva a questão ao juiz que decidiu o caso.
+Essa é a regra mais nova do divórcio: desde agosto de 2024, o CNJ permite o divórcio em cartório mesmo com filhos menores ou incapazes, **desde que guarda, visitas e pensão já tenham sido resolvidas na Justiça**, o que fica registrado na escritura ([Resolução 35, artigo 34, § 2º](https://atos.cnj.jus.br/files/compilado1337242024090266d5bf9453961.pdf); [Agência Brasil](https://agenciabrasil.ebc.com.br/justica/noticia/2024-08/mesmo-com-filho-menor-divorcio-pode-ser-feito-em-cartorio)). Na dúvida sobre o interesse do filho, o tabelião leva a questão ao juiz que decidiu o caso.
 
 ### Divórcio online
 
 O divórcio em cartório também pode ser feito **pela internet**, pela plataforma **e-Notariado**: o casal assina digitalmente, em uma **videoconferência** com o tabelião, com o advogado presente ([Provimento CNJ 100/2020](https://atos.cnj.jus.br/atos/detalhar/3334); [Agência Brasil](https://agenciabrasil.ebc.com.br/geral/noticia/2022-06/agencia-brasil-explica-como-funciona-o-divorcio-online)). As regras são as mesmas do divórcio presencial; nem todo cartório oferece o serviço.
 
-## Como fazer o divórcio na Justiça
+## Divórcio litigioso: como fazer na Justiça (mesmo sem o outro concordar)
 
 O divórcio vai à Justiça quando **não há acordo** ou quando ainda é preciso decidir **guarda, visitas e pensão** dos filhos menores. O pedido é feito por advogado ou defensor público, na vara de família.
 
 O juiz chama o casal para uma **audiência de mediação e conciliação**, e a lei manda tentar o acordo de todas as formas ([CPC, artigos 694 e 695](https://www2.camara.leg.br/legin/fed/lei/2015/lei-13105-16-marco-2015-780273-normaatualizada-pl.html)). Sem acordo, o processo segue o rito comum. Mesmo quando o casal concorda, dá para pedir ao juiz que **homologue o acordo** (CPC, artigo 731).
 
-Para o divórcio em si, basta a vontade de um dos dois: o que costuma levar tempo é a discussão sobre bens, guarda e pensão. Por isso, o juiz pode decretar o divórcio e deixar a **partilha para depois** (Código Civil, artigo 1.581).
+Dá para pedir o divórcio **sozinho ou sozinha**: para o divórcio em si, basta a vontade de um dos dois: o que costuma levar tempo é a discussão sobre bens, guarda e pensão. Por isso, o juiz pode decretar o divórcio e deixar a **partilha para depois** (Código Civil, artigo 1.581).
 
 ## Partilha de bens no divórcio: quem fica com o quê?
 
@@ -95,10 +101,10 @@ Se a divisão não for meio a meio, ou se um passar ao outro um bem que era só 
 
 O divórcio não muda o dever de sustentar os filhos. A pensão segue as regras de necessidade de quem recebe e possibilidade de quem paga: veja [quanto se paga de pensão alimentícia](/artigos/pensao-alimenticia). A guarda pode ser **unilateral ou compartilhada** (Código Civil, artigo 1.583) e é decidida pela Justiça quando há filhos menores, por acordo homologado ou pelo juiz; veja [como funciona a guarda compartilhada](/artigos/guarda-compartilhada).
 
-## Quanto custa o divórcio?
+## Quanto custa o divórcio? Dá para fazer de graça?
 
 - **No cartório:** os **emolumentos** (a taxa do cartório) são fixados por lei de cada estado e não podem ser cobrados como percentual do valor dos bens ([Resolução 35, artigos 4º e 5º](https://atos.cnj.jus.br/files/compilado1337242024090266d5bf9453961.pdf)). Quem não pode pagar tem **gratuidade**, bastando declarar que não tem condições, mesmo com advogado particular (artigos 6º e 7º).
 - **Na Justiça:** há custas do processo, conforme o tribunal de cada estado; quem não tem recursos tem direito à **gratuidade da justiça** ([CPC, artigo 98](https://www2.camara.leg.br/legin/fed/lei/2015/lei-13105-16-marco-2015-780273-normaatualizada-pl.html)).
-- **Em ambos:** os **honorários do advogado**, combinados com ele, salvo atendimento pela Defensoria Pública.
+- **Em ambos:** os **honorários do advogado**, combinados com ele. Quem não pode pagar advogado pode fazer o divórcio **pela Defensoria Pública** do seu estado, no cartório ou na Justiça, sem pagar honorários.
 
 Como o valor muda de estado para estado, pergunte ao cartório antes de marcar.

@@ -11,11 +11,20 @@ tabela abaixo.
 todo, com pico em janeiro. O grupo de Família só tinha os dois artigos de pensão;
 este liga com eles (pensão, ex-cônjuge e guarda).
 
-## Prints recebidos
+## Prints recebidos (SerpApi, 18/11/2026)
 
-| print | conteúdo | onde entrou |
+Revisão da rotina diária, 2 buscas, celular, São Paulo. JSON em `prints/divorcio/`.
+
+| busca | conteúdo | onde entrou |
 |---|---|---|
-| (pendentes) AnswerThePublic `divórcio` | — | — |
+| `divórcio`, autocompletar | "Divórcio em Família" (filme, 5 variações) · **litigioso** · **com filho menor no cartório** · **gratuito** (2) · **extrajudicial** · Bíblia · "divórcio energético" · **online** · **no cartório precisa de advogado** | `tituloSeo` "em cartório, litigioso ou gratuito"; H2 "Divórcio litigioso…"; H2 "Quanto custa? Dá para fazer de graça?" (Defensoria); filhos menores, online e advogado já eram seções e FAQ. Filme, Bíblia, "energético": fora |
+| idem, PAA | Qual o valor da taxa? · **Qual é a nova regra do divórcio?** · **Qual o primeiro passo?** · Bíblia | H2 "Qual o primeiro passo para se divorciar?"; "regra mais nova" no H3 dos filhos menores (CNJ, 2024); taxa no H2 de custo |
+| idem, outras pesquisas | gratuito · online · Netflix · filme · valor · Bíblia · cartório gratuito · documento · extrajudicial · com filhos · civil · no Brasil | documentos no H2 do primeiro passo; o resto já coberto ou fora |
+| idem, visão de IA | só `page_token` (não pedida) | — |
+| `como dar entrada no divórcio`, autocompletar | **pela Defensoria Pública** (2, uma online) · online / pela internet · gratuito · no cartório · com filhos / filhos menores · **sem advogado** · litigioso · pelo Ministério Público · no fórum · sem pagar · e pensão alimentícia | Defensoria no H2 de custo e no primeiro passo; sem advogado: FAQ (não dá, mas pode ser defensor público). "Pela Defensoria online" e "pelo Ministério Público": fora (variam por estado, sem fonte lida) |
+| idem, PAA | primeiro passo para quem quer se separar · **dá para divorciar direto no cartório?** · quanto tempo demora o divórcio gratuito · **tem como pedir o divórcio sozinha?** | primeiro passo: H2 novo; cartório: já era H2; "sozinha" no H2 do litigioso. Tempo: fora (não há prazo na lei) |
+| idem, visão de IA | só `page_token` (não pedida) | — |
+| orgânicos | `divórcio`: Jusbrasil, Wikipédia, Defensoria ES (+ notícias e "perspectivas"). `como dar entrada`: loja de livros (2), Jusbrasil | o site não aparece; segunda busca com concorrentes muito fracos |
 
 ## Fontes confirmadas
 

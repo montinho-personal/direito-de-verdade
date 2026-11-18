@@ -234,6 +234,21 @@ Pedido do Renato em 09/11/2026: "Pode criar próximos 3 artigos de seo local". S
 | 2 | Advogado gratuito em Barueri | `advogado gratuito barueri`; `defensoria pública barueri`; `oab barueri atendimento gratuito`; `justiça gratuita` | **publicado em 09/11/2026; revisado com prints em 10/11/2026** — [doc](artigos/advogado-gratuito-em-barueri.md), `/artigos/advogado-gratuito-em-barueri` |
 | 3 | Juizado Especial Federal de Barueri | `juizado especial federal barueri`; `justiça federal barueri`; `jef barueri telefone` | **publicado em 09/11/2026; revisado com prints em 10/11/2026** — [doc](artigos/juizado-especial-federal-de-barueri.md), `/artigos/juizado-especial-federal-de-barueri` |
 
+## Candidatos vindos das buscas que ficaram de fora (18/11/2026, rotina diária)
+
+Das revisões de aposentadoria 2026 e divórcio. Só pauta.
+
+**Valem um artigo (na ordem):**
+
+| ordem | artigo | de onde veio | buscas | status |
+|---|---|---|---|---|
+| 1 | Calendário de pagamento do INSS 2026 (aposentados acima do mínimo) e reajuste | autocompletar de `aposentadoria 2026`: calendário, pagamento, datas, reajuste | `calendário inss 2026`; `pagamento aposentados dezembro 2026`; `reajuste aposentadoria 2026` | a fazer; o PDF oficial do INSS já foi lido (tabela "acima de 1 salário mínimo"); reajuste só com a portaria |
+| 2 | Aposentadoria especial 2026 | autocompletar de `regra de transição aposentadoria 2026` e "nova lei da aposentadoria especial 2026" | `aposentadoria especial 2026`; `aposentadoria especial regra de transição`; `aposentadoria especial pontos` | a fazer, com a EC 103 e o INSS |
+
+**Não recomendo:** filme "Divórcio em Família", Netflix, Bíblia, "divórcio energético" (fora do tema); "como dar entrada no divórcio pela Defensoria online" e "pelo Ministério Público" (variam por estado; cabe a frase da Defensoria que já está no artigo); tempo do divórcio gratuito (não há prazo na lei).
+
+**Cabe em página existente:** "regra antiga" da aposentadoria (direito adquirido até 13/11/2019) → aposentadoria 2026, anotado no doc, só com fonte do INSS.
+
 ## Candidatos vindos das buscas que ficaram de fora (18/11/2026)
 
 Das revisões de multa de contrato de aluguel, plano de saúde negou cobertura, propaganda enganosa e compras no Paraguai. Só pauta.
@@ -388,7 +403,7 @@ Lembrar o Renato desta lista a cada entrega.
 | Compras no Paraguai (`/artigos/compras-no-paraguai`), publicado em 23/10/2026 | `compras no paraguai`; `cota paraguai`; `comprar do paraguai pela internet` | **revisado com o SerpApi em 18/11/2026** |
 | 13º dos aposentados do INSS (`/artigos/13-salario-aposentados-inss`), publicado em 23/10/2026 | `13 salário aposentados 2026`; `tabela do 13 salário dos aposentados 2026`; `13 salário inss` | **prints e AnswerThePublic recebidos e artigo revisado em 27/10/2026** |
 | Aposentadoria 2026 (`/artigos/aposentadoria-2026-regras`), publicado em 24/10/2026 | AnswerThePublic `aposentadoria` | **revisado com o SerpApi em 18/11/2026** (rotina diária) |
-| Divórcio (`/artigos/divorcio`), publicado em 24/10/2026 | AnswerThePublic `divórcio` | **aguardando prints** |
+| Divórcio (`/artigos/divorcio`), publicado em 24/10/2026 | AnswerThePublic `divórcio` | **revisado com o SerpApi em 18/11/2026** (rotina diária) |
 | CNH sem autoescola (`/artigos/cnh-sem-autoescola`), publicado em 26/10/2026 | AnswerThePublic `cnh sem autoescola` | **aguardando prints** |
 | Guarda compartilhada (`/artigos/guarda-compartilhada`), publicado em 26/10/2026 | AnswerThePublic `guarda compartilhada` | **aguardando prints** |
 | Licença-paternidade (`/artigos/licenca-paternidade`), publicado em 29/10/2026 | Google: `licença paternidade`; `licença paternidade 2027`; `licença paternidade quantos dias`; AnswerThePublic `licença paternidade` | **aguardando prints** |

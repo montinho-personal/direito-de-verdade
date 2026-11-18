@@ -46,7 +46,7 @@ do gov.br pedindo login).
 
 ## Pendente
 
-- Da pesquisa de 18/11/2026: calendário e reajuste dos aposentados em 2026 ("aposentadoria 2026 calendário", "pagamento", "datas", "reajuste"); aposentadoria especial 2026; "regra antiga" (direito adquirido). Ver pauta.
+- Da pesquisa de 18/11/2026: calendário e reajuste dos aposentados em 2026 ("aposentadoria 2026 calendário", "pagamento", "datas", "reajuste"); aposentadoria especial 2026 (pauta). "Regra antiga" (direito adquirido até 13/11/2019): Aplicar na próxima revisão, com fonte do INSS.
 
 - Texto da EC 103 (arts. 15 a 26) não abriu (Planalto fora do ar; Câmara 404): a
   regra de cálculo está confirmada em duas matérias da Agência Brasil.
