@@ -13,12 +13,21 @@ fora de nomes de lojas. No de `black friday`, "quando é a black friday no parag
 paraguaios: assunto novo, com pouca concorrência boa. Liga com a taxa de
 importação (artigo e calculadora).
 
-## Prints recebidos
+## Prints recebidos (SerpApi, 18/11/2026)
 
-| print | conteúdo | onde entrou |
+Revisão pedida pelo Renato ("pode fazer mais 2"), 2 buscas, celular, São Paulo. JSON em `prints/compras-no-paraguai/`.
+
+| busca | conteúdo | onde entrou |
 |---|---|---|
-| AnswerThePublic `compra online`, motores de busca (23/10/2026), em `prints/direito-de-arrependimento/answerthepublic/` | buscas de "compra online paraguai" (~2,7 mil somadas); "como compra online no paraguai"; "compra online direto do paraguai" | origem da pauta; H2 da compra online pelos Correios |
-| (pendentes) `compras no paraguai`; `cota paraguai`; `comprar do paraguai pela internet` | — | — |
+| `compras no paraguai`, autocompletar | site · comprasparaguai.com.br (2) · Shopping China · **entrega no Brasil** · iPhone · perfume · **online** · iPhone 17 Pro Max · notebook · o que vale a pena · PlayStation 5 · Cellshop · **e receba no Brasil** · tablet | compra online e entrega pelos Correios já era H2; perfume e iPhone no H3 novo "Quantos perfumes ou iPhones posso trazer?". Lojas, sites e produtos de marca: fora |
+| idem, PAA e outras pesquisas | nenhuma | — |
+| idem, visão de IA | o que vale a pena comprar; lojas (Cellshop, Nissei, Shopping China, Monalisa); cota de US$ 500 e 50%; formas de pagamento e taxas; aviso sobre golpes com o nome do portal. Fontes: Airalo, ComprasParaguai, Facebook, Melhores Destinos, YouTube, Lojas Paraguai | não é fonte. Só a cota (que bate) é do tema do site; lojas e taxas de pagamento: fora |
+| `cota paraguai`, autocompletar | 2026 · **avião / via aérea** (2) · Brasil · **1.000 dólares** · terrestre · **em reais / hoje** (3) · 500 dólares · **é por dia / é mensal** · compras | H3 "Voltei de avião: a cota é de US$ 1.000?" (Receita, conferido em 18/11/2026); câmbio no H3 dos perfumes; "por dia/mensal" na FAQ dos 30 dias |
+| idem, PAA | Qual a cota na fronteira? · **Pode trazer 1 iPhone?** · valor do dólar hoje · **Quantos perfumes posso trazer?** | H3 novo dos perfumes e iPhone (limite de 3 iguais, cota e excedente); dólar do dia: fora (muda todo dia) |
+| idem, visão de IA | US$ 500 terra, US$ 1.000 avião; individual; 30 dias; crianças com a mesma cota; 50% sobre o excedente e e-DBV; limites de quantidade; bebida e cigarro. Fontes: ComprasParaguai, Secretaria de Turismo de Foz, Turismo Itaipu, blog | não é fonte; conferido na Receita. "Crianças com a mesma cota": a Receita não diz isso na página lida; fora |
+| orgânicos | `compras no paraguai`: **Facebook**, Odysee (vídeo), **Instagram**. `cota paraguai`: **Pinterest**, Local Planet, **Facebook** | o site não aparece; **concorrentes muito fracos** (redes sociais) nas duas buscas: prioridade alta para medir |
+
+**Formato:** a busca principal é de lojas e produtos (intenção de compra); o artigo disputa as buscas de cota e imposto.
 
 ## Fontes confirmadas
 

@@ -4,6 +4,7 @@ tituloSeo: "Compras no Paraguai 2026: cota, imposto e compra online"
 descricao: "Compras no Paraguai 2026: a cota por terra é de US$ 500 a cada 30 dias, e o excesso paga 50%. Online, sites paraguaios já entregam pelos Correios. Veja a conta."
 categoria: consumidor
 publicadoEm: 2026-10-23
+atualizadoEm: 2026-11-18
 faq:
   - pergunta: "A cota de US$ 500 pode ser somada entre a família?"
     resposta: "Não. As isenções são **individuais e intransferíveis**, e as cotas não podem ser somadas, nem entre familiares, segundo a Receita Federal. Cada pessoa usa a sua."
@@ -57,6 +58,14 @@ Regras da cota:
 Se passar desses limites, os bens são tratados como bagagem, mas **sem isenção**: paga imposto sobre tudo.
 
 Além da cota, quem compra nas **lojas francas (free shops) de fronteira terrestre**, do lado brasileiro, tem uma cota **adicional de US$ 500** a cada 30 dias.
+
+### Quantos perfumes ou iPhones posso trazer do Paraguai?
+
+Por terra, itens de **mais de US$ 5** entram no limite de **até 10 unidades, no máximo 3 iguais**: dá para trazer até 3 perfumes iguais, por exemplo, desde que o total caiba na cota. Um iPhone pode vir, mas, se ele custar mais de US$ 500, passa da cota: é preciso declarar e pagar 50% sobre o que passou (veja a conta abaixo). A cota e os limites são em **dólar**; o valor em reais muda com o câmbio do dia.
+
+### Voltei de avião: a cota é de US$ 1.000?
+
+**Sim.** A cota de **US$ 1.000** vale para quem **chega ao Brasil por via aérea ou marítima**; a de US$ 500, para quem chega por terra, rio ou lago, como pela Ponte da Amizade ([Receita Federal](https://www.gov.br/receitafederal/pt-br/assuntos/aduana-e-comercio-exterior/viagens-internacionais/guia-do-viajante/entrada-no-brasil/cota-de-isencao-duty-free-e-bagagem-tributavel)). O que conta é como você **entra no Brasil**, e não como foi ao Paraguai. Pelo avião, os limites de quantidade também mudam: itens de mais de US$ 10, até 20 unidades e no máximo 3 iguais.
 
 ## Passei da cota: quanto pago de imposto?
 

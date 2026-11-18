@@ -1,12 +1,13 @@
 ---
 titulo: "Propaganda enganosa: o que é, exemplos e como denunciar"
-tituloSeo: "Propaganda enganosa: o que é, exemplos e o que fazer"
+tituloSeo: "Propaganda enganosa: é crime? Exemplos e o que fazer"
 descricao: "Propaganda enganosa é proibida pelo CDC, e o anúncio obriga a loja: você pode exigir o que foi prometido ou o dinheiro de volta. Veja exemplos e como denunciar."
 categoria: consumidor
 publicadoEm: 2026-10-23
+atualizadoEm: 2026-11-18
 faq:
-  - pergunta: "Propaganda enganosa é crime?"
-    resposta: "É. Fazer ou promover publicidade que se sabe ou se deveria saber enganosa é crime, com pena de **detenção de 3 meses a 1 ano e multa** (CDC, artigo 67). Isso não impede as outras consequências: multa do Procon e o direito do consumidor de exigir o que foi anunciado."
+  - pergunta: "Qual é a indenização por propaganda enganosa?"
+    resposta: "Não há um valor fixo na lei. Primeiro, você tem direito ao que foi anunciado ou à devolução do que pagou, corrigida, com perdas e danos (CDC, artigo 35). Indenização por dano moral depende de um prejuízo que vá além do aborrecimento, e o valor é decidido pelo juiz em cada caso."
   - pergunta: "Quem tem que provar que a propaganda é verdadeira?"
     resposta: "A empresa. O CDC diz que o ônus de provar que a informação publicitária é verdadeira e correta é de **quem a patrocina** (artigo 38). E a empresa tem que guardar os dados técnicos e científicos que sustentam o que anuncia (artigo 36)."
   - pergunta: "Propaganda de influenciador sem aviso de publicidade é permitida?"
@@ -14,7 +15,7 @@ faq:
   - pergunta: "A loja errou o preço no anúncio. Tem que vender por esse valor?"
     resposta: "Em regra, sim: o anúncio obriga a loja. Mas o STJ já decidiu que um **erro grosseiro**, muito fora do preço normal e avisado logo, pode livrar a loja, conforme o caso (REsp 1.794.991). Veja [o que fazer quando a loja cancela o pedido](/artigos/loja-cancelou-pedido)."
 fontes:
-  - nome: "Código de Defesa do Consumidor, artigos 30, 31, 35 a 38, 56, 60 e 67, texto atualizado (Câmara dos Deputados)"
+  - nome: "Código de Defesa do Consumidor, artigos 30, 31, 35 a 38, 56, 60, 66 e 67, texto atualizado (Câmara dos Deputados)"
     url: "https://www2.camara.leg.br/legin/fed/lei/1990/lei-8078-11-setembro-1990-365086-normaatualizada-pl.html"
   - nome: "Senacon (Ministério da Justiça): cartilha da Black Friday 2025 (\"metade do dobro\")"
     url: "https://www.gov.br/mj/pt-br/assuntos/arquivos-imprensa/senacon/cartilha-black-friday-senacon-2025"
@@ -22,6 +23,8 @@ fontes:
     url: "https://processo.stj.jus.br/jurisprudencia/externo/informativo/?acao=pesquisarumaedicao&livre=%40cod%3D%270671%27"
   - nome: "Procon-SP: orientações ao fornecedor (março de 2024): como anunciar desconto e parcelas"
     url: "https://www.procon.sp.gov.br/wp-content/uploads/2024/05/Procon_Orientacoes_ao_Fornededor_2024.pdf"
+  - nome: "Lei nº 9.099/1995 (Juizados Especiais), artigos 3º e 9º, texto atualizado (Câmara dos Deputados)"
+    url: "https://www2.camara.leg.br/legin/fed/lei/1995/lei-9099-26-setembro-1995-348608-normaatualizada-pl.html"
   - nome: "Consumidor.gov.br: como funciona"
     url: "https://www.consumidor.gov.br/pages/conteudo/publico/1"
 ---
@@ -73,7 +76,20 @@ Passo a passo:
 3. **Reclame no Procon ou no Consumidor.gov.br** se não resolver; veja [como reclamar no Procon e no Consumidor.gov.br](/artigos/como-reclamar-procon).
 4. **Vá ao Juizado Especial Cível** se precisar exigir o cumprimento ou a devolução na Justiça.
 
+### Posso processar a empresa por propaganda enganosa?
+
+Pode. No **Juizado Especial Cível**, causas de até **40 salários mínimos** são julgadas sem custas na primeira instância, e até **20 salários mínimos** você não precisa de advogado ([Lei 9.099/1995, artigos 3º e 9º](https://www2.camara.leg.br/legin/fed/lei/1995/lei-9099-26-setembro-1995-348608-normaatualizada-pl.html)). Leve a prova do anúncio, a nota fiscal e os protocolos. Lembre que é a empresa quem tem de provar que a propaganda era verdadeira (artigo 38).
+
 Comprou pela internet? Além de tudo isso, você tem **7 dias para desistir** depois de receber o produto, sem precisar explicar o motivo; veja o [direito de arrependimento](/artigos/direito-de-arrependimento).
+
+## Propaganda enganosa é crime? Qual a pena?
+
+**É.** O CDC tem dois crimes ligados a ela:
+
+- **fazer ou promover publicidade** que se sabe ou se deveria saber enganosa ou abusiva: **detenção de 3 meses a 1 ano e multa** ([CDC, artigo 67](https://www2.camara.leg.br/legin/fed/lei/1990/lei-8078-11-setembro-1990-365086-normaatualizada-pl.html));
+- **fazer afirmação falsa ou enganosa**, ou omitir informação relevante sobre a característica, a qualidade, o preço ou a garantia do produto: a mesma pena, que vale também para quem patrocina a oferta (artigo 66).
+
+O crime não impede as outras consequências: multa do Procon, contrapropaganda e o direito do consumidor de exigir o que foi anunciado.
 
 ## Como denunciar propaganda enganosa
 

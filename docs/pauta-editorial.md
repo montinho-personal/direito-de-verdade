@@ -236,13 +236,15 @@ Pedido do Renato em 09/11/2026: "Pode criar próximos 3 artigos de seo local". S
 
 ## Candidatos vindos das buscas que ficaram de fora (18/11/2026)
 
-Das revisões de multa de contrato de aluguel e plano de saúde negou cobertura. Só pauta.
+Das revisões de multa de contrato de aluguel, plano de saúde negou cobertura, propaganda enganosa e compras no Paraguai. Só pauta.
 
 **Vale um artigo:** cobertura odontológica do plano (`rol da ans odontologia`, "dental", "odonto", "prótese dentária no rol"; 4 variações) — só com o rol e o anexo da ANS lidos.
 
 **Não recomendo:** modelo de carta de rescisão de aluguel e "QuintoAndar" (marca, modelo de documento); "inquilino traficante", "falta de água" e "processar inquilino por água e luz" (fora do tema da revisão, sem busca própria pesquisada); "rol da ANS cirurgia refrativa" e "avaliação neuropsicológica" (procedimentos isolados, viram muitas páginas iguais); "quantos procedimentos tem o rol" (número muda a cada atualização).
 
 **Cabe em página existente:** nenhuma pendente (aluguel adiantado e dias para sair já estão na calculadora e em "proprietário pediu o imóvel").
+
+Das revisões de propaganda enganosa e compras no Paraguai (18/11/2026): **não recomendo** lojas, sites e produtos de marca do Paraguai (Shopping China, Cellshop, iPhone 17, PlayStation), casos de famosos (MC Carol) e Temu; "dólar hoje" (muda todo dia). **Para depois, só com fonte oficial:** como denunciar ao Conar e à Anvisa.
 
 ## Candidatos vindos das buscas que ficaram de fora (17/11/2026, rotina diária)
 
@@ -382,8 +384,8 @@ Lembrar o Renato desta lista a cada entrega.
 | Multa de contrato de aluguel (`/artigos/multa-contrato-de-aluguel`), publicado em 23/10/2026 | `multa rescisão contrato aluguel`; `multa por quebra de contrato de aluguel como calcular`; `sair do aluguel antes do prazo` | **revisado com o SerpApi em 18/11/2026** |
 | Plano de saúde negou cobertura (`/artigos/plano-de-saude-negou-cobertura`), publicado em 23/10/2026 | `plano de saúde negou cobertura o que fazer`; `reclamar na ans`; `rol da ans` | **revisado com o SerpApi em 18/11/2026** |
 | Loja pode cobrar mais caro no cartão (`/artigos/loja-pode-cobrar-mais-caro-no-cartao`), publicado em 23/10/2026 | `loja pode cobrar mais caro no cartão`; `preço diferente no pix e no cartão`; `valor mínimo no cartão` | **prints e AnswerThePublic recebidos e artigo corrigido em 27/10/2026** (falta `valor mínimo no cartão`) |
-| Propaganda enganosa (`/artigos/propaganda-enganosa`), publicado em 23/10/2026 | `propaganda enganosa`; `propaganda enganosa o que fazer`; `como denunciar propaganda enganosa` | **aguardando prints** |
-| Compras no Paraguai (`/artigos/compras-no-paraguai`), publicado em 23/10/2026 | `compras no paraguai`; `cota paraguai`; `comprar do paraguai pela internet` | **aguardando prints** |
+| Propaganda enganosa (`/artigos/propaganda-enganosa`), publicado em 23/10/2026 | `propaganda enganosa`; `propaganda enganosa o que fazer`; `como denunciar propaganda enganosa` | **revisado com o SerpApi em 18/11/2026** |
+| Compras no Paraguai (`/artigos/compras-no-paraguai`), publicado em 23/10/2026 | `compras no paraguai`; `cota paraguai`; `comprar do paraguai pela internet` | **revisado com o SerpApi em 18/11/2026** |
 | 13º dos aposentados do INSS (`/artigos/13-salario-aposentados-inss`), publicado em 23/10/2026 | `13 salário aposentados 2026`; `tabela do 13 salário dos aposentados 2026`; `13 salário inss` | **prints e AnswerThePublic recebidos e artigo revisado em 27/10/2026** |
 | Aposentadoria 2026 (`/artigos/aposentadoria-2026-regras`), publicado em 24/10/2026 | AnswerThePublic `aposentadoria` | **aguardando prints** |
 | Divórcio (`/artigos/divorcio`), publicado em 24/10/2026 | AnswerThePublic `divórcio` | **aguardando prints** |
