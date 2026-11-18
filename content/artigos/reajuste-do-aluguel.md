@@ -4,8 +4,10 @@ tituloSeo: "Reajuste do aluguel: como calcular com IGP-M ou IPCA"
 descricao: "Reajuste do aluguel: só uma vez por ano, pelo índice do contrato (IGP-M, IPCA ou outro). Veja a conta, onde achar o índice oficial e quando dá para negociar."
 categoria: moradia
 publicadoEm: 2026-10-29
-atualizadoEm: 2026-10-29
+atualizadoEm: 2026-11-18
 faq:
+  - pergunta: "É possível reajustar o aluguel depois de 3 anos de contrato?"
+    resposta: "O reajuste anual pelo índice do contrato continua valendo todo ano, inclusive depois de 3 anos. O que muda é que, depois de 3 anos de contrato ou do último acordo, o proprietário ou o inquilino pode pedir na Justiça a revisão do aluguel, para levá-lo ao preço de mercado, se não houver acordo (Lei do Inquilinato, artigo 19)."
   - pergunta: "O proprietário pode reajustar o aluguel antes de 1 ano?"
     resposta: "Não. A lei considera nula qualquer cláusula de reajuste com periodicidade menor que um ano (Lei 10.192/2001, artigo 2º, § 1º). O reajuste vale a cada 12 meses, contados do início do contrato ou do último reajuste."
   - pergunta: "O aluguel pode ser reajustado pelo salário mínimo ou pelo dólar?"

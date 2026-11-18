@@ -4,7 +4,7 @@ tituloSeo: "Como contestar compra no cartão de crédito: prazo e estorno"
 descricao: "Como contestar compra no cartão de crédito no Nubank, Itaú, BB ou Caixa: avise 10 dias antes do vencimento e não pague o valor. Veja quanto demora o estorno."
 categoria: consumidor
 publicadoEm: 2026-10-21
-atualizadoEm: 2026-11-16
+atualizadoEm: 2026-11-18
 faq:
   - pergunta: "Como cancelar uma compra não reconhecida no cartão de crédito?"
     resposta: "Pelo app do banco: abra a fatura, toque na compra e escolha a opção de contestar ou de não reconhecer. Peça também o bloqueio do cartão e registre boletim de ocorrência, como orienta o Ministério da Justiça."
@@ -35,6 +35,8 @@ fontes:
     url: "https://processo.stj.jus.br/jurisprudencia/externo/informativo/?acao=pesquisarumaedicao&livre=0693.cod."
   - nome: "STJ: Tema repetitivo 929 (tese firmada; acórdão publicado em 03/11/2026)"
     url: "https://processo.stj.jus.br/repetitivos/temas_repetitivos/pesquisa.jsp?novaConsulta=true&tipo_pesquisa=T&cod_tema_inicial=929&cod_tema_final=929"
+  - nome: "Lei nº 9.099/1995 (Juizados Especiais), artigos 3º e 9º, texto atualizado (Câmara dos Deputados)"
+    url: "https://www2.camara.leg.br/legin/fed/lei/1995/lei-9099-26-setembro-1995-348608-normaatualizada-pl.html"
   - nome: "STJ: Súmula 479"
     url: "https://scon.stj.jus.br/SCON/sumstj/toc.jsp?livre=%27479%27.num.&O=JT"
   - nome: "TJDFT: o mero descumprimento contratual causa, por si só, dano moral?"
@@ -111,6 +113,17 @@ O Ministério da Justiça orienta ([Sofri um golpe, e agora?](https://www.gov.br
 3. **Avise a loja ou a plataforma** onde a compra foi feita e peça o comprovante da contestação.
 
 O banco responde pelas fraudes feitas por terceiros nas operações bancárias, sem precisar provar culpa dele: é a [Súmula 479 do STJ](https://scon.stj.jus.br/SCON/sumstj/toc.jsp?livre=%27479%27.num.&O=JT). O Procon-SP considera indevida a cláusula do contrato que joga no titular a culpa pelas compras feitas antes do aviso de perda ou roubo ([perguntas frequentes](https://www.procon.sp.gov.br/perguntas-frequentes/)).
+
+### Dá para descobrir quem fez a compra no meu cartão?
+
+A fatura mostra a loja, a data e o valor de cada compra. Para identificar **quem** usou o cartão, o caminho é o **boletim de ocorrência**: a investigação é da polícia, e o boletim também serve de prova na contestação ([Ministério da Justiça](https://www.gov.br/mj/pt-br/acesso-a-informacao/acoes-e-programas/sofri-um-golpe-e-agora/fizeram-compras-on-line-com-os-dados-do-meu-cartao)). Você **não precisa descobrir quem foi** para ter o dinheiro de volta: o banco responde pela fraude feita por terceiros (Súmula 479 do STJ).
+
+### O banco não aceitou a contestação. O que fazer?
+
+1. **Peça a resposta por escrito**, com o motivo da recusa e o número do protocolo.
+2. **Reclame na ouvidoria do banco**, que tem **10 dias úteis** para responder ([Resolução CMN 4.860/2020](https://www.bcb.gov.br/api/conteudo/app/normativos/exibenormativo?p1=Resolu%C3%A7%C3%A3o%20CMN&p2=4860)).
+3. **Registre reclamação no [Banco Central](https://www.bcb.gov.br/meubc/registrar_reclamacao)** e no [Procon ou no Consumidor.gov.br](/artigos/como-reclamar-procon), com o boletim de ocorrência e os protocolos.
+4. **Sem solução, vá ao Juizado Especial Cível**, que julga causas de até 40 salários mínimos, sem advogado até 20 ([Lei 9.099/1995, artigos 3º e 9º](https://www2.camara.leg.br/legin/fed/lei/1995/lei-9099-26-setembro-1995-348608-normaatualizada-pl.html)). Na compra que você não fez, a Súmula 479 pesa a seu favor.
 
 ### Compra não reconhecida dá dano moral?
 
