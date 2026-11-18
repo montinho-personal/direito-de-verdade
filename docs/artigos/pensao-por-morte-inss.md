@@ -23,7 +23,7 @@ Benefício previdenciário de alta procura que o site não tinha; liga BPC, apos
 
 ## Pendente
 
-- Da pesquisa de 17/11/2026 (pensão alimentícia, SerpApi): a busca "quanto é a pensão alimentícia" mistura resultados de pensão por morte; conferir na próxima revisão se o texto deixa clara a diferença e linka a pensão alimentícia.
+- **Aplicado em 18/11/2026.** Da pesquisa de 17/11/2026 (pensão alimentícia, SerpApi): a busca "quanto é a pensão alimentícia" mistura resultados de pensão por morte; conferir na próxima revisão se o texto deixa clara a diferença e linka a pensão alimentícia.
 
 - Acumulação de pensão com aposentadoria (EC 103/2019, art. 24, redução por faixas): não conferido; fora.
 - Pensão por morte rural e do segurado especial: só citada.

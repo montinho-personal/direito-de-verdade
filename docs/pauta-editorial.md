@@ -251,7 +251,7 @@ Das revisões de pensão alimentícia e de BPC/LOAS. Só pauta.
 
 **Também não recomendo (da pesquisa da pensão para ex-esposa):** "alimentos transitórios" como página (termo técnico; a regra já está no artigo); pensão de ex-esposa de militar (regra própria, nicho). **Para depois, só com fonte oficial:** alimentos compensatórios (12 variações em "Outras pessoas pesquisaram"); "alimentos gravídicos retroativos" e devolução quando o DNA afasta a paternidade (a Lei 11.804 não trata; precisa de decisão do STJ).
 
-**Cabe em página existente:** Pix Pensão (agora H2 da pensão alimentícia; não vale página separada, canibalizaria); "pensão por morte" que aparece misturada na busca `quanto é a pensão alimentícia` → já existe `/artigos/pensao-por-morte-inss`.
+**Cabe em página existente:** Pix Pensão (agora H2 da pensão alimentícia; não vale página separada, canibalizaria); "pensão por morte" que aparece misturada na busca `quanto é a pensão alimentícia` → já existe `/artigos/pensao-por-morte-inss`. **FAQ da diferença aplicada em 18/11/2026.**
 
 ## Candidatos vindos das buscas que ficaram de fora (16/11/2026, 2ª rodada)
 
@@ -269,7 +269,7 @@ proprietário pediu o imóvel, venda casada e cobrança de dívida. Só pauta.
 
 **Não recomendo:** marcas e plataformas (QuintoAndar, Imóvel Guide); modelos de notificação e de petição; "multa de aluguel é tributável" (tributário, fora do público); "venda cruzada/conjugada" (jargão de mercado sem definição legal); horário de cobrança (sem regra legal para particulares); "simpatia para receber dívida".
 
-**Cabe em página existente:** "vende e não entrega" e "quando a loja devolve o dinheiro" → comprei e não chegou / direito de arrependimento; "como cobrar aluguel atrasado educadamente / pelo WhatsApp" → como cobrar dívida de pessoa física; "prazo para cobrar dívida trabalhista" → artigos de demissão (2 anos, Constituição).
+**Cabe em página existente:** "vende e não entrega" e "quando a loja devolve o dinheiro" → comprei e não chegou / direito de arrependimento; "como cobrar aluguel atrasado educadamente / pelo WhatsApp" → como cobrar dívida de pessoa física; "prazo para cobrar dívida trabalhista" → artigos de demissão (2 anos, Constituição). **Aplicado em 18/11/2026** (demissão sem justa causa).
 
 ## Candidatos vindos das buscas que ficaram de fora (16/11/2026)
 

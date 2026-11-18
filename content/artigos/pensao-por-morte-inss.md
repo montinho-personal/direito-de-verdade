@@ -4,8 +4,10 @@ tituloSeo: "Pensão por morte INSS: valor, duração e quem tem direito"
 descricao: "Pensão por morte do INSS: 50% da aposentadoria mais 10% por dependente, vitalícia para viúvos com 45 anos ou mais. Veja quem tem direito, prazos e como pedir."
 categoria: previdencia
 publicadoEm: 2026-11-09
-atualizadoEm: 2026-11-09
+atualizadoEm: 2026-11-18
 faq:
+  - pergunta: "Pensão por morte e pensão alimentícia são a mesma coisa?"
+    resposta: "Não. A pensão por morte é um benefício do INSS, pago aos dependentes do segurado que morreu. A pensão alimentícia é paga por uma pessoa, em geral pai ou mãe, para sustentar um parente, como o filho, por acordo ou decisão da Justiça. Quem recebia pensão alimentícia do falecido, como o ex-cônjuge, pode ter direito à pensão por morte. Veja [como funciona a pensão alimentícia](/artigos/pensao-alimenticia)."
   - pergunta: "Qual o prazo para pedir a pensão por morte?"
     resposta: "Para receber desde a data da morte, o pedido deve ser feito em até 90 dias, ou em até 180 dias para filhos menores de 16 anos. Depois disso, ainda dá para pedir, mas o pagamento começa na data do pedido (Lei 8.213/1991, artigo 74)."
   - pergunta: "A pensão por morte é vitalícia?"

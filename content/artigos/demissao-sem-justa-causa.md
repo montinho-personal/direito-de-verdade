@@ -4,7 +4,7 @@ tituloSeo: "Demissão sem justa causa: o que recebe e cálculo 2026"
 descricao: "Demissão sem justa causa: veja o que você recebe (aviso prévio, 13º, férias, multa de 40% do FGTS e seguro-desemprego) e calcule a sua rescisão de 2026."
 categoria: trabalho
 publicadoEm: 2026-10-19
-atualizadoEm: 2026-11-11
+atualizadoEm: 2026-11-18
 faq:
   - pergunta: "Qual o prazo para a empresa pagar a rescisão?"
     resposta: "**10 dias** contados do fim do contrato, para pagar as verbas e entregar os documentos. Se atrasar, a empresa paga ao trabalhador uma multa no valor de um salário, além da multa administrativa (CLT, artigo 477, §§ 6º e 8º)."
@@ -19,6 +19,8 @@ faq:
 fontes:
   - nome: "CLT, artigos 146, 147, 477, 479, 481, 487 e 488, texto atualizado (Câmara dos Deputados)"
     url: "https://www2.camara.leg.br/legin/fed/declei/1940-1949/decreto-lei-5452-1-maio-1943-415500-normaatualizada-pe.html"
+  - nome: "Constituição Federal, artigo 7º, XXIX, texto atualizado (Câmara dos Deputados)"
+    url: "https://www2.camara.leg.br/legin/fed/consti/1988/constituicao-1988-5-outubro-1988-322142-normaatualizada-pl.html"
   - nome: "Lei nº 12.506/2011: aviso prévio proporcional (Câmara dos Deputados)"
     url: "https://www2.camara.leg.br/legin/fed/lei/2011/lei-12506-11-outubro-2011-611572-publicacaooriginal-133781-pl.html"
   - nome: "TST: aviso prévio de 33 dias para quem tem 1 ano de empresa (TRT da 4ª Região)"
@@ -135,6 +137,12 @@ Com 45 dias, quase sempre o contrato é **de experiência**, e a regra é outra 
 Exemplo: contrato de experiência de 90 dias, salário de R$ 2.000, demissão no 45º dia. Faltavam 45 dias, que valeriam R$ 3.000; a indenização é a metade, **R$ 1.500**, sem INSS.
 
 Se o contrato tiver uma cláusula que permite a qualquer lado encerrá-lo antes do fim, valem as regras do contrato sem prazo, com aviso prévio no lugar da indenização (CLT, artigo 481). A calculadora acima é para contrato sem prazo.
+
+## A empresa não pagou a rescisão: qual o prazo para cobrar na Justiça?
+
+Quem foi demitido tem **2 anos, contados do fim do contrato**, para entrar na Justiça do Trabalho, e pode cobrar o que deixou de receber nos **últimos 5 anos** de trabalho ([Constituição, artigo 7º, XXIX](https://www2.camara.leg.br/legin/fed/consti/1988/constituicao-1988-5-outubro-1988-322142-normaatualizada-pl.html); [CLT, artigo 11](https://www2.camara.leg.br/legin/fed/declei/1940-1949/decreto-lei-5452-1-maio-1943-415500-normaatualizada-pe.html)). Passados os 2 anos, a dívida não pode mais ser cobrada.
+
+O trabalhador pode reclamar **pessoalmente** na Justiça do Trabalho, sem advogado (CLT, artigo 791), ou com advogado ou pelo sindicato. Leve a carteira de trabalho, o termo de rescisão, os holerites e os extratos do FGTS.
 
 ## Pedido de demissão: o que muda?
 
