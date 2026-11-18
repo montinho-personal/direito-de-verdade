@@ -56,6 +56,8 @@ Pesquisa de 22/10/2026; downloads em `scratchpad/cob/` da sessão (INDEX.txt).
 
 ## Pendente
 
+- **Aplicado em 18/11/2026:** H2 "IPTU ou condomínio cobrado a mais: tem devolução em dobro?" (CTN arts. 165 e 168; CC arts. 876 e 940, conferidos na Câmara). Continua pendente: se o dobro do CDC pode valer contra condomínio (precisa de decisão do STJ).
+
 - IPTU e condomínio cobrados a mais (autocompletar de 16/11/2026): confirmar se a devolução em dobro do CDC vale (em geral não é relação de consumo) antes de incluir.
 
 - Tese do Tema 929 (STJ), julgado em 15/09/2026: revisar o artigo quando publicar.

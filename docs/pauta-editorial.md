@@ -294,10 +294,10 @@ Só pauta; cada artigo continua sendo um pedido dele, um de cada vez.
 
 **Cabe em página existente (anotado no doc dela):**
 
-- Artigo 42 da Lei do Inquilinato → calculadora de multa de aluguel (já nas pendências).
+- Artigo 42 da Lei do Inquilinato → calculadora de multa de aluguel (já nas pendências). **Aplicado em 18/11/2026.**
 - "Dá para descobrir quem usou meu cartão?" e "o banco não aceitou a contestação" → estorno no cartão. **Aplicado em 18/11/2026.**
 - Reajuste do aluguel depois de 3 anos → reajuste do aluguel. **Aplicado em 18/11/2026.**
-- IPTU e condomínio cobrados a mais → cobrança indevida (confirmar se o CDC vale; pendente).
+- IPTU e condomínio cobrados a mais → cobrança indevida (confirmar se o CDC vale; pendente). **Aplicado em 18/11/2026.**
 
 ## Próximo de conteúdo (pedido em 16/11/2026)
 

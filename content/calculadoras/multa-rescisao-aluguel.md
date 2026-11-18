@@ -4,7 +4,7 @@ tituloSeo: "Calculadora de multa de rescisão de aluguel proporcional"
 descricao: "Calculadora de multa de rescisão de aluguel: multa × meses que faltam ÷ prazo. Conta com as datas e os meses incompletos, e mostra quando não há multa."
 categoria: moradia
 publicadoEm: 2026-10-27
-atualizadoEm: 2026-11-16
+atualizadoEm: 2026-11-18
 faq:
   - pergunta: "Como calcular a multa de 3 aluguéis proporcional?"
     resposta: "Multiplique o aluguel por 3 para ter a multa integral e depois multiplique pelo tempo que falta, dividido pelo prazo do contrato. Com aluguel de R$ 2.000, 30 meses de contrato e 10 meses faltando: R$ 6.000 × 10 ÷ 30 = **R$ 2.000**."
@@ -40,6 +40,10 @@ Quem devolve o imóvel alugado **antes do fim do prazo** paga a multa do contrat
 A multa é uma cláusula do contrato, não um valor da lei. A Lei do Inquilinato diz que, durante o prazo, o inquilino pode devolver o imóvel "pagando a multa pactuada, proporcional ao período de cumprimento do contrato, ou, na sua falta, a que for judicialmente estipulada" (artigo 4º). Ou seja: vale o número do contrato, com desconto pelo tempo já cumprido. Sem multa no contrato, só o juiz pode fixar uma.
 
 No mesmo período, o **proprietário não pode** pedir o imóvel de volta, salvo nos casos do artigo 9º: acordo, infração, falta de pagamento ou reparos urgentes exigidos pelo poder público.
+
+### O que diz o artigo 42 da Lei do Inquilinato?
+
+Ele não trata de multa: trata do **aluguel adiantado**. Se a locação **não tem nenhuma garantia** (fiador, caução, seguro-fiança ou outra), o proprietário pode exigir o aluguel e os encargos **até o sexto dia útil do mês que vai começar** (Lei do Inquilinato, artigo 42). Fora desse caso e da locação por temporada, cobrar o aluguel antecipado é proibido (artigo 20). Os prazos de quem atrasa estão em [despejo por falta de pagamento](/artigos/despejo-por-falta-de-pagamento).
 
 ## Como calcular a multa proporcional?
 

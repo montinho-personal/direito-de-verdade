@@ -4,7 +4,7 @@ tituloSeo: "Cobrança indevida: devolução em dobro pelo art. 42 do CDC"
 descricao: "Cobrança indevida: quem pagou a mais recebe o dobro, com correção e juros (CDC, art. 42, e Tema 929 do STJ, 2026). Veja quando vale, se é crime e como pedir."
 categoria: consumidor
 publicadoEm: 2026-10-22
-atualizadoEm: 2026-11-16
+atualizadoEm: 2026-11-18
 faq:
   - pergunta: "Fui cobrado, mas não paguei. Tenho direito ao dobro?"
     resposta: "Não pelo Código de Defesa do Consumidor: o dobro é sobre o que você pagou a mais. Sem pagamento, o direito é cancelar a cobrança. Se a empresa entrar na Justiça para cobrar uma dívida já paga, o Código Civil prevê o pagamento em dobro do que ela cobrou (artigo 940)."
@@ -21,6 +21,10 @@ fontes:
     url: "https://www.planalto.gov.br/ccivil_03/leis/l8078compilado.htm"
   - nome: "Código Civil, artigos 205, 940 e 941 (Planalto)"
     url: "https://www.planalto.gov.br/ccivil_03/leis/2002/l10406compilada.htm"
+  - nome: "Código Tributário Nacional, Lei nº 5.172/1966, artigos 165 e 168, texto atualizado (Câmara dos Deputados)"
+    url: "https://www2.camara.leg.br/legin/fed/lei/1960-1969/lei-5172-25-outubro-1966-358971-normaatualizada-pl.html"
+  - nome: "Código Civil, artigo 876, texto atualizado (Câmara dos Deputados)"
+    url: "https://www2.camara.leg.br/legin/fed/lei/2002/lei-10406-10-janeiro-2002-432893-normaatualizada-pl.html"
   - nome: "STJ, Corte Especial: EAREsp 676.608/RS, devolução em dobro sem precisar provar má-fé (DJe 30/03/2021)"
     url: "https://processo.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=201500497769&dt_publicacao=30/03/2021"
   - nome: "STJ: Informativo 803 (EAREsp 1.501.756/SC, 2024)"
@@ -112,6 +116,13 @@ Para tarifas e cobranças do cartão, o Banco Central orienta a procurar a agên
 ## Cobrança indevida no plano de saúde
 
 Para mensalidade ou reajuste errado, reclame na operadora e, sem solução, na **ANS**, pela Notificação de Intermediação Preliminar. Em questões não assistenciais, como cobrança, a operadora tem **10 dias úteis** para resolver ([ANS](https://www.gov.br/ans/pt-br/assuntos/consumidor/notificacao-de-intermediacao-preliminar-nip)).
+
+## IPTU ou condomínio cobrado a mais: tem devolução em dobro?
+
+O dobro do artigo 42 do CDC é para a cobrança feita por **fornecedor ao consumidor**. IPTU e condomínio seguem outras regras:
+
+- **IPTU (imposto):** quem pagou a mais ou indevidamente tem direito à **restituição do que pagou a mais**, sem dobro, pedida à **prefeitura** ([Código Tributário Nacional, artigo 165](https://www2.camara.leg.br/legin/fed/lei/1960-1969/lei-5172-25-outubro-1966-358971-normaatualizada-pl.html)). O prazo é de **5 anos** a partir do pagamento (artigo 168). O pedido costuma ser feito no site ou no atendimento da prefeitura da cidade.
+- **Condomínio:** quem recebeu o que não era devido tem de **devolver** o valor ([Código Civil, artigo 876](https://www2.camara.leg.br/legin/fed/lei/2002/lei-10406-10-janeiro-2002-432893-normaatualizada-pl.html)). O **dobro** só cabe se o condomínio **entrou na Justiça** cobrando uma cota que já estava paga (Código Civil, artigo 940). Peça a correção ao síndico ou à administradora, por escrito; as regras da cobrança de condomínio estão em [condomínio atrasado: multa, juros e prazo](/artigos/condominio-atrasado).
 
 ## Qual o prazo para pedir a devolução?
 

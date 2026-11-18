@@ -106,7 +106,7 @@ multa zerada e alta, encargos e crédito, datas inválidas, meses incompletos. P
 - Multa para o proprietário que pede o imóvel durante o prazo: depende do contrato; a
   calculadora só orienta.
 - Despejo por falta de pagamento: multa compensatória depende do juiz (STJ admite).
-- Lei 8.245, art. 42 (PAA): conferir o texto oficial antes de responder.
+- Lei 8.245, art. 42 (PAA): **aplicado em 18/11/2026**, H3 "O que diz o artigo 42 da Lei do Inquilinato?" (texto conferido na Câmara; aluguel adiantado na locação sem garantia, art. 20).
 - Dispensa da multa por defeito grave do imóvel não consertado (visão de IA): sem fonte lida; seria descumprimento do locador (art. 22), a confirmar com jurisprudência.
 
 ## Decisões
