@@ -11,11 +11,22 @@ tabela.
 "CNH sem autoescola" virou uma das buscas mais altas de trânsito depois da
 Resolução Contran 1.020/2025. Abre a categoria Trânsito, que não tinha artigo.
 
-## Prints recebidos
+## Prints recebidos (SerpApi, 19/11/2026)
 
-| print | conteúdo | onde entrou |
+Revisão da rotina diária, 2 buscas, celular, São Paulo. JSON em `prints/cnh-sem-autoescola/`.
+
+| busca | conteúdo | onde entrou |
 |---|---|---|
-| (pendentes) AnswerThePublic `cnh sem autoescola` | — | — |
+| `cnh sem autoescola`, autocompletar | **passo a passo** · **valor** · foi aprovada · como fazer · **quando começa a valer / já está valendo** (3) · carro automático · RJ · consulta pública · Diário Oficial · governo recua · proposta · como funciona | já cobertos: passo a passo (H2), valor (H2), já está valendo (FAQ e trecho da Justiça Federal). Carro automático: fora (sem fonte); estados: fora (regra nacional; o texto manda conferir o Detran) |
+| idem, PAA | **Qual é o site oficial da CNH do Brasil?** · videoaula · tirar a CNH em 1 mês · **nova regra** | FAQ "Qual é o aplicativo oficial da CNH do Brasil?" (Agência Brasil, 08/12/2025). Videoaula e "1 mês": fora (sem fonte; o prazo depende do Detran) |
+| idem, outras pesquisas | já está valendo · Diário Oficial · quando passa a valer · SC · quando entra em vigor · Ceará · quando começa · autoescola é obrigatória · nova lei · Detran CE · desobrigatoriedade · novas regras | cobertos (vigência, obrigatoriedade); estados: fora |
+| idem, visão de IA | só `page_token` (não pedida) | — |
+| `cnh sem autoescola como funciona`, autocompletar | como vai funcionar · tirar · foi aprovada · como funciona a nova · quando vai funcionar | cobertos pelo passo a passo |
+| idem, PAA | como fazer · **é obrigatório emitir a CNH física?** · nova regra · em 1 mês | CNH física: fora (sem fonte oficial lida; pauta) |
+| idem, visão de IA | só `page_token` (não pedida) | — |
+| orgânicos | portais regionais (Cordeiro em Foco, Diário do Nordeste, Garagem 360, Márcia Dantas, Portal T5) | o site não aparece; **concorrentes fracos** (portais regionais) |
+
+Também entrou, da notícia da Agência Brasil de fevereiro de 2026 (já citada): "deixar o carro morrer" não reprova mais automaticamente, porque não é infração de trânsito.
 
 ## Fontes confirmadas
 

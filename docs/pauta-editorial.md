@@ -234,6 +234,16 @@ Pedido do Renato em 09/11/2026: "Pode criar próximos 3 artigos de seo local". S
 | 2 | Advogado gratuito em Barueri | `advogado gratuito barueri`; `defensoria pública barueri`; `oab barueri atendimento gratuito`; `justiça gratuita` | **publicado em 09/11/2026; revisado com prints em 10/11/2026** — [doc](artigos/advogado-gratuito-em-barueri.md), `/artigos/advogado-gratuito-em-barueri` |
 | 3 | Juizado Especial Federal de Barueri | `juizado especial federal barueri`; `justiça federal barueri`; `jef barueri telefone` | **publicado em 09/11/2026; revisado com prints em 10/11/2026** — [doc](artigos/juizado-especial-federal-de-barueri.md), `/artigos/juizado-especial-federal-de-barueri` |
 
+## Candidatos vindos das buscas que ficaram de fora (19/11/2026, rotina diária)
+
+Da revisão da CNH sem autoescola. Só pauta.
+
+**Vale um artigo:** "É obrigatório ter a CNH física?" (CNH digital, PAA) — só com resolução do Contran ou página do gov.br lida.
+
+**Não recomendo:** CNH sem autoescola por estado (RJ, SC, Ceará: a regra é nacional; cada Detran tem as suas taxas); videoaula; "tirar a CNH em 1 mês" (sem prazo oficial); carro automático (sem fonte lida).
+
+**Cabe em página existente:** nenhuma pendente.
+
 ## Candidatos vindos das buscas que ficaram de fora (18/11/2026, rotina diária)
 
 Das revisões de aposentadoria 2026 e divórcio. Só pauta.
@@ -404,7 +414,7 @@ Lembrar o Renato desta lista a cada entrega.
 | 13º dos aposentados do INSS (`/artigos/13-salario-aposentados-inss`), publicado em 23/10/2026 | `13 salário aposentados 2026`; `tabela do 13 salário dos aposentados 2026`; `13 salário inss` | **prints e AnswerThePublic recebidos e artigo revisado em 27/10/2026** |
 | Aposentadoria 2026 (`/artigos/aposentadoria-2026-regras`), publicado em 24/10/2026 | AnswerThePublic `aposentadoria` | **revisado com o SerpApi em 18/11/2026** (rotina diária) |
 | Divórcio (`/artigos/divorcio`), publicado em 24/10/2026 | AnswerThePublic `divórcio` | **revisado com o SerpApi em 18/11/2026** (rotina diária) |
-| CNH sem autoescola (`/artigos/cnh-sem-autoescola`), publicado em 26/10/2026 | AnswerThePublic `cnh sem autoescola` | **aguardando prints** |
+| CNH sem autoescola (`/artigos/cnh-sem-autoescola`), publicado em 26/10/2026 | AnswerThePublic `cnh sem autoescola` | **revisado com o SerpApi em 19/11/2026** (rotina diária) |
 | Guarda compartilhada (`/artigos/guarda-compartilhada`), publicado em 26/10/2026 | AnswerThePublic `guarda compartilhada` | **aguardando prints** |
 | Licença-paternidade (`/artigos/licenca-paternidade`), publicado em 29/10/2026 | Google: `licença paternidade`; `licença paternidade 2027`; `licença paternidade quantos dias`; AnswerThePublic `licença paternidade` | **aguardando prints** |
 | Multa de fidelidade (`/artigos/multa-de-fidelidade`), publicado em 29/10/2026 | Google: `cancelar internet multa`; `multa de fidelidade`; `como cancelar plano de celular`; AnswerThePublic `multa de fidelidade` | **aguardando prints** |

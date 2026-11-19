@@ -4,9 +4,12 @@ tituloSeo: "CNH sem autoescola 2026: como tirar a carteira passo a passo"
 descricao: "CNH sem autoescola: desde dezembro de 2025, o curso teórico é gratuito e a aula prática mínima é de 2 horas, com instrutor autônomo. Veja o passo a passo."
 categoria: transito
 publicadoEm: 2026-10-26
+atualizadoEm: 2026-11-19
 faq:
   - pergunta: "A CNH sem autoescola já está valendo?"
     resposta: "Está. A Resolução Contran 1.020/2025 foi publicada em dezembro de 2025, e em abril de 2026 a Justiça Federal de São Paulo negou o pedido das autoescolas para suspendê-la, segundo a AGU. Confira no Detran do seu estado como ele aplica as regras."
+  - pergunta: "Qual é o aplicativo oficial da CNH do Brasil?"
+    resposta: "É o aplicativo CNH do Brasil, lançado pelo governo em dezembro de 2025 para tirar a carteira sem autoescola, com o material de estudo das regras de trânsito. O processo também pode ser aberto pelo site do Ministério dos Transportes ou pelo aplicativo da Carteira Digital de Trânsito (CDT), segundo a Agência Brasil."
   - pergunta: "Posso fazer as aulas práticas no meu carro?"
     resposta: "Pode. As regras novas permitem usar carro próprio nas aulas práticas, com um instrutor autônomo credenciado pelo Detran ou com a autoescola, segundo o Ministério dos Transportes."
   - pergunta: "Ainda preciso fazer a prova teórica e a prova prática?"
@@ -75,6 +78,7 @@ Desde fevereiro de 2026, há um **manual nacional** para o exame de direção ([
 
 - o candidato começa com **zero pontos** e soma pontos a cada falta: **leve 1, média 2, grave 4, gravíssima 6**;
 - **passou de 10 pontos, reprova**;
+- condutas que **não são infração de trânsito**, como **deixar o carro morrer**, não reprovam mais automaticamente;
 - acabaram as **faltas eliminatórias automáticas**, e a **baliza** deixou de ser eliminatória; o estacionamento continua no fim do trajeto.
 
 ## Instrutor autônomo: como funciona
