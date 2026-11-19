@@ -4,8 +4,10 @@ tituloSeo: "Aposentadoria 2026: regras, idade mínima e pontos"
 descricao: "Aposentadoria 2026: por idade, 62 anos (mulher) e 65 (homem). Na transição, 93 e 103 pontos ou 59,5 e 64,5 anos. Veja as regras do INSS e quanto vai receber."
 categoria: previdencia
 publicadoEm: 2026-10-24
-atualizadoEm: 2026-11-18
+atualizadoEm: 2026-11-19
 faq:
+  - pergunta: "Quem tem direito a se aposentar pela regra antiga?"
+    resposta: "Quem já tinha cumprido todos os requisitos de uma aposentadoria até 13 de novembro de 2019, quando a reforma entrou em vigor. Essa pessoa pode pedir a qualquer tempo, pelas regras da época (Emenda Constitucional 103/2019, artigo 3º). Quem ainda não tinha cumprido os requisitos naquela data segue as regras de transição ou as regras novas."
   - pergunta: "Qual o tempo mínimo de contribuição para se aposentar?"
     resposta: "Para a aposentadoria por idade, **15 anos** para as mulheres. Para os homens, **15 anos** para quem já contribuía antes de 13/11/2019 e **20 anos** para quem começou depois. Em todos os casos, são 180 contribuições de carência."
   - pergunta: "Quem tem 35 anos de contribuição já pode se aposentar?"
@@ -17,6 +19,8 @@ faq:
   - pergunta: "Professor tem regra especial de aposentadoria?"
     resposta: "Tem, com idade e tempo menores, contado só o tempo de magistério. Na regra de transição por idade, em 2026, são **54 anos e meio** (professora) e **59 anos e meio** (professor), com 25 e 30 anos de magistério."
 fontes:
+  - nome: "Emenda Constitucional nº 103/2019, artigo 3º (direito adquirido), publicação original (Câmara dos Deputados)"
+    url: "https://www2.camara.leg.br/legin/fed/emecon/2019/emendaconstitucional-103-12-novembro-2019-789412-publicacaooriginal-159409-pl.html"
   - nome: "INSS: regras de aposentadorias (atualizada em 28/07/2025)"
     url: "https://www.gov.br/inss/pt-br/direitos-e-deveres/aposentadorias/regras-de-aposentadorias"
   - nome: "INSS: aposentadoria por idade urbana (atualizada em 28/07/2025)"

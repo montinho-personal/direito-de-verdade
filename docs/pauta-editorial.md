@@ -247,7 +247,7 @@ Das revisões de aposentadoria 2026 e divórcio. Só pauta.
 
 **Não recomendo:** filme "Divórcio em Família", Netflix, Bíblia, "divórcio energético" (fora do tema); "como dar entrada no divórcio pela Defensoria online" e "pelo Ministério Público" (variam por estado; cabe a frase da Defensoria que já está no artigo); tempo do divórcio gratuito (não há prazo na lei).
 
-**Cabe em página existente:** "regra antiga" da aposentadoria (direito adquirido até 13/11/2019) → aposentadoria 2026, anotado no doc, só com fonte do INSS.
+**Cabe em página existente:** "regra antiga" da aposentadoria (direito adquirido até 13/11/2019) → aposentadoria 2026, anotado no doc, só com fonte do INSS. **Aplicado em 19/11/2026.**
 
 ## Candidatos vindos das buscas que ficaram de fora (18/11/2026)
 
