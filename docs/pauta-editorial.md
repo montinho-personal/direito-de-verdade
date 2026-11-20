@@ -240,6 +240,16 @@ Pedido do Renato ("pode fazer os 3"): 1) jogo digital → seção nova em `/arti
 
 **Não recomendo:** artigo sobre o GTA 6 em si (preço, plataforma, mapa: fora do tema, nome de marca, concorrência de Rockstar, Xbox e grandes portais); jogos pelo nome (LoL, Roblox, Valorant, FNAF); filmes e livros homônimos ("Jogos Vorazes").
 
+## Candidatos vindos das buscas que ficaram de fora (20/11/2026, rotina diária)
+
+Das revisões de guarda compartilhada e licença-paternidade. Só pauta.
+
+**Vale um artigo:** "Alienação parental" (Lei 12.318/2010, texto na Câmara) — já anotada no doc da guarda como tema próprio; antes de pautar, fazer a pesquisa do SerpApi para ver a busca real.
+
+**Não recomendo:** "desvantagem da guarda compartilhada" (opinião, sem fonte); "o que o juiz pergunta na audiência de pensão" (sem fonte oficial; o que existe é relato de advogado); "guarda compartilhada pensão nova lei" (não há lei nova; o Pix Pensão já está no artigo de pensão); "licença-paternidade do professor" (depende do vínculo e do estatuto de cada rede); "licença-paternidade durante as férias" (sem fonte).
+
+**Cabe em página existente:** "10 dias corridos em 2027" (visão de IA) → licença-paternidade, só quando o regulamento da Lei 15.371 sair (já está no "Pendente" do doc, que é revisto em 1º/01/2027). Valores de pensão para 2 filhos e para quem ganha R$ 3.000 já estão no artigo de pensão alimentícia.
+
 ## Candidatos vindos das buscas que ficaram de fora (19/11/2026, rotina diária)
 
 Da revisão da CNH sem autoescola. Só pauta.
