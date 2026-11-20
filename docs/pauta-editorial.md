@@ -234,6 +234,12 @@ Pedido do Renato em 09/11/2026: "Pode criar próximos 3 artigos de seo local". S
 | 2 | Advogado gratuito em Barueri | `advogado gratuito barueri`; `defensoria pública barueri`; `oab barueri atendimento gratuito`; `justiça gratuita` | **publicado em 09/11/2026; revisado com prints em 10/11/2026** — [doc](artigos/advogado-gratuito-em-barueri.md), `/artigos/advogado-gratuito-em-barueri` |
 | 3 | Juizado Especial Federal de Barueri | `juizado especial federal barueri`; `justiça federal barueri`; `jef barueri telefone` | **publicado em 09/11/2026; revisado com prints em 10/11/2026** — [doc](artigos/juizado-especial-federal-de-barueri.md), `/artigos/juizado-especial-federal-de-barueri` |
 
+## Pautas do lançamento do GTA 6 (20/11/2026)
+
+Pedido do Renato ("pode fazer os 3"): 1) jogo digital → seção nova em `/artigos/direito-de-arrependimento` (sem página separada, para não canibalizar); 2) `/artigos/classificacao-indicativa-jogos` (publicado em 20/11/2026); 3) jogos e consoles na calculadora de compra internacional.
+
+**Não recomendo:** artigo sobre o GTA 6 em si (preço, plataforma, mapa: fora do tema, nome de marca, concorrência de Rockstar, Xbox e grandes portais); jogos pelo nome (LoL, Roblox, Valorant, FNAF); filmes e livros homônimos ("Jogos Vorazes").
+
 ## Candidatos vindos das buscas que ficaram de fora (19/11/2026, rotina diária)
 
 Da revisão da CNH sem autoescola. Só pauta.

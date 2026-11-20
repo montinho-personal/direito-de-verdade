@@ -1,0 +1,85 @@
+{
+  "busca": "classificação indicativa jogos",
+  "pesquisadaEm": "2026-11-20",
+  "origem": "SerpApi: Google Brasil (google.com.br), celular, São Paulo, pt-BR, sem personalização",
+  "autocompletar": [
+    "classificação indicativa jogos vorazes",
+    "classificação indicativa jogos vorazes livro",
+    "classificação indicativa jogos mortais",
+    "classificação indicativa jogos vorazes amanhecer na colheita",
+    "classificação indicativa jogos de herança",
+    "classificação indicativa jogos vorazes a cantiga dos pássaros e das serpentes",
+    "classificação indicativa jogos brasil",
+    "classificação indicativa jogos de tabuleiro",
+    "classificação indicativa jogos eletrônicos",
+    "classificação indicativa jogos vorazes 1",
+    "classificação indicativa dos jogos de fnaf",
+    "classificação indicativa do livro jogos de herança"
+  ],
+  "asPessoasTambemPerguntam": [
+    "Quais são os principais gêneros de jogos?",
+    "O que é cada classificação indicativa?",
+    "Quais são os 10 melhores jogos de videogame?",
+    "O que é classificação indicativa nos jogos?"
+  ],
+  "outrasPessoasPesquisaram": [],
+  "visaoDeIA": {
+    "texto": "No Brasil, a classificação indicativa de jogos eletrônicos e aplicativos é regulamentada pelo Ministério da Justiça e Segurança Pública (MJSP) por meio do sistema ClassInd e atualizada por normas recentes como a Portaria nº 1.048/2025.\nFaixas Etárias no Brasil\nAs categorias indicam a idade mínima recomendada com base em critérios como violência, sexo, drogas e interatividade digital:\n  - Livre (L / AL): Adequado para todas as idades.\n  - 6 anos (6 / A6): Nova faixa etária introduzida para ampliar a proteção e o detalhamento inicial.\n  - 10 anos (10 / A10): Não recomendado para menores de 10 anos.\n  - 12 anos (12 / A12): Não recomendado para menores de 12 anos.\n  - 14 anos (14 / A14): Não recomendado para menores de 14 anos.\n  - 16 anos (16 / A16): Não recomendado para menores de 16 anos.\n  - 18 anos (18 / A18): Conteúdo exclusivo para adultos maiores de 18 anos.\n(O \"A\" em algumas legendas refere-se à autoclassificação provisória).\nPrincipais Critérios Avaliados\n  - Conteúdo Temático: Violência (realista ou fantasiosa), nudez, conteúdo sexual e uso de drogas.\n  - Interatividade Digital: Riscos associados ao ambiente online, como contato com estranhos, compras dentro de aplicativos (in-app purchases) e interação com inteligência artificial.\n  - Processo: Para jogos físicos e digitais comercializados no país, o registro é feito no Sistema ClassInd do Ministério da Justiça e Segurança Pública. Jogos digitais também podem utilizar o sistema internacional IARC.\nSistemas Internacionais Comuns\nSe você joga títulos importados ou em consoles/PCs com padrões globais, poderá encontrar classificações de outros órgãos:\n  - ESRB (América do Norte): E (Everyone), T (Teen), M (Mature 17+), AO (Adults Only 18+).\n  - PEGI (Europa): PEGI 3, 7, 12, 16 e 18.\nVocê gostaria de saber a classificação indicativa de um jogo específico ou saber como configurar o controle parental em alguma plataforma (como PlayStation, Xbox, Nintendo ou Steam)?",
+    "fontes": [
+      "Agência Brasil",
+      "Caputo Duarte Advogados",
+      "Epic Games",
+      "GOV.BR",
+      "Google Help",
+      "TV Cultura",
+      "Wikipedia",
+      "www.tjdft.jus.br"
+    ]
+  },
+  "videos": [],
+  "organicos": [
+    {
+      "posicao": 1,
+      "titulo": "https://cloud.riodasostras.rj.gov.br/games/serie-a...",
+      "endereco": "https://cloud.riodasostras.rj.gov.br/games/serie-a-classificacao.html",
+      "trecho": "Não há nenhuma informação disponível para esta página."
+    },
+    {
+      "posicao": 2,
+      "titulo": "Game age ratings in Brazil: what changed with interactivity and the ECA Digital law",
+      "endereco": "https://sequelarifn.com.br/blog/classificacao-indicativa-dos-jogos-no-brasil-o-que-mudou/en/",
+      "trecho": "The classificação indicativa is a public policy of Brazil's Ministry of Justice and Public Security. It tells you the age below which a film, ..."
+    },
+    {
+      "posicao": 3,
+      "titulo": "https://agenciagov.ebc.com.br/noticias/202510/a-vo...",
+      "endereco": "https://agenciagov.ebc.com.br/noticias/202510/a-voz-do-brasil-detalha-as-novas-regras-da-classificacao-indicativa-nesta-terca-feira",
+      "trecho": "Não há nenhuma informação disponível para esta página."
+    },
+    {
+      "posicao": 4,
+      "titulo": "https://esus.harmonia.rs.gov.br/jogos/classificaca...",
+      "endereco": "(link de redirecionamento do Google omitido)"
+    },
+    {
+      "posicao": 5,
+      "titulo": "Ministério abre consulta sobre regras para classificação indicativa",
+      "endereco": "(link de redirecionamento do Google omitido)"
+    },
+    {
+      "posicao": 6,
+      "titulo": "Classificação indicativa faz 30 anos com demanda 715% maior em 2020",
+      "endereco": "(link de redirecionamento do Google omitido)"
+    },
+    {
+      "posicao": 7,
+      "titulo": "Classificação Indicativa | PlayStation Wiki - Fandom",
+      "endereco": "(link de redirecionamento do Google omitido)"
+    },
+    {
+      "posicao": 8,
+      "titulo": "\"Games\" vendidos ou baixados de graça pela internet devem ser classificados por idade",
+      "endereco": "(link de redirecionamento do Google omitido)"
+    }
+  ]
+}
