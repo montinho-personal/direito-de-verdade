@@ -1,13 +1,15 @@
 ---
 titulo: "Licença-paternidade: quantos dias em 2026 e o que muda em 2027"
 tituloSeo: "Licença-paternidade 2026: 5 dias agora e 10 dias em 2027"
-descricao: "Licença-paternidade: 5 dias em 2026 (20 na Empresa Cidadã), 10 em 2027, 15 em 2028 e até 20 em 2029. Veja quem tem direito, estabilidade e quem paga."
+descricao: "Licença-paternidade: 5 dias corridos em 2026 (20 na Empresa Cidadã), 10 em 2027, 15 em 2028 e até 20 em 2029. Veja quando começa, servidor e estabilidade."
 categoria: trabalho
 publicadoEm: 2026-10-29
-atualizadoEm: 2026-10-29
+atualizadoEm: 2026-11-20
 faq:
   - pergunta: "A licença-paternidade de 10 dias já vale em 2026?"
     resposta: "Não. A Lei 15.371/2026 foi publicada em abril, mas só entra em vigor em **1º de janeiro de 2027**. Até lá, a licença continua de 5 dias, ou 20 dias na empresa que participa do Programa Empresa Cidadã."
+  - pergunta: "Foi aprovada a licença-paternidade de 20 dias?"
+    resposta: "Foi, mas só para 2029: a Lei 15.371/2026 prevê 10 dias em 2027, 15 em 2028 e 20 em 2029, este último se o governo cumprir a meta fiscal. Hoje, 20 dias só para quem trabalha em empresa do Programa Empresa Cidadã e pede a prorrogação, ou para o servidor federal que pede a prorrogação."
   - pergunta: "Quem paga a licença-paternidade?"
     resposta: "Em 2026, a própria empresa, porque a licença é sem prejuízo do salário. A partir de 2027, o pai empregado recebe o salário-paternidade: a empresa paga o salário integral e é reembolsada pela Previdência. Para o empregado doméstico, o contribuinte individual e o segurado especial, quem paga é o INSS."
   - pergunta: "Pai autônomo ou MEI tem licença-paternidade?"
@@ -17,6 +19,12 @@ faq:
   - pergunta: "A licença-paternidade vale para adoção?"
     resposta: "Vale. A licença é garantida no nascimento, na adoção e na guarda judicial para fins de adoção, com os mesmos prazos. Na Empresa Cidadã, a prorrogação de 15 dias também vale para quem adota."
 fontes:
+  - nome: "CLT, artigo 473, III e § 1º: 5 dias consecutivos, contados do nascimento, texto atualizado (Câmara dos Deputados)"
+    url: "https://www2.camara.leg.br/legin/fed/declei/1940-1949/decreto-lei-5452-1-maio-1943-415500-normaatualizada-pe.html"
+  - nome: "Lei nº 8.112/1990 (servidores públicos federais), artigo 208, texto atualizado (Câmara dos Deputados)"
+    url: "https://www2.camara.leg.br/legin/fed/lei/1990/lei-8112-11-dezembro-1990-322161-normaatualizada-pl.html"
+  - nome: "Decreto nº 8.737/2016: prorrogação da licença-paternidade do servidor federal (Câmara dos Deputados)"
+    url: "https://www2.camara.leg.br/legin/fed/decret/2016/decreto-8737-3-maio-2016-782993-publicacaooriginal-150242-pe.html"
   - nome: "Lei nº 15.371/2026: licença-paternidade e salário-paternidade (Senado Federal, Legislação)"
     url: "https://legis.senado.leg.br/norma/42975603/publicacao/42998279"
   - nome: "Constituição Federal, art. 7º, XIX, e ADCT, art. 10, § 1º (Planalto)"
@@ -36,6 +44,10 @@ Em **2026**, a licença-paternidade continua de **5 dias**, ou **20 dias** para 
 ## Quantos dias de licença-paternidade em 2026?
 
 **5 dias**, sem desconto no salário. É a regra provisória que a Constituição fixou em 1988 enquanto não houvesse uma lei sobre o assunto ([ADCT, artigo 10, § 1º](https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm)). A nova lei só começa a valer em 2027: "para 2026, o benefício permanece em cinco dias" ([Agência Brasil](https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-04/novos-prazos-para-licenca-paternidade-valem-partir-de-2027-entenda)).
+
+### São dias úteis ou corridos? Quando começa a contar?
+
+A CLT garante ao empregado **5 dias consecutivos**, ou seja, seguidos, em caso de nascimento de filho, adoção ou guarda compartilhada, **contados a partir da data de nascimento do filho** ([CLT, artigo 473, III e § 1º](https://www2.camara.leg.br/legin/fed/declei/1940-1949/decreto-lei-5452-1-maio-1943-415500-normaatualizada-pe.html)). Não são 5 dias úteis: se o bebê nasce numa sexta-feira, o sábado e o domingo entram na conta.
 
 ### Licença-paternidade de 20 dias: Empresa Cidadã
 
@@ -62,9 +74,15 @@ Na **Empresa Cidadã**, a prorrogação de 15 dias continua, agora "além do per
 
 ## Quem tem direito à licença-paternidade?
 
-Hoje, quem tem **carteira assinada**, inclusive o empregado doméstico, com a licença paga pelo empregador ([Constituição, artigo 7º, XIX](https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm)). A partir de 2027, a lei cria o **salário-paternidade** no INSS, que alcança também **MEIs, trabalhadores domésticos, avulsos e segurados especiais** ([Ministério da Previdência](https://www.gov.br/previdencia/pt-br/noticias/2026/marco/governo-sanciona-lei-que-amplia-licenca-paternidade-para-20-dias-e-cria-salario-paternidade)).
+Hoje, quem tem **carteira assinada**, inclusive o empregado doméstico (o servidor público tem regra própria, [explicada abaixo](#servidor-publico-tem-licenca-paternidade-de-quantos-dias)), com a licença paga pelo empregador ([Constituição, artigo 7º, XIX](https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm)). A partir de 2027, a lei cria o **salário-paternidade** no INSS, que alcança também **MEIs, trabalhadores domésticos, avulsos e segurados especiais** ([Ministério da Previdência](https://www.gov.br/previdencia/pt-br/noticias/2026/marco/governo-sanciona-lei-que-amplia-licenca-paternidade-para-20-dias-e-cria-salario-paternidade)).
 
 A licença vale no **nascimento**, na **adoção** e na **guarda judicial para adoção**, para pais adotantes e responsáveis legais em adoção por uma pessoa só ou pelo casal, quando a mãe não consta do registro ou quando um dos pais morre. Durante a licença, o pai não pode ter outro trabalho remunerado e deve participar dos cuidados com a criança. Ela pode ser suspensa ou negada se houver indícios concretos de violência doméstica ou de abandono.
+
+## Servidor público tem licença-paternidade de quantos dias?
+
+O **servidor federal** tem **5 dias consecutivos** pelo nascimento ou pela adoção ([Lei 8.112/1990, artigo 208](https://www2.camara.leg.br/legin/fed/lei/1990/lei-8112-11-dezembro-1990-322161-normaatualizada-pl.html)), que podem ser **prorrogados por mais 15 dias**, somando 20, se ele pedir em até **2 dias úteis** depois do nascimento ou da adoção. A prorrogação começa no dia seguinte ao fim dos 5 dias, e durante ela o servidor não pode ter outra atividade remunerada ([Decreto 8.737/2016](https://www2.camara.leg.br/legin/fed/decret/2016/decreto-8737-3-maio-2016-782993-publicacaooriginal-150242-pe.html), artigos 2º e 3º).
+
+A Lei 15.371/2026 não alterou esse artigo: no texto atualizado da Lei 8.112, a licença do servidor federal continua de 5 dias. **Servidores estaduais e municipais** seguem o estatuto do próprio estado ou município; confira com o RH do órgão.
 
 ## Quem paga a licença-paternidade e quanto se recebe?
 
