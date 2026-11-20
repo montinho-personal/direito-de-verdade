@@ -123,6 +123,20 @@ Mesmo com tudo pago na compra, a Receita recomenda acompanhar o rastreamento: el
 
 Primeiro, refaça a conta com o frete e a cotação do dia: com eles, a compra pode ter passado de US$ 50. Se ficou mesmo em até US$ 50, num site do Remessa Conforme, a Receita diz que a cobrança do imposto de importação **foi indevida** e que o comprador deve pedir o **ressarcimento ao próprio site** ([Receita Federal, pergunta 13.3](https://www.gov.br/receitafederal/pt-br/assuntos/aduana-e-comercio-exterior/manuais/remessas-postal-e-expressa/topicos/Perguntas_e_Respostas)). O ICMS, esse, é devido em qualquer valor.
 
+## Comprar jogo ou console no exterior: quanto paga de imposto?
+
+**Console, controle e jogo em mídia física** comprados em loja estrangeira e entregues pelos Correios ou por transportadora seguem a mesma conta da calculadora, até **US$ 3 mil** por encomenda. Exemplo com um console de **US$ 500 com frete**, dólar a R$ 5,00 (valor fictício, como nos exemplos da Receita) e ICMS de 17%:
+
+| onde comprou | imposto de importação | ICMS | total de impostos | custo final |
+| --- | --- | --- | --- | --- |
+| site do Remessa Conforme | R$ 1.350,00 (60% menos US$ 30) | R$ 788,55 | R$ 2.138,55 | **R$ 4.638,55** |
+| site fora do programa | R$ 1.500,00 (60%) | R$ 819,28 | R$ 2.319,28 | **R$ 4.819,28** |
+
+Nessa faixa de preço, os impostos quase dobram o valor do console. Para fazer a conta com o seu valor e o ICMS do seu estado, use a calculadora acima.
+
+- **Jogo digital** comprado em loja estrangeira não chega em pacote, então não passa pela taxa de importação das encomendas. Se a loja cobrar em moeda estrangeira no cartão, entra o **IOF de 3,5%** ([Decreto 6.306/2007, artigo 15-B, VII](https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2007/decreto/D6306.htm)). Se quiser desistir da compra, veja [o direito de arrependimento em jogos digitais](/artigos/direito-de-arrependimento).
+- **Console trazido de viagem**, na bagagem, segue outra regra: a cota de isenção de **US$ 1.000** para quem volta de avião e de **US$ 500** por terra; acima dela, paga 50% sobre o que passar. Veja [a cota de compras no Paraguai e no exterior](/artigos/compras-no-paraguai).
+
 ## A calculadora da Receita Federal é diferente desta?
 
 A conta é a mesma. A [calculadora da Receita](https://www.gov.br/receitafederal/pt-br/assuntos/aduana-e-comercio-exterior/manuais/remessas-postal-e-expressa/calculadora-de-impostos-portal-aduana-e-comercio-exterior) foi atualizada em 19 de maio de 2026 com as regras novas, mas usa sempre **ICMS de 17%**; quem mora em estado com 18%, 19% ou 20% tem que corrigir a conta por conta própria. Aqui você escolhe a alíquota do seu estado e vê cada passo da conta, em reais e em dólar.

@@ -95,3 +95,16 @@ taxa de importação 2026", "calcular imposto shein", "calculadora imposto
 shein", "calculadora de icms e taxa de importação", "comprei 200 reais na
 shein posso ser taxado", "a shein cobra impostos na alfândega". Revisar a cada
 portaria da Fazenda sobre remessas e na avaliação de ~10/12/2026.
+
+## Jogos e consoles (20/11/2026)
+
+Pedido do Renato ("pode fazer os 3"), a partir do lançamento do GTA 6 (19/11/2026): pauta 3 de 3. Entrou o
+H2 "Comprar jogo ou console no exterior: quanto paga de imposto?", sem pesquisa nova (o autocompletar de
+`gta 6 preço` trouxe "preço nos EUA", "preço no Brasil" e "preço digital"; JSON da checagem em
+`docs/artigos/prints/classificacao-indicativa-jogos/` não inclui essa busca, que só teve autocompletar).
+
+- Exemplo de console de US$ 500 com a conta da própria página (60% ou 60% menos US$ 30; ICMS por dentro a
+  17%; dólar fictício de R$ 5,00): R$ 4.638,55 no Remessa Conforme e R$ 4.819,28 fora dele.
+- Jogo digital: IOF de 3,5% no cartão em moeda estrangeira (Decreto 6.306, art. 15-B, VII, já fonte da página).
+- Console na bagagem: cota de US$ 1.000 (avião) e US$ 500 (terra), da Receita (conferida em 18/11/2026 no
+  artigo de compras no Paraguai, linkado).
