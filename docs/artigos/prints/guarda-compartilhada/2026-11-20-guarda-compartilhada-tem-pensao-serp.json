@@ -1,0 +1,95 @@
+{
+  "busca": "guarda compartilhada tem pensão",
+  "pesquisadaEm": "2026-11-20",
+  "origem": "SerpApi: Google Brasil (google.com.br), celular, São Paulo, pt-BR, sem personalização",
+  "autocompletar": [
+    "guarda compartilhada tem pensão alimentícia",
+    "guarda compartilhada não tem pensão",
+    "guarda compartilhada tem pagar pensão",
+    "guarda compartilhada tem direito a pensão",
+    "guarda compartilhada tem que pagar pensão alimentícia",
+    "guarda compartilhada tem que dar pensão",
+    "guarda compartilhada tem q paga pensão",
+    "guarda compartilhada tem que pagar pensão mesmo assim",
+    "guarda compartilhada tem direito a pensão alimentícia",
+    "guarda compartilhada tem pensao alimenticia"
+  ],
+  "asPessoasTambemPerguntam": [
+    "O que o juiz pergunta em uma audiência de pensão alimentícia?",
+    "Qual o valor da pensão alimentícia 2026 para 2 filhos?",
+    "O que mudou com a nova lei da guarda compartilhada?",
+    "Quem ganha R$ 3.000 por mês paga quanto de pensão?"
+  ],
+  "outrasPessoasPesquisaram": [],
+  "visaoDeIA": {
+    "texto": "Sim, a guarda compartilhada não elimina a obrigação de pagar pensão alimentícia.\nComo funciona:\n  - Diferença de conceitos: A guarda compartilhada define apenas que ambos os pais dividem as responsabilidades e decisões importantes sobre a vida do filho (como escola, saúde e criação). Já a pensão alimentícia garante o sustento financeiro diário da criança.\n  - Residência fixa: Em grande parte dos casos, a criança possui um lar principal de referência (onde mora a maior parte do tempo), e o genitor que não reside com ela paga a pensão.\n  - Critérios de definição: O juiz calcula o valor com base no binômio necessidade x possibilidade — ou seja, quanto a criança precisa e qual é a renda proporcional de cada um dos pais.\n  - Quando a pensão pode acabar: A pensão só deixa de existir ou é zerada se houver uma divisão de tempo rigorosamente igualitária (guarda alternada, que não é o padrão) e se ambos os pais tiverem rendas muito semelhantes, arcando diretamente com os gastos do filho em cada período.\nVocê pode conferir mais detalhes sobre as regras no artigo do Jusbrasil ou no portal do ADVBOX.\nSe quiser, me conte:\n  - Como está dividida a rotina da criança (com quem ela mora mais)?\n  - Há uma grande diferença de renda entre os pais?\nPosso explicar melhor como a Justiça costuma avaliar esse caso.",
+    "fontes": [
+      "ADVBOX",
+      "Daniel Frederighi Advogados",
+      "Facebook",
+      "Instagram",
+      "Jusbrasil",
+      "Rocha Advogados Associados",
+      "Serasa",
+      "Âmbito Jurídico"
+    ]
+  },
+  "videos": [
+    {
+      "titulo": "É verdade que quem tem a guarda compartilhada não precisa pagar pensão alimentícia? ...",
+      "canal": "Tiago Alencar Moreira"
+    },
+    {
+      "titulo": "Mito ou verdade: na guarda compartilhada ninguém paga pensão? Mito, e dos mais ...",
+      "canal": "Gabriela Halembeck"
+    },
+    {
+      "titulo": "Guarda compartilhada- Paga pensão? Quantos dias dias com o pai?",
+      "canal": "Paloma Gonzalez"
+    }
+  ],
+  "organicos": [
+    {
+      "posicao": 1,
+      "titulo": "se a guarda é compartilhada, ninguém paga pensão, né?” Não. E essa confusão prejudica muita mãe. Guarda compartilhada é dividir a convivência e as decisões sobre a vida do fi | Viviane Oliveira",
+      "endereco": "https://www.facebook.com/viviane.oliveira.607207/videos/mas-se-a-guarda-%C3%A9-compartilhada-ningu%C3%A9m-paga-pens%C3%A3o-n%C3%A9n%C3%A3o-e-essa-confus%C3%A3o-prejud/1801916831037064/",
+      "trecho": "Ter guarda compartilhada não quer dizer que cada um paga metade, e muito menos que a pensão acaba. Manda pra uma amiga que precisa ouvir isso e ..."
+    },
+    {
+      "posicao": 2,
+      "titulo": "🚨DÚVIDAS ⁉️ Pensão alimentícia e GUARDA COMPARTILHADA. O pai/mãe de seu(s) ...",
+      "endereco": "https://www.instagram.com/reel/CosuTxqAIcO/",
+      "trecho": "DÚVIDAS ⁉️ Pensão alimentícia e GUARDA COMPARTILHADA. O pai/mãe de seu(s) filho (s) alega que não precisa pagar pensão por causa da guarda ..."
+    },
+    {
+      "posicao": 3,
+      "titulo": "Assistir AL TV 1ª Edição - Advogada explica que guarda compartilhada não tira o direito de pagamento de pensão online",
+      "endereco": "https://globoplay.globo.com/v/5421610/",
+      "trecho": "Detalhes. Advogada explica que guarda compartilhada não tira o direito de pagamento de pensão. 3 min. Luana Karen diz que na guarda compartilhada todas as ..."
+    },
+    {
+      "posicao": 4,
+      "titulo": "Com a guarda compartilhada, como fica o pagamento da pensão alimentícia?",
+      "endereco": null,
+      "trecho": "Embora muitas pessoas acreditem que a guarda compartilhada elimina a necessidade de pensão alimentícia, isso não é verdade. A obrigação de ..."
+    },
+    {
+      "posicao": 5,
+      "titulo": "\"Temos guarda compartilhada, então ninguém precisa pagar pensão! ...",
+      "endereco": null,
+      "trecho": "\"Temos guarda compartilhada, então ninguém precisa pagar pensão!\" Esse é um dos maiores mitos que escuto no escritório — e cair nessa ilusão ..."
+    },
+    {
+      "posicao": 6,
+      "titulo": "A guarda compartilhada e a pensão alimentícia - Repositório Universitário da Ânima (RUNA)",
+      "endereco": null,
+      "trecho": "O presente trabalho tem como objetivo principal analisar a obrigação alimentar na guarda compartilhada. Ao longo do artigo, aborda-se a origem, a definição ..."
+    },
+    {
+      "posicao": 7,
+      "titulo": "Pai deve pagar pensão na guarda compartilhada? - Direito de Todos -",
+      "endereco": null,
+      "trecho": "De outro lado, o genitor que não mora com o filho poderá ser obrigado, inclusive judicialmente, a pagar pensão. Da mesma maneira que na guarda ..."
+    }
+  ]
+}
