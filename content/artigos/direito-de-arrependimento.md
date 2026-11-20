@@ -4,7 +4,7 @@ tituloSeo: "Direito de arrependimento CDC: 7 dias corridos e loja física"
 descricao: "Direito de arrependimento: o artigo 49 do CDC dá 7 dias corridos para devolver compra online, com frete pago pela loja. Veja o passo a passo e a loja física."
 categoria: consumidor
 publicadoEm: 2026-10-21
-atualizadoEm: 2026-11-18
+atualizadoEm: 2026-11-20
 faq:
   - pergunta: "Passaram os 7 dias. Ainda posso devolver?"
     resposta: "Pelo direito de arrependimento, não. Depois dos 7 dias, a devolução depende de o produto ter defeito (30 ou 90 dias para reclamar) ou da política de troca da loja."
@@ -17,7 +17,7 @@ faq:
   - pergunta: "O direito de arrependimento vale para passagem aérea?"
     resposta: "A regra da ANAC dá 24 horas para desistir sem custo, se a compra foi feita com pelo menos 7 dias de antecedência do voo. Um processo no STJ discute se valem os 7 dias do CDC; o julgamento não terminou."
 fontes:
-  - nome: "Código de Defesa do Consumidor (Lei nº 8.078/1990), texto atualizado (Câmara dos Deputados)"
+  - nome: "Código de Defesa do Consumidor (Lei nº 8.078/1990), artigos 49 e 51, texto atualizado (Câmara dos Deputados)"
     url: "https://www2.camara.leg.br/legin/fed/lei/1990/lei-8078-11-setembro-1990-365086-normaatualizada-pl.html"
   - nome: "Decreto nº 7.962/2013 (comércio eletrônico), Câmara dos Deputados"
     url: "https://www2.camara.leg.br/legin/fed/decret/2013/decreto-7962-15-marco-2013-775557-publicacaooriginal-139266-pe.html"
@@ -62,6 +62,18 @@ A lei não pede motivo. Não serviu, não gostou, achou mais barato em outro lug
 ### Em que compras vale?
 
 Em toda compra feita **fora da loja**: site, aplicativo, marketplace, telefone, SMS e redes sociais. O Procon-SP inclui expressamente as compras "por telefone, por SMS (mensagens de texto) ou pela internet, sites, redes sociais, aplicativos" ([Guia de Comércio Eletrônico](https://www.procon.sp.gov.br/wp-content/uploads/2024/08/Guia_de_Comercio_Eletronico.pdf)).
+
+### Jogo digital (PS Store, Xbox, Steam) tem direito de arrependimento?
+
+A compra de um jogo digital é feita pela internet, fora da loja física, e o artigo 49 do CDC vale para esse tipo de compra. A lei **não tem uma regra específica** para conteúdo que é baixado, e as lojas de jogos têm **políticas próprias de reembolso**, com prazos e condições que mudam de uma para outra, como não ter começado o download ou ter jogado pouco tempo.
+
+O que a lei garante é que uma cláusula do contrato **não pode fazer o consumidor renunciar aos seus direitos**: ela é nula ([CDC, artigo 51, I](https://www2.camara.leg.br/legin/fed/lei/1990/lei-8078-11-setembro-1990-365086-normaatualizada-pl.html)). Na prática:
+
+1. **Peça o reembolso pelo canal da loja**, dentro dos 7 dias, e guarde o número do pedido e a resposta.
+2. **Na pré-venda**, peça o cancelamento antes do lançamento: os 7 dias contam da compra ou do recebimento, e o jogo ainda não foi entregue.
+3. **Se a loja recusar**, reclame no [Procon ou no Consumidor.gov.br](/artigos/como-reclamar-procon), com a recusa por escrito. Se você pagou com cartão, também pode [contestar a compra no banco](/artigos/estorno-cartao-de-credito).
+
+Jogo com **defeito**, que não abre ou trava sem solução, é outro caso: vale a garantia do CDC (veja abaixo, "Arrependimento é diferente de defeito").
 
 ## Direito de arrependimento na loja física: comprei na loja e me arrependi
 

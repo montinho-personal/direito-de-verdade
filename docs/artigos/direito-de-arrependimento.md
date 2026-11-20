@@ -74,6 +74,26 @@ Relatórios enviados pelo Renato em 23/10/2026, em
 - Exceções apresentadas como entendimento do Procon-SC, não como lei.
 - "Contratos acessórios": exemplos de garantia estendida e seguro.
 
+
+## Jogo digital (20/11/2026)
+
+Pedido do Renato ("pode fazer os 3"), a partir do lançamento do GTA 6 (19/11/2026). Em vez de página
+nova (canibalizaria este artigo), entrou o H3 "Jogo digital (PS Store, Xbox, Steam) tem direito de
+arrependimento?". Pesquisa SerpApi (celular, São Paulo), JSON em `prints/direito-de-arrependimento/`:
+
+| busca | conteúdo | onde entrou |
+|---|---|---|
+| `reembolso jogo digital`, autocompletar | Xbox · PS5 · Nintendo Switch · Nintendo · PS4 | H3 cita PS Store, Xbox e Steam; sem regra de cada loja (páginas não lidas) |
+| idem, PAA | Google Play · recarga · **reembolsar jogo na PSN?** · **cancelar compra de jogo no PS4?** | H3 (passo a passo: pedido na loja, pré-venda, recusa → Procon e contestação no cartão) |
+| idem, visão de IA | políticas de Steam (14 dias, menos de 2 h), Xbox (14 dias) e PlayStation (14 dias, sem download). Fontes: Steam, Xbox Support, PlayStation, Instagram, YouTube | não é fonte; **as páginas das lojas não abriram neste ambiente** (DNS e bloqueio): números das lojas fora |
+| `direito de arrependimento jogo digital`, PAA | art. 35 · arrependimento na internet · arts. 43 e 44 | já cobertos no artigo |
+| orgânicos | fórum do Google Play, suporte de editora, TikTok, notícia | concorrentes fracos |
+
+**Pendente:** ação civil pública do MP-SP contra a Sony por negar arrependimento depois do download
+(noticiada pelo JOTA e por escritório, em novembro de 2026): o site do MP-SP recusou o acesso (403);
+políticas oficiais da PS Store, Steam e Xbox: hosts fora da rede deste ambiente. Incluir quando
+houver fonte lida.
+
 ## Para medir
 
 A partir de novembro/2026: `direito de arrependimento`, `devolver compra internet`,
