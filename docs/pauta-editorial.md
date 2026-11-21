@@ -240,6 +240,16 @@ Pedido do Renato ("pode fazer os 3"): 1) jogo digital → seção nova em `/arti
 
 **Não recomendo:** artigo sobre o GTA 6 em si (preço, plataforma, mapa: fora do tema, nome de marca, concorrência de Rockstar, Xbox e grandes portais); jogos pelo nome (LoL, Roblox, Valorant, FNAF); filmes e livros homônimos ("Jogos Vorazes").
 
+## Candidatos vindos das buscas que ficaram de fora (21/11/2026, rotina diária)
+
+Das revisões de multa de fidelidade e benefício do INSS negado. Só pauta.
+
+**Vale um artigo:** "Multa para cancelar academia ou faculdade" (Smart Fit, Anhanguera no autocompletar) — só se houver fonte oficial (CDC e orientação de Procon ou Senacon); escrever sem nome de marca. Antes, pesquisar `multa cancelamento academia` no SerpApi.
+
+**Não recomendo:** "multa contratual de 20% é legal?" (contrato em geral, sem regra única); páginas por operadora (Vivo, Claro, TIM, Sky: nome de marca; a regra é a mesma); "recurso extraordinário / inominado INSS" (recursos judiciais, público de advogado); "por que o recurso demora" e "o que fazer enquanto aguardo" (sem fonte); "benefício negado quem paga" (intenção pouco clara); status do Meu INSS ("concluído", "em análise", "protocolo tarefa": sem definição oficial).
+
+**Cabe em página existente:** nenhuma nova. Mudança de endereço sem cobertura já entrou na multa de fidelidade (a Resolução 765 não a lista como caso sem multa).
+
 ## Candidatos vindos das buscas que ficaram de fora (20/11/2026, rotina diária)
 
 Das revisões de guarda compartilhada e licença-paternidade. Só pauta.
@@ -434,7 +444,7 @@ Lembrar o Renato desta lista a cada entrega.
 | Guarda compartilhada (`/artigos/guarda-compartilhada`), publicado em 26/10/2026 | AnswerThePublic `guarda compartilhada` | **revisado com o SerpApi em 20/11/2026** (rotina diária) |
 | Licença-paternidade (`/artigos/licenca-paternidade`), publicado em 29/10/2026 | Google: `licença paternidade`; `licença paternidade 2027`; `licença paternidade quantos dias`; AnswerThePublic `licença paternidade` | **revisado com o SerpApi em 20/11/2026** (rotina diária) |
 | Multa de fidelidade (`/artigos/multa-de-fidelidade`), publicado em 29/10/2026 | Google: `cancelar internet multa`; `multa de fidelidade`; `como cancelar plano de celular`; AnswerThePublic `multa de fidelidade` | **revisado com o SerpApi em 21/11/2026** (rotina diária) |
-| Benefício do INSS negado (`/artigos/beneficio-inss-negado-como-recorrer`), publicado em 29/10/2026 | Google: `benefício negado inss`; `como recorrer inss`; `recurso inss prazo`; AnswerThePublic `recurso inss` | **aguardando prints** |
+| Benefício do INSS negado (`/artigos/beneficio-inss-negado-como-recorrer`), publicado em 29/10/2026 | Google: `benefício negado inss`; `como recorrer inss`; `recurso inss prazo`; AnswerThePublic `recurso inss` | **revisado com o SerpApi em 21/11/2026** (rotina diária) |
 | Como recorrer de multa de trânsito (`/artigos/como-recorrer-de-multa-de-transito`), publicado em 29/10/2026 | Google: `como recorrer de multa`; `defesa prévia multa`; `recurso jari prazo`; AnswerThePublic `recorrer multa` | **aguardando prints** |
 | Reajuste do aluguel (`/artigos/reajuste-do-aluguel`), publicado em 29/10/2026 | Google: `reajuste aluguel`; `reajuste aluguel igpm ou ipca`; `calcular reajuste aluguel`; AnswerThePublic `reajuste aluguel` | **aguardando prints** |
 | 13º salário atrasado (`/artigos/13-salario-atrasado`), publicado em 01/11/2026 | Google: `13 salário atrasado`; `empresa não pagou 13 salário`; `13 salário atrasado multa`; AnswerThePublic `13 salário atrasado` | **prints do Google recebidos e artigo revisado em 02/11/2026** (falta AnswerThePublic) |

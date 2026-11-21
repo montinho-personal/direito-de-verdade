@@ -11,11 +11,23 @@ preencher a tabela.
 Completa o grupo de Previdência (auxílio-doença, BPC, aposentadoria, 13º do INSS), que
 já tinha seções curtas sobre negativa; agora todas linkam para cá.
 
-## Prints recebidos
+## Prints recebidos (SerpApi, 21/11/2026)
 
-| print | conteúdo | onde entrou |
+Revisão da rotina diária, 2 buscas, celular, São Paulo. JSON em `prints/beneficio-inss-negado-como-recorrer/`.
+
+| busca | conteúdo | onde entrou |
 |---|---|---|
-| (pendentes) Google `benefício negado inss`; `como recorrer inss`; `recurso inss prazo`; AnswerThePublic `recurso inss` | — | — |
+| `benefício negado inss`, autocompletar | quem paga · **o que fazer** (2) · recurso · como recorrer · **pode ser obtido na Justiça** · **benefício por incapacidade negado** (2) | já cobertos (lead, tabela de caminhos, H2 da Justiça, link para o auxílio-doença). "Quem paga": fora (intenção pouco clara) |
+| idem, PAA | **O que fazer quando o recurso do INSS é negado?** · Novas regras do auxílio-doença 2026 · **O que escrever nas razões do recurso?** · Perícia negada pelo INSS e pela Justiça | H2 novo "E se o recurso do INSS também for negado?" (Recurso Especial, incidente, Justiça); H3 "O que escrever nas razões do recurso do INSS?" com o conteúdo exigido pelo INSS. Auxílio-doença 2026: já no artigo do auxílio. Perícia negada também na Justiça: fora (sem fonte oficial do caminho) |
+| idem, outras pesquisas | (não vieram) | — |
+| idem, visão de IA | Meu INSS ou 135 para a carta; motivos comuns; recurso em 30 dias corridos; novo pedido; ação judicial sem esgotar o recurso (Tema 350). Fontes: só escritórios, Instagram e YouTube | não é fonte. "Corridos" não entrou: a página do INSS diz só "30 dias contados da ciência". Formato: passos numerados, como o artigo |
+| `recurso inss prazo`, autocompletar | **prazo para resposta** / para análise / para julgamento (6) · ordinário · **especial** · extraordinário · inominado · **dias úteis ou corridos** | FAQ do tempo de julgamento (365 dias; 60 na revisão; diligência 30 + 30); Recurso Especial no H2 novo. Extraordinário e inominado: fora (judiciais, outro assunto). Úteis ou corridos: fora (sem fonte oficial) |
+| idem, PAA | **Quanto tempo demora a resposta?** · Por que demora tanto? · O que fazer enquanto aguardo? · **O que vem depois do recurso?** | FAQ do tempo; H2 "O que acontece depois" já existia, com H3 novo "Ganhei o recurso. E agora?". "Por que demora" e "enquanto aguardo": fora (sem fonte) |
+| idem, outras pesquisas | prazo para resposta · **dias úteis ou corridos** · **ganhei o recurso e agora** · quanto tempo demora · em análise · **concluído** · protocolo tarefa · **provido o que significa** · consultar | "Ganhei" e "provido": H3 novo; consultar: já no texto. "Concluído", "em análise" e "protocolo tarefa": fora (status do sistema sem definição oficial lida) |
+| idem, visão de IA | só `page_token` (não pedida, pelo orçamento) | — |
+| orgânicos | `benefício negado`: **YouTube** em 1º, escritórios e blogs. `recurso prazo`: **Ministério da Previdência (fluxo)**, escritórios, Portaria Dirben 996, gov.br, notícias | o site não aparece. 1ª busca com vídeo no topo (registrado) e só escritórios abaixo: concorrência fraca |
+
+**Formato:** artigo de texto; vídeos no topo da 1ª busca (o texto disputa com eles).
 
 ## Fontes confirmadas (29/10/2026)
 
@@ -29,9 +41,14 @@ já tinha seções curtas sobre negativa; agora todas linkam para cá.
 | JEF até 60 salários mínimos, sem advogado até a sentença; advogado ou defensor para recorrer | TRF4 | oficial |
 | 60 × R$ 1.621 = R$ 97.260 (salário mínimo de 2026, Decreto 12.797/2025, já conferido no BPC) | conta | — |
 
+| CRPS: 365 dias para julgar (60 na revisão); diligência 30 + 30; conteúdo das razões; formulário não obrigatório; intempestividade; Recurso Especial pelo serviço "Recurso Especial ou Incidente" | INSS, dúvidas frequentes do recurso (atualizado em 17/04/2024), lido em 21/11/2026 | oficial |
+| Acórdão enviado às partes; incidentes; implantação em até 30 dias | Ministério da Previdência, fluxo de recursos do CRPS, lido em 21/11/2026 | oficial |
+
 ## Pendente
 
-- Prazo médio de julgamento do recurso: só uma notícia oficial falava em "cerca de seis meses" (não conferida); fora.
+- ~~Prazo de julgamento~~: o INSS informa prazo de até 365 dias (60 na revisão); entrou em 21/11/2026. Prazo médio real: sem fonte.
+- "Recurso concluído", "em análise", "protocolo tarefa" (status do Meu INSS): sem definição oficial lida.
+- 30 dias úteis ou corridos: sem fonte oficial.
 - Prazo do INSS para analisar o pedido inicial (acordo no STF, RE 1.171.152): não conferido; fora.
 - Revisão de benefício concedido (decadência de 10 anos): outro artigo.
 

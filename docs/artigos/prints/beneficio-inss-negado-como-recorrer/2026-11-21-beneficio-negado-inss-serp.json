@@ -1,0 +1,97 @@
+{
+  "busca": "benefício negado inss",
+  "pesquisadaEm": "2026-11-21",
+  "origem": "SerpApi: Google Brasil (google.com.br), celular, São Paulo, pt-BR, sem personalização",
+  "autocompletar": [
+    "benefício negado inss quem paga",
+    "beneficio negado inss o que fazer",
+    "beneficio negado inss recurso",
+    "beneficio negado inss como recorrer",
+    "benefício negado pelo inss pode ser obtido na justiça",
+    "beneficio por incapacidade inss negado o que fazer",
+    "beneficio por incapacidade inss negado",
+    "benefício negado pelo inss o que fazer",
+    "benefício negado pelo inss"
+  ],
+  "asPessoasTambemPerguntam": [
+    "O que fazer quando o recurso do INSS é negado?",
+    "Quais são as novas regras para o auxílio-doença em 2026?",
+    "O que escrever nas razões do recurso do INSS?",
+    "O que devo fazer se minha perícia for negada pelo INSS e pela Justiça Federal?"
+  ],
+  "outrasPessoasPesquisaram": [],
+  "visaoDeIA": {
+    "texto": "Quando o INSS nega um pedido (chamado de indeferimento), o primeiro passo é consultar o Meu INSS (site ou aplicativo, em Consultar Pedidos) ou ligar no 135 para baixar a carta/comunicado de decisão e anotar a data em que tomou ciência.\n1. Identifique o motivo da negativa\nAs recusas mais comuns envolvem:\n  - Documentação insuficiente ou desatualizada: falta de laudos que descrevam limitações e tempo de afastamento, ou falhas na comprovação de vínculos/renda.\n  - Perícia médica desfavorável: conclusão de ausência de incapacidade para o trabalho.\n  - Requisitos legais não reconhecidos: falta de carência, perda da qualidade de segurado ou divergências no CNIS.\n  - Falhas de análise ou do sistema: vínculos ou documentos não computados.\n2. Escolha o caminho adequado\n  - Recurso administrativo (CRPS): prazo de 30 dias corridos a partir da ciência da decisão. Indicado quando há erro de análise ou provas já existentes que precisam ser reavaliadas.\n  - Novo pedido: indicado quando faltaram documentos, houve mudança/piora do quadro ou é preciso corrigir pendências — mas repetir o pedido sem corrigir o problema tende a gerar nova negativa e pode afetar a data de início dos efeitos financeiros.\n  - Ação judicial: permite perícia médica judicial e análise própria do juiz, sem exigir o esgotamento prévio do recurso administrativo (apenas o pedido prévio ao INSS, conforme o Tema 350 do STF).\nPara detalhes práticos sobre prazos e etapas, veja o guia de benefício negado INSS. Se o caso envolver incapacidade laboral, também há orientações sobre laudos em benefícios por incapacidade.\nSe você quiser me contar:\n  - Qual benefício foi pedido (ex.: auxílio por incapacidade temporária, aposentadoria, BPC)\n  - Qual motivo apareceu na decisão do INSS\n  - Quando você ficou sabendo da negativa\nPosso ajudar a organizar os próximos passos e os documentos mais indicados.",
+    "fontes": [
+      "André Beschizza Advogados",
+      "Barbieri Advogados",
+      "Capelin Advocacia - Londrina",
+      "Ingrácio Advocacia",
+      "Instagram",
+      "Lemos de Miranda Advogados",
+      "YouTube"
+    ]
+  },
+  "videos": [
+    {
+      "titulo": "Ter um benefício negado pelo INSS não significa que você não tem direito. Na ...",
+      "canal": "Laurentiz Sociedade de Advogados"
+    },
+    {
+      "titulo": "Seu benefício do INSS foi negado? A negativa não significa, necessariamente ...",
+      "canal": "Advocacia Castilho Filho - Previdenciário"
+    },
+    {
+      "titulo": "ALERTA: Seu benefício foi NEGADO? Veja os 5 motivos mais comuns Receber ...",
+      "canal": "Taveira Advogados | Aposentadoria e benefícios do INSS"
+    },
+    {
+      "titulo": "O INSS NEGOU SEU BENEFÍCIO? CALMA, NÃO DESISTA! Antes de fazer um ...",
+      "canal": "Dr. Cleverson Redivo"
+    }
+  ],
+  "organicos": [
+    {
+      "posicao": 1,
+      "titulo": "Você teve o Auxílio do INSS NEGADO? SAIBA o que fazer!",
+      "endereco": "https://www.youtube.com/watch?v=cqwWSEtRQIk",
+      "trecho": "Somos Referência Nacional em Direito Previdenciário O escritório Coelho, Martins e Pawlick – CMP Advocacia foi fundado em Santa Catarina e ..."
+    },
+    {
+      "posicao": 2,
+      "titulo": "Benefício negado pelo INSS: É possível recorrer?",
+      "endereco": null,
+      "trecho": "¨ Recurso Especial: Caso o seu primeiro recurso seja negado é possível recorrer por meio do Recurso Especial. Essa espécie de recurso pode ser ..."
+    },
+    {
+      "posicao": 3,
+      "titulo": "Benefício indeferido INSS: o que fazer e como recorrer",
+      "endereco": null,
+      "trecho": "Benefício indeferido INSS? Entenda por que o pedido pode ser negado, como consultar o motivo, quando recorrer e quando fazer um novo requerimento."
+    },
+    {
+      "posicao": 4,
+      "titulo": "Benefício Negado pelo INSS - Dr. Cristiano Ávila OAB/SP 449.554",
+      "endereco": null,
+      "trecho": "O que fazer quando o INSS nega ou demora. Entender o motivo da negativa é o primeiro passo. Muitas vezes falta um documento ou uma prova."
+    },
+    {
+      "posicao": 5,
+      "titulo": "Benefício do INSS negado: Saiba o que fazer agora para não perder o auxílio",
+      "endereco": null,
+      "trecho": "Motivos mais comuns para a negativa. Entre as causas mais frequentes estão falta de documentação obrigatória, carência insuficiente, erros no ..."
+    },
+    {
+      "posicao": 6,
+      "titulo": "Benefício do INSS negado não significa fim do processo. Mesmo depois de 30 dias ...",
+      "endereco": null,
+      "trecho": "Benefício do INSS negado não significa fim do processo. Mesmo depois de 30 dias, existem possibilidades de recurso. Você já sabia?"
+    },
+    {
+      "posicao": 7,
+      "titulo": "Benefício Negado pelo INSS — E Agora?",
+      "endereco": null,
+      "trecho": "Ter um benefício negado pelo INSS não encerra o caso. O ponto decisivo é identificar com precisão por que o pedido foi indeferido e escolher a resposta ..."
+    }
+  ]
+}

@@ -1,13 +1,13 @@
 ---
 titulo: "Benefício do INSS negado: como fazer o recurso e quando ir à Justiça"
 tituloSeo: "Benefício do INSS negado: como recorrer em 30 dias"
-descricao: "Benefício do INSS negado: você tem 30 dias para recorrer pelo Meu INSS, de graça e sem advogado. Veja o passo a passo, o que anexar e quando ir à Justiça."
+descricao: "Benefício do INSS negado: você tem 30 dias para recorrer pelo Meu INSS, de graça e sem advogado, e o CRPS tem até 365 dias para julgar. Veja o passo a passo."
 categoria: previdencia
 publicadoEm: 2026-10-29
-atualizadoEm: 2026-10-29
+atualizadoEm: 2026-11-21
 faq:
   - pergunta: "Quanto tempo demora o recurso do INSS?"
-    resposta: "Não há um prazo fixo para o julgamento: depende da fila da Junta de Recursos. Depois que o recurso é julgado a seu favor, o INSS tem até 30 dias para implantar a decisão, contados do recebimento do processo. Acompanhe pelo Meu INSS, em \"Recurso\" e \"Consultar Andamento\"."
+    resposta: "O Conselho de Recursos tem prazo de até 365 dias para analisar e julgar os recursos em geral, e de 60 dias quando o benefício foi suspenso ou cancelado no programa de revisão do INSS. Se o relator pedir uma diligência ao INSS, ela tem 30 dias, prorrogáveis por mais 30. Depois do julgamento a seu favor, o INSS tem até 30 dias para implantar a decisão."
   - pergunta: "Perdi o prazo de 30 dias. E agora?"
     resposta: "Você pode fazer um novo pedido ao INSS, com os documentos que faltaram, ou procurar a Justiça Federal, já que o pedido foi negado. No pedido novo, a data de entrada muda, e o benefício costuma ser pago a partir dela."
   - pergunta: "Preciso de advogado para recorrer ao INSS?"
@@ -35,7 +35,7 @@ Se o INSS negou o seu benefício, você tem **30 dias**, contados de quando soub
 
 ## Qual o prazo para recorrer do INSS?
 
-**30 dias**, contados da data em que você tomou ciência da decisão ([INSS](https://www.gov.br/inss/pt-br/direitos-e-deveres/recurso/duvidas-frequentes); [Decreto 3.048, artigo 305](https://www.planalto.gov.br/ccivil_03/decreto/d3048.htm)). Em geral, é a data em que a carta chegou ou em que você viu a decisão no Meu INSS, em "Consultar Pedidos". Não deixe para o último dia: anote a data e protocole com folga.
+**30 dias**, contados da data em que você tomou ciência da decisão ([INSS](https://www.gov.br/inss/pt-br/direitos-e-deveres/recurso/duvidas-frequentes); [Decreto 3.048, artigo 305](https://www.planalto.gov.br/ccivil_03/decreto/d3048.htm)). Em geral, é a data em que a carta chegou ou em que você viu a decisão no Meu INSS, em "Consultar Pedidos". Recurso apresentado depois do prazo é chamado de **intempestivo** ([INSS](https://www.gov.br/inss/pt-br/direitos-e-deveres/recurso/duvidas-frequentes)). Não deixe para o último dia: anote a data e protocole com folga.
 
 ## Como fazer o recurso no Meu INSS?
 
@@ -47,7 +47,14 @@ Se o INSS negou o seu benefício, você tem **30 dias**, contados de quando soub
 
 Quem não consegue pela internet pode pedir pelo **135** ou agendar o atendimento numa agência. Outra pessoa pode recorrer por você com **procuração** no modelo do INSS ou pública, levando o próprio documento e o seu ([gov.br](https://www.gov.br/pt-br/servicos/apresentar-recurso-ordinario-inicial)).
 
-### O que escrever no recurso
+### O que escrever nas razões do recurso do INSS?
+
+O INSS tem formulários-modelo, mas eles não são obrigatórios: dá para escrever o recurso em folha à parte. Segundo o INSS, o recurso deve ter ([dúvidas frequentes](https://www.gov.br/inss/pt-br/direitos-e-deveres/recurso/duvidas-frequentes)):
+
+- o órgão a que ele se dirige (a Junta de Recursos);
+- o nome, o CPF e o NIT do segurado, e o nome, a identidade, o CPF e o endereço completo de quem recorre;
+- o **motivo do recurso** (benefício negado, cessado ou suspenso);
+- as **razões**: por que você tem direito ao benefício, com os documentos que provam o que você diz.
 
 Leia a carta de indeferimento: ela diz o **motivo** da negativa. Responda a esse motivo de forma direta:
 
@@ -65,7 +72,19 @@ Pelo fluxo do Conselho de Recursos ([Ministério da Previdência](https://www.go
 3. Contra a decisão da Junta, você ou o INSS podem apresentar **Recurso Especial**, também em 30 dias, julgado por uma das **4 Câmaras de Julgamento**.
 4. Com a decisão favorável, o INSS tem **até 30 dias** para implantar o benefício, contados do recebimento do processo.
 
+### Ganhei o recurso. E agora?
+
+O julgamento sai num **acórdão**, enviado a você e ao INSS. Quando o recurso é aceito, diz-se que foi **provido**. Se nenhuma das partes recorrer nem pedir correção da decisão, o INSS tem **até 30 dias** para implantar o benefício, contados de quando recebe o processo no sistema ([Ministério da Previdência](https://www.gov.br/previdencia/pt-br/acesso-a-informacao/participacao-social/conselhos-e-orgaos-colegiados/conselho-de-recursos-da-previdencia-social/fluxo-de-recursos)). Mas o INSS também pode apresentar Recurso Especial contra a decisão da Junta.
+
 O andamento aparece no Meu INSS, em **"Recurso" e "Consultar Andamento"**, ou no site consultaprocessos.inss.gov.br.
+
+## E se o recurso do INSS também for negado?
+
+Você tem três saídas:
+
+1. **Recurso Especial**, em **30 dias** da ciência da decisão da Junta, julgado por uma das 4 Câmaras de Julgamento. O pedido é feito no Meu INSS, no serviço **"Recurso Especial ou Incidente (Alteração de acórdão)"**, informando o protocolo do recurso inicial ([INSS](https://www.gov.br/inss/pt-br/direitos-e-deveres/recurso/duvidas-frequentes)).
+2. **Incidente**, se a decisão for obscura ou difícil de entender: ele pede a correção antes de um novo julgamento.
+3. **Justiça Federal**, que não depende de esgotar os recursos administrativos (veja abaixo). Se for por esse caminho, saiba que a ação com o mesmo pedido encerra o recurso administrativo.
 
 ## Recurso, novo pedido ou Justiça?
 
