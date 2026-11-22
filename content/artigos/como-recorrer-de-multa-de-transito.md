@@ -1,10 +1,10 @@
 ---
 titulo: "Como recorrer de multa de trânsito: defesa prévia, JARI e Cetran"
 tituloSeo: "Como recorrer de multa de trânsito: prazos e passo a passo"
-descricao: "Como recorrer de multa de trânsito: defesa prévia em 30 dias, depois JARI e Cetran, sem pagar antes. Veja os prazos do CTB, quando a multa cai e o desconto."
+descricao: "Como recorrer de multa de trânsito: defesa prévia em 30 dias, depois JARI e Cetran, de graça e sem pagar antes. Veja os prazos, quando a multa cai e o radar."
 categoria: transito
 publicadoEm: 2026-10-29
-atualizadoEm: 2026-11-01
+atualizadoEm: 2026-11-22
 faq:
   - pergunta: "Preciso pagar a multa para recorrer?"
     resposta: "Não. O recurso pode ser apresentado sem pagar a multa (CTB, artigo 286). Enquanto o processo não termina, não pode haver juros nem bloqueio do licenciamento ou da transferência por causa dessa multa (artigo 284, § 3º)."
@@ -14,6 +14,8 @@ faq:
     resposta: "Pode. São etapas diferentes: quem perdeu o prazo da defesa prévia ainda pode recorrer à JARI quando receber a notificação da penalidade, no prazo que vem escrito nela."
   - pergunta: "O que acontece se o recurso não for julgado?"
     resposta: "O recurso à JARI e o recurso ao Cetran têm de ser julgados em até 24 meses cada um, contados do recebimento pelo órgão julgador. Se o prazo passar, a multa prescreve e não pode mais ser cobrada (CTB, artigos 285, § 6º, 289 e 289-A)."
+  - pergunta: "Quanto custa para recorrer de uma multa?"
+    resposta: "Nada. A apresentação do recurso é gratuita, segundo o Cetran-SP, e você não precisa pagar a multa antes (CTB, artigo 286). Só paga quem contrata advogado ou despachante, o que não é obrigatório."
   - pergunta: "Precisa de advogado para recorrer de multa?"
     resposta: "Não. O próprio dono do veículo ou o condutor pode apresentar a defesa e os recursos, pelo site do órgão que aplicou a multa ou pessoalmente. Um advogado ou despachante pode ajudar, mas não é obrigatório."
 fontes:
@@ -38,7 +40,12 @@ Para recorrer de uma multa de trânsito, há três chances, cada uma com prazo d
 | **recurso à JARI** (1ª instância) | chega a notificação da penalidade, com o valor | o que estiver na notificação, nunca menos de 30 dias; é também o vencimento da multa (artigo 282, §§ 4º e 5º) |
 | **recurso ao Cetran** (2ª instância) | a JARI negou o recurso | 30 dias da publicação ou notificação da decisão (artigo 288) |
 
-Nas multas aplicadas por órgãos estaduais e municipais, a 2ª instância é o **Cetran** do estado (no Distrito Federal, o Contrandife); nas multas de órgãos federais, como a PRF, é um colegiado especial das JARIs (artigo 289). Perdeu o prazo da defesa prévia? Ainda dá para recorrer à JARI quando a notificação da penalidade chegar ([Cetran-SP](https://www.cetran.sp.gov.br/CetranWeb/canais/faq)).
+Nas multas aplicadas por órgãos estaduais e municipais, a 2ª instância é o **Cetran** do estado (no Distrito Federal, o Contrandife); nas multas de órgãos federais, como a PRF, é um colegiado especial das JARIs (artigo 289). ### Perdi o prazo. Ainda dá para recorrer?
+
+- **Perdeu a defesa prévia:** ainda dá para recorrer à JARI quando a notificação da penalidade chegar ([Cetran-SP](https://www.cetran.sp.gov.br/CetranWeb/canais/faq)).
+- **Perdeu o prazo da JARI ou do Cetran:** não. O recurso fora do prazo é **intempestivo**: não suspende a multa e é arquivado, e a fase administrativa termina ali (CTB, artigos 285, §§ 1º e 5º, e 290, II). Sobra pagar a multa ou, se houver ilegalidade, discutir na Justiça com um advogado ou a Defensoria Pública.
+
+Por isso, anote o prazo que vem escrito em cada notificação e protocole com folga.
 
 ## Quando a multa é cancelada?
 
@@ -65,6 +72,25 @@ Fora desses casos, o recurso precisa mostrar por que a infração não aconteceu
 - **40% de desconto:** só para quem aderiu ao **Sistema de Notificação Eletrônica (SNE)** antes de a notificação ser enviada e declara pelo sistema que reconhece a infração e **não vai apresentar defesa nem recurso** (artigo 284, § 1º). A adesão é gratuita, pelo aplicativo CNH do Brasil, a antiga Carteira Digital de Trânsito ([Detran-RS](https://www.detran.rs.gov.br/infracoes-multas/servicos/1473)). Quem adere passa a ser considerado notificado 30 dias depois de a infração entrar no sistema (artigo 282-A, § 2º).
 
 Na prática: quem quer recorrer pode pagar com 20% até o vencimento, garantir o desconto e recorrer assim mesmo. Quem sabe que cometeu a infração e aderiu ao SNE a tempo paga menos com os 40%.
+
+## O que acontece se não pagar a multa no prazo?
+
+- **Enquanto o recurso está correndo:** não há juros nem bloqueio do licenciamento ou da transferência por causa dessa multa (CTB, artigo 284, § 3º).
+- **Depois que o processo termina** (recurso negado, prazo perdido ou sem recurso): a multa não paga até o vencimento passa a ter **juros pela Selic**, mais 1% no mês do pagamento (artigo 284, § 4º), e você perde o desconto de 20%.
+- **Licenciamento:** o veículo só é considerado licenciado com as multas vinculadas a ele quitadas (artigo 131, § 2º). Sem pagar, não dá para fazer o licenciamento anual.
+
+## Multa de radar ou por toxicológico: o recurso muda?
+
+O caminho é o mesmo (defesa prévia, JARI e Cetran), mas vale saber a gravidade de cada uma, porque ela define os pontos e o valor:
+
+| infração | gravidade |
+| --- | --- |
+| velocidade até 20% acima da máxima | média |
+| velocidade de 20% a 50% acima | grave |
+| velocidade mais de 50% acima | gravíssima, multa três vezes e suspensão do direito de dirigir |
+| dirigir sem o exame toxicológico exigido | gravíssima, multa cinco vezes |
+
+Base: CTB, artigos 218 e 165-B. Na multa de radar, confira no auto a **identificação do equipamento**, o local, a data e a hora: a falta desses dados é motivo de cancelamento (artigos 280 e 281, § 1º, I). Na do toxicológico, junte o comprovante do exame, se você o fez dentro do prazo.
 
 ## E se outra pessoa estava dirigindo?
 
