@@ -1,10 +1,10 @@
 ---
 titulo: "Lista de material escolar: o que a escola não pode pedir"
-tituloSeo: "Lista de material escolar: o que a escola não pode pedir"
-descricao: "Lista de material escolar: a escola não pode pedir item de uso coletivo, como papel higiênico, produtos de limpeza e copos, nem exigir marca ou loja. Veja a lei."
+tituloSeo: "Lista de material escolar 2026: o que a escola não pode pedir"
+descricao: "Lista de material escolar 2026: a escola não pode pedir item de uso coletivo, como papel higiênico e produtos de limpeza, nem exigir marca ou loja. Veja o que pode."
 categoria: consumidor
 publicadoEm: 2026-11-01
-atualizadoEm: 2026-11-01
+atualizadoEm: 2026-11-22
 faq:
   - pergunta: "A escola pode pedir papel higiênico e produtos de limpeza?"
     resposta: "Não. São itens de uso coletivo, e a lei considera nula a cláusula que obrigue os pais a pagar à parte ou a fornecer material de uso coletivo. O custo deles já tem de estar na mensalidade (Lei 9.870/1999, artigo 1º, § 7º)."
@@ -13,7 +13,7 @@ faq:
   - pergunta: "A escola pode cobrar uma taxa de material em vez da lista?"
     resposta: "Só como opção, pelos itens de uso individual e com a lista do que está sendo cobrado. Segundo os Procons, a taxa sem a lista é abusiva, e a escolha entre pagar o pacote da escola ou comprar os itens por conta própria é dos pais. Taxa para cobrir material coletivo, água, luz ou telefone não pode."
   - pergunta: "A escola pode exigir uniforme comprado nela mesma?"
-    resposta: "Só se a escola tiver uma marca de uniforme registrada; nesse caso, pode indicar onde comprar. Sem marca registrada, você pode comprar o uniforme onde quiser, segundo o Procon-SP."
+    resposta: "Só se a escola tiver uma marca de uniforme registrada; nesse caso, pode indicar onde comprar. Sem marca registrada, você pode comprar o uniforme onde quiser, segundo o Procon-SP. E a escola que exige uniforme não pode mudar o modelo antes de 5 anos da adoção (Lei 8.907/1994, artigo 1º)."
   - pergunta: "Comprei o material pela internet e me arrependi. Posso devolver?"
     resposta: "Pode. Nas compras feitas fora da loja, você tem 7 dias, a contar do recebimento, para desistir sem dar motivo e receber o dinheiro de volta, corrigido (CDC, artigo 49)."
 fontes:
@@ -21,6 +21,8 @@ fontes:
     url: "https://www2.camara.leg.br/legin/fed/lei/1999/lei-9870-23-novembro-1999-369698-normaatualizada-pl.pdf"
   - nome: "Lei nº 12.886/2013: proibição de material escolar de uso coletivo (Câmara dos Deputados)"
     url: "https://www2.camara.leg.br/legin/fed/lei/2013/lei-12886-26-novembro-2013-777456-publicacaooriginal-141976-pl.html"
+  - nome: "Lei nº 8.907/1994: o modelo do uniforme escolar não pode mudar antes de 5 anos (Câmara dos Deputados)"
+    url: "https://www2.camara.leg.br/legin/fed/lei/1994/lei-8907-6-julho-1994-349754-publicacaooriginal-1-pl.html"
   - nome: "Procon-SP: cartilha de material escolar"
     url: "https://www.procon.sp.gov.br/wp-content/uploads/files/MaterialEscolar.pdf"
   - nome: "Agência SP: Procon-SP reforça orientações para material escolar (22/07/2026)"
@@ -41,9 +43,9 @@ A Lei 12.886/2013 incluiu na lei das mensalidades escolares esta regra:
 
 > "Será nula cláusula contratual que obrigue o contratante ao pagamento adicional ou ao fornecimento de qualquer material escolar de uso coletivo dos estudantes ou da instituição, necessário à prestação dos serviços educacionais contratados, devendo os custos correspondentes ser sempre considerados nos cálculos do valor das anuidades ou das semestralidades escolares." ([Lei 9.870/1999, artigo 1º, § 7º](https://www2.camara.leg.br/legin/fed/lei/1999/lei-9870-23-novembro-1999-369698-normaatualizada-pl.pdf))
 
-Ou seja: o que serve à turma toda ou ao funcionamento da escola é custo da escola, já incluído na mensalidade. A lei vale para escolas particulares, do ensino pré-escolar ao superior. Ela não traz uma lista fechada de itens: o critério é se o material é usado só pelo seu filho ou por todos.
+Ou seja: o que serve à turma toda ou ao funcionamento da escola é custo da escola, já incluído na mensalidade. A lei é federal e vale em **todo o país**, para escolas particulares, do ensino pré-escolar ao superior, e continua a mesma em 2026. Ela não traz uma lista fechada de itens: o critério é se o material é usado só pelo seu filho ou por todos.
 
-## O que a escola não pode pedir na lista?
+## Material escolar proibido pelo Procon: o que a escola não pode pedir?
 
 Exemplos de itens de **uso coletivo**, que o Procon-SP considera proibidos ([Agência SP, 22/07/2026](https://www.agenciasp.sp.gov.br/procon-reforca-orientacoes-material-escola/)):
 
@@ -61,7 +63,7 @@ Também não pode:
 
 Quantidades exageradas de um item individual, como várias resmas de papel por aluno, também levantam suspeita de uso coletivo: pergunte à escola para que servem.
 
-## O que a escola pode pedir?
+## O que a escola pode pedir na lista de material?
 
 Material de **uso individual e pedagógico** do aluno: cadernos, lápis, borracha, apontador, canetas, cola, tesoura sem ponta, lápis de cor, livros e apostilas, em quantidade compatível com o uso de uma criança no ano. Peça à escola, se tiver dúvida, como cada item será usado.
 

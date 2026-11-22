@@ -9,11 +9,22 @@ segundo dos seis pedidos em 01/11/2026. Quando os relatórios chegarem: salvar e
 Pico de dezembro a fevereiro (matrículas e volta às aulas). Abre o assunto escola em
 Consumidor; liga com arrependimento e Procon.
 
-## Prints recebidos
+## Prints recebidos (SerpApi, 22/11/2026)
 
-| print | conteúdo | onde entrou |
+Revisão da rotina diária, 2 buscas, celular, São Paulo. JSON em `prints/lista-de-material-escolar/`.
+
+| busca | conteúdo | onde entrou |
 |---|---|---|
-| (pendentes) Google `lista de material escolar o que não pode`; `material escolar proibido`; `escola pode pedir papel higiênico`; AnswerThePublic `material escolar` | — | — |
+| `lista de material escolar o que não pode`, autocompletar | **o que não pode ser cobrado** · o que não pode pedir · **que não pode ser pedido 2025 / 2026 / 2023** · o que não pode ter na lista | "2026" no `tituloSeo` e na `descricao`; o texto diz que a lei é a mesma em 2026; "cobrado" já está no H2 da taxa |
+| idem, PAA | **O que a escola pode pedir na lista?** · É crime um professor gritar com aluno? · É crime pegar o celular do aluno? · O que vai vir no material escolar 2026? | H2 "O que a escola pode pedir na lista de material?". Professor e celular: fora (outro tema; celular vira pauta). Material 2026: fora (kit da rede pública, varia por rede) |
+| idem, outras pesquisas | (não vieram) | — |
+| idem, visão de IA | só `page_token` (não pedida, pelo orçamento) | — |
+| `material escolar proibido`, autocompletar | **proibido pelo Procon** (2025, 2026, SP, Bahia, RJ) · de pedir · itens proibidos · lista 2026 | H2 renomeado "Material escolar proibido pelo Procon: o que a escola não pode pedir?"; "lei federal, vale em todo o país" no H2 da lei. Bahia e RJ: fora (página por estado não recomendada) |
+| idem, PAA | O que não se pode levar na escola? · Professor gritar · **Qual é a nova lei do Lula nas escolas?** · Material 2026 | fora; "nova lei nas escolas" (celular, Lei 15.100/2025) vai para a pauta |
+| idem, visão de IA | só `page_token` (não pedida) | — |
+| orgânicos | jornais regionais, Procons municipais (JP), blogs, TV (Bom Dia Pará), um resultado em inglês | o site não aparece; concorrência de notícias, sem página oficial em 1º. Pico em janeiro: o artigo está pronto antes |
+
+**Formato:** artigo de texto; imagens e vídeos no topo das duas buscas (listas em imagem de Procons).
 
 ## Fontes confirmadas (01/11/2026)
 
@@ -25,16 +36,18 @@ Consumidor; liga com arrependimento e Procon.
 | Taxa de material sem lista é abusiva; escola informa os itens | Procon de São José dos Campos (prefeitura, gov.br) | oficial |
 | A escolha entre comprar os itens ou pagar o pacote da escola é do consumidor | Procon-MT | oficial |
 
+| Uniforme: escola que o exige não pode mudar o modelo antes de 5 anos; critérios econômicos e de clima | Lei 8.907/1994, arts. 1º e 2º (Câmara, publicação original; "não consta revogação expressa"), lida em 22/11/2026 | oficial |
+
 ## Pendente
 
 - Cartilha do Procon-SP de fevereiro de 2026: o PDF não abriu; usada a de 2019 e a notícia de 22/07/2026.
-- Lei de uniforme (Lei 8.907/1994): citada pelo Procon-SP; não conferida.
+- ~~Lei de uniforme (Lei 8.907/1994)~~: conferida em 22/11/2026; entrou no FAQ do uniforme (5 anos).
 - Leis estaduais e municipais com listas de itens proibidos (ex.: portarias de Procons municipais): fora.
 
 ## Decisões
 
 - Tabela de itens só com exemplos que aparecem nas fontes oficiais (toner, talheres e papel toalha, comuns em blogs, ficaram fora).
-- `tituloSeo` igual ao H1 (56): provisório.
+- `tituloSeo` "Lista de material escolar 2026: o que a escola não pode pedir" (61), pelo autocompletar de 22/11/2026 ("2026" em várias variações). Rever o ano em janeiro de 2027.
 
 ## Para medir
 

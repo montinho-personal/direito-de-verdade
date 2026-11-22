@@ -240,6 +240,16 @@ Pedido do Renato ("pode fazer os 3"): 1) jogo digital → seção nova em `/arti
 
 **Não recomendo:** artigo sobre o GTA 6 em si (preço, plataforma, mapa: fora do tema, nome de marca, concorrência de Rockstar, Xbox e grandes portais); jogos pelo nome (LoL, Roblox, Valorant, FNAF); filmes e livros homônimos ("Jogos Vorazes").
 
+## Candidatos vindos das buscas que ficaram de fora (22/11/2026, rotina diária)
+
+Das revisões de recurso de multa de trânsito e lista de material escolar. Só pauta.
+
+**Vale um artigo:** "Celular na escola: o que diz a lei" (PAA "nova lei do Lula nas escolas" e "é crime pegar o celular do aluno?"; Lei 15.100/2025, texto na Câmara ou no Senado). Antes, pesquisar `lei do celular nas escolas` no SerpApi. Público de pais, próximo do pico da volta às aulas (fevereiro).
+
+**Não recomendo:** "é crime professor gritar com aluno?" (sem fonte objetiva, depende do caso); "o que vai vir no material escolar 2026" (kit da rede pública, varia por rede); páginas por estado (material proibido pelo Procon Bahia ou RJ; recurso de multa no Detran-MG: a regra é nacional); "chance de ganhar recurso de multa" e "quanto custa advogado" (sem fonte); modelo pronto de recurso à JARI (decisão do doc da multa).
+
+**Cabe em página existente:** multa por faixa exclusiva de ônibus e por estacionamento irregular → recurso de multa de trânsito, quando houver o artigo do CTB lido (anotado no "Pendente" do doc; sem "Aplicar na próxima revisão" até a fonte ser lida).
+
 ## Candidatos vindos das buscas que ficaram de fora (21/11/2026, rotina diária)
 
 Das revisões de multa de fidelidade e benefício do INSS negado. Só pauta.
@@ -448,7 +458,7 @@ Lembrar o Renato desta lista a cada entrega.
 | Como recorrer de multa de trânsito (`/artigos/como-recorrer-de-multa-de-transito`), publicado em 29/10/2026 | Google: `como recorrer de multa`; `defesa prévia multa`; `recurso jari prazo`; AnswerThePublic `recorrer multa` | **revisado com o SerpApi em 22/11/2026** (rotina diária) |
 | Reajuste do aluguel (`/artigos/reajuste-do-aluguel`), publicado em 29/10/2026 | Google: `reajuste aluguel`; `reajuste aluguel igpm ou ipca`; `calcular reajuste aluguel`; AnswerThePublic `reajuste aluguel` | **aguardando prints** |
 | 13º salário atrasado (`/artigos/13-salario-atrasado`), publicado em 01/11/2026 | Google: `13 salário atrasado`; `empresa não pagou 13 salário`; `13 salário atrasado multa`; AnswerThePublic `13 salário atrasado` | **prints do Google recebidos e artigo revisado em 02/11/2026** (falta AnswerThePublic) |
-| Lista de material escolar (`/artigos/lista-de-material-escolar`), publicado em 01/11/2026 | Google: `lista de material escolar o que não pode`; `material escolar proibido`; `escola pode pedir papel higiênico`; AnswerThePublic `material escolar` | **aguardando prints** |
+| Lista de material escolar (`/artigos/lista-de-material-escolar`), publicado em 01/11/2026 | Google: `lista de material escolar o que não pode`; `material escolar proibido`; `escola pode pedir papel higiênico`; AnswerThePublic `material escolar` | **revisado com o SerpApi em 22/11/2026** (rotina diária) |
 | Pontos na CNH (`/artigos/pontos-na-cnh`), publicado em 01/11/2026 | Google: `pontos na cnh`; `quantos pontos suspende a cnh`; `consultar pontos cnh`; AnswerThePublic `pontos cnh` | **aguardando prints** |
 | Desconto indevido no INSS (`/artigos/desconto-indevido-inss`), publicado em 01/11/2026 | Google: `desconto indevido inss`; `desconto associação inss`; `como cancelar desconto inss`; AnswerThePublic `desconto inss` | **aguardando prints** |
 | União estável (`/artigos/uniao-estavel`), publicado em 01/11/2026 | Google: `união estável`; `união estável direitos`; `como fazer união estável`; AnswerThePublic `união estável` | **aguardando prints** |
