@@ -1,10 +1,10 @@
 ---
 titulo: "Pontos na CNH: quantos pontos suspendem a carteira e como consultar"
-tituloSeo: "Pontos na CNH: quantos pontos suspendem e como consultar"
-descricao: "Pontos na CNH: a carteira é suspensa com 20, 30 ou 40 pontos em 12 meses, conforme as infrações gravíssimas. Veja a tabela, como consultar e o que fazer."
+tituloSeo: "Pontos na CNH: limite, quando zeram e como consultar"
+descricao: "Pontos na CNH: a carteira é suspensa com 20, 30 ou 40 pontos em 12 meses, conforme as gravíssimas. Veja quando os pontos zeram, como consultar e a provisória."
 categoria: transito
 publicadoEm: 2026-11-01
-atualizadoEm: 2026-11-01
+atualizadoEm: 2026-11-23
 faq:
   - pergunta: "Os pontos da CNH vencem?"
     resposta: "Para a suspensão, contam só os pontos das infrações dos últimos 12 meses (CTB, artigo 261, I). Os pontos de infrações mais antigas deixam de contar para esse limite."
@@ -19,6 +19,10 @@ faq:
 fontes:
   - nome: "Código de Trânsito Brasileiro (Lei nº 9.503/1997), texto atualizado, artigos 148, 259, 261, 263 e 268 (Câmara dos Deputados)"
     url: "https://www2.camara.leg.br/legin/fed/lei/1997/lei-9503-23-setembro-1997-372348-normaatualizada-pl.html"
+  - nome: "Gov.br: consultar online suas infrações de trânsito (Senatran)"
+    url: "https://www.gov.br/pt-br/servicos/consultar-online-suas-infracoes-de-transito"
+  - nome: "Detran-SP: emitir certidão de pontos da CNH"
+    url: "https://servicos.sp.gov.br/fcarta/641256e2-21f4-4fc8-add8-1c5e60435b33"
   - nome: "Detran-RS: aderir ao SNE pelo aplicativo CNH do Brasil"
     url: "https://www.detran.rs.gov.br/infracoes-multas/servicos/1473"
 ---
@@ -48,6 +52,25 @@ Exemplo: em 12 meses, um motorista levou duas multas gravíssimas (14 pontos) e 
 
 Quem **exerce atividade remunerada ao volante**, como motorista de aplicativo, táxi ou caminhão, tem limite único de **40 pontos**, qualquer que seja o tipo de infração, e pode fazer um **curso preventivo de reciclagem** ao chegar a **30 pontos**, que zera a contagem. Essa opção só pode ser usada uma vez a cada 12 meses (artigo 261, §§ 5º a 7º).
 
+### Estou com 21 (ou 28) pontos. O que acontece?
+
+Depende de quantas infrações **gravíssimas** estão nesses pontos:
+
+| pontos em 12 meses | com 2 ou mais gravíssimas | com 1 gravíssima | sem gravíssima |
+| --- | --- | --- | --- |
+| 7 (uma gravíssima) | — | não suspende | — |
+| 21 | **passou do limite (20)** | abaixo do limite (30) | abaixo do limite (40) |
+| 28 | **passou do limite (20)** | abaixo do limite (30) | abaixo do limite (40) |
+
+Na tabela, "passou do limite" quer dizer que o Detran pode abrir o processo de suspensão. Abaixo do limite, os pontos não suspendem, mas continuam contando até completarem 12 meses. Uma infração que já prevê suspensão, como as de álcool, suspende sozinha, sem depender dos pontos (artigo 261, II).
+
+## Os pontos da CNH expiram? Quanto tempo ficam?
+
+Para a suspensão, contam só os pontos das infrações dos **últimos 12 meses** (artigo 261, I). A conta é móvel, olhando 12 meses para trás a partir de hoje: os pontos não zeram todo ano em janeiro, e cada infração deixa de contar quando completa 12 meses. Os pontos também **zeram** quando:
+
+- a CNH é suspensa: a suspensão elimina os pontos que a causaram (artigo 261, § 3º);
+- o motorista profissional faz o curso preventivo de reciclagem ao chegar a 30 pontos (artigo 261, § 6º).
+
 ## Quanto tempo dura a suspensão?
 
 | motivo | prazo da suspensão |
@@ -61,8 +84,9 @@ Dirigir com a CNH suspensa, depois de notificado, é infração gravíssima e le
 
 ## Como consultar os pontos da CNH?
 
-- **No site do Detran do seu estado**, na área de consulta de pontos ou de infrações.
-- **No aplicativo CNH do Brasil**, a antiga Carteira Digital de Trânsito, do governo federal, onde também dá para aderir à notificação eletrônica de multas ([Detran-RS](https://www.detran.rs.gov.br/infracoes-multas/servicos/1473)).
+- **No aplicativo CNH do Brasil**, do governo federal (a antiga Carteira Digital de Trânsito): entre com a conta gov.br e toque em **"Infrações"**, depois em "Por Infrator". O serviço é gratuito e mostra o histórico e o detalhe das infrações ([gov.br](https://www.gov.br/pt-br/servicos/consultar-online-suas-infracoes-de-transito)). No mesmo aplicativo dá para aderir à notificação eletrônica de multas ([Detran-RS](https://www.detran.rs.gov.br/infracoes-multas/servicos/1473)).
+- **No Portal de Serviços da Senatran**, pelo computador: entre com o gov.br e clique em "Consultar Minhas Infrações".
+- **No site do Detran do seu estado**. Em São Paulo, a **certidão de pontos** sai na hora e de graça, com os pontos dos últimos 12 meses ou desde a emissão da CNH, com login gov.br e o número da CNH ([Detran-SP](https://servicos.sp.gov.br/fcarta/641256e2-21f4-4fc8-add8-1c5e60435b33)).
 
 Confira as datas das infrações: só contam as dos **últimos 12 meses**. Se aparecer multa que não é sua, como placa clonada ou carro já vendido, recorra.
 
@@ -72,4 +96,6 @@ Confira as datas das infrações: só contam as dos **últimos 12 meses**. Se ap
 2. **Indique o condutor** em até 30 dias quando outra pessoa dirigia o seu carro.
 3. **Acompanhe a contagem** no Detran ou no aplicativo, para saber quanto falta para o limite.
 
-Quem tem a **Permissão para Dirigir**, no primeiro ano de habilitação, tem regra mais dura: uma infração grave ou gravíssima, ou duas médias, impedem a CNH definitiva, e é preciso refazer o processo (artigo 148, §§ 3º e 4º). Veja como funciona a [habilitação e a permissão](/artigos/cnh-sem-autoescola).
+## Quantos pontos suspende a CNH provisória?
+
+Na **CNH provisória** (a Permissão para Dirigir), a regra não é de pontos. Quem tem a permissão, no primeiro ano de habilitação, tem regra mais dura: uma infração grave ou gravíssima, ou duas médias, impedem a CNH definitiva, e é preciso refazer o processo (artigo 148, §§ 3º e 4º). Veja como funciona a [habilitação e a permissão](/artigos/cnh-sem-autoescola).
