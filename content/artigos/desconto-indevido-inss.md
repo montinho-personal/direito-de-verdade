@@ -1,10 +1,10 @@
 ---
 titulo: "Desconto indevido no benefício do INSS: como cancelar e pedir o dinheiro de volta"
 tituloSeo: "Desconto indevido no INSS: como cancelar e pedir devolução"
-descricao: "Desconto indevido no INSS: desde 2026 a lei proíbe desconto de associação no benefício. Veja como excluir no Meu INSS, contestar consignado e pedir devolução."
+descricao: "Desconto indevido no INSS: desde 2026 a lei proíbe desconto de associação. Veja como consultar e excluir no Meu INSS, aceitar o acordo e quando o dinheiro cai."
 categoria: previdencia
 publicadoEm: 2026-11-01
-atualizadoEm: 2026-11-01
+atualizadoEm: 2026-11-23
 faq:
   - pergunta: "Associação ainda pode descontar mensalidade do benefício do INSS?"
     resposta: "Não. A Lei 15.327, publicada em janeiro de 2026, proíbe descontos associativos nos benefícios do INSS. Quem quiser se associar paga por boleto, cartão ou outro meio. Se ainda aparece um desconto de associação ou sindicato no seu extrato, peça a exclusão pelo Meu INSS."
@@ -14,6 +14,8 @@ faq:
     resposta: "Conteste a operação nos canais do INSS (Meu INSS ou telefone 135), avise o banco por escrito, registre um boletim de ocorrência e reclame no Consumidor.gov.br. Desde 2026, o consignado só pode ser liberado com biometria e autorização pessoal, e nunca por procuração ou telefone."
   - pergunta: "Perdi o prazo do ressarcimento dos descontos de associações. Ainda dá para receber?"
     resposta: "O prazo de contestação do programa de ressarcimento terminou em 20 de junho de 2026. Confira no Meu INSS se ainda aparece alguma opção para o seu caso; fora disso, o caminho é a Justiça, com a ajuda da Defensoria Pública ou de um advogado."
+  - pergunta: "Já entrei na Justiça. Ainda posso aderir ao acordo do INSS?"
+    resposta: "Segundo o INSS, sim, desde que você ainda não tenha recebido os valores pela ação. Para isso, é preciso desistir da ação contra o INSS, que se comprometeu a pagar 5% de honorários nas ações individuais iniciadas antes de 23 de abril de 2025."
   - pergunta: "Alguém está me ligando para \"recuperar\" o desconto. Pode ser golpe?"
     resposta: "Pode. O INSS só se comunica pelo Meu INSS, pelo site gov.br/inss, pelo telefone 135 e pelas agências. Não passe senhas nem pague taxa a intermediários para receber devolução."
 fontes:
@@ -21,6 +23,10 @@ fontes:
     url: "https://www.gov.br/previdencia/pt-br/noticias/2026/janeiro/presidente-lula-sanciona-lei-que-proibe-descontos-associativos-pelo-inss"
   - nome: "INSS: aposentados e pensionistas podem excluir mensalidade associativa pelo Meu INSS (atualizado em 28/10/2026)"
     url: "https://www.gov.br/inss/pt-br/noticias/aposentados-e-pensionistas-podem-excluir-automaticamente-mensalidade-associativa-no-Meu-INSS"
+  - nome: "INSS: perguntas e respostas sobre o ressarcimento dos descontos indevidos (atualizado em 26/10/2026)"
+    url: "https://www.gov.br/inss/pt-br/perguntas-e-respostas"
+  - nome: "Gov.br: consultar descontos de entidades associativas (serviço do INSS, atualizado em 03/08/2026)"
+    url: "https://www.gov.br/pt-br/servicos/consultar-descontos-de-entidades-associativas"
   - nome: "Consumidor.gov.br"
     url: "https://www.consumidor.gov.br/pages/conteudo/publico/1"
   - nome: "Lei nº 9.099/1995 (Juizados Especiais), Planalto"
@@ -33,7 +39,7 @@ Desde **janeiro de 2026**, a **Lei 15.327** proíbe **descontos de associações
 
 ## Como saber se tem desconto indevido no benefício?
 
-Confira o **extrato de pagamento** (o contracheque) no aplicativo ou no site **Meu INSS**, ou pelo telefone **135**. Procure linhas com nome de associação, sindicato, clube de benefícios ou banco que você não reconhece. Na tela inicial do Meu INSS há também a consulta de **"mensalidade associativa"** ([INSS](https://www.gov.br/inss/pt-br/noticias/aposentados-e-pensionistas-podem-excluir-automaticamente-mensalidade-associativa-no-Meu-INSS)).
+Confira o **extrato de pagamento** (o contracheque) no aplicativo ou no site **Meu INSS**, ou pelo telefone **135**. Procure linhas com nome de associação, sindicato, clube de benefícios ou banco que você não reconhece. No Meu INSS, em "Do que você precisa?", o serviço **"Consultar descontos de entidades"** mostra os descontos de associações feitos a partir de março de 2020 ([gov.br](https://www.gov.br/pt-br/servicos/consultar-descontos-de-entidades-associativas)). Na tela inicial há também a consulta de **"mensalidade associativa"** ([INSS](https://www.gov.br/inss/pt-br/noticias/aposentados-e-pensionistas-podem-excluir-automaticamente-mensalidade-associativa-no-Meu-INSS)).
 
 ## Como excluir desconto de associação pelo Meu INSS?
 
@@ -72,5 +78,21 @@ Se apareceu um empréstimo que você não fez:
 ## E o ressarcimento dos descontos de associações descobertos em 2025?
 
 Para os descontos não autorizados descobertos em 2025, o governo abriu um programa de **ressarcimento**, com contestação pelo Meu INSS, pelo 135 e nas agências dos Correios. O prazo para contestar terminou em **20 de junho de 2026**. Quem perdeu o prazo pode conferir no Meu INSS se há alguma opção para o seu caso ou buscar a Justiça.
+
+### Contestei no prazo. Como aceito o acordo e quando recebo?
+
+Quem fez a contestação dentro do prazo continua no fluxo do acordo. Para aceitar pelo aplicativo **Meu INSS** ([INSS, perguntas e respostas](https://www.gov.br/inss/pt-br/perguntas-e-respostas)):
+
+1. Entre com CPF e senha e vá em **"Consultar Pedidos"**.
+2. Em cada pedido, toque em **"Cumprir Exigência"**.
+3. Leia o último comentário e, no campo **"Aceito receber"**, escolha **"Sim"**. Toque em "Enviar".
+
+Também dá para aceitar nas agências dos **Correios**. A adesão é gratuita e não pede documentos. O valor é pago em **parcela única**, direto na conta em que você recebe o benefício, **corrigido pelo IPCA** desde a data do desconto, e os pagamentos seguem a **ordem de adesão**: quem aceita primeiro recebe primeiro. Enquanto o pedido aparece "em análise", acompanhe em "Consultar Pedidos".
+
+Se a entidade apresentou documentos dizendo que você autorizou o desconto, você é avisado e pode aceitá-los ou contestá-los, inclusive dizendo que não reconhece a assinatura. Na contestação, a entidade é intimada a devolver em até 5 dias úteis; se não devolver, o INSS orienta as medidas judiciais, com apoio das Defensorias Públicas.
+
+### Desconto de pessoa que já morreu: o herdeiro recebe?
+
+Só quem já tinha feito o **cadastro como sucessor ou herdeiro** pode seguir com o pedido: o prazo para pedir o ressarcimento terminou em **20 de junho de 2026** ([gov.br](https://www.gov.br/pt-br/servicos/consultar-descontos-de-entidades-associativas)). O acompanhamento é pelo Meu INSS, no serviço "Consultar descontos de entidades". Fora disso, o caminho é a Justiça, com a Defensoria Pública ou um advogado.
 
 **Cuidado com golpes:** o INSS só se comunica pelo Meu INSS, pelo site gov.br/inss, pelo 135 e pelas agências. Desconfie de quem liga ou manda mensagem oferecendo "recuperar" desconto em troca de taxa ou senha.

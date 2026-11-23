@@ -240,6 +240,16 @@ Pedido do Renato ("pode fazer os 3"): 1) jogo digital → seção nova em `/arti
 
 **Não recomendo:** artigo sobre o GTA 6 em si (preço, plataforma, mapa: fora do tema, nome de marca, concorrência de Rockstar, Xbox e grandes portais); jogos pelo nome (LoL, Roblox, Valorant, FNAF); filmes e livros homônimos ("Jogos Vorazes").
 
+## Candidatos vindos das buscas que ficaram de fora (23/11/2026, rotina diária)
+
+Das revisões de pontos na CNH e desconto indevido no INSS. Só pauta.
+
+**Vale um artigo:** "CNH suspensa: o que fazer, curso de reciclagem e entrega da carteira" (PAA "é necessário entregar a CNH para cumprir a suspensão?"; outras pesquisas sobre suspensão) — só com a resolução do Contran sobre o processo de suspensão lida; antes, pesquisar `cnh suspensa o que fazer` no SerpApi.
+
+**Não recomendo:** consulta de pontos de terceiros (o serviço oficial é do condutor ou do veículo); páginas por estado (pontos na CNH MG); "dano moral por desconto do INSS" (não prometer indenização; sem fonte); "valor da mensalidade associativa" (proibida desde 2026); "tabela do INSS 2026" e "quanto é descontado do salário" a partir deste artigo (é a contribuição, outro assunto, já nas calculadoras).
+
+**Cabe em página existente:** a sigla EAR (motorista com atividade remunerada) → pontos na CNH, quando a resolução do Contran for lida (anotado no "Pendente" do doc, sem "Aplicar na próxima revisão" até lá).
+
 ## Candidatos vindos das buscas que ficaram de fora (22/11/2026, rotina diária)
 
 Das revisões de recurso de multa de trânsito e lista de material escolar. Só pauta.
@@ -460,7 +470,7 @@ Lembrar o Renato desta lista a cada entrega.
 | 13º salário atrasado (`/artigos/13-salario-atrasado`), publicado em 01/11/2026 | Google: `13 salário atrasado`; `empresa não pagou 13 salário`; `13 salário atrasado multa`; AnswerThePublic `13 salário atrasado` | **prints do Google recebidos e artigo revisado em 02/11/2026** (falta AnswerThePublic) |
 | Lista de material escolar (`/artigos/lista-de-material-escolar`), publicado em 01/11/2026 | Google: `lista de material escolar o que não pode`; `material escolar proibido`; `escola pode pedir papel higiênico`; AnswerThePublic `material escolar` | **revisado com o SerpApi em 22/11/2026** (rotina diária) |
 | Pontos na CNH (`/artigos/pontos-na-cnh`), publicado em 01/11/2026 | Google: `pontos na cnh`; `quantos pontos suspende a cnh`; `consultar pontos cnh`; AnswerThePublic `pontos cnh` | **revisado com o SerpApi em 23/11/2026** (rotina diária) |
-| Desconto indevido no INSS (`/artigos/desconto-indevido-inss`), publicado em 01/11/2026 | Google: `desconto indevido inss`; `desconto associação inss`; `como cancelar desconto inss`; AnswerThePublic `desconto inss` | **aguardando prints** |
+| Desconto indevido no INSS (`/artigos/desconto-indevido-inss`), publicado em 01/11/2026 | Google: `desconto indevido inss`; `desconto associação inss`; `como cancelar desconto inss`; AnswerThePublic `desconto inss` | **revisado com o SerpApi em 23/11/2026** (rotina diária) |
 | União estável (`/artigos/uniao-estavel`), publicado em 01/11/2026 | Google: `união estável`; `união estável direitos`; `como fazer união estável`; AnswerThePublic `união estável` | **aguardando prints** |
 | Adicional de insalubridade (`/artigos/adicional-de-insalubridade`), publicado em 01/11/2026 | Google: `adicional de insalubridade`; `insalubridade valor`; `insalubridade grau`; AnswerThePublic `insalubridade` | **aguardando prints** |
 | Inventário (`/artigos/inventario`), publicado em 03/11/2026 | Google: `inventário`; `inventário prazo`; `inventário em cartório`; AnswerThePublic `inventário` | **aguardando prints** |

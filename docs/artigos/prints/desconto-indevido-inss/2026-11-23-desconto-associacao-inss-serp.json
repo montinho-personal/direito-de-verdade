@@ -1,0 +1,99 @@
+{
+  "busca": "desconto associação inss",
+  "pesquisadaEm": "2026-11-23",
+  "origem": "SerpApi: Google Brasil (google.com.br), celular, São Paulo, pt-BR, sem personalização",
+  "autocompletar": [
+    "desconto associação inss dano moral",
+    "desconto inss associação aposentados",
+    "desconto indevido associação inss",
+    "devolução desconto associação inss",
+    "desconto inss associacao"
+  ],
+  "asPessoasTambemPerguntam": [
+    "Como ver se houve desconto indevido do INSS?",
+    "Qual o valor da mensalidade associativa do INSS?",
+    "Quanto vai ser descontado o INSS em 2026?",
+    "Como pedir reembolso do desconto indevido do INSS?"
+  ],
+  "outrasPessoasPesquisaram": [
+    "Como pedir ressarcimento de desconto indevido do inss",
+    "Calendário de pagamento do desconto indevido do inss",
+    "Como saber o valor do desconto indevido do inss",
+    "Consultar desconto de entidades associativas inss",
+    "Como consultar desconto indevido inss",
+    "Desconto indevido inss em análise",
+    "Desconto indevido inss associação",
+    "Desconto indevido inss o que fazer",
+    "Prazo para contestar desconto indevido inss",
+    "G1 desconto indevido inss",
+    "Como saber o valor do desconto indevido do inss falecido",
+    "Como receber desconto indevido do inss de pessoa falecida"
+  ],
+  "visaoDeIA": {
+    "texto": "O desconto associativo no INSS [Início do texto destacado] é a cobrança de mensalidades em favor de entidades como associações e sindicatos [Fim do texto destacado] , lançada diretamente na folha de pagamento de aposentados e pensionistas.\nO Que Diz a Lei Atual (Lei nº 15.327/2026)\n  - Proibição de descontos: A Lei 15.327/2026 proíbe descontos de mensalidades associativas diretamente nos benefícios do INSS, mesmo se houver autorização prévia do segurado.\n  - Meios alternativos: Aposentados que desejarem se associar a entidades devem realizar o pagamento por meios externos ao sistema previdenciário (como boleto ou débito em conta bancária comum).\n  - Devolução de valores: Caso ocorra alguma dedução indevida, a entidade responsável deve devolver o valor integral ao beneficiário em até 30 dias após a notificação.\n  - Segurança no consignado: Novos empréstimos e operações consignadas exigem camadas extras de proteção, como biometria (reconhecimento facial ou digital) e assinatura eletrônica.\nComo Verificar os Descontos no Meu INSS\nPara conferir se há descontos associativos ou cobranças não reconhecidas no seu benefício:\n  - Acesse o site ou aplicativo oficial do Meu INSS.\n  - Faça login com o seu CPF e senha.\n  - Procure pelo serviço \"Consultar descontos de entidades\" ou \"Extrato de Pagamento de Benefício\".\n  - Verifique a lista de entidades e os valores debitados.\n  - Caso identifique um desconto suspeito ou não reconhecido, utilize as opções de contestação ou entre em contato pela Central 135.\nNota de segurança: O INSS não cobra taxas para devolver valores nem exige senhas ou códigos de verificação por telefone ou links suspeitos.\nSe você encontrou um desconto que não reconhece, me diga:\n  - Qual é o nome da entidade que aparece no extrato?\n  - Em qual mês começou o desconto?\nPosso te orientar sobre como proceder com a contestação.",
+    "fontes": [
+      "Portal da Câmara dos Deputados",
+      "Revista Ibero-Americana de Humanidades, Ciências e Educação",
+      "YouTube",
+      "www.gov.br"
+    ]
+  },
+  "videos": [
+    {
+      "titulo": "QUEM RECEBE BENEFÍCIO DO INSS PODE SOFRER DESCONTOS DE ...",
+      "canal": "Romario Bezerra Advocacia"
+    },
+    {
+      "titulo": "Seu benefício do INSS está vindo menor do que deveria? Pode ser desconto de ...",
+      "canal": "André Beschizza Advogados"
+    },
+    {
+      "titulo": "Saiba como identificar os descontos de associações do INSS | CNN NOVO DIA",
+      "canal": "CNN Brasil"
+    }
+  ],
+  "organicos": [
+    {
+      "posicao": 1,
+      "titulo": "Consultar Descontos de Entidades Associativas - Portal Gov.br",
+      "endereco": "https://www.gov.br/pt-br/servicos/consultar-descontos-de-entidades-associativas",
+      "trecho": "Serviço para consultar se foram feitos descontos de entidade associativa no benefício previdenciário, a partir de março de 2020."
+    },
+    {
+      "posicao": 2,
+      "titulo": "Perguntas e Respostas: ressarcimento dos descontos indevidos pelo INSS",
+      "endereco": "https://www.gov.br/inss/pt-br/perguntas-e-respostas",
+      "trecho": "2. Quem já pode aderir ao acordo? Todos os aposentados e pensionistas que já fizeram a contestação dos descontos e ficaram sem uma resposta das ..."
+    },
+    {
+      "posicao": 3,
+      "titulo": "Fraude no INSS: associações autorizaram desconto para o mesmo aposentado em ...",
+      "endereco": "https://g1.globo.com/politica/noticia/2025/04/29/fraude-no-inss-associacoes-autorizaram-desconto-para-o-mesmo-aposentado-em-um-unico-dia.ghtml",
+      "trecho": "Associações filiaram e autorizaram descontos nos pagamentos para os mesmos aposentados do INSS em um único dia, aponta investigação da PF e da ..."
+    },
+    {
+      "posicao": 4,
+      "titulo": "Entenda o projeto que acaba com o desconto associativo em aposentadorias",
+      "endereco": "https://www12.senado.leg.br/noticias/materias/2025/11/13/entenda-o-projeto-que-acaba-com-o-desconto-associativo-em-aposentadorias",
+      "trecho": "O Plenário aprovou na quarta-feira (12) projeto de lei que proíbe o desconto de mensalidades associativas em benefícios pagos a aposentados ..."
+    },
+    {
+      "posicao": 5,
+      "titulo": "Prazo para contestar descontos indevidos do INSS ​termina dia 14 | Agência Brasil",
+      "endereco": "https://agenciabrasil.ebc.com.br/geral/noticia/2025-11/prazo-para-contestar-descontos-indevidos-do-inss-termina-dia-14",
+      "trecho": "Os descontos de mensalidades de entidades associativas devem ser voluntários, ou seja, o débito é legalmente permitido somente se o aposentado ..."
+    },
+    {
+      "posicao": 6,
+      "titulo": "Descontos indevidos de associações em benefícios previdenciários",
+      "endereco": "https://www.jusbrasil.com.br/artigos/descontos-indevidos-de-associacoes-em-beneficios-previdenciarios/617860260",
+      "trecho": "Dentre as punições, estão a multa de 50% sobre o valor arrecadado irregularmente e a restituição do mesmo valor, acrescido de correção monetária (INPC), multa ..."
+    },
+    {
+      "posicao": 7,
+      "titulo": "Descontos indevidos do INSS por associações: como pedir a devolução",
+      "endereco": "https://gutembergamorim.com.br/descontos-indevidos-do-inss/",
+      "trecho": "No aplicativo ou site Meu INSS, procure a opção de extrato de pagamento de benefício e a ferramenta específica “Consultar Descontos de Entidades ..."
+    }
+  ]
+}
