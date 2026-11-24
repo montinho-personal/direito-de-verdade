@@ -1,0 +1,86 @@
+{
+  "busca": "pagamento inss dezembro 2026",
+  "pesquisadaEm": "2026-11-24",
+  "origem": "SerpApi: Google Brasil (google.com.br), celular, São Paulo, pt-BR, sem personalização",
+  "autocompletar": [
+    "calendário pagamento inss dezembro 2026",
+    "pagamento inss dezembro 2022",
+    "pagamento inss dezembro 2023 calendário",
+    "pagamento inss dezembro 2023",
+    "pagamento inss dezembro 2023 pensionista"
+  ],
+  "asPessoasTambemPerguntam": [
+    "Qual a data de pagamento do mês de dezembro do INSS?",
+    "Qual é a data que o INSS vai pagar os aposentados esse mês?",
+    "Como ver a tabela de pagamento do INSS?",
+    "Qual a tabela de INSS 2026?"
+  ],
+  "outrasPessoasPesquisaram": [
+    "Calendário de pagamento do inss de 2026",
+    "Pagamento inss novembro 2026",
+    "Inss pagamento",
+    "Inss aposentadoria",
+    "Meu inss pagamentos",
+    "Consulta benefício inss pelo cpf",
+    "Consulta pagamento inss",
+    "Gov inss",
+    "Baixar meu inss",
+    "Informe de rendimentos inss 2026",
+    "Gov br meu inss",
+    "Inss consulta"
+  ],
+  "visaoDeIA": {
+    "texto": "",
+    "fontes": []
+  },
+  "videos": [
+    {
+      "titulo": "Parou de pagar o INSS? Talvez você só precise de 6 meses Quem ...",
+      "canal": "RALF NÓBREGA | ADVOGADO"
+    },
+    {
+      "titulo": "2027 INSS Adjustment: What Do We Know So Far About Benefits?",
+      "canal": "Escobar Advogados"
+    },
+    {
+      "titulo": "Tem mais de 60 anos e nunca contribuiu para o INSS? Ainda vale a pena começar? Muita ...",
+      "canal": "RALF NÓBREGA | ADVOGADO"
+    },
+    {
+      "titulo": "CPMI do INSS aprova quebra de sigilos de filho de Lula",
+      "canal": "TV Senado"
+    }
+  ],
+  "organicos": [
+    {
+      "posicao": 1,
+      "titulo": "Meu INSS",
+      "endereco": "https://meu.inss.gov.br/",
+      "trecho": "Meu INSS é uma solução multi-dispositivos para acesso aos serviços do INSS. ... Calendário de Pagamento. Encontre uma Agência. Mais Serviços. Precisa de ajuda ..."
+    },
+    {
+      "posicao": 2,
+      "titulo": "INSS — Instituto Nacional do Seguro Social - Portal Gov.br",
+      "endereco": "https://www.gov.br/inss/pt-br",
+      "trecho": "Realizar Inscrição no INSS · Emitir GPS para pagamento de contribuições previdenciárias (INSS) · Emitir Extrato de Contribuição (CNIS) · Simular Aposentadoria."
+    },
+    {
+      "posicao": 3,
+      "titulo": "Instituto Nacional do Seguro Social - INSS (@inss_oficial_gov) · Brasília, DF",
+      "endereco": "https://www.instagram.com/inss_oficial_gov/",
+      "trecho": "As datas seguem o calendário de pagamento de 2026, já divulgado. É de extrema importância que os beneficiários estejam atentos ao dia que irão receber. Para ..."
+    },
+    {
+      "posicao": 4,
+      "titulo": "Portaria DTI/DIRBEN/INSS nº 156/2026",
+      "endereco": "https://www.in.gov.br/web/dou/-/portaria-dti/dirben/inss-n-156-de-28-de-abril-de-2026-703477073",
+      "trecho": null
+    },
+    {
+      "posicao": 5,
+      "titulo": "Instituto Nacional do Seguro Social – Wikipédia, a enciclopédia livre",
+      "endereco": "https://pt.wikipedia.org/wiki/Instituto_Nacional_do_Seguro_Social",
+      "trecho": "A atribuição principal do INSS está na operacionalização do reconhecimento do direito, da manutenção e do pagamento de benefícios e serviços previdenciários do ..."
+    }
+  ]
+}

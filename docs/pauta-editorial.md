@@ -308,7 +308,7 @@ Das revisões de aposentadoria 2026 e divórcio. Só pauta.
 
 | ordem | artigo | de onde veio | buscas | status |
 |---|---|---|---|---|
-| 1 | Calendário de pagamento do INSS 2026 (aposentados acima do mínimo) e reajuste | autocompletar de `aposentadoria 2026`: calendário, pagamento, datas, reajuste | `calendário inss 2026`; `pagamento aposentados dezembro 2026`; `reajuste aposentadoria 2026` | a fazer; o PDF oficial do INSS já foi lido (tabela "acima de 1 salário mínimo"); reajuste só com a portaria |
+| 1 | Calendário de pagamento do INSS 2026 (aposentados acima do mínimo) e reajuste | autocompletar de `aposentadoria 2026`: calendário, pagamento, datas, reajuste | `calendário inss 2026`; `pagamento aposentados dezembro 2026`; `reajuste aposentadoria 2026` | **publicado em 24/11/2026** — [doc](artigos/calendario-inss-2026.md), `/artigos/calendario-inss-2026` |
 | 2 | Aposentadoria especial 2026 | autocompletar de `regra de transição aposentadoria 2026` e "nova lei da aposentadoria especial 2026" | `aposentadoria especial 2026`; `aposentadoria especial regra de transição`; `aposentadoria especial pontos` | a fazer, com a EC 103 e o INSS |
 
 **Não recomendo:** filme "Divórcio em Família", Netflix, Bíblia, "divórcio energético" (fora do tema); "como dar entrada no divórcio pela Defensoria online" e "pelo Ministério Público" (variam por estado; cabe a frase da Defensoria que já está no artigo); tempo do divórcio gratuito (não há prazo na lei).
@@ -574,6 +574,7 @@ Lembrar o Renato desta lista a cada entrega.
 - Calculadora de juros abusivos: **todo mês**, rodar `node scripts/atualizar-taxas-bcb.mjs` depois da divulgação das taxas de juros pelo BC e publicar; conferir Tema 1.474, Res. CMN 5.004/2022 e o teto do consignado INSS.
 - Simulador de compras online: `revisadoEm` em `src/lib/compras-online/regras.ts`, prazos do MED e do Consumidor.gov.br, Juizado em salários mínimos do ano.
 - Calculadora de cobrança indevida: IPCA mensal em `src/lib/cobranca-indevida/ipca.ts` (a cada divulgação do IBGE), Tema 929 do STJ (tese a publicar), Juizado em salários mínimos do ano e `revisadoEm` em `src/lib/cobranca-indevida/regras.ts`.
+- Calendário do INSS (`/artigos/calendario-inss-2026`): reajuste de 2027 (portaria de janeiro) e tabela de 2027 quando o INSS publicar.
 - Reajuste do aluguel (`/artigos/reajuste-do-aluguel`): tabela de IGP-M e IPCA acumulados em 12 meses, **a cada revisão** (BCB, séries 189 e 433); em janeiro de 2027, trocar o ano no título e na tabela.
 - Calculadora de férias: tabela por salário e exemplos de `/calculadoras/ferias` (INSS, IR e salário mínimo do ano) e data de revisão no rodapé da ferramenta.
 

@@ -4,7 +4,7 @@ tituloSeo: "Calendário BPC 2026: dia do pagamento por final"
 descricao: "Calendário BPC 2026: o de novembro sai de 24/11 a 7/12 e o de dezembro, de 22/12 a 8/1, pelo final do benefício. Veja a tabela oficial do INSS e ache o seu."
 categoria: previdencia
 publicadoEm: 2026-11-17
-atualizadoEm: 2026-11-17
+atualizadoEm: 2026-11-24
 faq:
   - pergunta: "Quando começa o pagamento do BPC de dezembro de 2026?"
     resposta: "Em 22 de dezembro de 2026, para quem tem o benefício com final 1. O último grupo, final 0, recebe em 8 de janeiro de 2027. Veja o dia de cada final na tabela de dezembro acima."
@@ -80,7 +80,7 @@ Cada mês é pago no fim dele e no começo do mês seguinte, do final 1 ao final
 | novembro | 24/11/2026 | 07/12/2026 |
 | dezembro | 22/12/2026 | 08/01/2027 |
 
-A tabela completa, com o dia de cada final em todos os meses, está no [PDF do INSS](https://www.gov.br/inss/pt-br/assuntos/calendario-de-pagamentos-do-inss-de-2026-esta-disponivel/TabeladePagamentodeBenefcios20261.pdf).
+A tabela completa, com o dia de cada final em todos os meses, está no [PDF do INSS](https://www.gov.br/inss/pt-br/assuntos/calendario-de-pagamentos-do-inss-de-2026-esta-disponivel/TabeladePagamentodeBenefcios20261.pdf). Aposentados e pensionistas que ganham **acima do mínimo** têm outra tabela: veja o [calendário do INSS 2026 para quem ganha mais de um salário mínimo](/artigos/calendario-inss-2026).
 
 ## Qual o valor do BPC em 2026?
 
