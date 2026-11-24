@@ -1,0 +1,99 @@
+{
+  "busca": "celular na escola é proibido",
+  "pesquisadaEm": "2026-11-24",
+  "origem": "SerpApi: Google Brasil (google.com.br), celular, São Paulo, pt-BR, sem personalização",
+  "autocompletar": [
+    "celular na escola foi proibido",
+    "é proibido celular na escola em 2026",
+    "é proibido celular na escola estadual",
+    "é proibido celular na escola particular",
+    "é proibido celular na escola 2025",
+    "celular proibido na escola sp"
+  ],
+  "asPessoasTambemPerguntam": [
+    "Vai poder levar celular em 2026 para a escola?",
+    "É crime pegar o celular do aluno?",
+    "Posso deixar meu celular na mochila na escola?",
+    "A escola pode revistar a mochila do aluno por causa do celular?"
+  ],
+  "outrasPessoasPesquisaram": [
+    "Lei que proíbe celular nas escolas 2026",
+    "Projeto de lei que proíbe celular nas escolas",
+    "Lei que proíbe celular nas escolas 2025",
+    "Redação sobre a proibição do uso de celular nas escolas",
+    "Quem criou a lei que proíbe o uso de celular na escola",
+    "Lei do celular na escola pdf",
+    "Lei estadual que proíbe o uso de celular nas escolas",
+    "Lei federal nº 15.100 2025",
+    "Pode levar celular para escola",
+    "Lei sobre o uso do celular na escola professores",
+    "Reportagem sobre a proibição do celular na escola",
+    "Argumentos contra a proibição dos celulares na escola"
+  ],
+  "visaoDeIA": {
+    "texto": "",
+    "fontes": []
+  },
+  "videos": [
+    {
+      "titulo": "\" RENATA CAFARDO: \"Proibir celulares nas escolas melhora a aprendizagem? ...",
+      "canal": "Estadão 🗞"
+    },
+    {
+      "titulo": "Lei federal que proíbe celulares nas escolas completa um ano e apresenta cenário ...",
+      "canal": "TV Unicamp"
+    },
+    {
+      "titulo": "O que diz a lei sobre o uso de APARELHOS ELETRÔNICOS nas escolas?",
+      "canal": "NeuroSaber"
+    },
+    {
+      "titulo": "PROIBIDO o uso de celular em salas de aula - Lei nº 15.100/2025 já está em vigor! A ...",
+      "canal": "Advogado em Libras"
+    }
+  ],
+  "organicos": [
+    {
+      "posicao": 1,
+      "titulo": "L15100 - Planalto",
+      "endereco": "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2025/lei/l15100.htm",
+      "trecho": "Art. 2º Fica proibido o uso, por estudantes, de aparelhos eletrônicos portáteis pessoais durante a aula, o recreio ou intervalos entre as aulas, ..."
+    },
+    {
+      "posicao": 2,
+      "titulo": "Restrição ao uso do celular nas escolas já está valendo — Ministério da Educação",
+      "endereco": "https://www.gov.br/mec/pt-br/assuntos/noticias/2025/fevereiro/restricao-ao-uso-do-celular-nas-escolas-ja-esta-valendo",
+      "trecho": "Vale lembrar que a lei não proíbe totalmente o uso de celulares, mas restringe seu uso durante aulas, recreios e intervalos, para que os alunos possam se ..."
+    },
+    {
+      "posicao": 3,
+      "titulo": "Proibição de celulares nas escolas levanta debate sobre educação",
+      "endereco": "https://fundacaolemann.org.br/noticias/proibicao-de-celulares-nas-escolas-levanta-debate-sobre-educacao/",
+      "trecho": "No dia 13 de janeiro foi sancionada a Lei 15.100/2025, que proíbe o uso de aparelhos eletrônicos portáteis pessoais em escolas públicas e ..."
+    },
+    {
+      "posicao": 4,
+      "titulo": "Celulares proibidos nas escolas: saiba o que muda na volta às aulas | G1 - Globo",
+      "endereco": "https://g1.globo.com/educacao/noticia/2025/01/27/celulares-proibidos-nas-escolas-saiba-o-que-muda-na-volta-as-aulas.ghtml",
+      "trecho": "De acordo com a lei, o uso de celulares será proibido durante as aulas, recreios, intervalos e atividades extracurriculares. Em algumas escolas ..."
+    },
+    {
+      "posicao": 5,
+      "titulo": "Impactos d proibição do uso de celular nas escolas",
+      "endereco": "https://educa.ibge.gov.br/images/educa/islp/resultado/cat_c_1_lugar.pdf",
+      "trecho": "celular nas escolas. Introdução: Em 13 de janeiro de 2025, foi sancionada a lei que proíbe o uso de aparelhos eletrônicos dentro das escolas do. Brasil. Desde ..."
+    },
+    {
+      "posicao": 6,
+      "titulo": "Volta às aulas: lei que limita uso de celular por alunos exige parceria entre família e ...",
+      "endereco": "https://www.mpmg.mp.br/portal/menu/comunicacao/noticias/volta-as-aulas-lei-que-limita-uso-de-celular-por-alunos-exige-parceria-entre-familia-e-escola-alertam-promotoras-de-justica.shtml",
+      "trecho": "No último dia 13 de janeiro, foi sancionada, no Brasil, a Lei nº 15.100/2025, que proíbe alunos de usarem telefone celular e outros aparelhos ..."
+    },
+    {
+      "posicao": 7,
+      "titulo": "Educação de SP define regras e orientações sobre o uso de celulares nas escolas",
+      "endereco": "https://www.educacao.sp.gov.br/educacao/noticias/educacao-de-sp-define-regras-e-orientacoes-sobre-o-uso-de-celulares-nas-escolas-6670",
+      "trecho": "A principal delas é o veto ao uso de aparelhos eletrônicos além das aulas, mas também nos intervalos, recreios e atividades extracurriculares."
+    }
+  ]
+}

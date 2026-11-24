@@ -264,7 +264,7 @@ Das revisões de pontos na CNH e desconto indevido no INSS. Só pauta.
 
 Das revisões de recurso de multa de trânsito e lista de material escolar. Só pauta.
 
-**Vale um artigo:** "Celular na escola: o que diz a lei" (PAA "nova lei do Lula nas escolas" e "é crime pegar o celular do aluno?"; Lei 15.100/2025, texto na Câmara ou no Senado). Antes, pesquisar `lei do celular nas escolas` no SerpApi. Público de pais, próximo do pico da volta às aulas (fevereiro).
+**Vale um artigo:** **publicado em 24/11/2026** — [doc](artigos/celular-na-escola.md), `/artigos/celular-na-escola`. "Celular na escola: o que diz a lei" (PAA "nova lei do Lula nas escolas" e "é crime pegar o celular do aluno?"; Lei 15.100/2025, texto na Câmara ou no Senado). Antes, pesquisar `lei do celular nas escolas` no SerpApi. Público de pais, próximo do pico da volta às aulas (fevereiro).
 
 **Não recomendo:** "é crime professor gritar com aluno?" (sem fonte objetiva, depende do caso); "o que vai vir no material escolar 2026" (kit da rede pública, varia por rede); páginas por estado (material proibido pelo Procon Bahia ou RJ; recurso de multa no Detran-MG: a regra é nacional); "chance de ganhar recurso de multa" e "quanto custa advogado" (sem fonte); modelo pronto de recurso à JARI (decisão do doc da multa).
 

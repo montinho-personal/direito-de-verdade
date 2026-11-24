@@ -4,7 +4,7 @@ tituloSeo: "Lista de material escolar 2026: o que a escola não pode pedir"
 descricao: "Lista de material escolar 2026: a escola não pode pedir item de uso coletivo, como papel higiênico e produtos de limpeza, nem exigir marca ou loja. Veja o que pode."
 categoria: consumidor
 publicadoEm: 2026-11-01
-atualizadoEm: 2026-11-22
+atualizadoEm: 2026-11-24
 faq:
   - pergunta: "A escola pode pedir papel higiênico e produtos de limpeza?"
     resposta: "Não. São itens de uso coletivo, e a lei considera nula a cláusula que obrigue os pais a pagar à parte ou a fornecer material de uso coletivo. O custo deles já tem de estar na mensalidade (Lei 9.870/1999, artigo 1º, § 7º)."
@@ -89,3 +89,5 @@ Produto com defeito tem garantia de **30 dias** (não durável) ou **90 dias** (
 
 1. **Converse com a escola** e peça a retirada do item, citando a Lei 9.870/1999, artigo 1º, § 7º. Muitas escolas corrigem a lista quando os pais questionam.
 2. **Reclame no Procon** da sua cidade ou no Consumidor.gov.br, com a lista e a resposta da escola: veja [como reclamar no Procon](/artigos/como-reclamar-procon).
+
+Na volta às aulas, confira também [o que diz a lei do celular nas escolas](/artigos/celular-na-escola), que proíbe o uso na aula e no recreio.
