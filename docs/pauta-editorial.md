@@ -240,6 +240,16 @@ Pedido do Renato ("pode fazer os 3"): 1) jogo digital → seção nova em `/arti
 
 **Não recomendo:** artigo sobre o GTA 6 em si (preço, plataforma, mapa: fora do tema, nome de marca, concorrência de Rockstar, Xbox e grandes portais); jogos pelo nome (LoL, Roblox, Valorant, FNAF); filmes e livros homônimos ("Jogos Vorazes").
 
+## Candidatos vindos das buscas que ficaram de fora (24/11/2026, artigos novos)
+
+Dos artigos calendário do INSS 2026 e celular na escola. Só pauta.
+
+**Vale um artigo:** nenhum novo com fonte e busca suficientes. (A calculadora de reajuste de aluguel, da rotina do mesmo dia, continua como o próximo candidato.)
+
+**Não recomendo:** previsão do reajuste e do salário mínimo de 2027 (projeção; o fato entra quando sair a portaria de janeiro); "tabela do INSS 2026" a partir do calendário (é a contribuição); informe de rendimentos do INSS (busca de serviço, sem dúvida jurídica); "é crime pegar o celular do aluno" e revista de mochila (sem fonte oficial); idade para a criança ter celular (decisão da família); lei estadual de SP do celular (página da Secretaria fora do ar; rever se houver busca).
+
+**Cabe em página existente:** reajuste de 2027 → calendário do INSS e aposentadoria 2026, quando a portaria sair (já na revisão anual); normas do CNE sobre o celular → celular na escola, quando lidas (no "Pendente" do doc).
+
 ## Candidatos vindos das buscas que ficaram de fora (24/11/2026, rotina diária)
 
 Das revisões de união estável e reajuste do aluguel. Só pauta.
