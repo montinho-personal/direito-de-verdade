@@ -1,10 +1,10 @@
 ---
 titulo: "Reajuste do aluguel: qual índice vale, quando pode e como calcular"
-tituloSeo: "Reajuste do aluguel: como calcular com IGP-M ou IPCA"
-descricao: "Reajuste do aluguel: só uma vez por ano, pelo índice do contrato (IGP-M, IPCA ou outro). Veja a conta, onde achar o índice oficial e quando dá para negociar."
+tituloSeo: "Reajuste do aluguel 2026: IGP-M e IPCA de cada mês"
+descricao: "Reajuste do aluguel 2026: veja o IGP-M e o IPCA acumulados em 12 meses de cada mês, a conta do novo valor e o que fazer quando o índice fica negativo."
 categoria: moradia
 publicadoEm: 2026-10-29
-atualizadoEm: 2026-11-18
+atualizadoEm: 2026-11-24
 faq:
   - pergunta: "É possível reajustar o aluguel depois de 3 anos de contrato?"
     resposta: "O reajuste anual pelo índice do contrato continua valendo todo ano, inclusive depois de 3 anos. O que muda é que, depois de 3 anos de contrato ou do último acordo, o proprietário ou o inquilino pode pedir na Justiça a revisão do aluguel, para levá-lo ao preço de mercado, se não houver acordo (Lei do Inquilinato, artigo 19)."
@@ -23,6 +23,8 @@ fontes:
     url: "https://www2.camara.leg.br/legin/fed/lei/1991/lei-8245-18-outubro-1991-322506-normaatualizada-pl.html"
   - nome: "Lei nº 10.192/2001, artigo 2º: reajuste anual, texto atualizado (Câmara dos Deputados)"
     url: "https://www2.camara.leg.br/legin/fed/lei/2001/lei-10192-14-fevereiro-2001-365669-normaatualizada-pl.pdf"
+  - nome: "Banco Central, Sistema Gerenciador de Séries Temporais: IGP-M mensal (série 189) e IPCA mensal (série 433), consultados em 24/11/2026"
+    url: "https://www3.bcb.gov.br/sgspub/"
   - nome: "Banco Central: Calculadora do Cidadão, correção de valores por índices de preços"
     url: "https://www3.bcb.gov.br/CALCIDADAO/publico/corrigirPorIndice.do?method=corrigirPorIndice"
 ---
@@ -38,6 +40,34 @@ O que estiver no contrato. A Lei do Inquilinato diz que "é livre a convenção 
 - **INPC** e **IGP-DI**, menos comuns.
 
 O que a lei **proíbe** é vincular o aluguel à **variação do câmbio** ou ao **salário mínimo**, e fixá-lo em moeda estrangeira (artigo 17). Se o contrato não prevê índice, não há reajuste automático: o novo valor depende de acordo.
+
+### IGP-M ou IPCA: qual aumenta mais?
+
+Depende do período. Em 2026, o **IGP-M acumulado em 12 meses ficou negativo de dezembro de 2025 a março de 2026** e depois subiu até **5,25% em outubro**, enquanto o **IPCA ficou entre 3,81% e 4,72%** o ano todo (tabela abaixo). Ou seja, o IGP-M varia muito mais. Para trocar um pelo outro, é preciso acordo entre as partes (artigo 18).
+
+## IGP-M e IPCA de 2026: quanto reajustar em cada mês
+
+Variação acumulada em **12 meses**, terminando no mês indicado:
+
+| 12 meses até | IGP-M | IPCA |
+| --- | --- | --- |
+| dezembro de 2025 | -1,04% | 4,26% |
+| janeiro de 2026 | -0,90% | 4,44% |
+| fevereiro de 2026 | -2,66% | 3,81% |
+| março de 2026 | -1,82% | 4,14% |
+| abril de 2026 | 0,62% | 4,39% |
+| maio de 2026 | 1,96% | 4,72% |
+| junho de 2026 | 3,18% | 4,64% |
+| julho de 2026 | 2,77% | 4,44% |
+| agosto de 2026 | 2,18% | 4,22% |
+| setembro de 2026 | 3,35% | 4,58% |
+| outubro de 2026 | 5,25% | 4,63% |
+
+Conta feita a partir das variações mensais publicadas pelo [Banco Central](https://www3.bcb.gov.br/sgspub/) (séries 189 e 433), consultadas em 24/11/2026; o acumulado divulgado pela FGV ou pelo IBGE pode diferir em 0,01 ponto por arredondamento. **Qual linha usar** depende do contrato: veja que mês de referência ele indica e, na dúvida, faça a conta com as datas exatas na Calculadora do Cidadão (abaixo).
+
+### E se o índice ficar negativo?
+
+A lei não trata do caso: ela só proíbe reajuste em prazo menor que um ano e por câmbio ou salário mínimo. O que vale é o contrato. Se ele não diz nada, converse com a outra parte e registre por escrito o que combinarem: aplicar a redução, manter o valor ou trocar de índice (artigo 18).
 
 ## Quando o aluguel pode ser reajustado?
 

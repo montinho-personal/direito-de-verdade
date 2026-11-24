@@ -1,0 +1,83 @@
+{
+  "busca": "reajuste aluguel igpm ou ipca",
+  "pesquisadaEm": "2026-11-24",
+  "origem": "SerpApi: Google Brasil (google.com.br), celular, São Paulo, pt-BR, sem personalização",
+  "autocompletar": [
+    "reajuste igpm ou ipca",
+    "contrato de aluguel reajuste igpm ou ipca",
+    "qual o melhor reajuste para aluguel igpm ou ipca",
+    "reajuste aluguel igpm ou inpc",
+    "reajuste aluguel igpm outubro"
+  ],
+  "asPessoasTambemPerguntam": [
+    "Qual aumenta mais, IGPM ou IPCA?",
+    "Qual é a projeção do IGP-M para 2026?",
+    "Qual o reajuste do aluguel pelo IPCA?",
+    "Como calcular o IGP-M?"
+  ],
+  "outrasPessoasPesquisaram": [
+    "Tabela de reajuste de aluguel 2026",
+    "Igpm ultimos 12 meses"
+  ],
+  "visaoDeIA": {
+    "texto": "[Início do texto destacado] O IPCA costuma ser a escolha mais equilibrada e previsível para reajustar o aluguel [Fim do texto destacado] , enquanto o IGP-M tende a ser mais volátil e sensível ao dólar e ao atacado.\nPrincipais diferenças\n  - IPCA (IBGE): É o índice oficial de inflação do país e mede o custo de vida das famílias. Costuma ter variações mais estáveis e facilita o planejamento do inquilino.\n  - IGP-M (FGV): Tem forte peso de preços no atacado (60%), além de consumidor (30%) e construção civil (10%). Reage rápido a oscilações cambiais e de commodities, podendo gerar altas fortes ou até quedas acentuadas em certos períodos.\nComo escolher para o seu contrato\n  - Para o inquilino: O IPCA geralmente oferece maior previsibilidade e acompanha melhor a inflação do dia a dia.\n  - Para o proprietário: O IGP-M pode trazer reajustes maiores em momentos de alta de commodities ou dólar, mas aumenta o risco de inadimplência ou renegociação se disparar.\n  - Regra do contrato: A Lei do Inquilinato permite escolher o índice em comum acordo (exceto câmbio ou salário mínimo), com reajuste anual. Também vale combinar na cláusula o que acontece se o índice ficar negativo.\nPara aprofundar a comparação, veja o guia de índices de reajuste do QuintoAndar e a análise sobre IGP-M ou IPCA na Exame.",
+    "fontes": [
+      "Ademicon",
+      "Exame",
+      "Mega Brasil Imóveis",
+      "QuintoAndar",
+      "portas.com.br"
+    ]
+  },
+  "videos": [],
+  "organicos": [
+    {
+      "posicao": 1,
+      "titulo": "O que é o IGP-M ou o IPCA (reajuste do aluguel)?",
+      "endereco": "https://www.saluimoveis.com.br/it/ajuda/igpm-ipca",
+      "trecho": "O IGP-M (Índice Geral de Preços do Mercado) é o principal índice usado para reajuste dos contratos de aluguel. Ele é utilizado para preservar as condições."
+    },
+    {
+      "posicao": 2,
+      "titulo": "Artigo “Contrato de locação: qual seria a melhor opção de reajuste, IGP-M ou IPCA?”",
+      "endereco": "https://www.coreconpr.gov.br/noticias/artigo-contrato-de-locacao-qual-seria-a-melhor-opcao-de-reajuste-igp-m-ou-ipca/",
+      "trecho": "O artigo “Contrato de locação: qual seria a melhor opção de reajuste, IGP-M ou IPCA?”, escrito pelo economista Claudio Chiusoli comenta o ..."
+    },
+    {
+      "posicao": 3,
+      "titulo": "Índice de reajuste de aluguel: como explicar para o locatário?",
+      "endereco": "https://imoveis.estadao.com.br/aluguel/indice-de-reajuste-de-aluguel-como-explicar-para-o-locatario/",
+      "trecho": "Mais raramente, o valor do contrato também pode ser ajustado pelo Índice de Preços ao Consumidor Amplo (IPCA), como foi visto durante a pandemia ..."
+    },
+    {
+      "posicao": 4,
+      "titulo": "Índice de reajuste do aluguel, qual escolher?",
+      "endereco": "https://imobireport.com.br/imobiliario/indice-de-reajuste-do-aluguel-qual-escolher/",
+      "trecho": "Vivenciamos época de polêmica diante do IGP-M como índice de reajuste do aluguel. Algumas decisões judiciais privilegiando a substituição ..."
+    },
+    {
+      "posicao": 5,
+      "titulo": "Reajuste de Aluguel 2026: IGP-M, IPCA ou Outro Índice? Veja o que a Lei Diz",
+      "endereco": "https://flashvistoria.com.br/blog/reajuste-aluguel-igpm-ipca-lei-inquilinato/",
+      "trecho": "Descubra como funciona o reajuste de aluguel na Lei do Inquilinato. Compare IGP-M e IPCA, aprenda a calcular e saiba quando cabe revisão ..."
+    },
+    {
+      "posicao": 6,
+      "titulo": "IGP-M x IPCA: o que está por trás dos contratos de locação?",
+      "endereco": "https://www.jusbrasil.com.br/artigos/igp-m-x-ipca-o-que-esta-por-tras-dos-contratos-de-locacao/1304111632",
+      "trecho": "O Índice Geral de Preços – Mercado (IGP-M) é o índice mais utilizado para indicar o reajuste de valores de aluguéis ."
+    },
+    {
+      "posicao": 7,
+      "titulo": "IGP-M ou IPCA? O reajuste anual do aluguel ocorre a cada doze meses de contrato e ...",
+      "endereco": "https://www.instagram.com/p/DemHMhBjMdU/",
+      "trecho": "Enquanto o IGP-M acompanha uma cesta mais ampla de preços e pode ter oscilações maiores, o IPCA é o índice oficial de inflação do país e está ..."
+    },
+    {
+      "posicao": 8,
+      "titulo": "Reajuste de aluguel: saiba como calcular e ajustar o valor",
+      "endereco": "https://blog.conectaimobi.com.br/reajuste-de-aluguel/",
+      "trecho": "O índice utilizado no reajuste do aluguel é o IGP-M, mas existe um movimento recente de mercado para que este seja substituído pelo IPCA. O IGP- ..."
+    }
+  ]
+}

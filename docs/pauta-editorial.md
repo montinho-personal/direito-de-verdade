@@ -240,6 +240,16 @@ Pedido do Renato ("pode fazer os 3"): 1) jogo digital → seção nova em `/arti
 
 **Não recomendo:** artigo sobre o GTA 6 em si (preço, plataforma, mapa: fora do tema, nome de marca, concorrência de Rockstar, Xbox e grandes portais); jogos pelo nome (LoL, Roblox, Valorant, FNAF); filmes e livros homônimos ("Jogos Vorazes").
 
+## Candidatos vindos das buscas que ficaram de fora (24/11/2026, rotina diária)
+
+Das revisões de união estável e reajuste do aluguel. Só pauta.
+
+**Vale um artigo:** **Calculadora de reajuste de aluguel** (IGP-M, IPCA, INPC, com o índice de cada mês tirado do Banco Central) — os 4 primeiros resultados de `reajuste aluguel` são calculadoras e tabelas, e "calculadora de reajuste de aluguel 2026" aparece em "Outras pessoas pesquisaram". Buscas: `calculadora de reajuste de aluguel`; `reajuste aluguel 2026`; `tabela de reajuste de aluguel 2026`. Linka com o artigo do reajuste.
+
+**Não recomendo:** "3 tipos de união estável" (não é classificação legal); união estável com preso ou para visitar presídio (regra de cada sistema prisional); "união estável pelo gov" (não há serviço federal); valores por estado (SP, RJ: tabelas de custas estaduais); projeção do IGP-M e "como vão ficar os aluguéis" (projeção não é fato); "qual o melhor índice" como veredito (o site não recomenda).
+
+**Cabe em página existente:** gratuidade da união estável para quem não pode pagar e escritura online (e-Notariado) → união estável, quando houver fonte oficial lida (anotado no "Pendente" do doc, sem "Aplicar" até lá).
+
 ## Candidatos vindos das buscas que ficaram de fora (23/11/2026, rotina diária)
 
 Das revisões de pontos na CNH e desconto indevido no INSS. Só pauta.
@@ -466,7 +476,7 @@ Lembrar o Renato desta lista a cada entrega.
 | Multa de fidelidade (`/artigos/multa-de-fidelidade`), publicado em 29/10/2026 | Google: `cancelar internet multa`; `multa de fidelidade`; `como cancelar plano de celular`; AnswerThePublic `multa de fidelidade` | **revisado com o SerpApi em 21/11/2026** (rotina diária) |
 | Benefício do INSS negado (`/artigos/beneficio-inss-negado-como-recorrer`), publicado em 29/10/2026 | Google: `benefício negado inss`; `como recorrer inss`; `recurso inss prazo`; AnswerThePublic `recurso inss` | **revisado com o SerpApi em 21/11/2026** (rotina diária) |
 | Como recorrer de multa de trânsito (`/artigos/como-recorrer-de-multa-de-transito`), publicado em 29/10/2026 | Google: `como recorrer de multa`; `defesa prévia multa`; `recurso jari prazo`; AnswerThePublic `recorrer multa` | **revisado com o SerpApi em 22/11/2026** (rotina diária) |
-| Reajuste do aluguel (`/artigos/reajuste-do-aluguel`), publicado em 29/10/2026 | Google: `reajuste aluguel`; `reajuste aluguel igpm ou ipca`; `calcular reajuste aluguel`; AnswerThePublic `reajuste aluguel` | **aguardando prints** |
+| Reajuste do aluguel (`/artigos/reajuste-do-aluguel`), publicado em 29/10/2026 | Google: `reajuste aluguel`; `reajuste aluguel igpm ou ipca`; `calcular reajuste aluguel`; AnswerThePublic `reajuste aluguel` | **revisado com o SerpApi em 24/11/2026** (rotina diária) |
 | 13º salário atrasado (`/artigos/13-salario-atrasado`), publicado em 01/11/2026 | Google: `13 salário atrasado`; `empresa não pagou 13 salário`; `13 salário atrasado multa`; AnswerThePublic `13 salário atrasado` | **prints do Google recebidos e artigo revisado em 02/11/2026** (falta AnswerThePublic) |
 | Lista de material escolar (`/artigos/lista-de-material-escolar`), publicado em 01/11/2026 | Google: `lista de material escolar o que não pode`; `material escolar proibido`; `escola pode pedir papel higiênico`; AnswerThePublic `material escolar` | **revisado com o SerpApi em 22/11/2026** (rotina diária) |
 | Pontos na CNH (`/artigos/pontos-na-cnh`), publicado em 01/11/2026 | Google: `pontos na cnh`; `quantos pontos suspende a cnh`; `consultar pontos cnh`; AnswerThePublic `pontos cnh` | **revisado com o SerpApi em 23/11/2026** (rotina diária) |
@@ -564,6 +574,7 @@ Lembrar o Renato desta lista a cada entrega.
 - Calculadora de juros abusivos: **todo mês**, rodar `node scripts/atualizar-taxas-bcb.mjs` depois da divulgação das taxas de juros pelo BC e publicar; conferir Tema 1.474, Res. CMN 5.004/2022 e o teto do consignado INSS.
 - Simulador de compras online: `revisadoEm` em `src/lib/compras-online/regras.ts`, prazos do MED e do Consumidor.gov.br, Juizado em salários mínimos do ano.
 - Calculadora de cobrança indevida: IPCA mensal em `src/lib/cobranca-indevida/ipca.ts` (a cada divulgação do IBGE), Tema 929 do STJ (tese a publicar), Juizado em salários mínimos do ano e `revisadoEm` em `src/lib/cobranca-indevida/regras.ts`.
+- Reajuste do aluguel (`/artigos/reajuste-do-aluguel`): tabela de IGP-M e IPCA acumulados em 12 meses, **a cada revisão** (BCB, séries 189 e 433); em janeiro de 2027, trocar o ano no título e na tabela.
 - Calculadora de férias: tabela por salário e exemplos de `/calculadoras/ferias` (INSS, IR e salário mínimo do ano) e data de revisão no rodapé da ferramenta.
 
 - Nome sujo: Tema 1264 do STJ (dívida prescrita), MP 1.393/2026 do Desenrola 3.0 (vence em 23/11/2026) e mínimo existencial em `/artigos/nome-sujo`.
