@@ -1,10 +1,10 @@
 ---
 titulo: "União estável: o que é, direitos e como registrar no cartório"
-tituloSeo: "União estável: direitos e como registrar no cartório"
-descricao: "União estável: morar junto com objetivo de formar família já é união estável, mesmo sem papel. Veja os direitos, a divisão de bens, a herança e como registrar."
+tituloSeo: "União estável: direitos, valor e como fazer no cartório"
+descricao: "União estável existe mesmo sem papel. Veja os direitos, a divisão de bens, como fazer no cartório, quanto custa o termo e como colocar a data de início antiga."
 categoria: familia
 publicadoEm: 2026-11-01
-atualizadoEm: 2026-11-01
+atualizadoEm: 2026-11-24
 faq:
   - pergunta: "Quanto tempo de convivência é preciso para ter união estável?"
     resposta: "A lei não fixa um prazo mínimo. O que conta é a convivência pública, contínua e duradoura, com o objetivo de constituir família (Código Civil, artigo 1.723). Morar na mesma casa ajuda a provar, mas também não é exigido pela lei."
@@ -14,8 +14,10 @@ faq:
     resposta: "Os bens comprados durante a união, sim, como na comunhão parcial: cada um tem direito à metade, e os bens anteriores e os recebidos por herança ou doação não entram. Um contrato escrito entre os companheiros pode prever outro regime (Código Civil, artigo 1.725)."
   - pergunta: "Companheiro tem direito a pensão por morte do INSS?"
     resposta: "Tem: o companheiro e a companheira são dependentes do segurado (Lei 8.213/1991, artigo 16, I). Mas o INSS exige início de prova documental da união feita até 24 meses antes do óbito, e não aceita só testemunhas (artigo 16, § 5º). Por isso o registro em cartório ajuda."
-  - pergunta: "Como desfazer uma união estável?"
-    resposta: "Se não há filhos menores ou incapazes nem gravidez e o casal está de acordo, pode ser no cartório, por escritura ou termo de dissolução. Com filhos menores, gravidez ou sem acordo, é na Justiça. As regras de partilha, pensão e guarda são as mesmas do divórcio."
+  - pergunta: "Quem tem união estável é considerado casado?"
+    resposta: "Não. União estável e casamento são institutos diferentes: a união estável pode até ser convertida em casamento, a pedido do casal, no cartório de registro civil ou na Justiça (Código Civil, artigo 1.726). Mas os direitos de bens, herança e pensão do companheiro são, em grande parte, os mesmos do cônjuge."
+  - pergunta: "União estável precisa de testemunha?"
+    resposta: "As testemunhas aparecem na regra do CNJ quando o casal quer registrar uma data de início anterior: na certificação eletrônica, o cartório entrevista os companheiros e, se houver, as testemunhas (Provimento CNJ 141/2023, artigo 9º-F). Para a escritura ou o termo, confirme os documentos pedidos com o cartório."
 fontes:
   - nome: "Código Civil, artigos 1.641 e 1.723 a 1.727, texto atualizado (Câmara dos Deputados)"
     url: "https://www2.camara.leg.br/legin/fed/lei/2002/lei-10406-10-janeiro-2002-432893-normaatualizada-pl.html"
@@ -25,6 +27,8 @@ fontes:
     url: "https://noticias.stf.jus.br/postsnoticias/separacao-de-bens-em-casamento-de-pessoas-acima-de-70-anos-nao-e-obrigatoria-decide-stf/"
   - nome: "CNJ: corregedoria atualiza provimento que regulamenta a união estável (Provimento 141/2023)"
     url: "https://www.cnj.jus.br/corregedoria-atualiza-provimento-que-regulamenta-uniao-estavel-e-altera-o-regime-de-bens/"
+  - nome: "CNJ: Provimento nº 141/2023 (termo declaratório, certificação eletrônica e datas da união estável), íntegra"
+    url: "https://atos.cnj.jus.br/atos/detalhar/4996"
   - nome: "Lei nº 8.213/1991, artigo 16 (dependentes do INSS), texto atualizado (Câmara dos Deputados)"
     url: "https://www2.camara.leg.br/legin/fed/lei/1991/lei-8213-24-julho-1991-363650-normaatualizada-pl.html"
 ---
@@ -56,11 +60,27 @@ O registro **não é obrigatório**: a união existe pelos fatos. Mas ele serve 
 - **escritura pública** de união estável, no **cartório de notas** (tabelionato);
 - **termo declaratório** de reconhecimento de união estável, feito diretamente no **cartório de registro civil**, regra criada pelo CNJ em 2023 ([Provimento 141/2023](https://www.cnj.jus.br/corregedoria-atualiza-provimento-que-regulamenta-uniao-estavel-e-altera-o-regime-de-bens/)).
 
-Na escritura ou no termo, o casal informa a data de início da união e pode escolher o regime de bens. O preço varia por estado, conforme a tabela de custas do cartório.
+Na escritura ou no termo, o casal pode escolher o regime de bens. O registro é facultativo e depende do pedido dos dois companheiros ([Provimento CNJ 141/2023](https://atos.cnj.jus.br/atos/detalhar/4996)).
+
+### Quanto custa fazer a união estável?
+
+O **termo declaratório** no cartório de registro civil custa **50% do valor da habilitação de casamento** do estado. O termo de **dissolução com partilha de bens** custa o mesmo que a escritura pública ([CNJ](https://www.cnj.jus.br/corregedoria-atualiza-provimento-que-regulamenta-uniao-estavel-e-altera-o-regime-de-bens/)). A escritura no cartório de notas segue a tabela de custas de cada estado, por isso o valor muda de um lugar para outro: consulte o cartório antes.
+
+### Dá para registrar uma data de início antiga (retroativa)?
+
+Dá, mas não basta declarar. O registro só mostra a data de início da união se ela vier de uma **decisão judicial**, de uma escritura ou termo em que a data de início é **a própria data do documento**, ou de uma **certificação eletrônica de união estável** feita no cartório de registro civil (Provimento CNJ 141/2023, artigo 1º, § 4º). Na certificação, que pode ser pedida pela internet ou no balcão:
+
+- o casal apresenta as provas da data de início (contas, fotos, documentos);
+- o registrador **entrevista os companheiros e, se houver, testemunhas**;
+- ele decide o pedido e, se negar, o casal tem 15 dias para pedir que a dúvida seja levada ao juiz (artigo 9º-F).
 
 ### Como provar a união estável sem registro
 
 Junte documentos que mostrem a vida em comum: comprovantes de endereço no mesmo local, conta bancária conjunta, um como dependente do outro no plano de saúde ou no imposto de renda, certidão de nascimento de filhos, fotos e mensagens. **Para a pensão por morte**, o INSS exige início de prova documental feita até **24 meses antes do óbito** e não aceita só testemunhas, salvo força maior (Lei 8.213/1991, artigo 16, § 5º).
+
+### E se o companheiro já morreu?
+
+A escritura e o termo são feitos pelos dois companheiros. Depois da morte de um deles, o reconhecimento da união é pedido na **Justiça**, com as provas da vida em comum. Se o casal já tinha pedido a **conversão em casamento** no cartório, a morte durante o processo não impede o registro, quando o pedido estiver em ordem (Provimento CNJ 141/2023, artigo 9º-G).
 
 ## União estável ou casamento: qual a diferença?
 

@@ -1,0 +1,105 @@
+{
+  "busca": "união estável",
+  "pesquisadaEm": "2026-11-24",
+  "origem": "SerpApi: Google Brasil (google.com.br), celular, São Paulo, pt-BR, sem personalização",
+  "autocompletar": [
+    "união estável valor",
+    "união estável é estado civil",
+    "união estável e casamento",
+    "união estável como fazer",
+    "união estável online",
+    "união estável online gratuita",
+    "união estável com separação total de bens",
+    "união estável muda estado civil",
+    "união estável é o mesmo que casamento",
+    "união estável significado",
+    "união estável precisa de testemunha",
+    "união estável quanto tempo",
+    "união estável post mortem",
+    "união estável cartório",
+    "união estável gratuita"
+  ],
+  "asPessoasTambemPerguntam": [
+    "Quais são os 3 tipos de união estável?",
+    "Quem tem união estável é considerado casado?",
+    "Quem tem união estável tem direito a bens?",
+    "O que é necessário para comprovar união estável?"
+  ],
+  "outrasPessoasPesquisaram": [
+    "União estável como fazer",
+    "União estável online gratuita",
+    "União estável quanto tempo",
+    "União estável separação",
+    "União estável valor",
+    "União estável e casamento",
+    "União estável direitos",
+    "União estável modelo",
+    "União estável é namoro",
+    "União estável documento",
+    "União estável precisa de documento",
+    "União estável precisa de testemunha"
+  ],
+  "visaoDeIA": {
+    "texto": "A união estável [Início do texto destacado] é o reconhecimento legal de uma relação afetiva contínua, pública e duradoura com o objetivo de constituir família, sem exigir casamento formal [Fim do texto destacado] . Ela vale para casais heteroafetivos e homoafetivos e não altera o estado civil dos companheiros (que continuam como solteiros, divorciados ou viúvos).\nPrincipais características e regras\n  - Requisitos: Convivência pública, contínua e duradoura com intuito de família, sem prazo mínimo exigido por lei no Código Civil. Morar junto (coabitação) também não é obrigatório.\n  - Regime de bens: Na falta de contrato ou escritura definindo o contrário, aplica-se a comunhão parcial de bens (bens adquiridos de forma onerosa durante a união são divididos). O casal pode escolher outro regime por escrito.\n  - Direitos: Inclui partilha de bens, direitos sucessórios (herança), pensão alimentícia, benefícios previdenciários, inclusão em planos de saúde e conversão em casamento.\nComo formalizar e encerrar\n  - Formalização: Não é obrigatória para a união existir, mas traz segurança jurídica. Pode ser feita por escritura pública em Tabelionato de Notas, contrato particular ou termo declaratório no Registro Civil, com registro opcional para efeitos perante terceiros. Você pode consultar mais detalhes sobre o passo a passo no guia da VLV Advogados.\n  - Dissolução: Pode ocorrer por acordo em cartório (quando não há filhos menores ou incapazes) ou pela via judicial, com assistência de advogado. Para entender melhor as diferenças práticas frente ao casamento, veja a explicação da DPEMT.\nQual ponto sobre união estável você quer aprofundar: formalização em cartório, regime de bens e partilha, herança e pensão ou dissolução?",
+    "fontes": [
+      "26º Tabelionato de Notas de São Paulo",
+      "Defensoria MT",
+      "Jusbrasil",
+      "Portal do Instituto Claro",
+      "VLV Advogados",
+      "YouTube"
+    ]
+  },
+  "videos": [
+    {
+      "titulo": "Quais são os requisitos para união estável?  Ela pode ser reconhecida por ...",
+      "canal": "Defensoria Pública do Estado do RS"
+    },
+    {
+      "titulo": "UNIÃO ESTÁVEL: SAIBA ABOLUTAMENTE TUDO SOBRE O ...",
+      "canal": "Cristiana Gomes Ferreira"
+    },
+    {
+      "titulo": "Direitos na União Estável: Quais são garantidos e como conseguir?",
+      "canal": "VLV Advogados"
+    }
+  ],
+  "organicos": [
+    {
+      "posicao": 1,
+      "titulo": "Escritura de união estável",
+      "endereco": "https://www.26notas.com.br/servicos/uniao-estavel",
+      "trecho": "União Estável: É uma situação de fato. Configura-se pela convivência pública, contínua e duradoura com o objetivo de constituição de família. Não exige ..."
+    },
+    {
+      "posicao": 2,
+      "titulo": "Tudo que você sempre quis saber sobre a união estável",
+      "endereco": "https://www.jusbrasil.com.br/noticias/tudo-que-voce-sempre-quis-saber-sobre-a-uniao-estavel/518929186",
+      "trecho": "A união estável é uma situação de fato. Por essa razão, o fato de você não ter qualquer documento sobre essa união não quer dizer que ela não exista. Ela poderá ..."
+    },
+    {
+      "posicao": 3,
+      "titulo": "Direito de Família — Casamento e União Estável | Ministério Público do Estado do ...",
+      "endereco": "https://mppr.mp.br/Pagina/Direito-de-Familia-Casamento-e-Uniao-Estavel",
+      "trecho": "O que é união estável? É a relação entre duas pessoas que se caracteriza como uma convivência pública, contínua e duradoura e que tem o objetivo de constituição ..."
+    },
+    {
+      "posicao": 4,
+      "titulo": "Casamento ou união estável? Defensora explica a diferença entre as duas formas ...",
+      "endereco": "https://www.defensoria.mt.def.br/dpmt/noticias/casamento-ou-uniao-estavel-defensora-explica-a-diferenca-entre-as-duas-formas-de-constituicao-familiar",
+      "trecho": "Já a união estável decorre de uma convivência pública, contínua e duradoura do casal, estabelecida com o objetivo de constituição de família, ..."
+    },
+    {
+      "posicao": 5,
+      "titulo": "União Estável: o que mudou? - Podcast IBDFAM #28",
+      "endereco": "https://www.youtube.com/watch?v=D-ZxALbEIDw",
+      "trecho": "O que mudou na união estável após a Lei 14.382/2022 e o Provimento 141/2023, do Conselho Nacional de Justiça – CNJ? Essa pergunta é o foco ..."
+    },
+    {
+      "posicao": 6,
+      "titulo": "União estável como entidade familiar - TJDFT",
+      "endereco": "https://www.tjdft.jus.br/consultas/jurisprudencia/jurisprudencia-em-temas/direito-constitucional/uniao-estavel-como-entidade-familiar",
+      "trecho": "“Art. 1.723. É reconhecida como entidade familiar a união estável entre o homem e a mulher, configurada na convivência pública, contínua e ..."
+    }
+  ]
+}
