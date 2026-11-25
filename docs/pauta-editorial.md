@@ -240,6 +240,16 @@ Pedido do Renato ("pode fazer os 3"): 1) jogo digital → seção nova em `/arti
 
 **Não recomendo:** artigo sobre o GTA 6 em si (preço, plataforma, mapa: fora do tema, nome de marca, concorrência de Rockstar, Xbox e grandes portais); jogos pelo nome (LoL, Roblox, Valorant, FNAF); filmes e livros homônimos ("Jogos Vorazes").
 
+## Candidatos vindos das buscas que ficaram de fora (25/11/2026, rotina diária)
+
+Das revisões de adicional de insalubridade e inventário. Só pauta.
+
+**Vale um artigo:** nenhum novo com fonte e busca suficientes.
+
+**Não recomendo:** "inventário de estoque", "de depressão de Beck", "jogo" (outros sentidos da palavra); "inventário em vida" (não existe; o tema é doação ou testamento, sem busca própria pesquisada); "quanto tempo demora o inventário" (sem fonte); "quem paga o inventário da casa" (sem regra oficial lida); insalubridade do professor (sem regra própria lida).
+
+**Cabe em página existente:** limpeza de banheiros de uso coletivo (Súmula 448 do TST) e câmara fria (anexo de frio da NR-15) → adicional de insalubridade, quando os textos forem lidos (o site do TST bloqueou o robô em 25/11/2026; anotado no "Pendente" do doc).
+
 ## Candidatos vindos das buscas que ficaram de fora (24/11/2026, artigos novos)
 
 Dos artigos calendário do INSS 2026 e celular na escola. Só pauta.
@@ -493,7 +503,7 @@ Lembrar o Renato desta lista a cada entrega.
 | Desconto indevido no INSS (`/artigos/desconto-indevido-inss`), publicado em 01/11/2026 | Google: `desconto indevido inss`; `desconto associação inss`; `como cancelar desconto inss`; AnswerThePublic `desconto inss` | **revisado com o SerpApi em 23/11/2026** (rotina diária) |
 | União estável (`/artigos/uniao-estavel`), publicado em 01/11/2026 | Google: `união estável`; `união estável direitos`; `como fazer união estável`; AnswerThePublic `união estável` | **revisado com o SerpApi em 24/11/2026** (rotina diária) |
 | Adicional de insalubridade (`/artigos/adicional-de-insalubridade`), publicado em 01/11/2026 | Google: `adicional de insalubridade`; `insalubridade valor`; `insalubridade grau`; AnswerThePublic `insalubridade` | **revisado com o SerpApi em 25/11/2026** (rotina diária) |
-| Inventário (`/artigos/inventario`), publicado em 03/11/2026 | Google: `inventário`; `inventário prazo`; `inventário em cartório`; AnswerThePublic `inventário` | **aguardando prints** |
+| Inventário (`/artigos/inventario`), publicado em 03/11/2026 | Google: `inventário`; `inventário prazo`; `inventário em cartório`; AnswerThePublic `inventário` | **revisado com o SerpApi em 25/11/2026** (rotina diária) |
 | Fiador de aluguel (`/artigos/fiador`), publicado em 03/11/2026 | Google: `fiador de aluguel`; `fiador pode perder a casa`; `como sair de fiador`; AnswerThePublic `fiador` | **aguardando prints** |
 | Usucapião (`/artigos/usucapiao`), publicado em 03/11/2026 | Google: `usucapião`; `usucapião prazo`; `usucapião em cartório`; AnswerThePublic `usucapião` | **aguardando prints** |
 | Barulho do vizinho (`/artigos/barulho-do-vizinho`), publicado em 04/11/2026 | Google: `barulho do vizinho`; `lei do silêncio horário`; `vizinho barulhento o que fazer`; AnswerThePublic `barulho vizinho` | **aguardando prints** |

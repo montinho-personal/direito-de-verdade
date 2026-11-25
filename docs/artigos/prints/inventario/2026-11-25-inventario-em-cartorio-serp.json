@@ -1,0 +1,117 @@
+{
+  "busca": "inventário em cartório",
+  "pesquisadaEm": "2026-11-25",
+  "origem": "SerpApi: Google Brasil (google.com.br), celular, São Paulo, pt-BR, sem personalização",
+  "autocompletar": [
+    "inventário em cartório precisa de advogado",
+    "inventário em cartório valor",
+    "inventário em cartório como funciona",
+    "inventário em cartório demora quanto tempo",
+    "inventário em cartório requisitos",
+    "inventário em cartório extrajudicial",
+    "inventário em cartório prazo",
+    "inventário em cartório com testamento",
+    "inventário em cartório com menor",
+    "inventário em cartório como fazer",
+    "inventário em cartório quanto custa",
+    "inventario em cartorio sem advogado",
+    "inventario em cartorio ou judicial",
+    "inventario em cartorio o que precisa",
+    "inventario em cartorio passo a passo"
+  ],
+  "asPessoasTambemPerguntam": [
+    "Qual o valor de um inventário feito no cartório?",
+    "Quanto tempo leva um inventário pelo cartório?",
+    "Precisa de advogado para fazer inventário em cartório?",
+    "O que acontece se eu não fizer inventário?"
+  ],
+  "outrasPessoasPesquisaram": [
+    "Inventário em cartório precisa de advogado",
+    "Inventário no cartório valor",
+    "Posso fazer inventário direto no cartório",
+    "Documentos para inventário em cartório",
+    "Inventário extrajudicial",
+    "Inventário em cartório prazo",
+    "Valor registro de inventário no cartório de imóveis",
+    "Qual cartório faz inventário extrajudicial",
+    "Como fazer um inventário de um falecido",
+    "Inventário judicial",
+    "Como fazer inventário direto no cartório sem advogado",
+    "O que é inventário na empresa"
+  ],
+  "visaoDeIA": {
+    "texto": "O inventário em cartório (extrajudicial) [Início do texto destacado] é o procedimento feito por escritura pública em um Cartório de Notas para transferir os bens de uma pessoa falecida aos herdeiros de forma rápida e sem processo judicial [Fim do texto destacado] .\nRequisitos principais\n  - Consenso entre as partes: todos os interessados devem concordar com a divisão dos bens.\n  - Participação de advogado: é obrigatória por lei (pode ser o mesmo para todos ou um para cada parte).\n  - Regras atualizadas pelo CNJ: além do cenário tradicional com herdeiros maiores e capazes sem testamento, normas do CNJ permitem o procedimento mesmo com herdeiros menores/incapazes (com parte ideal preservada e parecer favorável do Ministério Público) ou com testamento (mediante autorização prévia do juízo sucessório e consenso).\n  - Escolha livre do cartório: pode ser feito em qualquer Cartório de Notas do Brasil, inclusive de forma digital, independentemente do local do óbito ou dos bens.\nPasso a passo\n  - Contratar advogado e escolher o Cartório de Notas.\n  - Reunir documentos pessoais, certidões, comprovantes de bens/dívidas e certidões negativas.\n  - Nomear o inventariante e levantar o patrimônio e eventuais dívidas.\n  - Apurar e pagar o ITCMD (imposto estadual sobre transmissão de herança; a alíquota e os prazos/multas variam conforme a legislação estadual).\n  - Assinar a escritura pública de inventário e partilha.\n  - Registrar a transferência nos órgãos competentes, como Registro de Imóveis, DETRAN e bancos.\nVeja mais detalhes no guia da ANOREG/BR ou no artigo do Jusbrasil.\nSe você quiser avançar, me informe:\n  - O estado onde o falecido morava ou onde ficam os bens (para verificar regras locais e ITCMD)\n  - Se há acordo entre os herdeiros, menores/incapazes ou testamento\n  - Se o foco é documentação, custos/prazos ou como começar",
+    "fontes": [
+      "17° Tabelião de Notas de São Paulo.",
+      "ANOREG/BR",
+      "Cartório Alphaville",
+      "Cartório SP",
+      "Facebook",
+      "Herdei",
+      "Jusbrasil",
+      "YouTube"
+    ]
+  },
+  "videos": [
+    {
+      "titulo": "Como Fazer Inventário Extrajudicial em Cartório: Passo a Passo Completo",
+      "canal": "Vitor Pereira | Advogado"
+    },
+    {
+      "titulo": "Como fazer um INVENTÁRIO EXTRAJUDICIAL (direto no Cartório)",
+      "canal": "Me Julga - Cíntia Brunelli"
+    },
+    {
+      "titulo": "Inventário: Judicial e Extrajudicial",
+      "canal": "Vitor Pereira | Advogado"
+    },
+    {
+      "titulo": "Inventário Extrajudicial, passo a passo na prática.",
+      "canal": "Marcello Benevides Advogados"
+    }
+  ],
+  "organicos": [
+    {
+      "posicao": 1,
+      "titulo": "Inventário Extrajudicial",
+      "endereco": "https://www.17tabeliao.com.br/index.php?pG=X19wYWdpbmFz",
+      "trecho": "O inventário extrajudicial pode ser feito em qualquer Cartório de Notas, independentemente do domicílio das partes, do local de situação dos bens ou do local do ..."
+    },
+    {
+      "posicao": 2,
+      "titulo": "Um guia para quem precisa fazer inventário no cartório",
+      "endereco": "https://www.jusbrasil.com.br/artigos/um-guia-para-quem-precisa-fazer-inventario-no-cartorio/1347208518",
+      "trecho": "Para abrir um inventário no cartório é preciso que todos os herdeiros sejam capazes, estejam de acordo e não haja testamento, pois, segundo o ..."
+    },
+    {
+      "posicao": 3,
+      "titulo": "Veja o passo a passo para realizar o Inventário no Cartório de Notas",
+      "endereco": "https://www.cartorioalphaville.com.br/Pagina/Exibir/636f2e01-c478-43b4-a365-10e3cc0b2ba8",
+      "trecho": "Veja como deve ser feita a realização: Realize o levantamento da documentação, para saber quem são os herdeiros, os bens e as dívidas; Garanta o acompanhamento ..."
+    },
+    {
+      "posicao": 4,
+      "titulo": "Inventário",
+      "endereco": "https://www.cartoriosilvagoiania.com.br/tabelionato-de-notas/inventario",
+      "trecho": "Quais são os documentos necessários para fazer um inventário em cartório? · RG e CPF (pode ser CNH ou identidade profissional) · Procuração pública específica ( ..."
+    },
+    {
+      "posicao": 5,
+      "titulo": "Fazer o inventário em cartório pode facilitar a sua vida",
+      "endereco": "https://cartorio8oficiobh.com.br/inventario-em-cartorio/",
+      "trecho": "Todos as partes que irão receber os bens precisam ter mais de 18 anos de idade para solicitar o inventário no cartório. Além disso, é necessário apresentar os ..."
+    },
+    {
+      "posicao": 6,
+      "titulo": "Como fazer um inventário extrajudicial passo a passo",
+      "endereco": "https://cartoriosp.com.br/noticias/noticia-01/como-fazer-um-inventario-extrajudicial-passo-a-passo",
+      "trecho": "Ele pode ocorrer de duas formas: extrajudicialmente ou judicialmente. No primeiro caso, o inventário é feito em cartório, por escritura pública, ..."
+    },
+    {
+      "posicao": 7,
+      "titulo": "Inventário Extrajudicial",
+      "endereco": "https://www.anoreg.org.br/site/atos-extrajudiciais/tabelionato-de-notas/inventario-extrajudicial/",
+      "trecho": "O que é? O inventário é o procedimento utilizado para apuração dos bens, direitos e dívidas do falecido. Com a partilha é instrumentalizada a transferência ..."
+    }
+  ]
+}

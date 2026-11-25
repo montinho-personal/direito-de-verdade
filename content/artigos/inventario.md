@@ -1,10 +1,10 @@
 ---
 titulo: "Inventário: como fazer, prazo, custos e quem herda"
-tituloSeo: "Inventário: prazo, cartório ou Justiça e quem herda"
-descricao: "Inventário: deve ser aberto em até 2 meses da morte, em cartório ou na Justiça. Veja quem herda, o passo a passo, o ITCMD e quando pode ser em cartório."
+tituloSeo: "Inventário: cartório ou Justiça, valor, prazo e quem herda"
+descricao: "Inventário: aberto em até 2 meses, no cartório (até de graça, para quem não pode pagar) ou na Justiça. Veja documentos, inventário negativo, ITCMD e quem herda."
 categoria: familia
 publicadoEm: 2026-11-03
-atualizadoEm: 2026-11-03
+atualizadoEm: 2026-11-25
 faq:
   - pergunta: "Qual o prazo para abrir o inventário?"
     resposta: "2 meses a contar da morte, e o inventário deve terminar nos 12 meses seguintes, podendo o juiz prorrogar (CPC, artigo 611). O atraso pode gerar multa no ITCMD, o imposto sobre a herança, conforme a lei do seu estado."
@@ -14,15 +14,21 @@ faq:
     resposta: "Só até o valor da herança. As dívidas são pagas com os bens deixados; depois da partilha, cada herdeiro responde na proporção do que recebeu, nunca com o próprio patrimônio além disso (Código Civil, artigos 1.792 e 1.997)."
   - pergunta: "Precisa de advogado para fazer inventário?"
     resposta: "Precisa, tanto no cartório quanto na Justiça. No cartório, a escritura só é feita se todos os interessados estiverem assistidos por advogado ou defensor público (CPC, artigo 610, § 2º). Quem não pode pagar pode procurar a Defensoria Pública."
+  - pergunta: "O que acontece se eu não fizer o inventário?"
+    resposta: "A lei manda abrir o inventário em até 2 meses (CPC, artigo 611), mas a escritura no cartório pode ser feita a qualquer tempo; o tabelião confere se há multa do ITCMD, conforme a lei do estado (Resolução CNJ 35/2007, artigo 31). Enquanto não há inventário, os bens continuam no nome de quem morreu."
   - pergunta: "O viúvo pode continuar morando no imóvel?"
     resposta: "Pode. O cônjuge sobrevivente tem direito real de habitação no imóvel onde a família morava, se for o único desse tipo a inventariar, qualquer que seja o regime de bens (Código Civil, artigo 1.831)."
 fontes:
   - nome: "Código de Processo Civil (Lei 13.105/2015), artigos 610, 611 e 664, texto atualizado (Câmara dos Deputados)"
     url: "https://www2.camara.leg.br/legin/fed/lei/2015/lei-13105-16-marco-2015-780273-normaatualizada-pl.html"
-  - nome: "Código Civil, artigos 1.784, 1.792, 1.829 a 1.832, 1.845, 1.846, 1.857 e 1.997, texto atualizado (Câmara dos Deputados)"
+  - nome: "Código Civil, artigos 1.523, 1.784, 1.792, 1.829 a 1.832, 1.845, 1.846, 1.857 e 1.997, texto atualizado (Câmara dos Deputados)"
     url: "https://www2.camara.leg.br/legin/fed/lei/2002/lei-10406-10-janeiro-2002-432893-normaatualizada-pl.html"
   - nome: "CNJ autoriza inventário e partilha extrajudicial mesmo com menores de idade (Resolução 571/2024)"
     url: "https://www.cnj.jus.br/cnj-autoriza-divorcio-inventario-e-partilha-extrajudicial-mesmo-com-menores-de-idade/"
+  - nome: "CNJ: Resolução nº 35/2007 (inventário e partilha em cartório), texto compilado com a Resolução nº 571/2024"
+    url: "https://atos.cnj.jus.br/files/compilado1337242024090266d5bf9453961.pdf"
+  - nome: "Secretaria da Fazenda de SP: ITCMD no inventário (partilha desigual e doação)"
+    url: "https://portal.fazenda.sp.gov.br/servicos/itcmd/Paginas/Invent%C3%A1rio.aspx"
   - nome: "STF: julgamento afasta diferença entre cônjuge e companheiro para fim sucessório (Temas 498 e 809)"
     url: "https://noticias.stf.jus.br/postsnoticias/julgamento-afasta-diferenca-entre-conjuge-e-companheiro-para-fim-sucessorio/"
 ---
@@ -45,6 +51,12 @@ O inventário deve ser **aberto em até 2 meses** a contar da morte e **terminar
 
 Pelo CPC, o cartório vale quando todos são **capazes e estão de acordo**, com advogado ou defensor público, e a escritura serve para registrar os imóveis e sacar o dinheiro dos bancos (artigo 610). Em 2024, o **CNJ** passou a permitir o inventário em cartório **mesmo com herdeiro menor ou incapaz**, se a parte dele for uma fração de cada bem e o **Ministério Público** concordar, e também **com testamento**, depois que o juiz autorizar o seu cumprimento ([CNJ, Resolução 571/2024](https://www.cnj.jus.br/cnj-autoriza-divorcio-inventario-e-partilha-extrajudicial-mesmo-com-menores-de-idade/)).
 
+No cartório, a família **escolhe livremente o tabelião de notas**, em qualquer lugar, sem as regras de competência do CPC; e quem já entrou na Justiça pode **suspender ou desistir** do processo para fazer o inventário no cartório ([Resolução CNJ 35/2007, artigos 1º e 2º](https://atos.cnj.jus.br/files/compilado1337242024090266d5bf9453961.pdf)).
+
+### Inventário em cartório é de graça?
+
+Pode ser. A gratuidade vale para a escritura de inventário e partilha, e basta a **declaração dos interessados de que não podem pagar** os emolumentos do cartório, mesmo que tenham advogado (Resolução CNJ 35/2007, artigos 6º e 7º). Mas o **advogado ou defensor público** continua obrigatório; o tabelião não pode indicar advogado e, se a família não puder pagar, deve encaminhá-la à **Defensoria Pública** (artigos 8º e 9º). A gratuidade não alcança o ITCMD, que é imposto do estado.
+
 Na Justiça, quando os bens valem até **1.000 salários mínimos**, o inventário segue um rito mais simples, o **arrolamento** (CPC, artigo 664).
 
 ## Quem herda?
@@ -62,19 +74,24 @@ O **companheiro de união estável** tem os mesmos direitos de herança do cônj
 
 ## Como fazer o inventário: passo a passo
 
-1. **Reúna os documentos:** certidão de óbito, documentos do falecido e dos herdeiros, certidão de casamento ou de união estável, documentos dos bens (matrículas dos imóveis, documentos dos veículos, extratos bancários) e das dívidas.
+1. **Reúna os documentos.** No cartório, a lista mínima é (Resolução CNJ 35/2007, artigo 22): certidão de óbito; documento de identidade e CPF de quem morreu e dos herdeiros; certidões que provam o parentesco; certidão de casamento do viúvo e dos herdeiros casados, com o pacto antenupcial, se houver; certidão dos imóveis; documentos dos bens móveis; **certidão negativa de tributos**; e o CCIR, se houver imóvel rural.
 2. **Contrate um advogado** (ou procure a Defensoria Pública, se a família não puder pagar).
 3. **Escolha o caminho:** cartório de notas, se todos concordam e o caso se encaixa, ou ação na Justiça.
 4. **Nomeie o inventariante,** a pessoa que administra os bens até a partilha.
-5. **Pague o ITCMD** na Secretaria da Fazenda do estado e as dívidas do falecido.
+5. **Pague o ITCMD** na Secretaria da Fazenda do estado e as dívidas do falecido. No cartório, os tributos têm de ser pagos **antes** da escritura (Resolução CNJ 35/2007, artigo 15).
 6. **Faça a partilha:** pela escritura no cartório ou pela sentença do juiz, cada herdeiro registra a sua parte (imóveis no cartório de registro de imóveis, veículos no Detran, dinheiro no banco).
 
 ## Quanto custa o inventário?
 
 - **ITCMD:** imposto estadual sobre heranças e doações. Cada estado fixa a alíquota e as isenções; consulte a Secretaria da Fazenda.
+- **Partilha desigual:** se um herdeiro fica com mais do que a sua parte pela lei ou pelo testamento, o excesso é tratado como **doação** entre herdeiros; em São Paulo, ele é declarado à parte, como ITCMD de doação ([Secretaria da Fazenda de SP](https://portal.fazenda.sp.gov.br/servicos/itcmd/Paginas/Invent%C3%A1rio.aspx)).
 - **Cartório:** no inventário extrajudicial, a escritura segue a tabela de custas do estado, normalmente conforme o valor dos bens.
 - **Custas judiciais:** no inventário na Justiça, também variam por estado; quem não pode pagar pode pedir a justiça gratuita.
 - **Advogado:** honorários combinados com o profissional; a tabela da OAB de cada estado serve de referência.
+
+## Inventário negativo: quando fazer?
+
+O **inventário negativo** declara que a pessoa morreu **sem deixar bens** a partilhar. Ele pode ser feito por **escritura pública** no cartório (Resolução CNJ 35/2007, artigo 28), com advogado. Um uso comum: o viúvo ou a viúva que tem filhos com quem morreu **não deve se casar de novo** enquanto não fizer o inventário dos bens do casal e a partilha (Código Civil, artigo 1.523, I); se não havia bens, o inventário negativo cumpre esse papel.
 
 ## As dívidas do falecido passam para os filhos?
 

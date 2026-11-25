@@ -1,0 +1,104 @@
+{
+  "busca": "inventário",
+  "pesquisadaEm": "2026-11-25",
+  "origem": "SerpApi: Google Brasil (google.com.br), celular, São Paulo, pt-BR, sem personalização",
+  "autocompletar": [
+    "inventário extrajudicial",
+    "inventário valor",
+    "inventário significado",
+    "inventário negativo",
+    "inventário no cartório precisa de advogado",
+    "inventário judicial",
+    "inventário no cartório",
+    "inventário de estoque",
+    "inventário como funciona",
+    "inventário extrajudicial precisa de advogado",
+    "inventário extrajudicial valor",
+    "inventário é obrigatório",
+    "inventário gratuito",
+    "inventário de depressão de beck",
+    "inventário e partilha"
+  ],
+  "asPessoasTambemPerguntam": [
+    "Qual é o valor para se fazer um inventário?",
+    "Como funciona um inventário de um falecido?",
+    "O que significa inventário?",
+    "Quem paga o inventário da casa?"
+  ],
+  "outrasPessoasPesquisaram": [
+    "Inventário de estoque",
+    "Inventário de imóvel",
+    "Inventário na empresa",
+    "Inventário valor",
+    "Inventário de bens",
+    "Inventário jogo",
+    "Inventário advogado",
+    "Inventário gratuito",
+    "Inventário como fazer",
+    "Inventário em vida",
+    "Inventário prazo",
+    "Inventário é obrigatório"
+  ],
+  "visaoDeIA": {
+    "texto": "",
+    "fontes": []
+  },
+  "videos": [
+    {
+      "titulo": "Como fazer um INVENTÁRIO EXTRAJUDICIAL (direto no Cartório)",
+      "canal": "Me Julga - Cíntia Brunelli"
+    },
+    {
+      "titulo": "INVENTÁRIO JUDICIAL na Prática (Passo a Passo)",
+      "canal": "Me Julga - Cíntia Brunelli"
+    },
+    {
+      "titulo": "Inventário: Entenda o que é e como é feito o processo",
+      "canal": "Rede Câmara de Barreiras"
+    }
+  ],
+  "organicos": [
+    {
+      "posicao": 1,
+      "titulo": "Inventário",
+      "endereco": "https://portal.fazenda.sp.gov.br/servicos/itcmd/Paginas/Invent%C3%A1rio.aspx",
+      "trecho": "Inventário · Os herdeiros podem decidir entre si a distribuição dos bens. · Se um herdeiro receber mais do que seu quinhão legal ou testamentário, ocorre um ..."
+    },
+    {
+      "posicao": 2,
+      "titulo": "Você sabe o que é um inventário?",
+      "endereco": "https://www.cartorioalphaville.com.br/Pagina/Exibir/9e4777c2-1b36-47cb-8491-e6004092ebdb",
+      "trecho": "O inventário é um instrumento para formalizar a divisão e a transferência de bens aos herdeiros. Ele pode ser judicial ou extrajudicial. Caso exista inventário ..."
+    },
+    {
+      "posicao": 3,
+      "titulo": "Inventário: o que é, como fazer, tipos, prazo e custos",
+      "endereco": "https://www.barbieriadvogados.com/inventario/",
+      "trecho": "O inventário é o procedimento que apura os bens, os direitos e as dívidas de uma pessoa falecida, identifica os herdeiros, quantifica o imposto ..."
+    },
+    {
+      "posicao": 4,
+      "titulo": "Inventário – Wikipédia, a enciclopédia livre",
+      "endereco": "https://pt.wikipedia.org/wiki/Invent%C3%A1rio",
+      "trecho": "Um inventário (do latim inventariu) é uma relação dos bens pertencentes a uma pessoa (viva ou herança de falecido), a uma empresa ou a uma cultura."
+    },
+    {
+      "posicao": 5,
+      "titulo": "O que é inventário? Entenda o processo e suas etapas",
+      "endereco": "https://www.serasa.com.br/score/blog/inventario-tudo-que-e-preciso-saber/",
+      "trecho": "Inventário é o processo legal que administra e organiza os bens de uma pessoa após a sua morte para que sejam transmitidos aos herdeiros. Sempre ..."
+    },
+    {
+      "posicao": 6,
+      "titulo": "Inventário: Como Funciona, Tipos e Prazos Legais",
+      "endereco": "https://danielfrederighiadvogados.com.br/artigos/inventario-o-que-e-como-funciona-e-quais-os-prazos-legais",
+      "trecho": "Entenda o que é o inventário, quais os tipos previstos em lei, o prazo para abertura e o que acontece quando o falecido não deixa bens."
+    },
+    {
+      "posicao": 7,
+      "titulo": "O que é o inventário e para que serve?",
+      "endereco": "https://www.jusbrasil.com.br/artigos/o-que-e-o-inventario-e-para-que-serve/408825749",
+      "trecho": "O inventário é um processo que ocorre após a morte de uma pessoa. Assim, é durante esse processo que ocorre o levantamento de todos os bens que o falecido ..."
+    }
+  ]
+}
