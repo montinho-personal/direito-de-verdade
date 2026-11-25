@@ -1,10 +1,10 @@
 ---
 titulo: "Adicional de insalubridade: quem tem direito, graus e quanto é em 2026"
-tituloSeo: "Adicional de insalubridade 2026: graus, valor e quem tem"
+tituloSeo: "Adicional de insalubridade 2026: valor, graus e base"
 descricao: "Adicional de insalubridade 2026: 10%, 20% ou 40% do salário mínimo, conforme o grau (até R$ 648,40). Veja quem tem direito, a perícia, o EPI e os reflexos."
 categoria: trabalho
 publicadoEm: 2026-11-01
-atualizadoEm: 2026-11-13
+atualizadoEm: 2026-11-25
 faq:
   - pergunta: "O adicional de insalubridade é calculado sobre o salário ou sobre o salário mínimo?"
     resposta: "Em regra, sobre o salário mínimo, como diz a CLT (artigo 192), a não ser que a convenção ou o acordo coletivo da categoria preveja uma base maior. O STF cassou a parte da Súmula 228 do TST que mandava calcular sobre o salário básico."
@@ -14,11 +14,17 @@ faq:
     resposta: "Só se ele eliminar ou neutralizar o agente nocivo. Não basta a empresa entregar o equipamento: ela tem de garantir que ele funcione e seja usado. É o que dizem as Súmulas 80 e 289 do TST."
   - pergunta: "O adicional de insalubridade entra nas férias, no 13º e no FGTS?"
     resposta: "Entra. Enquanto é pago, o adicional faz parte da remuneração para todos os efeitos legais (Súmula 139 do TST), e por isso reflete em férias com 1/3, 13º, FGTS e na base das horas extras."
+  - pergunta: "O adicional de insalubridade é verba salarial ou indenizatória?"
+    resposta: "Salarial. Enquanto é pago, o adicional integra a remuneração para todos os efeitos legais (Súmula 139 do TST). Por isso entra nas férias, no 13º, no FGTS, nas horas extras e nas verbas da rescisão."
   - pergunta: "Grávida pode trabalhar em local insalubre?"
     resposta: "Não. A grávida deve ser afastada de atividades insalubres, sem perder a remuneração, inclusive o adicional (CLT, artigo 394-A). Em 2019, o STF derrubou a exigência de atestado médico para o afastamento nos graus médio e mínimo."
 fontes:
   - nome: "CLT, artigos 189 a 196 e 394-A, texto atualizado (Câmara dos Deputados)"
     url: "https://www2.camara.leg.br/legin/fed/declei/1940-1949/decreto-lei-5452-1-maio-1943-415500-normaatualizada-pe.html"
+  - nome: "Ministério do Trabalho: Norma Regulamentadora nº 15 (NR-15) e anexos"
+    url: "https://www.gov.br/trabalho-e-emprego/pt-br/acesso-a-informacao/participacao-social/conselhos-e-orgaos-colegiados/comissao-tripartite-partitaria-permanente/normas-regulamentadora/normas-regulamentadoras-vigentes/norma-regulamentadora-no-15-nr-15"
+  - nome: "NR-15, Anexo 14: agentes biológicos (hospitais, lixo urbano, esgotos), Ministério do Trabalho"
+    url: "https://www.gov.br/trabalho-e-emprego/pt-br/acesso-a-informacao/participacao-social/conselhos-e-orgaos-colegiados/comissao-tripartite-partitaria-permanente/arquivos/normas-regulamentadoras/nr-15-anexo-14.pdf"
   - nome: "STF: ministro anula parte da Súmula 228 do TST sobre a base de cálculo do adicional de insalubridade"
     url: "https://portal.stf.jus.br/noticias/verNoticiaDetalhe.asp?idConteudo=375438"
   - nome: "TST: afastada a cumulação dos adicionais de insalubridade e de periculosidade (2019)"
@@ -45,9 +51,23 @@ A CLT manda calcular sobre o **salário mínimo** (artigo 192). Em 2008, o TST m
 
 ## Quem tem direito ao adicional de insalubridade?
 
-Quem trabalha com carteira em atividade que exponha a **agentes nocivos acima dos limites de tolerância** fixados pelo Ministério do Trabalho, que considera a natureza e a intensidade do agente e o tempo de exposição (CLT, artigos 189 e 190). A lista de atividades e os limites estão na **Norma Regulamentadora 15 (NR-15)**. Exemplos comuns de agentes: ruído, calor, frio, umidade, poeiras, produtos químicos e agentes biológicos, como no contato com pacientes ou lixo.
+Quem trabalha com carteira em atividade que exponha a **agentes nocivos acima dos limites de tolerância** fixados pelo Ministério do Trabalho, que considera a natureza e a intensidade do agente e o tempo de exposição (CLT, artigos 189 e 190). A lista de atividades e os limites estão na **[Norma Regulamentadora 15 (NR-15)](https://www.gov.br/trabalho-e-emprego/pt-br/acesso-a-informacao/participacao-social/conselhos-e-orgaos-colegiados/comissao-tripartite-partitaria-permanente/normas-regulamentadora/normas-regulamentadoras-vigentes/norma-regulamentadora-no-15-nr-15)**, do Ministério do Trabalho, dividida em anexos por agente (ruído, calor, químicos, biológicos e outros). Exemplos comuns de agentes: ruído, calor, frio, umidade, poeiras, produtos químicos e agentes biológicos, como no contato com pacientes ou lixo.
 
 O grau (máximo, médio ou mínimo) depende do agente e da exposição, conforme a NR-15. O nome do cargo, sozinho, não garante o adicional: o que conta é a condição real de trabalho.
+
+### Enfermagem, hospital e coleta de lixo: qual o grau?
+
+Para os **agentes biológicos**, a NR-15 traz a lista pronta, sem medição ([Anexo 14](https://www.gov.br/trabalho-e-emprego/pt-br/acesso-a-informacao/participacao-social/conselhos-e-orgaos-colegiados/comissao-tripartite-partitaria-permanente/arquivos/normas-regulamentadoras/nr-15-anexo-14.pdf)):
+
+| atividade, com contato permanente | grau |
+| --- | --- |
+| pacientes em **isolamento** por doenças infectocontagiosas e objetos de uso deles não esterilizados | máximo (40%) |
+| **esgotos** (galerias e tanques) | máximo (40%) |
+| **lixo urbano** (coleta e industrialização) | máximo (40%) |
+| pacientes em **hospitais**, emergências, enfermarias, ambulatórios e postos de vacinação (só para quem tem contato com os pacientes ou com objetos de uso deles não esterilizados) | médio (20%) |
+| laboratórios de análises clínicas (pessoal técnico), clínicas veterinárias, exumação em cemitérios | médio (20%) |
+
+Pela lista, a **enfermagem** em contato permanente com pacientes se enquadra no grau **médio**; o grau **máximo** é para o contato permanente com pacientes em isolamento por doença infectocontagiosa. Quem trabalha no hospital sem contato com pacientes, como na administração, não se enquadra nessa regra.
 
 ## Como é feita a perícia de insalubridade?
 
@@ -69,7 +89,7 @@ Não. Em 2019, o TST decidiu, em recurso repetitivo, que os adicionais de insalu
 
 ## O adicional entra nas férias, no 13º e nas horas extras?
 
-Entra. Enquanto é pago, o adicional de insalubridade **integra a remuneração para todos os efeitos legais** (Súmula 139 do TST): conta nas [férias com 1/3](/artigos/como-calcular-ferias), no 13º, no FGTS e na base de cálculo das [horas extras](/artigos/horas-extras-banco-de-horas). Se a insalubridade for eliminada, o adicional deixa de ser pago (CLT, artigo 194).
+Entra. O adicional tem **natureza salarial**: enquanto é pago, ele **integra a remuneração para todos os efeitos legais** (Súmula 139 do TST) e conta nas verbas da rescisão, nas [férias com 1/3](/artigos/como-calcular-ferias), no 13º, no FGTS e na base de cálculo das [horas extras](/artigos/horas-extras-banco-de-horas). Se a insalubridade for eliminada, o adicional deixa de ser pago (CLT, artigo 194).
 
 ## Grávidas e lactantes em local insalubre
 
