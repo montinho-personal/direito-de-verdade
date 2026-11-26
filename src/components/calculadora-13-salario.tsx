@@ -1,14 +1,14 @@
 "use client";
 
 import Link from "next/link";
-import { useId } from "react";
+import { useId, useRef } from "react";
 import {
   lerFormulario13,
   mudarFormulario13,
   NOMES_DOS_MESES,
   useFormulario13,
 } from "@/components/decimo/formulario";
-import { Campo, Compartilhar, Escolha, Linha } from "@/components/partes-da-calculadora";
+import { Campo, Compartilhar, Escolha, Linha, useAbrirSeTiverErro } from "@/components/partes-da-calculadora";
 import { percentualPorMil, reais } from "@/lib/dinheiro";
 import { formatarData, lerData } from "@/lib/trabalhista/datas.ts";
 import { calcular13, type ResultadoDo13 } from "@/lib/trabalhista/decimo-terceiro.ts";
@@ -28,6 +28,8 @@ const data = (texto: string) => formatarData(lerData(texto)!);
 // 13º salário de quem tem carteira assinada e recebe por mês, com as regras de 2026
 export function Calculadora13Salario({ nivelDoTitulo = 3 }: { nivelDoTitulo?: 2 | 3 }) {
   const id = useId();
+  const detalhes = useRef<HTMLDetailsElement>(null);
+  useAbrirSeTiverErro(detalhes);
   const Titulo = nivelDoTitulo === 2 ? "h2" : "h3";
   const f = useFormulario13();
   const { entrada, erros } = lerFormulario13(f);
@@ -98,7 +100,7 @@ export function Calculadora13Salario({ nivelDoTitulo = 3 }: { nivelDoTitulo?: 2 
         />
       </div>
 
-      <details className="group mt-4 rounded-xl border border-border bg-white">
+      <details ref={detalhes} className="group mt-4 rounded-xl border border-border bg-white">
         <summary className="flex min-h-11 cursor-pointer items-center justify-between gap-3 px-4 py-3 text-sm font-medium [&::-webkit-details-marker]:hidden">
           Quero calcular com mais detalhes
           <span aria-hidden="true" className="text-muted transition-transform group-open:rotate-180 motion-reduce:transition-none">
@@ -238,7 +240,9 @@ export function Calculadora13Salario({ nivelDoTitulo = 3 }: { nivelDoTitulo?: 2 
           <Resultado r={r} />
         ) : (
           <p className="rounded-xl border border-dashed border-border bg-white px-4 py-5 text-sm text-muted">
-            Digite o seu salário bruto para ver o 13º de 2026.
+            {(Object.keys(erros).length || errosDoMotor.length) && f.salario
+              ? "Corrija o campo marcado em vermelho para ver o 13º (confira também os detalhes)."
+              : "Digite o seu salário bruto para ver o 13º de 2026."}
           </p>
         )}
         <p aria-live="polite" className="sr-only">
@@ -292,7 +296,7 @@ function Resultado({ r }: { r: ResultadoDo13 }) {
           <p className="text-xs font-semibold uppercase tracking-wider text-muted">
             Seu 13º salário líquido estimado
           </p>
-          <p className="mt-1 font-serif text-4xl tabular-nums sm:text-5xl">{reais(r.totalLiquido)}</p>
+          <p className="mt-1 font-serif text-3xl tabular-nums [overflow-wrap:anywhere] min-[400px]:text-4xl sm:text-5xl">{reais(r.totalLiquido)}</p>
           <p className="mt-1 text-sm text-muted">
             {r.avos === 12 ? "O ano todo" : `${r.avos}/12 avos`}, de um 13º bruto de {reais(r.bruto)}.
           </p>

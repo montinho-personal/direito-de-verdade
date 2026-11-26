@@ -601,7 +601,7 @@ function Resultado({
       <div className="rounded-xl border border-border bg-white">
         <div className="px-4 pb-4 pt-5">
           <p className="text-sm text-muted">Suas horas extras valem aproximadamente</p>
-          <p className="mt-1 font-serif text-4xl tabular-nums sm:text-5xl">{reais(r.total)}</p>
+          <p className="mt-1 font-serif text-3xl tabular-nums [overflow-wrap:anywhere] min-[400px]:text-4xl sm:text-5xl">{reais(r.total)}</p>
           <p className="mt-1 text-sm text-muted">
             Valor bruto de {formatarHoras(r.minutosTotais)} em {mesAno}
             {r.dsr ? ", com o DSR" : ""}, antes do INSS e do imposto de renda.

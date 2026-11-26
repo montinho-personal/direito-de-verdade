@@ -10,6 +10,8 @@ export function lerData(texto: string): Data | null {
   const partes = /^(\d{4})-(\d{2})-(\d{2})$/.exec(texto);
   if (!partes) return null;
   const [ano, mes, dia] = partes.slice(1).map(Number);
+  // Antes de 1900 não é data de contrato (e o Date.UTC trata os anos 0 a 99 como 1900 a 1999)
+  if (ano < 1900) return null;
   if (mes < 1 || mes > 12 || dia < 1 || dia > diasDoMes(ano, mes)) return null;
   return { ano, mes, dia };
 }

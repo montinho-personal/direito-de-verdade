@@ -66,6 +66,14 @@ R$ 5.358,49, imposto pela tabela R$ 564,85, redução 978,62 − 0,133145 ×
 - **Pensão alimentícia na calculadora:** fica de fora até o artigo "Pensão
   alimentícia incide sobre o 13º?" (pauta de novembro).
 
+### Auditoria de 26/11/2026: não corrigido (baixo ou interpretação)
+
+- Pensão maior que o 13º: o aviso aparece só abaixo do resultado, não no campo.
+- Erro de "meses descontados" aparece só no campo de faltas, mesmo quando quem passa do limite é o do INSS.
+- Faltas e afastamento na 1ª parcela proporcional: o motor não sabe o mês da falta (interpretação; o total não muda).
+- Rótulo "1ª parcela, até 30/11" mesmo com outro mês escolhido; prazo do acerto em 10/01/2027 (domingo) sem regra de antecipação lida.
+- Comparador: novo salário igual a zero não mostra mensagem.
+
 ## Decisões
 
 - **Seção própria, `/calculadoras/13-salario`** (pedido do Renato em

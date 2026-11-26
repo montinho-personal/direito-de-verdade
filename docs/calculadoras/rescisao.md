@@ -41,6 +41,14 @@ o motor `src/lib/trabalhista/rescisao.ts`.
 - **Contrato temporário (Lei 6.019/1974):** regras não pesquisadas; só a
   menção.
 
+### Auditoria de 26/11/2026: não corrigido (baixo ou decisão)
+
+- `Escolha` (listas) não marca `aria-invalid` quando há erro (ex.: férias vencidas demais); a mensagem é lida pelo `aria-describedby`.
+- `data-track="artigo:ferramenta-inline"` também nas páginas de calculadora: decisão de medição do Renato antes de mudar.
+- Férias vencidas com padrão "Nenhum": quem nunca tirou férias e não mexe no campo fica sem o período (decisão de produto).
+- Aviso trabalhado na demissão com mais de 30 dias e dobra das férias pela data de saída: interpretações já registradas acima.
+- `aria-live` lê o líquido a cada tecla.
+
 ## Decisões
 
 - **Título** "Calculadora rescisão CLT 2026: com FGTS e multa de 40%":

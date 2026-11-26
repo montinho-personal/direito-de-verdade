@@ -93,3 +93,16 @@ test("datas: anos bissextos e virada de mês", () => {
   assert.equal(anosCompletos(lerData("2023-10-20"), lerData("2026-10-19")), 2);
   assert.equal(anosCompletos(lerData("2023-10-20"), lerData("2026-10-20")), 3);
 });
+
+test("auditoria de 26/11/2026: datas e valores digitados", async () => {
+  const { lerData } = await import("../src/lib/trabalhista/datas.ts");
+  const { lerReais } = await import("../src/lib/dinheiro.ts");
+  // Ano de 0 a 99 virava 1900 a 1999 no Date.UTC; antes de 1900 não é data de contrato
+  assert.equal(lerData("0020-01-01"), null);
+  assert.equal(lerData("1899-12-31"), null);
+  assert.deepEqual(lerData("1900-01-01"), { ano: 1900, mes: 1, dia: 1 });
+  // Vírgula no fim enquanto a pessoa digita os centavos não é erro; ",5" é R$ 0,50
+  assert.deepEqual(lerReais("1621,"), { tipo: "valido", centavos: 162100 });
+  assert.deepEqual(lerReais(",5"), { tipo: "valido", centavos: 50 });
+  assert.equal(lerReais("1,2,3").tipo, "invalido");
+});

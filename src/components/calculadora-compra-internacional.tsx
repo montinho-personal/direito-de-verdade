@@ -138,7 +138,7 @@ function Resultado({ r, endereco }: { r: ResultadoDaImportacao; endereco: string
       <div className="rounded-xl border border-border bg-white">
         <div className="px-4 pb-4 pt-5">
           <p className="text-xs font-semibold uppercase tracking-wider text-muted">Impostos da compra</p>
-          <p className="mt-1 font-serif text-4xl tabular-nums sm:text-5xl">{reais(r.impostos)}</p>
+          <p className="mt-1 font-serif text-3xl tabular-nums [overflow-wrap:anywhere] min-[400px]:text-4xl sm:text-5xl">{reais(r.impostos)}</p>
           <p className="mt-1 text-sm text-muted">
             Compra de {dolares(r.valorEmCentavosDeDolar)}: {nomeDaFaixa}.
           </p>

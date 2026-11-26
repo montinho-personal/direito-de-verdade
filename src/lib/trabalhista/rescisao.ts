@@ -165,7 +165,7 @@ export function calcularRescisao(
     erros.push({ campo: "saida", mensagem: "A saída não pode ser antes da admissão." });
   }
   if (admissao && saida && saida.ano - admissao.ano > 60) {
-    erros.push({ campo: "admissao", mensagem: "Confira o ano da admissão." });
+    erros.push({ campo: "admissao", mensagem: "Confira os anos da admissão e da saída: o contrato passaria de 60 anos." });
   }
   const vencidas = Math.floor(entrada.feriasVencidas ?? 0);
   if (admissao && saida && compararDatas(saida, admissao) >= 0) {

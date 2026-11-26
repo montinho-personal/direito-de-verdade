@@ -12,7 +12,9 @@ export type LeituraDeValor =
 
 // Aceita "2.500,50", "2500,50", "2500.50", "R$ 2.500" e "2500"
 export function lerReais(texto: string): LeituraDeValor {
-  const limpo = texto.replace(/R\$|\s/g, "");
+  // Vírgula ou ponto no fim (a pessoa ainda vai digitar os centavos) e ",5" valem
+  let limpo = texto.replace(/R\$|\s/g, "").replace(/[.,]$/, "");
+  if (/^[.,]\d/.test(limpo)) limpo = "0" + limpo;
   if (!limpo) return { tipo: "vazio" };
   if (!/^[\d.,]+$/.test(limpo)) {
     return { tipo: "invalido", mensagem: "Use só números, com vírgula para os centavos." };

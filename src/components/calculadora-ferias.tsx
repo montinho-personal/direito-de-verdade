@@ -357,7 +357,7 @@ function Resultado({
           <p className="text-xs font-semibold uppercase tracking-wider text-muted">
             Valor líquido estimado das férias
           </p>
-          <p className="mt-1 font-serif text-4xl tabular-nums sm:text-5xl">{reais(r.liquido)}</p>
+          <p className="mt-1 font-serif text-3xl tabular-nums [overflow-wrap:anywhere] min-[400px]:text-4xl sm:text-5xl">{reais(r.liquido)}</p>
           <p className="mt-1 text-sm text-muted">
             {r.diasDeDescanso} dias de descanso
             {r.diasVendidos ? ` e ${r.diasVendidos} vendidos` : ""}

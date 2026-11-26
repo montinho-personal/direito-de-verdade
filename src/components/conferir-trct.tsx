@@ -81,6 +81,8 @@ export function ConferirTrct({ nivelDoTitulo = 3 }: { nivelDoTitulo?: 2 | 3 }) {
       })
     : [];
   const comparadas = linhas.filter((l) => l.empresa !== null);
+  // Campo com erro: não dá para dizer que os valores conferem (auditoria de 26/11/2026)
+  const comErro = linhas.filter((l) => l.leitura.tipo === "invalido").length;
   const divergentes = comparadas.filter((l) => Math.abs((l.empresa ?? 0) - l.estimado) > TOLERANCIA);
 
   return (
@@ -188,6 +190,11 @@ export function ConferirTrct({ nivelDoTitulo = 3 }: { nivelDoTitulo?: 2 | 3 }) {
                       Defensoria Pública podem conferir o termo com você.
                     </p>
                   </div>
+                ) : comErro ? (
+                  <p className="rounded-xl border border-border bg-white px-4 py-4 text-sm leading-6">
+                    Corrija {comErro === 1 ? "o campo marcado com erro" : `os ${comErro} campos marcados com erro`}{" "}
+                    para terminar a conferência.
+                  </p>
                 ) : (
                   <p className="rounded-xl border border-border bg-white px-4 py-4 text-sm leading-6">
                     Os valores que você copiou batem com a estimativa (diferença de até R$ 1
@@ -204,7 +211,9 @@ export function ConferirTrct({ nivelDoTitulo = 3 }: { nivelDoTitulo?: 2 | 3 }) {
               {comparadas.length
                 ? divergentes.length
                   ? `${divergentes.length} diferença(s) em relação à estimativa.`
-                  : "Os valores conferem com a estimativa."
+                  : comErro
+                    ? "Há campos com erro na conferência."
+                    : "Os valores conferem com a estimativa."
                 : ""}
             </p>
           </div>

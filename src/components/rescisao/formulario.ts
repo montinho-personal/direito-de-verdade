@@ -86,20 +86,36 @@ export function lerFormulario(f: Formulario): {
     if (leitura.tipo === "invalido") erros[campo] = leitura.mensagem;
     return leitura.tipo === "valido" ? leitura.centavos : undefined;
   };
+  // Só valida o campo que está na tela; o escondido não pode bloquear o cálculo sem
+  // mostrar a mensagem (auditoria de 26/11/2026). O FGTS informado vale mesmo com o
+  // campo escondido, para o comparador usar o mesmo valor nos quatro motivos.
+  const multa = f.motivo === "sem-justa-causa" || f.motivo === "acordo";
+  const semErro = (texto: string) => {
+    const leitura = lerReais(texto);
+    return leitura.tipo === "valido" ? leitura.centavos : undefined;
+  };
   const salario = reaisOuNada("salario", f.salario);
-  const fgts = reaisOuNada("fgts", f.fgts);
+  const fgts = multa ? reaisOuNada("fgts", f.fgts) : semErro(f.fgts);
   const media = reaisOuNada("mediaVariaveis", f.mediaVariaveis);
   const adiantamento = reaisOuNada("adiantamento13", f.adiantamento13);
   const outros = reaisOuNada("outrosDescontos", f.outrosDescontos);
-  const saldoAtual = reaisOuNada("saldoAtualDoFgts", f.saldoAtualDoFgts);
+  const saldoAtual =
+    f.motivo === "sem-justa-causa" ? reaisOuNada("saldoAtualDoFgts", f.saldoAtualDoFgts) : undefined;
   const dependentes = lerQuantidade(f.dependentes, 20);
   if (dependentes.tipo === "invalido") erros.dependentes = dependentes.mensagem;
-  const dias = lerQuantidade(f.diasCumpridos, 29);
-  if (dias.tipo === "invalido") erros.diasCumpridos = dias.mensagem;
+  const parcial = f.motivo === "pedido" && f.avisoPedido === "parcial";
+  const dias = parcial ? lerQuantidade(f.diasCumpridos, 29) : ({ tipo: "valido", quantidade: 0 } as const);
+  if (dias.tipo === "invalido") {
+    erros.diasCumpridos = /^\d+$/.test(f.diasCumpridos.trim())
+      ? 'Se cumpriu os 30 dias, escolha "Cumpri os 30 dias".'
+      : dias.mensagem;
+  }
+  if (f.admissao && f.admissao > new Date().toISOString().slice(0, 10)) {
+    erros.admissao = "A admissão não pode ser numa data futura.";
+  }
 
   const aviso: Aviso | undefined =
     f.motivo === "pedido" ? f.avisoPedido : f.motivo === "justa-causa" ? undefined : f.avisoEmpresa;
-  const multa = f.motivo === "sem-justa-causa" || f.motivo === "acordo";
   if (!f.salario || !f.admissao || !f.saida || Object.keys(erros).length) {
     return { entrada: null, erros };
   }
@@ -112,7 +128,7 @@ export function lerFormulario(f: Formulario): {
       aviso,
       diasDeAvisoCumpridos: dias.tipo === "valido" ? dias.quantidade : 0,
       feriasVencidas: Number(f.feriasVencidas),
-      fgtsParaFinsRescisorios: multa ? fgts : undefined,
+      fgtsParaFinsRescisorios: fgts,
       mediaVariaveis: media,
       adiantamento13: adiantamento,
       outrosDescontos: outros,

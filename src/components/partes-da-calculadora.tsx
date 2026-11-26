@@ -1,8 +1,17 @@
 // Peças de formulário e de resultado usadas pelas calculadoras de imposto de renda,
 // salário e rescisão.
 import Link from "next/link";
-import { type ReactNode, useState } from "react";
+import { type ReactNode, type RefObject, useEffect, useState } from "react";
 import { PARAMETROS_2026 } from "@/lib/tributos/parametros-2026.ts";
+
+// Abre um <details> quando ele esconde um campo com erro, para a mensagem não ficar
+// invisível (auditoria das ferramentas de 26/11/2026)
+export function useAbrirSeTiverErro(ref: RefObject<HTMLDetailsElement | null>) {
+  useEffect(() => {
+    const d = ref.current;
+    if (d && !d.open && d.querySelector('[aria-invalid="true"]')) d.open = true;
+  });
+}
 
 export const estiloDoCampo =
   "mt-1.5 w-full rounded-lg border border-border bg-white px-3 py-2.5 text-base text-foreground focus:border-gold focus:outline-none focus:ring-2 focus:ring-gold/40 aria-[invalid=true]:border-red-700";
@@ -15,7 +24,7 @@ export function Campo({
   id,
   rotulo,
   dica,
-  erro,
+  erro: erroRecebido,
   valor,
   aoMudar,
   modo = "decimal",
@@ -32,6 +41,14 @@ export function Campo({
   tipo?: "text" | "date";
   exemplo?: string;
 }) {
+  // Data digitada pela metade ou impossível: o navegador devolve valor vazio e marca
+  // badInput; sem isto, a calculadora seguia como se não houvesse data
+  const [dataInvalida, setDataInvalida] = useState(false);
+  const verificarData = (evento: { currentTarget: HTMLInputElement }) => {
+    if (tipo === "date") setDataInvalida(evento.currentTarget.validity.badInput);
+  };
+  const erro =
+    erroRecebido ?? (dataInvalida && !valor ? "Data incompleta ou impossível. Confira dia, mês e ano." : undefined);
   const descricao = [dica ? `${id}-dica` : null, erro ? `${id}-erro` : null]
     .filter(Boolean)
     .join(" ");
@@ -47,7 +64,12 @@ export function Campo({
         autoComplete="off"
         placeholder={exemplo}
         value={valor}
-        onChange={(evento) => aoMudar(evento.target.value)}
+        onChange={(evento) => {
+          verificarData(evento);
+          aoMudar(evento.target.value);
+        }}
+        onInput={verificarData}
+        onBlur={verificarData}
         aria-invalid={erro ? true : undefined}
         aria-describedby={descricao || undefined}
         className={estiloDoCampo}

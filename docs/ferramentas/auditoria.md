@@ -43,8 +43,8 @@ não vira correção: vira "Pendente" no doc da calculadora e aviso ao Renato.
 
 | ordem | ferramenta | onde aparece (testar em todas) | especialista | última auditoria |
 | --- | --- | --- | --- | --- |
-| 1 | calculadora-rescisao | /calculadoras/rescisao, /artigos/demissao-sem-justa-causa, /artigos/rescisao-indireta e mais 3 | trabalhista | — |
-| 2 | calculadora-13-salario | /calculadoras/13-salario, /artigos/13-salario | trabalhista | — |
+| 1 | calculadora-rescisao | /calculadoras/rescisao, /artigos/demissao-sem-justa-causa, /artigos/rescisao-indireta e mais 3 | trabalhista | 26/11/2026 |
+| 2 | calculadora-13-salario | /calculadoras/13-salario, /artigos/13-salario | trabalhista | 26/11/2026 |
 | 3 | calculadora-ir-salario | /calculadoras/imposto-de-renda, /artigos/isencao-imposto-de-renda-5-mil e mais 1 | tributário | — |
 | 4 | calculadora-ferias | /calculadoras/ferias, /artigos/como-calcular-ferias, /artigos/faltas-justificadas | trabalhista | — |
 | 5 | calculadora-fgts | /calculadoras/fgts e mais 4 artigos | trabalhista | — |
@@ -74,3 +74,6 @@ A lista completa de páginas de cada ferramenta sai de
 
 | data | ferramenta | casos conferidos | erros achados | corrigido em |
 | --- | --- | --- | --- | --- |
+| 26/11/2026 | calculadora-rescisao | perito trabalhista: 11 casos à mão (sem justa causa com Lei 12.506, pedido, justa causa com férias em dobro, acordo, teto do INSS e IR alto, dia 14 x 15, exemplo da página e do artigo), todos batem centavo a centavo; tabelas de INSS e IRRF 2026 conferidas no gov.br. QA: 6 páginas, computador e celular, valores extremos | **contas: nenhum erro.** Uso: campo escondido (FGTS, saldo, dias de aviso) bloqueava o resultado sem mensagem; comparador ignorava o FGTS informado no pedido e na justa causa; data impossível sem aviso; ano 0020 virava 1920; admissão no futuro aceita; número grande vazava no celular estreito; TRCT dizia "conferem" com campo inválido; "1621," piscava erro; mensagem de dias e de anos; linha "Descontos R$ 0,00"; texto do IR ("isenção" acima de R$ 7.350); exemplo do artigo ("saldo" do FGTS) | 8a9d17b e o commit seguinte |
+| 26/11/2026 | calculadora-13-salario | perito trabalhista: 17 casos à mão (ano todo, admissão 14/02 x 15/02, faltas, mínimo, faixas e teto, dependentes, média, limite de R$ 5.000,01, saída no ano, reajuste, variáveis mês a mês); tabelas e exemplos da página e do artigo conferidos. QA: 2 páginas, computador e celular | **conta: 1ª parcela com variáveis mês a mês usava a média até novembro em vez da média até o mês anterior ao pagamento** (art. 78, § 1º; R$ 1.636,37 → R$ 1.750,00 com a 1ª em julho; o total não muda); a referência em Python tinha o mesmo erro e foi corrigida. Uso: reajuste desfeito sumia com o resultado; memória contraditória na saída no ano; "sai da 2ª parcela" na rescisão; 1ª parcela informada maior que o 13º sem alerta; "− R$ 0,00" em vez de "Isento"; comparador com salário menor falava em "aumento"; caixa de seleção pequena no celular | 8a9d17b e o commit seguinte |
+

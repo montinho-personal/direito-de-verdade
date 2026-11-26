@@ -1,8 +1,8 @@
 "use client";
 
 import Link from "next/link";
-import { useEffect, useId } from "react";
-import { Campo, Compartilhar, Escolha, Linha } from "@/components/partes-da-calculadora";
+import { useEffect, useId, useRef } from "react";
+import { Campo, Compartilhar, Escolha, Linha, useAbrirSeTiverErro } from "@/components/partes-da-calculadora";
 import { descreverDesconto, descreverVerba, resumoEmTexto } from "@/components/rescisao/descricao";
 import {
   definirMotivoInicial,
@@ -50,6 +50,8 @@ export function CalculadoraRescisao({ nivelDoTitulo = 3 }: { nivelDoTitulo?: 2 |
   const id = useId();
   const Titulo = nivelDoTitulo === 2 ? "h2" : "h3";
   const f = useFormulario();
+  const detalhes = useRef<HTMLDetailsElement>(null);
+  useAbrirSeTiverErro(detalhes);
   const { entrada, erros } = lerFormulario(f);
   const calculo = entrada ? calcularRescisao(entrada) : null;
   const errosDoMotor = calculo && !calculo.ok ? calculo.erros : [];
@@ -170,7 +172,7 @@ export function CalculadoraRescisao({ nivelDoTitulo = 3 }: { nivelDoTitulo?: 2 |
         )}
       </div>
 
-      <details className="group mt-4 rounded-xl border border-border bg-white">
+      <details ref={detalhes} className="group mt-4 rounded-xl border border-border bg-white">
         <summary className="flex min-h-11 cursor-pointer items-center justify-between gap-3 px-4 py-3 text-sm font-medium [&::-webkit-details-marker]:hidden">
           Quero fazer um cálculo mais detalhado
           <span aria-hidden="true" className="text-muted transition-transform group-open:rotate-180 motion-reduce:transition-none">
@@ -249,7 +251,9 @@ export function CalculadoraRescisao({ nivelDoTitulo = 3 }: { nivelDoTitulo?: 2 |
           <Resultado r={resultado} />
         ) : (
           <p className="rounded-xl border border-dashed border-border bg-white px-4 py-5 text-sm text-muted">
-            Preencha o salário e as datas para ver a sua rescisão.
+            {Object.keys(erros).length || errosDoMotor.length
+              ? "Corrija o campo marcado em vermelho para ver a sua rescisão (confira também o cálculo mais detalhado)."
+              : "Preencha o salário e as datas para ver a sua rescisão."}
           </p>
         )}
         <p aria-live="polite" className="sr-only">
@@ -290,7 +294,7 @@ function Resultado({ r }: { r: ResultadoDaRescisao }) {
           <p className="text-xs font-semibold uppercase tracking-wider text-muted">
             Quanto você deve receber de rescisão?
           </p>
-          <p className="mt-1 font-serif text-4xl tabular-nums sm:text-5xl">{reais(r.liquido)}</p>
+          <p className="mt-1 font-serif text-3xl tabular-nums [overflow-wrap:anywhere] min-[400px]:text-4xl sm:text-5xl">{reais(r.liquido)}</p>
           <p className="mt-1 text-sm text-muted">
             Valor líquido estimado a ser pago pela empresa até{" "}
             <strong className="text-foreground">{formatarData(r.datas.prazoDePagamento)}</strong>.
@@ -298,7 +302,7 @@ function Resultado({ r }: { r: ResultadoDaRescisao }) {
         </div>
         <dl className="divide-y divide-border border-t border-border text-sm sm:text-base">
           <Linha nome="Total das verbas" valor={reais(r.bruto)} />
-          <Linha nome="Descontos" valor={`− ${reais(r.totalDeDescontos)}`} />
+          {r.totalDeDescontos > 0 && <Linha nome="Descontos" valor={`− ${reais(r.totalDeDescontos)}`} />}
           <Linha nome="Líquido a receber da empresa" valor={reais(r.liquido)} destaque />
         </dl>
         {r.descontoQueSobrou > 0 && (

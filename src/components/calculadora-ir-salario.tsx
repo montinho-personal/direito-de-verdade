@@ -156,7 +156,7 @@ function Resultado({
           <p className="text-xs font-semibold uppercase tracking-wider text-muted">
             Seu salário líquido estimado
           </p>
-          <p className="mt-1 font-serif text-4xl tabular-nums sm:text-5xl">{reais(r.liquido)}</p>
+          <p className="mt-1 font-serif text-3xl tabular-nums [overflow-wrap:anywhere] min-[400px]:text-4xl sm:text-5xl">{reais(r.liquido)}</p>
           <p className="mt-1 text-sm text-muted">
             por mês, depois do INSS{r.pensaoAlimenticia > 0 ? ", do imposto de renda e da pensão" : " e do imposto de renda"}
           </p>
