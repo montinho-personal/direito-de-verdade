@@ -232,6 +232,16 @@ publicado: `BASE=https://direitodeverdade.com.br node scripts/verificar-site.mjs
 Na resposta ao Renato, dizer o que foi testado e o resultado (inclusive o que falhou e como
 foi corrigido).
 
+## Auditoria diária das ferramentas (regra do Renato, 26/11/2026)
+
+Todo dia, **2 ferramentas** (calculadoras, simuladores, comparadores e conferidores), na
+ordem da fila de `docs/ferramentas/auditoria.md`, com o roteiro de lá: navegador, botões e
+campos, celular, testes automatizados, **contas conferidas à mão por especialistas da área
+contra a lei e as tabelas oficiais**, correção de cada erro (com teste novo antes da
+correção) e testes repetidos até tudo passar. Cada ferramenta tem dois especialistas
+independentes (o da área e um engenheiro de qualidade); nenhum achado é corrigido sem
+conferência na fonte oficial. Resultado no registro do mesmo arquivo e no resumo ao Renato.
+
 ## Ritmo
 
 Artigos novos um de cada vez: um publicado e conferido no ar antes do
