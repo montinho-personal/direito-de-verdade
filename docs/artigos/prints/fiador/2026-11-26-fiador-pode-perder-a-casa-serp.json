@@ -1,0 +1,87 @@
+{
+  "busca": "fiador pode perder a casa",
+  "pesquisadaEm": "2026-11-26",
+  "origem": "SerpApi: Google Brasil (google.com.br), celular, São Paulo, pt-BR, sem personalização",
+  "autocompletar": [
+    "fiador pode perder o imóvel",
+    "fiador pode perder o imovel"
+  ],
+  "asPessoasTambemPerguntam": [
+    "Precisa ter imóvel quitado para ser fiador?",
+    "Quais as novas regras para aluguel em 2026?",
+    "O que vem depois da penhora do imóvel?",
+    "O que diz o artigo 51 da Lei do inquilinato?"
+  ],
+  "outrasPessoasPesquisaram": [],
+  "visaoDeIA": {
+    "texto": "Sim, o fiador pode perder a própria casa — inclusive se for o único imóvel e servir de moradia (bem de família) — quando a fiança é dada em contrato de locação.\nQuando o imóvel pode ser penhorado\n  - Contrato de aluguel (residencial ou comercial): A Lei nº 8.009/1990 (art. 3º, VII) prevê exceção à proteção do bem de família em fiança locatícia. O STF (Temas 295 e 1.127) e o STJ (Súmula 549 e Tema 1.091) confirmaram a validade da penhora tanto em locações residenciais quanto comerciais.\n  - Outras dívidas (empréstimo, financiamento, etc.): Em regra, a exceção legal vale apenas para contratos de locação. Nesses outros casos, o bem de família costuma manter sua proteção contra a penhora, respondendo outros bens penhoráveis.\nO que pode ser cobrado na locação\nSe o inquilino não pagar, o fiador pode responder por aluguéis atrasados, encargos (como condomínio e IPTU), multas e danos ao imóvel, conforme o contrato, geralmente até a entrega das chaves. Se o fiador pagar a dívida, pode cobrar o valor do inquilino na Justiça.\nQuando a penhora pode ser contestada\nA penhora não é automática se houver falhas formais ou jurídicas, como:\n  - Falta de fiança escrita e válida.\n  - Falta de assinatura/autorização do cônjuge quando exigida pelo regime de bens.\n  - Cobrança de dívida fora do escopo ou do período coberto pela fiança.\n  - Imóvel que não pertence ao fiador ou irregularidades no processo de execução.\nPara detalhes oficiais sobre o entendimento dos tribunais superiores, veja a decisão do STJ sobre o Bem de família do fiador em locação comercial ou residencial.\nSe quiser, me informe:\n  - Se o caso envolve contrato de aluguel ou outro tipo de dívida\n  - Se já existe cobrança judicial ou ameaça de penhora\n  - Se o fiador é casado ou o imóvel tem outros coproprietários\nCom esses dados, posso apontar os pontos de atenção mais relevantes para o cenário.",
+    "fontes": [
+      "Instagram",
+      "Rocha Advogados Associados",
+      "Superior Tribunal de Justiça",
+      "YouTube"
+    ]
+  },
+  "videos": [
+    {
+      "titulo": "Sou fiador, posso perder meu imóvel?",
+      "canal": "Professor Júlio César Sanchez"
+    },
+    {
+      "titulo": "Quem assina como fiador de aluguel pode perder a casa onde mora. O inquilino, não. ...",
+      "canal": "Souza Freitas Advogados"
+    },
+    {
+      "titulo": "Quem é fiador pode perder o único imóvel da família? Nesse tema há muita dúvida e ...",
+      "canal": "Fábio Hanada"
+    },
+    {
+      "titulo": "Você pode perder seu imóvel por uma dívida que não é sua? Essa é uma das principais ...",
+      "canal": "Vieira Tavares Advogados"
+    }
+  ],
+  "organicos": [
+    {
+      "posicao": 1,
+      "titulo": "O imóvel residencial do fiador em contrato de locação, pode ser penhorado?",
+      "endereco": "https://monacciadvogados.com.br/publicacoes/imovel-residencial-do-fiador-em-contrato",
+      "trecho": "Ou seja, se o fiador deu o imóvel como garantia em contrato de locação, seja residencial, seja comercial, será válida a penhora. Com esse ..."
+    },
+    {
+      "posicao": 2,
+      "titulo": "SEIZURE OF THE GUARANTOR'S FAMILY HOME - Business Law",
+      "endereco": "https://www.youtube.com/watch?v=xbaUiIjJ3Us",
+      "trecho": "Pode penhorar o bem de família do fiador em um contrato de aluguel comercial? Mesmo sendo o único imóvel e utilizado para moradia?"
+    },
+    {
+      "posicao": 3,
+      "titulo": "Fiador pode perder único bem.",
+      "endereco": "https://abadi.com.br/fiador-pode-perder-unico-bem/",
+      "trecho": "Fiador pode perder único bem. ... Se achar um fiador já era difícil, uma decisão do Superior Tribunal de Justiça (STJ), publicada no fim de ..."
+    },
+    {
+      "posicao": 4,
+      "titulo": "Está pensando em se tornar fiador de alguém? Fique atento a possíveis ...",
+      "endereco": "https://www.instagram.com/p/DeM7EQUDYrf/",
+      "trecho": "Nesse caso, é autorizada a penhora do imóvel do fiador, mesmo tendo estabelecido ali a sua moradia. Portanto, tome muito cuidado ao se tornar ..."
+    },
+    {
+      "posicao": 5,
+      "titulo": "Decisão do STF pode rever penhora de imóvel único de fiador",
+      "endereco": "https://pgbr.adv.br/decisao-do-stf-pode-rever-penhora-de-imovel-unico-de-fiador/",
+      "trecho": "A lei do inquilinato de 1991 introduziu na Lei 809, que trata do bem de família, a possibilidade de penhorar o imóvel para o caso de fiança ..."
+    },
+    {
+      "posicao": 6,
+      "titulo": "Imóvel familiar de fiador não pode ser penhorado, decide ministro do STF",
+      "endereco": "https://ibdfam.org.br/noticias/na-midia/375/Im%C3%B3vel familiar de fiador n%C3%A3o pode ser penhorado%2C decide ministro do STF",
+      "trecho": "De acordo com o Estado de S.Paulo, um casal de São Paulo fiador de um contrato de locação recorreu ao Supremo para não ter a casa da família penhorada para o ..."
+    },
+    {
+      "posicao": 7,
+      "titulo": "Você ajudaria um amigo se soubesse que poderia perder a casa da sua família por ...",
+      "endereco": "https://www.instagram.com/p/Df2-wvelqAY/",
+      "trecho": "A lei permite a penhora do bem de família do fiador em contratos de locação, inclusive comerciais. Antes de assinar qualquer contrato, entenda ..."
+    }
+  ]
+}

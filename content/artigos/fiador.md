@@ -1,13 +1,13 @@
 ---
 titulo: "Fiador de aluguel: responsabilidades, riscos e como sair da fiança"
-tituloSeo: "Fiador de aluguel: o que paga, riscos e como sair"
-descricao: "Fiador de aluguel responde pelas dívidas do inquilino e pode perder até o único imóvel. Veja os riscos, como sair da fiança e as outras garantias do aluguel."
+tituloSeo: "Fiador de aluguel: requisitos, riscos e como sair"
+descricao: "Fiador de aluguel responde pelas dívidas do inquilino e pode perder até o único imóvel. Veja quem pode ser fiador, se precisa de imóvel e como sair da fiança."
 categoria: moradia
 publicadoEm: 2026-11-03
-atualizadoEm: 2026-11-03
+atualizadoEm: 2026-11-26
 faq:
   - pergunta: "O fiador pode perder a casa onde mora?"
-    resposta: "Pode. A lei abre uma exceção à proteção do bem de família para a fiança de aluguel, e o STF confirmou que o único imóvel do fiador pode ser penhorado, tanto na locação residencial quanto na comercial (Tema 1.127)."
+    resposta: "Pode. A Lei 8.009/1990 abre uma exceção à proteção do bem de família para a fiança de aluguel (artigo 3º, VII), e o STF confirmou que o único imóvel do fiador pode ser penhorado, tanto na locação residencial quanto na comercial (Tema 1.127)."
   - pergunta: "Até quando vai a responsabilidade do fiador?"
     resposta: "Salvo cláusula em contrário, até a devolução das chaves, mesmo que o contrato passe a valer por prazo indeterminado (Lei do Inquilinato, artigo 39). Por isso vale a pena se exonerar quando o prazo acabar."
   - pergunta: "Pessoa casada pode ser fiadora sem o cônjuge assinar?"
@@ -19,13 +19,21 @@ faq:
 fontes:
   - nome: "Lei nº 8.245/1991 (Lei do Inquilinato), artigos 37 a 43, texto atualizado (Câmara dos Deputados)"
     url: "https://www2.camara.leg.br/legin/fed/lei/1991/lei-8245-18-outubro-1991-322506-normaatualizada-pl.html"
-  - nome: "Código Civil, artigos 818 a 839, 1.647 e 1.649, texto atualizado (Câmara dos Deputados)"
+  - nome: "Código Civil, artigos 818 a 839 (inclusive o 825, sobre quem pode ser fiador), 1.647 e 1.649, texto atualizado (Câmara dos Deputados)"
     url: "https://www2.camara.leg.br/legin/fed/lei/2002/lei-10406-10-janeiro-2002-432893-normaatualizada-pl.html"
+  - nome: "Lei nº 8.009/1990 (bem de família), artigo 3º, VII, texto atualizado (Câmara dos Deputados)"
+    url: "https://www2.camara.leg.br/legin/fed/lei/1990/lei-8009-29-marco-1990-366074-normaatualizada-pl.html"
   - nome: "STF: bem de família de fiador pode ser penhorado para quitar dívida de aluguel comercial (Tema 1.127)"
     url: "https://noticias.stf.jus.br/postsnoticias/bem-de-familia-de-fiador-pode-ser-penhorado-para-quitar-divida-de-aluguel-comercial-decide-stf/"
 ---
 
 O **fiador de aluguel** garante ao proprietário que vai pagar o que o inquilino deixar de pagar: aluguéis, condomínio, contas, multas e danos ao imóvel. A responsabilidade vai, em regra, **até a entrega das chaves**, mesmo depois do prazo do contrato ([Lei do Inquilinato, artigo 39](https://www2.camara.leg.br/legin/fed/lei/1991/lei-8245-18-outubro-1991-322506-normaatualizada-pl.html)), e o fiador pode perder **até o único imóvel onde mora** ([STF, Tema 1.127](https://noticias.stf.jus.br/postsnoticias/bem-de-familia-de-fiador-pode-ser-penhorado-para-quitar-divida-de-aluguel-comercial-decide-stf/)). Dá para sair da fiança quando o contrato vira prazo indeterminado, avisando o proprietário: a responsabilidade continua por mais **120 dias**.
+
+## Quem pode ser fiador? Precisa ter imóvel e nome limpo?
+
+A lei **não exige** renda mínima, imóvel próprio ou nome limpo. O que ela diz é que o proprietário **não é obrigado a aceitar** um fiador que não seja **pessoa idônea**, que **não more no município** onde a fiança vai ser cumprida ou que **não tenha bens suficientes** para pagar a dívida (Código Civil, artigo 825). Na prática, cada proprietário ou imobiliária decide o que pede para aceitar o fiador: comprovante de renda, imóvel, certidões, consulta ao nome. Fiador de **outro estado** pode ser recusado por essa regra, mas pode ser aceito se o proprietário concordar.
+
+Se o fiador ficar **insolvente ou incapaz** durante o contrato, o proprietário pode exigir que ele seja substituído (artigo 826).
 
 ## O que o fiador paga?
 
@@ -39,7 +47,7 @@ Pela lei, sim: o fiador cobrado pode exigir que **primeiro sejam executados os b
 
 ## O fiador pode perder o único imóvel?
 
-**Pode.** O imóvel onde a família mora é, em regra, impenhorável, mas a lei abre exceção para a **fiança em contrato de locação**. Em 2022, o STF decidiu que essa exceção vale tanto para o aluguel **residencial** quanto para o **comercial** ([Tema 1.127](https://noticias.stf.jus.br/postsnoticias/bem-de-familia-de-fiador-pode-ser-penhorado-para-quitar-divida-de-aluguel-comercial-decide-stf/)). Esse é o maior risco de ser fiador.
+**Pode.** O imóvel onde a família mora é, em regra, impenhorável, mas a lei abre exceção para a **fiança em contrato de locação** ([Lei 8.009/1990, artigo 3º, VII](https://www2.camara.leg.br/legin/fed/lei/1990/lei-8009-29-marco-1990-366074-normaatualizada-pl.html)). Em 2022, o STF decidiu que essa exceção vale tanto para o aluguel **residencial** quanto para o **comercial** ([Tema 1.127](https://noticias.stf.jus.br/postsnoticias/bem-de-familia-de-fiador-pode-ser-penhorado-para-quitar-divida-de-aluguel-comercial-decide-stf/)). Esse é o maior risco de ser fiador.
 
 ## Até quando dura a fiança e como sair?
 

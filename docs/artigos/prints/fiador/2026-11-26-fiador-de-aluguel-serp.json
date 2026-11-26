@@ -1,0 +1,101 @@
+{
+  "busca": "fiador de aluguel",
+  "pesquisadaEm": "2026-11-26",
+  "origem": "SerpApi: Google Brasil (google.com.br), celular, São Paulo, pt-BR, sem personalização",
+  "autocompletar": [
+    "fiador de aluguel o que é",
+    "fiador de aluguel precisa ter nome limpo",
+    "fiador de aluguel pode ter nome sujo",
+    "fiador de aluguel precisa ter imovel",
+    "fiador de aluguel como funciona",
+    "fiador de aluguel pode pedir para sair do contrato",
+    "fiador de aluguel pode ser de outro estado",
+    "fiador de aluguel o que precisa",
+    "fiador de aluguel precisa comprovar renda",
+    "fiador de aluguel pode ser qualquer pessoa",
+    "fiador de aluguel online",
+    "fiador de aluguel quem pode ser",
+    "fiador de aluguel profissional",
+    "fiador de aluguel quanto custa",
+    "fiador de aluguel requisitos"
+  ],
+  "asPessoasTambemPerguntam": [
+    "O que é necessário para ser fiador de aluguel?",
+    "O que diz o artigo 42 da Lei do Inquilinato?",
+    "Quais as novas regras para aluguel em 2026?",
+    "Eu moro de aluguel há 15 anos. Tenho algum direito sobre o imóvel?"
+  ],
+  "outrasPessoasPesquisaram": [],
+  "visaoDeIA": {
+    "texto": "O fiador de aluguel [Início do texto destacado] é a pessoa (física ou jurídica) que assume a responsabilidade financeira pelo contrato de locação caso o inquilino não pague aluguel, condomínio, IPTU ou outras taxas previstas [Fim do texto destacado] . Conforme o guia de Imovelweb, essa garantia costuma não ter custo extra para o inquilino, mas exige comprovação de renda e patrimônio.\nQuem pode ser fiador e o que costumam exigir\n  - Renda: geralmente renda líquida a partir de 3x o valor do aluguel mais encargos (ou 6x se for apenas um fiador, conforme a política da imobiliária).\n  - Sem restrições: ausência de pendências financeiras ou restrições de crédito.\n  - Imóvel: a lei não exige que o fiador tenha imóvel próprio, mas imobiliárias e proprietários costumam pedir imóvel quitado e matrícula atualizada como segurança.\n  - Cônjuge: se o fiador for casado, costuma ser exigida a assinatura do cônjuge (salvo exceções conforme o regime de bens).\n  - Documentos comuns (PF): RG, CPF, comprovante de residência, comprovante de renda, última declaração de Imposto de Renda, comprovante de estado civil e matrícula de imóvel (se houver).\nRiscos e regras principais\n  - Responsabilidade patrimonial: se houver inadimplência, o patrimônio do fiador pode ser cobrado — inclusive há decisões judiciais que admitem a penhora de imóvel em situações ligadas à locação.\n  - Exoneração (saída): o fiador pode pedir para sair da fiança (desde que não haja débito/inadimplência e conforme as regras do contrato e da lei), mas sua responsabilidade continua valendo por 120 dias após a notificação ao locador (art. 40, X, da Lei do Inquilinato).\nAlternativas caso você não tenha fiador\n  - Seguro-fiança: contratação junto a seguradora, como o Porto Seguro, com pagamento de prêmio/taxa e análise de crédito.\n  - Caução: depósito de até 3 meses de aluguel (ou título de capitalização) como garantia.\n  - Fiador profissional ou garantia digital: empresas especializadas em fiança/garantia locatícia (como Seu Fiador), sujeitas à aceitação da imobiliária ou do proprietário e ao pagamento de taxa/serviço.\nPara eu te orientar melhor, qual é o seu caso?\n  - Você vai alugar um imóvel (e busca alternativas ou documentos para aprovar) ou foi convidado para ser fiador (e quer avaliar riscos e obrigações)?\n  - A negociação é direto com o proprietário ou por imobiliária/plataforma digital?",
+    "fontes": [
+      "Facebook",
+      "Grupo OLX",
+      "Imovelweb",
+      "Instagram",
+      "Líder Fiadores",
+      "MAPFRE Brasil",
+      "Porto Seguro",
+      "Seu Fiador",
+      "YouTube",
+      "www.santander.com.br"
+    ]
+  },
+  "videos": [],
+  "organicos": [
+    {
+      "posicao": 1,
+      "titulo": "Saiba como funciona ser o fiador de um imóvel",
+      "endereco": "https://blog.lelloimoveis.com.br/fiador/",
+      "trecho": "Quem pode ser fiador de aluguel? · ser maior de idade; · ter um imóvel ou outro tipo de propriedade em seu nome, REGISTRADO E QUITADO; · não ter ..."
+    },
+    {
+      "posicao": 2,
+      "titulo": "Saiba como funciona ser o fiador de um imóvel - BLOG | Lello Imóveis",
+      "endereco": "http://ambiente-dev54.provisorio.ws/fiador/",
+      "trecho": "O que é o fiador? ... O fiador será alguém definido pelo inquilino, por exemplo, para arcar com as responsabilidades financeiras em sua ausência."
+    },
+    {
+      "posicao": 3,
+      "titulo": "Diferença entre locador, locatário e fiador - Blog DF Casa Imóveis",
+      "endereco": "https://www.dfcasaimoveis.com/diferenca-entre-locador-locatario-e-fiador/",
+      "trecho": "O fiador é a figura de uma pessoa que serve como “garantia” para cobrir o locatário caso ele não cumpra com as obrigações colocadas em contrato."
+    },
+    {
+      "posicao": 4,
+      "titulo": "Aluguel de imóveis: o que é fiador e caução?",
+      "endereco": "http://blog.arbix.com.br/2020/04/15/aluguel-de-imoveis-o-que-e-fiador-e-caucao/",
+      "trecho": "Por exemplo, se o inquilino não pagar mais o aluguel, o fiador pagará. Para ser fiador, é preciso ter renda líquida superior a 3 vezes o aluguel ..."
+    },
+    {
+      "posicao": 5,
+      "titulo": "FIADOR - Sua imobiliária em Jundiaí",
+      "endereco": "https://portal.imobiliariasousa.com.br/fiador/",
+      "trecho": "Aquele que se dispuser a ser fiador de um aluguel deve ter ciência de que será co-responsável pelo seu pagamento e, em caso de prorrogação do contrato ..."
+    },
+    {
+      "posicao": 6,
+      "titulo": "O Papel do Fiador no Processo de Locação: Entenda Suas Responsabilidades",
+      "endereco": "https://mobg.com.br/blog/o-papel-do-fiador-no-processo-de-locacao-entenda-suas-responsabilidades",
+      "trecho": "O fiador é uma pessoa ou empresa que assume a responsabilidade de cumprir as obrigações financeiras do inquilino, caso este não o faça. Isso ..."
+    },
+    {
+      "posicao": 7,
+      "titulo": "Seguro fiança ou fiador: qual a melhor garantia para alugar um imóvel?",
+      "endereco": "https://portal.loft.com.br/seguro-fianca-ou-fiador/",
+      "trecho": "Tanto o fiador quanto o seguro fiança são amplamente aceitos. O seguro fiança vem ganhando espaço pela praticidade e menor burocracia, especialmente nos grandes ..."
+    },
+    {
+      "posicao": 8,
+      "titulo": "Para que serve o fiador?",
+      "endereco": "https://segurancaimoveisgv.com.br/blog/blog/para-que-serve-o-fiador-seguranca-imoveis-gv/",
+      "trecho": "Como já comecei a explicar, a função do fiador é garantir o pagamento de uma dívida caso o contratante não honre com a mesma. Por isso, ser ..."
+    },
+    {
+      "posicao": 9,
+      "titulo": "Fiador de imóveis: o que é, como funciona e quem pode ser fiador",
+      "endereco": "https://blog.bridgeimoveis.com.br/fiador-de-imoveis/",
+      "trecho": "O fiador de imóveis é a pessoa que assume a responsabilidade de pagar os valores do aluguel de imóvel, caso o inquilino tenha um imprevisto e não pague. O ..."
+    }
+  ]
+}
