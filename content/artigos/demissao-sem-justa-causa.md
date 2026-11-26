@@ -4,7 +4,7 @@ tituloSeo: "Demissão sem justa causa: o que recebe e cálculo 2026"
 descricao: "Demissão sem justa causa: veja o que você recebe (aviso prévio, 13º, férias, multa de 40% do FGTS e seguro-desemprego) e calcule a sua rescisão de 2026."
 categoria: trabalho
 publicadoEm: 2026-10-19
-atualizadoEm: 2026-11-18
+atualizadoEm: 2026-11-26
 faq:
   - pergunta: "Qual o prazo para a empresa pagar a rescisão?"
     resposta: "**10 dias** contados do fim do contrato, para pagar as verbas e entregar os documentos. Se atrasar, a empresa paga ao trabalhador uma multa no valor de um salário, além da multa administrativa (CLT, artigo 477, §§ 6º e 8º)."
@@ -84,7 +84,7 @@ Um detalhe que muda a conta: o **aviso prévio indenizado conta como tempo de se
 
 ## Quem ganha R$ 1.500 recebe quanto de rescisão?
 
-Depende do tempo de casa e da data de saída. Um exemplo: salário de R$ 1.500, admitido em 1º de março de 2025, demitido em 20 de outubro de 2026, com aviso indenizado e R$ 2.400 de saldo no FGTS. Com 1 ano completo, o aviso é de 33 dias e projeta o contrato até 22 de novembro:
+Depende do tempo de casa e da data de saída. Um exemplo: salário de R$ 1.500, admitido em 1º de março de 2025, demitido em 20 de outubro de 2026, com aviso indenizado, as férias do primeiro ano já tiradas e R$ 2.400 depositados no FGTS durante o contrato (a multa usa os depósitos, mesmo os já sacados). Com 1 ano completo, o aviso é de 33 dias e projeta o contrato até 22 de novembro:
 
 | Verba | Valor (R$) |
 | --- | --- |

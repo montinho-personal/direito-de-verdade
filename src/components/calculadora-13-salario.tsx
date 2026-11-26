@@ -203,7 +203,7 @@ export function Calculadora13Salario({ nivelDoTitulo = 3 }: { nivelDoTitulo?: 2 
               type="checkbox"
               checked={f.usarMensais}
               onChange={(evento) => mudarFormulario13({ usarMensais: evento.target.checked })}
-              className="mt-1 h-5 w-5 accent-[var(--accent)]"
+              className="mt-1 h-6 w-6 shrink-0 accent-[var(--accent)]"
             />
             <span>
               Informar horas extras, comissões e adicionais mês a mês
@@ -275,9 +275,18 @@ function Etiqueta({ children }: { children: string }) {
 }
 
 function Resultado({ r }: { r: ResultadoDo13 }) {
-  const isento = r.irrf.imposto === 0 && r.irrf.tipoDeReducao === "isencao";
+  // "Isento" sempre que o imposto final é zero, inclusive quando a redução zera o
+  // imposto logo acima de R$ 5 mil (auditoria de 26/11/2026)
+  const isento = r.irrf.imposto === 0;
+  const deOnde = r.saiuNoAno ? "sai do 13º da rescisão" : "sai da 2ª parcela";
   return (
     <div className="space-y-4">
+      {r.primeira.origem === "informado" && r.primeira.valor > r.bruto && (
+        <p role="alert" className="rounded-xl border border-amber-300 bg-amber-50 px-4 py-3 text-sm leading-6">
+          <strong>Confira a 1ª parcela:</strong> o valor informado ({reais(r.primeira.valor)}) é maior que
+          o 13º bruto ({reais(r.bruto)}). Verifique se não houve erro de digitação.
+        </p>
+      )}
       <div className="rounded-xl border border-border bg-white">
         <div className="px-4 pb-4 pt-5">
           <p className="text-xs font-semibold uppercase tracking-wider text-muted">
@@ -306,8 +315,8 @@ function Resultado({ r }: { r: ResultadoDo13 }) {
         </dl>
         <dl className="divide-y divide-border border-t border-border text-sm">
           <Linha nome="13º bruto" valor={reais(r.bruto)} />
-          <Linha nome="INSS (sai da 2ª parcela)" valor={`− ${reais(r.inss.total)}`} />
-          <Linha nome="Imposto de renda (sai da 2ª parcela)" valor={isento ? "Isento" : `− ${reais(r.irrf.imposto)}`} />
+          <Linha nome={`INSS (${deOnde})`} valor={`− ${reais(r.inss.total)}`} />
+          <Linha nome={`Imposto de renda (${deOnde})`} valor={isento ? "Isento" : `− ${reais(r.irrf.imposto)}`} />
           {r.pensao > 0 && <Linha nome="Pensão alimentícia" valor={`− ${reais(r.pensao)}`} />}
         </dl>
       </div>
@@ -374,7 +383,9 @@ function Memoria({ r }: { r: ResultadoDo13 }) {
   const passos: [string, string][] = [
     [
       "Remuneração-base",
-      `${reais(r.salarioDeDezembro)} de salário ${r.saiuNoAno ? "no mês da saída" : "em dezembro"}: o 13º usa o salário de dezembro, já com reajustes do ano.`,
+      r.saiuNoAno
+        ? `${reais(r.salarioDeDezembro)} de salário no mês da saída: na rescisão, o 13º usa a remuneração desse mês.`
+        : `${reais(r.salarioDeDezembro)} de salário em dezembro: o 13º usa o salário de dezembro, já com reajustes do ano.`,
     ],
     [
       "Média variável",
@@ -396,7 +407,9 @@ function Memoria({ r }: { r: ResultadoDo13 }) {
       "1ª parcela",
       r.primeira.origem === "informado"
         ? `${reais(r.primeira.valor)}, informada por você.`
-        : r.primeira.regra === "metade-do-salario"
+        : r.saiuNoAno && r.primeira.valor === 0
+          ? "Não houve: a saída foi antes do mês da 1ª parcela, e o 13º proporcional inteiro é pago na rescisão."
+          : r.primeira.regra === "metade-do-salario"
           ? `Metade do salário do mês anterior ao pagamento (${NOMES_DOS_MESES[r.primeira.mes - 2]}): ${reais(r.primeira.base)} ÷ 2 = ${reais(r.primeira.valor)}. Sem descontos.`
           : `Metade de 1/12 por mês de serviço até ${NOMES_DOS_MESES[r.primeira.mes - 1]}: ${reais(r.primeira.base)} ÷ 12 × ${r.primeira.avos} ÷ 2 = ${reais(r.primeira.valor)}. Sem descontos.`,
     ],
@@ -459,7 +472,7 @@ function resumo(r: ResultadoDo13) {
     `13º bruto: ${reais(r.bruto)} (${r.avos}/12)`,
     `1ª parcela: ${reais(r.primeira.valor)}${r.primeira.origem === "projetado" ? " (projeção)" : ""}`,
     `INSS: ${reais(r.inss.total)} · Imposto de renda: ${reais(r.irrf.imposto)}`,
-    `2ª parcela: ${reais(r.segunda)}`,
+    `${r.saiuNoAno ? "13º na rescisão" : "2ª parcela"}: ${reais(r.segunda)}`,
     `Total líquido: ${reais(r.totalLiquido)}`,
     "Valores estimados; o holerite pode variar.",
     "Calculado em https://direitodeverdade.com.br/calculadoras/13-salario",

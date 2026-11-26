@@ -80,7 +80,13 @@ def calcular(c):
 
     mes_pg = c.get("mesDoAdiantamento", 11)
     ano_todo = periodo == 12 and not c.get("mesesComFaltas") and not c.get("mesesAfastadoPeloInss")
-    base1 = sal_mes(max(1, mes_pg - 1)) + media
+    # Variáveis na 1ª parcela: média até o mês anterior ao adiantamento (art. 78, § 1º)
+    media1 = media
+    if mensais and any(v for v in mensais if v):
+        ant = max(1, mes_pg - 1)
+        vals1 = [(mensais[i] or 0) for i in range(ant) if trab[i]]
+        media1 = rd(D(sum(vals1)) / len(vals1)) if vals1 else 0
+    base1 = sal_mes(max(1, mes_pg - 1)) + media1
     avos_pg = min(sum(1 for d in dias[:mes_pg] if d > 15), avos)
     proj = rd(D(base1) / 2) if ano_todo else rd(D(base1 * avos_pg) / 24)
     if "adiantamentoRecebido" in c:

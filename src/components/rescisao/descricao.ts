@@ -98,9 +98,9 @@ export function descreverDesconto(d: Desconto): { nome: string; explicacao: stri
     case "inss-13":
       return { nome: "INSS sobre o 13º", explicacao: `Calculado à parte, sobre ${reais(d.base ?? 0)}.` };
     case "ir-saldo":
-      return { nome: "Imposto de renda sobre o saldo", explicacao: "Tabela de 2026, com a isenção até R$ 5 mil." };
+      return { nome: "Imposto de renda sobre o saldo", explicacao: "Tabela de 2026 com a redução da Lei 15.270: zera o imposto até R$ 5 mil, diminui até R$ 7.350 e não se aplica acima disso." };
     case "ir-13":
-      return { nome: "Imposto de renda sobre o 13º", explicacao: "Calculado à parte, com a mesma isenção." };
+      return { nome: "Imposto de renda sobre o 13º", explicacao: "Calculado à parte, com a mesma tabela e a mesma redução." };
     case "aviso-nao-cumprido":
       return {
         nome: "Desconto do aviso não cumprido",

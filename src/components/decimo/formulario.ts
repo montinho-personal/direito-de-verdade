@@ -81,9 +81,11 @@ export function lerFormulario13(f: Formulario13): { entrada: EntradaDo13 | null;
     return leitura.tipo === "valido" ? leitura.quantidade : 0;
   };
   const salario = reais("salario", f.salario);
-  const media = reais("mediaVariaveis", f.mediaVariaveis);
+  // A média só vale sem o "mês a mês"; o novo salário, só com um mês de reajuste
+  // escolhido. Campo escondido não pode bloquear o cálculo (auditoria de 26/11/2026).
+  const media = f.usarMensais ? undefined : reais("mediaVariaveis", f.mediaVariaveis);
   const adiantamento = reais("adiantamentoRecebido", f.adiantamentoRecebido);
-  const novoSalario = reais("novoSalario", f.novoSalario);
+  const novoSalario = f.mesDoReajuste ? reais("novoSalario", f.novoSalario) : undefined;
   const pensao = reais("pensao", f.pensao);
   const dependentes = quantidade("dependentes", f.dependentes, 20);
   const faltas = quantidade("mesesComFaltas", f.mesesComFaltas, 11);
@@ -95,7 +97,6 @@ export function lerFormulario13(f: Formulario13): { entrada: EntradaDo13 | null;
         return leitura.tipo === "valido" ? leitura.centavos : null;
       })
     : undefined;
-  if (novoSalario !== undefined && !f.mesDoReajuste) erros.mesDoReajuste = "Escolha o mês do reajuste.";
 
   if (!f.salario || Object.keys(erros).length) return { entrada: null, erros };
   return {

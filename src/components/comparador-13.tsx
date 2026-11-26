@@ -64,9 +64,11 @@ export function Comparador13({ nivelDoTitulo = 3 }: { nivelDoTitulo?: 2 | 3 }) {
           {b && b !== a && (
             <div className="mt-6 space-y-4">
               <p className="rounded-xl border border-border bg-white px-4 py-4 text-base">
-                Com o aumento, o 13º líquido vai de <span className="tabular-nums">{reais(a.totalLiquido)}</span> para{" "}
-                <strong className="tabular-nums">{reais(b.totalLiquido)}</strong>: diferença de{" "}
-                <strong className="tabular-nums">{reais(b.totalLiquido - a.totalLiquido)}</strong>.
+                {b.totalLiquido >= a.totalLiquido ? "Com o aumento" : "Com o novo salário, menor que o atual"}, o 13º
+                líquido vai de <span className="tabular-nums">{reais(a.totalLiquido)}</span> para{" "}
+                <strong className="tabular-nums">{reais(b.totalLiquido)}</strong>:{" "}
+                {b.totalLiquido >= a.totalLiquido ? "mais" : "menos"}{" "}
+                <strong className="tabular-nums">{reais(Math.abs(b.totalLiquido - a.totalLiquido))}</strong>.
               </p>
               <div className="overflow-hidden rounded-xl border border-border bg-white">
                 <table className="w-full text-sm sm:text-base">

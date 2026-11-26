@@ -79,3 +79,17 @@ test("13º: entradas inválidas", () => {
   assert.deepEqual(campos({ salario: 300000, mesDoAdiantamento: 12 }), ["mesDoAdiantamento"]);
   assert.deepEqual(campos({ salario: 300000, reajuste: { salario: 0, mes: 5 } }), ["reajuste"]);
 });
+
+test("13º: 1ª parcela com variáveis mês a mês usa a média até o mês anterior ao pagamento (auditoria de 26/11/2026)", () => {
+  // Decreto 10.854/2021, art. 78, § 1º, e doc da calculadora: variáveis na 1ª parcela =
+  // média dos meses trabalhados até o anterior ao adiantamento. R$ 3.000 de salário,
+  // R$ 500 de variáveis de janeiro a junho e R$ 0 de julho a novembro.
+  const mensais = [50000, 50000, 50000, 50000, 50000, 50000, 0, 0, 0, 0, 0, null];
+  const julho = calcular13({ salario: 300000, variaveisMensais: mensais, mesDoAdiantamento: 7 });
+  const novembro = calcular13({ salario: 300000, variaveisMensais: mensais, mesDoAdiantamento: 11 });
+  assert.equal(julho.primeira.valor, 175000); // (3.000 + média jan-jun 500) / 2
+  assert.equal(novembro.primeira.valor, 165000); // (3.000 + média jan-out 300) / 2
+  // O 13º total não muda: média até novembro (272,73) no bruto
+  assert.equal(julho.bruto, novembro.bruto);
+  assert.equal(julho.primeira.valor + julho.inss.total + julho.irrf.imposto + julho.segunda, julho.bruto);
+});

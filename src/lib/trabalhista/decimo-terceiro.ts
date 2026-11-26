@@ -187,7 +187,19 @@ export function calcular13(entrada: EntradaDo13): ResultadoDo13 | ErroDo13 {
   // fração superior a 15 dias até o pagamento (§ 4º). A conta supõe o pagamento no
   // fim do mês escolhido.
   const anoTodo = avosDoPeriodo === 12 && faltas === 0 && afastado === 0;
-  const baseDaPrimeira = salarioNoMes(Math.max(1, mesDoAdiantamento - 1)) + mediaVariavel;
+  // Variáveis na 1ª parcela: média dos meses trabalhados até o anterior ao
+  // adiantamento (art. 78, § 1º), e não a média até novembro, que inclui meses que
+  // ainda não aconteceram quando a 1ª parcela é paga.
+  let mediaDaPrimeira = mediaVariavel;
+  if (origemDaMedia === "mensal" && mensais) {
+    const ateAnterior = Math.max(1, mesDoAdiantamento - 1);
+    const meses = trabalhados
+      .slice(0, ateAnterior)
+      .map((t, i) => (t ? (mensais[i] ?? 0) : null))
+      .filter((v) => v !== null) as number[];
+    mediaDaPrimeira = meses.length ? dividirArredondando(meses.reduce((x, y) => x + y, 0), meses.length) : 0;
+  }
+  const baseDaPrimeira = salarioNoMes(Math.max(1, mesDoAdiantamento - 1)) + mediaDaPrimeira;
   const avosAtePagamento = Math.max(
     0,
     Math.min(dias.slice(0, mesDoAdiantamento).filter((d) => d > 15).length, avos),
