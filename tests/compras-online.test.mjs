@@ -53,6 +53,7 @@ test("não chegou e o prazo passou: as três opções do art. 35", () => {
 });
 
 test("não chegou: dia da entrega prometida ainda está no prazo; dia seguinte já atrasou", () => {
+  // eslint-disable-next-line @typescript-eslint/no-unused-vars -- tira o campo do objeto
   const { novoPrazo, ...semNovo } = naoChegou;
   assert.equal(d("nao-chegou", { ...semNovo, prometida: HOJE }).situacao, "no-prazo");
   assert.equal(d("nao-chegou", { ...naoChegou, prometida: "2026-10-25" }).situacao, "atrasado");

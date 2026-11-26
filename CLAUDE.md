@@ -206,6 +206,32 @@ As tabelas de INSS e imposto de renda ficam só em
 `atualizadoEm` sobe a cada edição de conteúdo visível, no mesmo commit, e
 nunca em massa: o Google ignora `lastmod` quando tudo muda junto.
 
+## Testar tudo antes e depois de publicar (regra do Renato, 25/11/2026)
+
+Toda ação no site (artigo novo, revisão, calculadora, ajuste de código ou de layout) segue
+este roteiro, sem exceção e sem esperar pedido:
+
+1. **Abrir o site no navegador.** Build de produção (`npm run build`) e
+   `npx next start -p 3100`; as páginas mexidas são abertas no Chromium (Playwright).
+2. **Testar botões e funcionalidades.** Nas ferramentas, preencher os campos e apertar os
+   botões; a página tem de reagir sem erro e sem "NaN", "undefined" ou "Infinity" na tela.
+   Links internos e âncoras precisam abrir (status 200).
+3. **Verificar a versão mobile.** Toda página é aberta também em celular (390 px): sem
+   rolagem lateral, sem erro e com acessibilidade (axe) sem falha grave.
+4. **Executar os testes automatizados.** `npm test` (motores e parâmetros), `npm run lint`
+   e `node scripts/verificar-site.mjs <páginas>`, que faz os passos 1 a 3 no computador
+   (1280 px) e no celular. Mexeu em componente, layout ou algo que aparece em todas as
+   páginas: rodar o script sem argumentos, no site inteiro.
+5. **Identificar os erros e corrigi-los.** Qualquer falha do script, do `npm test`, do lint
+   ou do build é corrigida antes de publicar, mesmo que não seja da página mexida.
+6. **Repetir os testes depois das correções** até tudo passar. Só então commit e push no
+   `main`.
+
+Depois do deploy, conferir a página no ar (Vercel) e, se der, rodar o script contra o site
+publicado: `BASE=https://direitodeverdade.com.br node scripts/verificar-site.mjs <páginas>`.
+Na resposta ao Renato, dizer o que foi testado e o resultado (inclusive o que falhou e como
+foi corrigido).
+
 ## Ritmo
 
 Artigos novos um de cada vez: um publicado e conferido no ar antes do
