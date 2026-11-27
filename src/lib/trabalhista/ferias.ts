@@ -104,14 +104,21 @@ export type ResultadoDasFerias = {
 export type ErroDasFerias = { ok: false; erros: { campo: string; mensagem: string }[] };
 
 // Período aquisitivo número n, contado da admissão
+// Aniversário do contrato: quando o dia não existe no ano (admissão em 29/02), o prazo
+// termina no primeiro dia seguinte (Lei 810/1949, art. 3º), e não no dia 28
+function aniversario(admissao: Data, meses: number): Data {
+  const d = somarMeses(admissao, meses);
+  return d.dia < admissao.dia ? somarDias(d, 1) : d;
+}
+
 export function periodoAquisitivo(admissao: Data, numero: number): PeriodoDeFerias {
-  const inicio = somarMeses(admissao, 12 * (numero - 1));
-  const fim = somarDias(somarMeses(admissao, 12 * numero), -1);
+  const inicio = aniversario(admissao, 12 * (numero - 1));
+  const fim = somarDias(aniversario(admissao, 12 * numero), -1);
   return {
     numero,
     inicio,
     fim,
-    concederAte: somarDias(somarMeses(admissao, 12 * (numero + 1)), -1),
+    concederAte: somarDias(aniversario(admissao, 12 * (numero + 1)), -1),
     pedirAbonoAte: somarDias(fim, -15),
   };
 }

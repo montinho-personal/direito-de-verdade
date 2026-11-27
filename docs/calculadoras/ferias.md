@@ -123,3 +123,12 @@ férias com adicional noturno`.
 
 Em janeiro de 2027: tabelas de INSS e IR (parametros), exemplos e tabela por
 salário, salário mínimo, data da revisão no rodapé da ferramenta e no texto.
+
+### Auditoria de 27/11/2026: não corrigido (sem fonte lida ou baixo)
+
+- Início nos 2 dias antes de feriado (art. 134, § 3º): só domingo é tratado; feriados nacionais fixos dependem da lei dos feriados (Lei 662/1949), não lida.
+- Desconto simplificado e redução de 2026 no IR das férias pagas em separado: a pergunta 178 da Receita cita só as deduções legais; sem texto oficial que decida, a calculadora mantém o simplificado e já mostra o imposto sem a redução.
+- INSS e IR sobre o 1/3 do abono (Cosit 209/2021, Lei 8.212, art. 28, § 9º) e dobra com o 1/3 (Súmulas 81 e 328): fontes não lidas nesta auditoria.
+- Comparador com o 13º marcado: "Recibo (líquido)" inclui o 13º e "Total bruto no período" não (cosmético).
+- Comparador não acompanha a divisão escolhida nem a dobra; `aria-live` a cada tecla; `data-track` de artigo na página da calculadora.
+- Admissão em 29/02 na rescisão: a mesma regra da Lei 810/1949 (aplicada aqui em 27/11/2026) ainda não foi aplicada no motor da rescisão.

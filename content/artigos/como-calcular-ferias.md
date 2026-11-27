@@ -4,7 +4,7 @@ tituloSeo: "Como calcular férias 2026: 1/3, venda de 10 dias e líquido"
 descricao: "Como calcular férias: salário ÷ 30 × dias + 1/3, menos INSS e IR. Quem ganha R$ 3.000 recebe R$ 3.631,40 líquidos. Veja quanto dá vender 10 dias e calcule."
 categoria: trabalho
 publicadoEm: 2026-10-20
-atualizadoEm: 2026-10-21
+atualizadoEm: 2026-11-27
 faq:
   - pergunta: "Qual o valor das férias de um salário mínimo em 2026?"
     resposta: "Com o salário mínimo de R$ 1.621, as férias de 30 dias valem **R$ 2.161,33** brutos (R$ 1.621 + R$ 540,33 de 1/3). Com o desconto de R$ 170,20 de INSS e sem imposto de renda, o líquido é **R$ 1.991,13**."
@@ -96,7 +96,7 @@ Com salário de R$ 3.000: férias de R$ 2.000 + R$ 666,67, menos R$ 215,69 de IN
 
 ### Vender 10 dias de férias vale a pena?
 
-Em dinheiro, sim: são **R$ 1.333,33 a mais** no recibo para quem ganha R$ 3.000, sem INSS, além do salário dos dias trabalhados. Em troca, o descanso cai de 30 para 20 dias. A escolha é sua: a empresa não pode obrigar ninguém a vender. Use a calculadora acima para ver o valor com o seu salário.
+Em dinheiro, sim: no período, quem ganha R$ 3.000 recebe **R$ 1.000 a mais**, que é o salário dos 10 dias que trabalha. O recibo de férias fica com o mesmo valor bruto (R$ 4.000), porque o abono substitui os 10 dias de descanso, mas paga menos INSS: o líquido sobe de R$ 3.631,40 para R$ 3.784,31. Em troca, o descanso cai de 30 para 20 dias. A escolha é sua: a empresa não pode obrigar ninguém a vender. Use a calculadora acima para ver o valor com o seu salário.
 
 ### Quais as regras para vender 10 dias de férias?
 

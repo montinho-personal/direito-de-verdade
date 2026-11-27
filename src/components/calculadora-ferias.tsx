@@ -352,7 +352,7 @@ function Resultado({
   endereco: string;
   refazer: () => void;
 }) {
-  const isento = r.irrf.imposto === 0 && r.irrf.tipoDeReducao === "isencao";
+  const isento = r.irrf.imposto === 0;
   const extras = r.mediaVariavel;
   return (
     <div className="space-y-4">
@@ -470,6 +470,24 @@ function Resultado({
 // Prazos e situações que mudam o valor ou exigem atenção
 function Avisos({ r }: { r: ResultadoDasFerias }) {
   const itens: ReactNode[] = [];
+  // Avisos de data (auditoria de 27/11/2026)
+  if (r.adiantamento13 > 0 && r.datas && r.datas.pagamentoAte.mes === 12) {
+    itens.push(
+      <>
+        <strong>1ª parcela do 13º em dezembro:</strong> ela deve ser paga entre fevereiro e
+        novembro (Lei 4.749/1965, art. 2º), até 30/11. Confira se ela já não veio no seu salário;
+        se veio, ela não entra de novo no recibo de férias.
+      </>,
+    );
+  }
+  if (r.datas && r.datas.pagamentoAte.ano > 2026) {
+    itens.push(
+      <>
+        <strong>Pagamento em {r.datas.pagamentoAte.ano}:</strong> o INSS e o imposto seguem as
+        tabelas do ano do pagamento, que podem mudar. A conta usa as tabelas de 2026.
+      </>,
+    );
+  }
   if (r.dobra > 0 && r.periodo) {
     itens.push(
       <>

@@ -64,9 +64,13 @@ def calcular(c):
 
 
 def aniversario(adm, anos):
+    # Lei 810/1949, art. 3º: sem o dia correspondente (29/02), o prazo termina no
+    # primeiro dia subsequente (01/03)
     ano = adm.year + anos
-    dia = min(adm.day, calendar.monthrange(ano, adm.month)[1])
-    return date(ano, adm.month, dia)
+    ultimo = calendar.monthrange(ano, adm.month)[1]
+    if adm.day > ultimo:
+        return date(ano, adm.month, ultimo) + timedelta(days=1)
+    return date(ano, adm.month, adm.day)
 
 
 R = lambda x: int((D(str(x)) * 100).quantize(D("1"), ROUND_HALF_UP))  # noqa: E731

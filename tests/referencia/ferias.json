@@ -617,9 +617,9 @@
    "volta": "2025-04-01",
    "sextaOuSabado": false,
    "periodo": {
-    "fim": "2025-02-27",
-    "concederAte": "2026-02-27",
-    "pedirAbonoAte": "2025-02-12"
+    "fim": "2025-02-28",
+    "concederAte": "2026-02-28",
+    "pedirAbonoAte": "2025-02-13"
    },
    "diasForaDoPrazo": 0,
    "dobra": 0

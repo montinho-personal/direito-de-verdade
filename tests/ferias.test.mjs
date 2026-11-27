@@ -134,3 +134,16 @@ test("férias: auditoria de 27/11/2026 (pensão, admissão depois do início, co
   assert.equal(l.ok, false);
   assert.match(l.erros[0].mensagem, /Confira os anos/);
 });
+
+test("férias: admissão em 29/02 segue a Lei 810/1949, art. 3º (auditoria de 27/11/2026)", async () => {
+  const { periodoAquisitivo } = await import("../src/lib/trabalhista/ferias.ts");
+  // Sem 29/02 no ano seguinte, o ano termina no primeiro dia subsequente (01/03):
+  // o período vai até 28/02 e o prazo de concessão, até 28/02 do ano seguinte
+  const p = periodoAquisitivo({ ano: 2024, mes: 2, dia: 29 }, 1);
+  assert.equal(paraTexto(p.fim), "2025-02-28");
+  assert.equal(paraTexto(p.concederAte), "2026-02-28");
+  assert.equal(paraTexto(p.pedirAbonoAte), "2025-02-13");
+  // Admissão comum não muda
+  const q = periodoAquisitivo({ ano: 2024, mes: 3, dia: 10 }, 1);
+  assert.equal(paraTexto(q.fim), "2025-03-09");
+});

@@ -39,6 +39,12 @@ da Receita (R$ 179,75), mas o exemplo usa o INSS de 2025.
   carnê-leão, sem detalhar deduções; não pesquisado.
 - **Link do simulador da Receita** citado pela IA: endereço não conferido.
 
+### Auditoria de 27/11/2026: não corrigido (baixo)
+
+- Textos da memória de cálculo com números fixos (R$ 2.428,80, R$ 5.000, R$ 7.350, 978,62 − 0,133145): trocar por `PARAMETROS_2026` na virada para 2027.
+- Sem aviso de salário abaixo do mínimo; "1.5000" mostra mensagem de casas decimais.
+- Ferramentas irmãs: conferir-holerite sem erro para vencimentos "0" e pensão maior que os vencimentos; comparador-de-salario sem erro para salário "0" e mensagem de "centavos" no campo de %.
+
 ## Decisões
 
 - **Título** "Calculadora imposto de renda 2026: salário mensal e CLT":

@@ -595,6 +595,7 @@ Lembrar o Renato desta lista a cada entrega.
 - Simulador de compras online: `revisadoEm` em `src/lib/compras-online/regras.ts`, prazos do MED e do Consumidor.gov.br, Juizado em salários mínimos do ano.
 - Calculadora de cobrança indevida: IPCA mensal em `src/lib/cobranca-indevida/ipca.ts` (a cada divulgação do IBGE), Tema 929 do STJ (tese a publicar), Juizado em salários mínimos do ano e `revisadoEm` em `src/lib/cobranca-indevida/regras.ts`.
 - Calendário do INSS (`/artigos/calendario-inss-2026`): reajuste de 2027 (portaria de janeiro) e tabela de 2027 quando o INSS publicar.
+- Férias (`/calculadoras/ferias` e `/artigos/como-calcular-ferias`): em 1º/01/2027, a Lei 15.371/2026 muda o art. 131, II (licença-paternidade não conta como falta) e cria os §§ 4º e 5º do art. 134 (férias logo depois da licença-paternidade); hoje os textos citam só a licença-maternidade.
 - Reajuste do aluguel (`/artigos/reajuste-do-aluguel`): tabela de IGP-M e IPCA acumulados em 12 meses, **a cada revisão** (BCB, séries 189 e 433); em janeiro de 2027, trocar o ano no título e na tabela.
 - Calculadora de férias: tabela por salário e exemplos de `/calculadoras/ferias` (INSS, IR e salário mínimo do ano) e data de revisão no rodapé da ferramenta.
 
