@@ -128,7 +128,7 @@ export function ConferirHolerite({ nivelDoTitulo = 3 }: { nivelDoTitulo?: 2 | 3 
       <div className="mt-6">
         {estimativa ? (
           <div className="space-y-4">
-            <div className="overflow-hidden rounded-xl border border-border bg-white">
+            <div className="overflow-x-auto rounded-xl border border-border bg-white">
               <table className="w-full text-sm sm:text-base">
                 <caption className="sr-only">Descontos do holerite comparados com a estimativa</caption>
                 <thead>

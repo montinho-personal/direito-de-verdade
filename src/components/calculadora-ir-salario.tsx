@@ -1,11 +1,12 @@
 "use client";
 
-import { useId, useState } from "react";
+import { useId, useRef, useState } from "react";
 import {
   Campo,
   Compartilhar,
   Linha,
   NotaDaEstimativa,
+  useAbrirSeTiverErro,
 } from "@/components/partes-da-calculadora";
 import { lerQuantidade, lerReais, percentualPorMil, reais } from "@/lib/dinheiro";
 import { calcularSalario, type ResultadoDoSalario } from "@/lib/tributos/calculo.ts";
@@ -21,6 +22,8 @@ export function CalculadoraIrSalario({ nivelDoTitulo = 3 }: { nivelDoTitulo?: 2 
   const [dependentes, setDependentes] = useState("");
   const [variaveis, setVariaveis] = useState("");
   const [pensao, setPensao] = useState("");
+  const detalhes = useRef<HTMLDetailsElement>(null);
+  useAbrirSeTiverErro(detalhes);
 
   const leituraDoSalario = lerReais(salario);
   const leituraDosDependentes = lerQuantidade(dependentes, MAXIMO_DE_DEPENDENTES);
@@ -37,14 +40,14 @@ export function CalculadoraIrSalario({ nivelDoTitulo = 3 }: { nivelDoTitulo?: 2 
     leituraDosDependentes.tipo === "invalido" ? leituraDosDependentes.mensagem : undefined;
   const erroDasVariaveis =
     leituraDasVariaveis.tipo === "invalido" ? leituraDasVariaveis.mensagem : undefined;
-  const erroDaPensao = leituraDaPensao.tipo === "invalido" ? leituraDaPensao.mensagem : undefined;
+  const erroDeLeituraDaPensao = leituraDaPensao.tipo === "invalido" ? leituraDaPensao.mensagem : undefined;
 
-  const resultado =
+  const calculado =
     leituraDoSalario.tipo === "valido" &&
     leituraDoSalario.centavos > 0 &&
     leituraDosDependentes.tipo === "valido" &&
     !erroDasVariaveis &&
-    !erroDaPensao
+    !erroDeLeituraDaPensao
       ? calcularSalario({
           salario: leituraDoSalario.centavos,
           variaveis: leituraDasVariaveis.tipo === "valido" ? leituraDasVariaveis.centavos : 0,
@@ -52,6 +55,14 @@ export function CalculadoraIrSalario({ nivelDoTitulo = 3 }: { nivelDoTitulo?: 2 
           pensaoAlimenticia: leituraDaPensao.tipo === "valido" ? leituraDaPensao.centavos : 0,
         })
       : null;
+  // Pensão maior que o que sobra depois do INSS e do IR daria líquido negativo
+  // (auditoria de 26/11/2026): vira erro no campo, sem resultado
+  const pensaoDemais = calculado !== null && calculado.liquido < 0;
+  const erroDaPensao =
+    erroDeLeituraDaPensao ??
+    (pensaoDemais ? "A pensão é maior que o salário depois do INSS e do imposto. Confira o valor." : undefined);
+  const resultado = pensaoDemais ? null : calculado;
+  const temErro = Boolean(erroDoSalario || erroDosDependentes || erroDasVariaveis || erroDaPensao);
   const quantidadeDeDependentes =
     leituraDosDependentes.tipo === "valido" ? leituraDosDependentes.quantidade : 0;
 
@@ -89,7 +100,7 @@ export function CalculadoraIrSalario({ nivelDoTitulo = 3 }: { nivelDoTitulo?: 2 
         />
       </div>
 
-      <details className="group mt-4 rounded-xl border border-border bg-white">
+      <details ref={detalhes} className="group mt-4 rounded-xl border border-border bg-white">
         <summary className="flex min-h-11 cursor-pointer items-center justify-between gap-3 px-4 py-3 text-sm font-medium [&::-webkit-details-marker]:hidden">
           Tenho outros descontos ou situações específicas
           <span aria-hidden="true" className="text-muted transition-transform group-open:rotate-180 motion-reduce:transition-none">
@@ -128,7 +139,9 @@ export function CalculadoraIrSalario({ nivelDoTitulo = 3 }: { nivelDoTitulo?: 2 
           <Resultado resultado={resultado} dependentes={quantidadeDeDependentes} />
         ) : (
           <p className="rounded-xl border border-dashed border-border bg-white px-4 py-5 text-sm text-muted">
-            Digite o seu salário bruto para ver o imposto de renda e o salário líquido de 2026.
+            {temErro && salario
+              ? "Corrija o campo marcado em vermelho para ver o resultado (confira também os outros descontos)."
+              : "Digite o seu salário bruto para ver o imposto de renda e o salário líquido de 2026."}
           </p>
         )}
         <p aria-live="polite" className="sr-only">
@@ -148,7 +161,7 @@ function Resultado({
   resultado: ResultadoDoSalario;
   dependentes: number;
 }) {
-  const isento = r.irrf.imposto === 0 && r.irrf.tipoDeReducao === "isencao";
+  const isento = r.irrf.imposto === 0;
   return (
     <div className="space-y-4">
       <div className="rounded-xl border border-border bg-white">
@@ -209,7 +222,7 @@ function Composicao({ resultado: r }: { resultado: ResultadoDoSalario }) {
             <span aria-hidden="true" className={`${parte.cor} h-3 w-3 shrink-0 rounded-sm`} />
             <span className="min-w-0">
               {parte.nome}: <span className="tabular-nums">{reais(parte.valor)}</span>{" "}
-              <span className="text-muted tabular-nums">({percentualPorMil(porMil(parte.valor))})</span>
+              <span className="text-muted tabular-nums">({porMil(parte.valor) === 0 ? "menos de 0,1%" : percentualPorMil(porMil(parte.valor))})</span>
             </span>
           </li>
         ))}
@@ -242,10 +255,10 @@ function MemoriaDeCalculo({
         <li>
           <strong>INSS por faixa</strong> (cada alíquota vale só para a parte do salário dentro da faixa):
           <ul className="mt-1 space-y-0.5">
-            {r.inss.faixas.map((faixa) => (
+            {faixasQueFecham(r).map((faixa) => (
               <li key={faixa.de} className="tabular-nums">
                 {percentualPorMil(faixa.aliquotaPorMil)} sobre {reais(faixa.ate - faixa.de)} (de{" "}
-                {reais(faixa.de)} a {reais(faixa.ate)}) = {reais(faixa.valor)}
+                {reais(faixa.de === 0 ? 0 : faixa.de + 1)} a {reais(faixa.ate)}) = {reais(faixa.valor)}
               </li>
             ))}
           </ul>
@@ -290,7 +303,9 @@ function MemoriaDeCalculo({
           {ir.tipoDeReducao === "isencao" &&
             `salário de até R$ 5.000, então a redução zera o imposto: − ${reais(ir.reducao)}.`}
           {ir.tipoDeReducao === "parcial" &&
-            `salário entre R$ 5.000,01 e R$ 7.350: R$ 978,62 − 0,133145 × ${reais(r.bruto)} = − ${reais(ir.reducao)}.`}
+            (ir.reducao === ir.impostoPelaTabela
+              ? `salário entre R$ 5.000,01 e R$ 7.350: a fórmula R$ 978,62 − 0,133145 × ${reais(r.bruto)} passa do imposto da tabela, então a redução fica limitada a ele (Lei 9.250/1995, art. 3º-A, § 1º): − ${reais(ir.reducao)}.`
+              : `salário entre R$ 5.000,01 e R$ 7.350: R$ 978,62 − 0,133145 × ${reais(r.bruto)} = − ${reais(ir.reducao)}.`)}
           {ir.tipoDeReducao === "nenhuma" && "salário acima de R$ 7.350, sem redução."} A
           redução olha o salário bruto, não a base.
         </li>
@@ -324,4 +339,14 @@ function resumoEmTexto(r: ResultadoDoSalario) {
     "Estimativa com as regras de 2026; o holerite pode variar com outras verbas e descontos.",
     "Calculado em https://direitodeverdade.com.br/calculadoras/imposto-de-renda",
   ].join("\n");
+}
+
+// O INSS total é a soma exata das faixas, arredondada uma vez; cada faixa arredondada à
+// parte pode somar 1 centavo a mais ou a menos. Para a memória de cálculo fechar com o
+// total, a diferença vai para a última faixa (auditoria de 27/11/2026).
+function faixasQueFecham(r: ResultadoDoSalario) {
+  const faixas = r.inss.faixas.map((f) => ({ ...f }));
+  const soma = faixas.reduce((total, f) => total + f.valor, 0);
+  if (faixas.length) faixas[faixas.length - 1].valor += r.inss.total - soma;
+  return faixas;
 }

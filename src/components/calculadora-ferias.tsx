@@ -2,8 +2,8 @@
 
 import Link from "next/link";
 import { usePathname } from "next/navigation";
-import { type ReactNode, useId, useState } from "react";
-import { Campo, Compartilhar, Escolha, estiloDoBotao, Linha } from "@/components/partes-da-calculadora";
+import { type ReactNode, useId, useRef, useState } from "react";
+import { Campo, Compartilhar, Escolha, estiloDoBotao, Linha, useAbrirSeTiverErro } from "@/components/partes-da-calculadora";
 import { lerQuantidade, lerReais, percentualPorMil, reais } from "@/lib/dinheiro";
 import { formatarData, lerData, somarDias } from "@/lib/trabalhista/datas.ts";
 import {
@@ -68,6 +68,8 @@ export function CalculadoraFerias({ nivelDoTitulo = 3 }: { nivelDoTitulo?: 2 | 3
   const Sub: Nivel = nivelDoTitulo === 2 ? "h3" : "h4";
   const endereco = `https://direitodeverdade.com.br${usePathname() ?? "/calculadoras/ferias"}`;
   const [f, setF] = useState(INICIAL);
+  const detalhes = useRef<HTMLDetailsElement>(null);
+  useAbrirSeTiverErro(detalhes);
   const mudar = (mudanca: Partial<Formulario>) => setF((atual) => ({ ...atual, ...mudanca }));
 
   const direito = diasPelasFaltas(Number(f.faltas));
@@ -227,7 +229,7 @@ export function CalculadoraFerias({ nivelDoTitulo = 3 }: { nivelDoTitulo?: 2 | 3
       </div>
       {erro("diasDeDescanso") && <p className="mt-2 text-sm text-red-700">{erro("diasDeDescanso")}</p>}
 
-      <details className="group mt-4 rounded-xl border border-border bg-white">
+      <details ref={detalhes} className="group mt-4 rounded-xl border border-border bg-white">
         <summary className="flex min-h-11 cursor-pointer items-center justify-between gap-3 px-4 py-3 text-sm font-medium [&::-webkit-details-marker]:hidden">
           Quero calcular com mais detalhes
           <span aria-hidden="true" className="text-muted transition-transform group-open:rotate-180 motion-reduce:transition-none">
@@ -313,7 +315,9 @@ export function CalculadoraFerias({ nivelDoTitulo = 3 }: { nivelDoTitulo?: 2 | 3
           <Resultado r={r} comparacao={comparacao} Sub={Sub} endereco={endereco} refazer={refazer} />
         ) : (
           <p className="rounded-xl border border-dashed border-border bg-white px-4 py-5 text-sm text-muted">
-            Digite o seu salário bruto para ver o valor das férias.
+            {(Object.values(errosDeLeitura).some(Boolean) || errosDoMotor.length) && f.salario
+              ? "Corrija o campo marcado em vermelho para ver o valor das férias (confira também os detalhes)."
+              : "Digite o seu salário bruto para ver o valor das férias."}
           </p>
         )}
         <p aria-live="polite" className="sr-only">
@@ -325,7 +329,7 @@ export function CalculadoraFerias({ nivelDoTitulo = 3 }: { nivelDoTitulo?: 2 | 3
 
       <p className="mt-4 text-xs leading-5 text-muted">
         Estimativa do recibo de férias de quem tem carteira assinada e recebe por mês, com as
-        tabelas de INSS e imposto de renda de 2026, revisadas em 21/10/2026. O valor pode
+        tabelas de INSS e imposto de renda de 2026, conferidas em 27/11/2026. O valor pode
         variar com convenção coletiva e verbas que a calculadora não conhece.{" "}
         <Link href="/calculadoras/ferias#como-esta-calculadora-funciona" className="text-accent underline underline-offset-2">
           Como calculamos
@@ -483,7 +487,8 @@ function Avisos({ r }: { r: ResultadoDasFerias }) {
       <>
         Período aquisitivo de {formatarData(r.periodo.inicio)} a {formatarData(r.periodo.fim)}. A
         empresa tem até {formatarData(r.periodo.concederAte)} para conceder essas férias. O prazo
-        para pedir a venda de dias desse período era {formatarData(r.periodo.pedirAbonoAte)}, 15
+        para pedir a venda de dias desse período {paraTextoDeHoje() <= formatarIso(r.periodo.pedirAbonoAte) ? "vai até" : "era"}{" "}
+        {formatarData(r.periodo.pedirAbonoAte)}, 15
         dias antes do fim do período aquisitivo.
       </>,
     );
@@ -667,8 +672,18 @@ function resumo(r: ResultadoDasFerias, endereco: string) {
     ...(r.diasVendidos ? [`Abono (${r.diasVendidos} dias) + 1/3: ${reais(r.ganhoDaVenda)}`] : []),
     ...(r.adiantamento13 ? [`1ª parcela do 13º: ${reais(r.adiantamento13)}`] : []),
     `INSS: ${reais(r.inss.total)} · Imposto de renda: ${reais(r.irrf.imposto)}`,
+    ...(r.pensao ? [`Pensão alimentícia: − ${reais(r.pensao)}`] : []),
+    ...(r.dobra ? [`Dias fora do prazo (pagos em dobro, à parte): ${reais(r.dobra)}`] : []),
     `Líquido: ${reais(r.liquido)}`,
     "Valores estimados; o recibo pode variar.",
     `Calculado em ${endereco}`,
   ].join("\n");
+}
+
+// Data de hoje e datas do motor em AAAA-MM-DD, para comparar como texto
+function paraTextoDeHoje() {
+  return new Date().toISOString().slice(0, 10);
+}
+function formatarIso(d: { ano: number; mes: number; dia: number }) {
+  return `${d.ano}-${String(d.mes).padStart(2, "0")}-${String(d.dia).padStart(2, "0")}`;
 }

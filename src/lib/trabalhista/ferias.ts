@@ -178,7 +178,11 @@ export function calcularFerias(entrada: EntradaDasFerias): ResultadoDasFerias | 
     if (!admissao) erros.push({ campo: "admissao", mensagem: "Informe uma data válida." });
   }
   let periodo: PeriodoDeFerias | null = null;
-  if (admissao && inicio) {
+  if (admissao && inicio && numeroDoDia(admissao) > numeroDoDia(inicio)) {
+    erros.push({ campo: "admissao", mensagem: "A admissão está depois do início das férias. Confira as datas." });
+  } else if (admissao && inicio && inicio.ano - admissao.ano > 60) {
+    erros.push({ campo: "admissao", mensagem: "Confira os anos da admissão e do início: o contrato passaria de 60 anos." });
+  } else if (admissao && inicio) {
     const completos = periodosCompletos(admissao, inicio);
     if (!completos.length) {
       erros.push({
@@ -225,6 +229,14 @@ export function calcularFerias(entrada: EntradaDasFerias): ResultadoDasFerias | 
   const valorDosDiasFora = dividirArredondando(remuneracao * diasForaDoPrazo, 30);
   const dobra = valorDosDiasFora + dividirArredondando(valorDosDiasFora, 3);
   const descontos = inss.total + irrf.imposto + pensao;
+  // Pensão maior que o que sobra depois do INSS e do IR daria líquido negativo
+  // (auditoria de 27/11/2026)
+  if (bruto - descontos < 0) {
+    return {
+      ok: false,
+      erros: [{ campo: "pensao", mensagem: "A pensão é maior que o valor das férias depois do INSS e do imposto. Confira o valor." }],
+    };
+  }
   const datas = inicio
     ? {
         inicio,

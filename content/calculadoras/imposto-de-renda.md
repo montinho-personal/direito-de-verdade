@@ -4,7 +4,7 @@ tituloSeo: "Calculadora imposto de renda 2026: salário mensal e CLT"
 descricao: "Calculadora de imposto de renda 2026: digite o salário e veja o IR do mês com a isenção até R$ 5 mil, o INSS e o salário líquido. Grátis e sem cadastro."
 categoria: trabalho
 publicadoEm: 2026-10-19
-atualizadoEm: 2026-10-19
+atualizadoEm: 2026-11-27
 faq:
   - pergunta: "Quem ganha até R$ 5 mil paga imposto de renda em 2026?"
     resposta: "Não. Desde janeiro de 2026, a redução da Lei nº 15.270/2025 zera o imposto de quem tem até R$ 5.000 de salário bruto por mês. Veja como funciona [a isenção do imposto de renda até R$ 5 mil](/artigos/isencao-imposto-de-renda-5-mil)."
@@ -64,7 +64,7 @@ O [exemplo oficial da Receita](https://www.gov.br/receitafederal/pt-br/assuntos/
 
 ## Quem ganha R$ 7 mil paga quanto de imposto de renda em 2026?
 
-**R$ 754,74 por mês**, sem dependentes. A conta: R$ 7.000 menos R$ 781,51 de INSS dá uma base de R$ 6.218,49; pela tabela, o imposto seria de R$ 801,35. A redução da nova lei é de R$ 978,62 − 0,133145 × R$ 7.000 = R$ 46,605, arredondada para R$ 46,61. O salário líquido, depois do INSS e do imposto, fica em R$ 5.463,75. Alguns sistemas de folha arredondam essa conta de outro jeito e chegam a R$ 754,75.
+**R$ 754,74 por mês**, sem dependentes. A conta: R$ 7.000 menos R$ 781,51 de INSS dá uma base de R$ 6.218,49; pela tabela, o imposto seria de R$ 801,35. A redução da nova lei é de R$ 978,62 − 0,133145 × R$ 7.000 = R$ 46,605, arredondada para R$ 46,61. O salário líquido, depois do INSS e do imposto, fica em R$ 5.463,75. Alguns sistemas de folha arredondam essa conta de outro jeito e chegam a R$ 754,75: com salário entre R$ 5.000,01 e R$ 7.350, essa diferença de 1 centavo entre a calculadora e o holerite pode aparecer em vários valores.
 
 ## Quem ganha R$ 8.000 paga quanto de imposto de renda?
 

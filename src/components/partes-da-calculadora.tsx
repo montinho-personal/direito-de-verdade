@@ -194,14 +194,19 @@ export function Compartilhar({
   aoCompartilhar?: (canal: "copiar" | "whatsapp" | "imprimir") => void;
 }) {
   const [aviso, setAviso] = useState("");
+  // "Resumo copiado" some quando o resumo muda (auditoria de 27/11/2026)
+  const [textoCopiado, setTextoCopiado] = useState("");
+  const avisoAtual = textoCopiado === texto ? aviso : "";
 
   async function copiar() {
     aoCompartilhar?.("copiar");
     try {
       await navigator.clipboard.writeText(texto);
       setAviso("Resumo copiado.");
+      setTextoCopiado(texto);
     } catch {
       setAviso("Não deu para copiar automaticamente. Selecione o resumo e copie.");
+      setTextoCopiado(texto);
     }
   }
 
@@ -228,7 +233,7 @@ export function Compartilhar({
         </button>
       </div>
       <p aria-live="polite" className="mt-2 text-sm text-muted">
-        {aviso}
+        {avisoAtual}
       </p>
     </div>
   );

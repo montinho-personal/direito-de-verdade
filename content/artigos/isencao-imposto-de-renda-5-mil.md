@@ -4,7 +4,7 @@ tituloSeo: "Isenção do IR até R$ 5 mil: tabela 2026 e calculadora"
 descricao: "Isenção do imposto de renda até R$ 5 mil vale desde janeiro de 2026, sobre o salário bruto. Veja a tabela, a redução até R$ 7.350 e calcule o seu imposto."
 categoria: trabalho
 publicadoEm: 2026-10-19
-atualizadoEm: 2026-10-19
+atualizadoEm: 2026-11-27
 faq:
   - pergunta: "Preciso fazer alguma coisa para ter a isenção?"
     resposta: "Não. Quem tem carteira assinada recebe a isenção direto na folha de pagamento: a empresa já aplica a redução ao calcular o imposto retido no salário. Confira no holerite se o desconto de imposto de renda sumiu ou diminuiu desde janeiro de 2026."
@@ -102,6 +102,6 @@ A lei também criou uma redução no **imposto anual**, que vale na declaração
 - **de R$ 60.000,01 a R$ 88.200:** redução que diminui até zerar;
 - **acima de R$ 88.200:** sem redução.
 
-Atenção a quem tem **mais de uma fonte de renda**: cada empresa calcula o imposto só sobre o que ela paga. Quem ganha R$ 4.000 em um emprego e R$ 3.000 em outro não tem desconto em nenhum dos dois, mas soma R$ 7.000 por mês e pode ter imposto a pagar na declaração anual.
+Atenção a quem tem **mais de uma fonte de renda**: cada empresa calcula o imposto só sobre o que ela paga. Quem ganha R$ 4.000 em um emprego e R$ 3.000 em outro não tem imposto retido em nenhum dos dois, mas soma R$ 7.000 por mês e pode ter imposto a pagar na declaração anual.
 
 Quem ganha mais de R$ 7.350 por mês continua com a tabela de sempre: para essa faixa, nada mudou.

@@ -119,3 +119,18 @@ test("férias: valores extremos", () => {
   assert.equal(calcularFerias({ salario: -100 }).ok, false);
   assert.equal(calcularFerias({ salario: Number.NaN }).ok, false);
 });
+
+test("férias: auditoria de 27/11/2026 (pensão, admissão depois do início, contrato longo demais)", () => {
+  // Pensão maior que o que sobra depois do INSS e do IR: erro no campo, nunca líquido negativo
+  const p = calcularFerias({ salario: 162100, pensao: 500000 });
+  assert.equal(p.ok, false);
+  assert.equal(p.erros[0].campo, "pensao");
+  // Admissão depois do início das férias: mensagem certa, não a dos 12 meses
+  const a = calcularFerias({ salario: 300000, admissao: "2030-01-01", inicio: "2026-12-07" });
+  assert.equal(a.ok, false);
+  assert.match(a.erros.find((e) => e.campo === "admissao")?.mensagem ?? "", /depois do início/);
+  // Mais de 60 anos de contrato: confira os anos
+  const l = calcularFerias({ salario: 300000, admissao: "1900-01-02", inicio: "2026-12-07" });
+  assert.equal(l.ok, false);
+  assert.match(l.erros[0].mensagem, /Confira os anos/);
+});
