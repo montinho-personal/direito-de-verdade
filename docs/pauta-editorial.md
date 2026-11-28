@@ -240,6 +240,16 @@ Pedido do Renato ("pode fazer os 3"): 1) jogo digital → seção nova em `/arti
 
 **Não recomendo:** artigo sobre o GTA 6 em si (preço, plataforma, mapa: fora do tema, nome de marca, concorrência de Rockstar, Xbox e grandes portais); jogos pelo nome (LoL, Roblox, Valorant, FNAF); filmes e livros homônimos ("Jogos Vorazes").
 
+## Candidatos vindos das buscas que ficaram de fora (28/11/2026, rotina diária)
+
+Da revisão de usucapião. Só pauta.
+
+**Vale um artigo:** nenhum novo com fonte e busca suficientes.
+
+**Não recomendo:** "usucapião de imóvel em inventário" (depende de entendimento de tribunal; nenhuma decisão do STJ lida); "quanto tempo demora" a usucapião extrajudicial (sem prazo oficial); "valor honorários RS" (tabela da OAB de outro estado; o site não indica preço de advogado); usucapião de veículo como página própria (a regra cabe em duas linhas do Código Civil e já entrou no artigo).
+
+**Cabe em página existente:** usucapião em inventário → doc do artigo de usucapião, se um tema repetitivo do STJ for lido; adjudicação compulsória extrajudicial (Lei 6.015, art. 216-B: comprei e o vendedor não passa a escritura) → anotada no doc de usucapião como possível pauta, se aparecer em busca.
+
 ## Candidatos vindos das buscas que ficaram de fora (25/11/2026, rotina diária)
 
 Das revisões de adicional de insalubridade e inventário. Só pauta.
@@ -505,7 +515,7 @@ Lembrar o Renato desta lista a cada entrega.
 | Adicional de insalubridade (`/artigos/adicional-de-insalubridade`), publicado em 01/11/2026 | Google: `adicional de insalubridade`; `insalubridade valor`; `insalubridade grau`; AnswerThePublic `insalubridade` | **revisado com o SerpApi em 25/11/2026** (rotina diária) |
 | Inventário (`/artigos/inventario`), publicado em 03/11/2026 | Google: `inventário`; `inventário prazo`; `inventário em cartório`; AnswerThePublic `inventário` | **revisado com o SerpApi em 25/11/2026** (rotina diária) |
 | Fiador de aluguel (`/artigos/fiador`), publicado em 03/11/2026 | Google: `fiador de aluguel`; `fiador pode perder a casa`; `como sair de fiador`; AnswerThePublic `fiador` | **revisado com o SerpApi em 26/11/2026** (rotina diária) |
-| Usucapião (`/artigos/usucapiao`), publicado em 03/11/2026 | Google: `usucapião`; `usucapião prazo`; `usucapião em cartório`; AnswerThePublic `usucapião` | **aguardando prints** (26/11/2026: SerpApi respondeu "Rate limit exceeded" duas vezes; revisão adiada, entra na rotina de amanhã) |
+| Usucapião (`/artigos/usucapiao`), publicado em 03/11/2026 | Google: `usucapião`; `usucapião extrajudicial` | **revisado com o SerpApi em 28/11/2026** (rotina diária) |
 | Barulho do vizinho (`/artigos/barulho-do-vizinho`), publicado em 04/11/2026 | Google: `barulho do vizinho`; `lei do silêncio horário`; `vizinho barulhento o que fazer`; AnswerThePublic `barulho vizinho` | **aguardando prints** |
 | Estabilidade da gestante (`/artigos/estabilidade-da-gestante`), publicado em 06/11/2026 | Google: `estabilidade gestante`; `demitida grávida o que fazer`; `grávida pode pedir demissão`; AnswerThePublic `estabilidade gestante` | **aguardando prints** |
 | Licença-maternidade (`/artigos/licenca-maternidade`), publicado em 06/11/2026 | Google: `licença maternidade`; `licença maternidade quantos dias`; `salário maternidade valor`; AnswerThePublic `licença maternidade` | **aguardando prints** |
